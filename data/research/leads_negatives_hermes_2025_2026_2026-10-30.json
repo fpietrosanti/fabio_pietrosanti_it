@@ -1,0 +1,77 @@
+[
+ {
+  "source": "GDELT doc API",
+  "query": "\"Fabio Pietrosanti\" / \"Pietrosanti\" since 20250101",
+  "result": "first call rate-limited; second returned empty {} (no articles)"
+ },
+ {
+  "source": "WebSearch (general)",
+  "query": "\"Fabio Pietrosanti\" 2025 / intervista 2026 / Hermes 2026 / GlobaLeaks 2026 / AI privacy / Tor / voto elettronico",
+  "result": "only profiles, known items (Codice 27/06/2025, The Record 2024 reposts, IRPA 2025, TNW 2026) and old pages; nothing new"
+ },
+ {
+  "source": "SIO/WhatsApp fake-app coverage April 2026",
+  "query": "TechCrunch 2026/04/01, The Record, Cybernews, GadgetReview, stateofsurveillance.org, abit.ee, theadvisermagazine",
+  "result": "opened, no 'Pietrosanti' (only TNW, already known, quotes him)"
+ },
+ {
+  "source": "Paragon coverage 2025-2026",
+  "query": "Sky TG24 2026-03-05 caso Paragon, matricedigitale substack 2025-06-22, gabrielecarrer substack 2025-02-12, Fanpage/Milano Finanza results",
+  "result": "no Pietrosanti"
+ },
+ {
+  "source": "WordPress REST search (posts since 2025-01-01, 'Pietrosanti')",
+  "query": "redhotcyber, valigiablu, key4biz, cybersecurity360, agendadigitale, guerredirete, startmag, ictsecuritymagazine",
+  "result": "only cybersecurity360 'Ciao, Carola' (2026-06-03, Fabio among signatories) - already in media/decisions (excluded by Fabio 2026-09-18). Others empty. irpimedia/ilfatto 401, ilpost/open/fanpage 403, domani/wired/dday 404 (not searchable this way)"
+ },
+ {
+  "source": "Google News RSS + Bing News RSS",
+  "query": "\"Fabio Pietrosanti\" when:2y, Pietrosanti + Hermes/GlobaLeaks/whistleblowing/hacker/spyware/privacy",
+  "result": "only known Codice RaiPlay 2025; homonyms (Matteo, Pietro Pietrosanti); RomaToday 06/05/2025 'Allagamento a Borghesiana' and 19/08/2025 'Guasto alle tubature al Nuovo Salario' mention a 'Fabio Pietrosanti' - not opened (romatoday 403), almost certainly a homonym/local-news context, unresolved"
+ },
+ {
+  "source": "Radio Radicale speaker page soggetti/175095",
+  "query": "2025-2026 schede",
+  "result": "no new 2025-26 items for him; 772927/772932/772939 (30.10.2025) are sidebar 'one year ago' items, not his"
+ },
+ {
+  "source": "iTunes Search API podcasts",
+  "query": "Fabio Pietrosanti / Pietrosanti GlobaLeaks / hacker / biohacker",
+  "result": "no episodes dated 2025-2026"
+ },
+ {
+  "source": "YouTube search",
+  "query": "Fabio Pietrosanti / Pietrosanti spyware / whistleblowing / Hermes Center",
+  "result": "only known Codice 27/06/2025 upload; rest old or unrelated"
+ },
+ {
+  "source": "Conference programmes",
+  "query": "39C3 schedule.json (api.events.ccc.de), WHY2025 schedule.json, e-privacy XXXVI/XXXVII/XXXIX pages, Hackmeeting hackit25/hackit26 schedule, IJF programme 2025 and 2026 pages, IJF speaker page (last session 2018), FOSDEM 2025/2026 speakers, Privacy Symposium home, ESC 2026 blog (lucaberton)",
+  "result": "no Pietrosanti/naif. RightsCon 2025/2026 sched 404; ihc.camp and endsummercamp.org unreachable/no data"
+ },
+ {
+  "source": "Event pages via WebSearch",
+  "query": "RightsCon/CPDP/Privacy Symposium/Internet Festival 2025; Hackmeeting/ESC/IHC/Linux Day 2025; e-privacy 2025-2026",
+  "result": "no Pietrosanti"
+ },
+ {
+  "source": "Radio/podcast WebSearch",
+  "query": "raiplaysound/radio24/Radio3 2026; podcast privacy sorveglianza 2025-2026",
+  "result": "nothing"
+ },
+ {
+  "source": "Voto elettronico 2026 articles",
+  "query": "partitaiva.it 2026-03-28, Milano Finanza 2026-02-16",
+  "result": "no Pietrosanti"
+ },
+ {
+  "source": "DuckDuckGo lite",
+  "query": "6 queries",
+  "result": "bot-check page returned; stopped (not bypassed)"
+ },
+ {
+  "source": "The Innovation Group speaker page",
+  "query": "theinnovationgroup.it/speakers/fabio-pietrosanti (modified 2025-07-23)",
+  "result": "bio page already in media.json; no 2025 event identified"
+ }
+]

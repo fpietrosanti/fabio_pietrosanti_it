@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1258**; già processate: **1437**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1072** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1193**
+- Voci in `data/media.json`: **1264**; già processate: **1443**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1078** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1195**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **120**
+- 🎬 Video/audio scaricato (+ pagina): **124**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **10**
 
@@ -44,14 +44,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 77 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 98 | 3 | 2 | 0 | 0 | 0 | 2 |
-| 2020 | 177 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 98 | 5 | 2 | 0 | 0 | 0 | 2 |
+| 2020 | 177 | 12 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 60 | 18 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 49 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 51 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1192,7 +1192,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want ](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/) · copia: `2019/a361e5b7452c` (Web Archive 20200808) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube) — [495. Bitcoin con il Morto: come un Exchange ha perso 150 milioni di dollari](https://www.youtube.com/watch?v=5t6duBMAWJ8) · copia: `2019/5de6ac791f2b` (Web Archive 20220825 · video locale `media.mp4` (57 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube) — [516. Malware illegali o no? I Captatori Informatici con Stefano Aterno](https://www.youtube.com/watch?v=o3da6mpThyk) · copia: `2019/1f89045ffd68` (Web Archive 20250519 · video locale `media.mp4` (98 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
 - **2020** · pr-foundation.org — [La nostra Fondazione contribuisce al convegno online "Gli Anticorpi del Futuro" del Foglio](http://www.pr-foundation.org/la-nostra-fondazione-contribuisce-al-convegno-online-gli-anticorpi-del-futuro-del-foglio-quotidiano/) · copia: `2020/2a22f167518d` (Web Archive 20210619) · licenza: terzi
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
@@ -1381,6 +1383,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · YouTube (Associazione Copernicani) — [Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma? (#DialoghiCoperni](https://www.youtube.com/watch?v=Payk7MfIeFs) · copia: `2020/fcb7a9dd8940` (live · video locale `media.mp4` (454 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet con Matteo Flora — [752. Manicomio Rousseau - Voto Elettronico, MoVimento e altre follie](https://www.youtube.com/watch?v=ejXlfoMZ_4k) · copia: `2020/c072e99210fa` (live · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · YouTube (Eumans_archive) — [Condivisi. Covid19: quali dati per quali diritti?](https://www.youtube.com/watch?v=uLamuswTq8g) · copia: `2020/53390ce3962a` (Web Archive 20200415 · video locale `media.mp4` (755 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · Ciao Internet - Matteo Flora (YouTube) — [763. Il Ransomware che uccide](https://www.youtube.com/watch?v=yFtCpv10NwQ) · copia: `2020/9f33ed3c78de` (Web Archive 20220820 · video locale `media.mp4` (64 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
 - **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2021/b94e84acade8` (Web Archive 20220119) · licenza: terzi
 - **2021** · Ethan Lou, Once a Bitcoin Miner: Scandal — [Once a Bitcoin Miner](https://archive.org/details/oncebitcoinminer0000loue) · copia: `2021/69694a319f01` (live) · licenza: terzi
@@ -1551,6 +1554,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Istituto per le politiche dell'innovazio — [Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico](https://www.youtube.com/watch?v=SeQD83Nl1eE) · copia: `2022/bdaa73d44b93` (Web Archive 20221013 · video locale `media.mp4` (613 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · YouTube — SOS LOGistica - Associazione L — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 ](https://www.youtube.com/watch?v=bPXna2KujUE) · copia: `2022/0a221d505d08` (live · video locale `media.mp4` (286 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · copia: `2022/f9712cf38150` (Web Archive 20220513 · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Ciao Internet - Matteo Flora (YouTube) — [1005. I GATTINI del CAPITANO, ma anche MPS e le affermazioni di Pasquale Marchese e VOTO E](https://www.youtube.com/watch?v=hlOsk_MStbU) · copia: `2022/a1eaa622069b` (live · video locale `media.mp4` (73 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [L54. [LIVE] La Diretta di Ciao Internet - 1.04.2022](https://www.youtube.com/watch?v=s7II5CAR2po) · copia: `2022/1e1ee2d947ce` (Web Archive 20220401 · video locale `media.mp4` (206 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/) · copia: `2023/df9cad7c9e11` (Web Archive 20230517) · licenza: terzi
 - **2023** · costabile.net — CyberCoach (Gerardo Cost — [CyberCoach — elenco video, tra cui «Evoluzione dell'hacking con Fabio Pietrosanti (aka Nai](https://costabile.net/cibercoach/) · copia: `2023/4309631c2a3d` (Web Archive 20230607) · licenza: terzi
@@ -1610,6 +1614,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · digital-commons-edic.eu — [Advisory Board — Digital Commons EDIC](https://digital-commons-edic.eu/governance/advisory-board/) · copia: `2026/de0fc850e973` (live) · licenza: terzi
 - **2026** · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/) · copia: `2026/35ab140a4d05` (live) · licenza: terzi
 - **2026** · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON ](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/) · copia: `2026/192cae336d30` (live) · licenza: terzi
+- **2026** · Gappsy (software directory) — [GlobaLeaks Review, Pricing & Features](https://gappsy.com/tools/globaleaks/) · copia: `2026/041889ec2d15` (Web Archive 20260922) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
 - **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria
@@ -1623,6 +1628,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd) · copia: `2026/0604b9f21c7c` (chrome-dom) · licenza: terzi
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · quenube.com — [WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabrica](https://quenube.com/whatsapp-notifica-a-200-usuarios-que-instalaron-una-aplicacion-falsa-creada-por-el-fabricante-italiano-de-software-espia-sio/) · copia: `2026/3a68c7a2b44c` (live) · licenza: terzi
+- **2026** · RomHack Camp 2026 (romhack.io schedule) — [MXMap Italia: National Observatory for Digital Sovereignty](https://romhack.io/romhack-schedule/) · copia: `2026/bce994af1656` (live) · licenza: terzi
 - **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
 - **2026** · WeChat — 时光派 (official) — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%80%85) · copia: `2026/99f125583bcf` (live) · licenza: terzi

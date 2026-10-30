@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2026-10-02",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "RomHack Camp 2026 (romhack.io schedule)",
+  "title": "MXMap Italia: National Observatory for Digital Sovereignty",
+  "url": "https://romhack.io/romhack-schedule/",
+  "language": "en",
+  "role": "speaker",
+  "note": "Alternate listing of the already-known RomHack talk GHQJFC (cfp.romhack.io): schedule JSON on page lists [\"GHQJFC\",\"MXMap Italia: National Observatory for Digital Sovereignty\",... [\"Fabio Pietrosanti (naif)\"], 2026-10-02 15:10-15:30, en. Verified by curl+grep 2026-10-30. Same event as known item: add only as extra source URL.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2026-11-14",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "SFSCON 2026 - Digital Independence Day track page",
+  "title": "Digital Independence Day 2026 track: MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies",
+  "url": "https://www.sfscon.it/tracks/digital-independence-day-2026/",
+  "language": "en",
+  "role": "speaker",
+  "note": "Track page lists 'MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies' - 'Fabio Pietrosanti (naif)' linking to /speakers/fabio-pietrosanti-naif/. Same talk as known sfscon.it/talks/... item (also in /programs/2026/). Verified by curl+grep 2026-10-30. Extra source URL, not a new event.",
+  "verified": true,
+  "known": false
+ }
+]

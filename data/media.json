@@ -13262,6 +13262,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-02-07",
+  "year": 2019,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "495. Bitcoin con il Morto: come un Exchange ha perso 150 milioni di dollari",
+  "url": "https://www.youtube.com/watch?v=5t6duBMAWJ8",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Sottotitoli automatici (job ~/ciaointernet_subs sul server), 00:02:53-00:03:05: Flora scherza su Fabio che gli passa davanti durante la registrazione («siete concordi che naif è una persona orribile… Fabio naif»). Menzione di passaggio, non ospite.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ciaointernet_subs_2026-10-30"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-02-08",
   "year": 2019,
   "type": "radio",
@@ -13465,6 +13482,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-03-25",
+  "year": 2019,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "516. Malware illegali o no? I Captatori Informatici con Stefano Aterno",
+  "url": "https://www.youtube.com/watch?v=o3da6mpThyk",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Sottotitoli 00:03:42-00:05:40: Stefano Aterno ricorda che nel 2011 lesse a Flora «e Naif» la massima della Cassazione sul caso Virruso e che «Matteo e Naif» gli spiegarono come funzionava il captatore informatico. Citato da Aterno, non ospite.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ciaointernet_subs_2026-10-30"
   ],
   "on_old_site": false
  },
@@ -16999,6 +17033,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-09-18",
+  "year": 2020,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "763. Il Ransomware che uccide",
+  "url": "https://www.youtube.com/watch?v=yFtCpv10NwQ",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Sottotitoli 00:00:19: aneddoto di Flora su una cena a Cafferata «insieme a naif» e Alessio Pennasilico in cui si parlava di scenari futuribili (ransomware che uccide). Menzione di passaggio.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ciaointernet_subs_2026-10-30"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-01",
   "year": 2020,
   "type": "mentioned",
@@ -20055,6 +20106,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-05-06",
+  "year": 2022,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "1005. I GATTINI del CAPITANO, ma anche MPS e le affermazioni di Pasquale Marchese e VOTO ELETTRONICO",
+  "url": "https://www.youtube.com/watch?v=hlOsk_MStbU",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Sottotitoli 00:10:21: «ho ripreso il tweet di Fabio Pietrosanti, naif» sul voto elettronico (segmento sul voto elettronico). Citato.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ciaointernet_subs_2026-10-30"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-05-13",
   "year": 2022,
   "type": "video",
@@ -21742,6 +21810,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "Gappsy (software directory)",
+  "title": "GlobaLeaks Review, Pricing & Features",
+  "url": "https://gappsy.com/tools/globaleaks/",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Fetched via curl 2026-10-30, page contains: 'The project was started in December 2010 by Fabio Pietrosanti and shared with the transparency and hacktivist community'. Undated tool-directory review (search engine labels it 2026); low value, auto-generated-style software listing.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_hermes_2025_2026_2026-10-30"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026",
   "year": 2026,
   "type": "project",
@@ -22467,6 +22552,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-10-14-1020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-10-02",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "RomHack Camp 2026 (romhack.io schedule)",
+  "title": "MXMap Italia: National Observatory for Digital Sovereignty",
+  "url": "https://romhack.io/romhack-schedule/",
+  "language": "en",
+  "role": "speaker",
+  "note": "Alternate listing of the already-known RomHack talk GHQJFC (cfp.romhack.io): schedule JSON on page lists [\"GHQJFC\",\"MXMap Italia: National Observatory for Digital Sovereignty\",... [\"Fabio Pietrosanti (naif)\"], 2026-10-02 15:10-15:30, en. Verified by curl+grep 2026-10-30. Same event as known item: add only as extra source URL.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mxmap_sovranita_2026-10-30"
   ],
   "on_old_site": false
  },

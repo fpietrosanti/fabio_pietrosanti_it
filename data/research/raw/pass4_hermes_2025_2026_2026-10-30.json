@@ -1,0 +1,15 @@
+[
+ {
+  "date": null,
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "Gappsy (software directory)",
+  "title": "GlobaLeaks Review, Pricing & Features",
+  "url": "https://gappsy.com/tools/globaleaks/",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Fetched via curl 2026-10-30, page contains: 'The project was started in December 2010 by Fabio Pietrosanti and shared with the transparency and hacktivist community'. Undated tool-directory review (search engine labels it 2026); low value, auto-generated-style software listing.",
+  "verified": true,
+  "known": false
+ }
+]

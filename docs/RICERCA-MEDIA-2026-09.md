@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1737**; dopo deduplica: **1258**
+- Risultati grezzi dalle ricerche: **1744**; dopo deduplica: **1264**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1203**
-- Verificati aprendo la pagina: **1187**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1209**
+- Verificati aprendo la pagina: **1193**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 273, tweet 132, Talk 103, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,18 +37,18 @@ Per tipo (nuovi): Menzionato 273, tweet 132, Talk 103, Video 81, Citato 78, Post
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
 | 2018 | 0 | 90 | 90 |
-| 2019 | 0 | 82 | 82 |
-| 2020 | 0 | 185 | 185 |
+| 2019 | 0 | 84 | 84 |
+| 2020 | 0 | 186 | 186 |
 | 2021 | 0 | 94 | 94 |
-| 2022 | 0 | 74 | 74 |
+| 2022 | 0 | 75 | 75 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 16 | 16 |
-| 2026 | 0 | 48 | 48 |
+| 2026 | 0 | 50 | 50 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 48 voci, 48 nuove
+## 2026 — 50 voci, 50 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -62,6 +62,8 @@ Anni senza nessun risultato: nessuno
   Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
 - 🆕 **2026-10-02** · Talk · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/)  
   verificato 2026-10-14: sessione del 02/10/2026, 20 min, speaker "Fabio Pietrosanti (naif)" (pagina speaker /speaker/MKKXMV/); talk su mxmap.it e osservatorio.mxmap.it
+- 🆕 **2026-10-02** · Talk · RomHack Camp 2026 (romhack.io schedule) — [MXMap Italia: National Observatory for Digital Sovereignty](https://romhack.io/romhack-schedule/)  
+  Alternate listing of the already-known RomHack talk GHQJFC (cfp.romhack.io): schedule JSON on page lists ["GHQJFC","MXMap Italia: National Observatory for Digital Sovereignty",... ["Fabio Pietrosanti (naif)"], 2026-10-02 15:10-15:30, en. Verified by curl+grep 2026-10-30. Same event as known item: add only as extra source URL.
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
 - 🆕 **2026-09-21** · Menzionato · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039)  
@@ -146,6 +148,8 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
 - 🆕 **2026** · Menzionato · digital-commons-edic.eu — [Advisory Board — Digital Commons EDIC](https://digital-commons-edic.eu/governance/advisory-board/)  
   verified via live; context: …ers. Members Thierry Fraudet Lea Gimpel Giacomo Grassi Franziska Heine Piotr P. Karwasz Amandine Le Pape Michiel Leenaars Catharina Maracke François Pellegrini Fabio Pietrosanti Paolo Vecchi Thierry Fraudet Thierry Fraud…
+- 🆕 **2026** · Menzionato · Gappsy (software directory) — [GlobaLeaks Review, Pricing & Features](https://gappsy.com/tools/globaleaks/)  
+  Fetched via curl 2026-10-30, page contains: 'The project was started in December 2010 by Fabio Pietrosanti and shared with the transparency and hacktivist community'. Undated tool-directory review (search engine labels it 2026); low value, auto-generated-style software listing.
 
 ## 2025 — 16 voci, 16 nuove
 
@@ -252,7 +256,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 74 voci, 74 nuove
+## 2022 — 75 voci, 75 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -344,6 +348,8 @@ Anni senza nessun risultato: nessuno
   MonitoraPA civic action; with Marco Ciurcina
 - 🆕 **2022-05-13** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871)  
   Audio version; MonitoraPA
+- 🆕 **2022-05-06** · Video · Ciao Internet - Matteo Flora (YouTube) — [1005. I GATTINI del CAPITANO, ma anche MPS e le affermazioni di Pasquale Marchese e VOTO ELETTRONICO](https://www.youtube.com/watch?v=hlOsk_MStbU)  
+  Sottotitoli 00:10:21: «ho ripreso il tweet di Fabio Pietrosanti, naif» sul voto elettronico (segmento sul voto elettronico). Citato.
 - 🆕 **2022-04-01** · Video · Ciao Internet - Matteo Flora (YouTube) — [L54. [LIVE] La Diretta di Ciao Internet - 1.04.2022](https://www.youtube.com/watch?v=s7II5CAR2po)  
   Flora a ~00:10:00: «il pesce d'aprile l'abbiamo fatto oggi con Stefano Zanero e con Fabio Pietrosanti», annuncio-scherzo di una startup per il voto elettronico nazionale con «un board scientifico in cui svetta l'expertise di Fabio Pietrosanti» (~00:10:59). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.
 - 🆕 **2022-04-01** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022](https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341)  
@@ -594,7 +600,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 185 voci, 185 nuove
+## 2020 — 186 voci, 186 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -698,6 +704,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@rellapdrella @DavidPuente @openrousseau @jaromil che dici, che potrà essere, lato @github sites?» Wayback capture 20201002132732 (id_) di twitter.com/fpietrosanti/status/1311708529502363650.
 - 🆕 **2020-10-01** · tweet · Twitter — [I problemi del voto elettronico negli USA](https://twitter.com/fpietrosanti/status/1311737383365357570)  
   Testo: «[ITA] I problemi del voto elettronico negli USA, come ogni elezione, dimostrano quanto questo sia pericoloso   /cc @e_pagliarini https://t.co/KxPgK7pyak» Wayback capture 20201006193011 (id_) di twitter.com/fpietrosanti/status/1311737383365357570.
+- 🆕 **2020-09-18** · Video · Ciao Internet - Matteo Flora (YouTube) — [763. Il Ransomware che uccide](https://www.youtube.com/watch?v=yFtCpv10NwQ)  
+  Sottotitoli 00:00:19: aneddoto di Flora su una cena a Cafferata «insieme a naif» e Alessio Pennasilico in cui si parlava di scenari futuribili (ransomware che uccide). Menzione di passaggio.
 - 🆕 **2020-09-16** · code repository · GitHub - organizzazione decidiamo — [decidiamo/decidiamo-website](https://github.com/decidiamo/decidiamo-website)  
   Sito della comunità DECIDIAMO (decidiamo.it, poi decidiamo.org). Contributore GitHub fpietrosanti (2 commit del 25/09/2020: link ai gruppi Telegram). Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.
 - 🆕 **2020-09-16** · code repository · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-mobile](https://github.com/decidiamo/openrousseau-mobile)  
@@ -967,7 +975,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 82 voci, 82 nuove
+## 2019 — 84 voci, 84 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1095,6 +1103,8 @@ Anni senza nessun risultato: nessuno
   FUORI PERIODO (2019, dopo il voto PE del 16 aprile sulla direttiva whistleblowing). Lettera aperta di giornalisti europei; tra i firmatari «Fabio Pietrosanti, Hermes Center for Transparency and Digital Human Rights (GlobaLeaks)». Verificato live 2026-10-13.
 - 🆕 **2019-03-28** · Libro · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Jacopo Iacoboni (ISBN 9788858137079). Snippet on IT experts criticising Rousseau: '... Pietrosanti, da Andrea Stroppa a Paolo Attivissimo. Sono estremamente rari ... esperti di informatica che sostengano il contrario. Ma il problema non è solo la piattaforma Rousseau ...'. First name cut off by the snippet; context (IT-security critics of Rousseau) identifies Fabio, not Paolo Pietrosanti.
+- 🆕 **2019-03-25** · Video · Ciao Internet - Matteo Flora (YouTube) — [516. Malware illegali o no? I Captatori Informatici con Stefano Aterno](https://www.youtube.com/watch?v=o3da6mpThyk)  
+  Sottotitoli 00:03:42-00:05:40: Stefano Aterno ricorda che nel 2011 lesse a Flora «e Naif» la massima della Cassazione sul caso Virruso e che «Matteo e Naif» gli spiegarono come funzionava il captatore informatico. Citato da Aterno, non ospite.
 - 🆕 **2019-03-13** · Audizione · Dipartimento della Funzione Pubblica - incontro 'FOIA: Che cosa non ha funzionato?' (via Hermes Center) — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/)  
   Text of Hermes' contribution to the government FOIA review meeting, signed Fabio Pietrosanti (Wayback) Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22).
 - 🆕 **2019-03-13** · Citato · Il Fatto Quotidiano (print, 'In edicola') — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) _(non verificato)_  
@@ -1117,6 +1127,8 @@ Anni senza nessun risultato: nessuno
   Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09
 - 🆕 **2019-02-08** · Radio · Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711)  
   Facial recognition segment: 'Enrico Pagliarini ne parla con Fabio Pietrosanti, presidente e cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali.' Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/terapie-digitali--accordo-google-e-confindustria--riconoscimento-facciale-210510-gSLAKr6F1C 301-redirects here.
+- 🆕 **2019-02-07** · Video · Ciao Internet - Matteo Flora (YouTube) — [495. Bitcoin con il Morto: come un Exchange ha perso 150 milioni di dollari](https://www.youtube.com/watch?v=5t6duBMAWJ8)  
+  Sottotitoli automatici (job ~/ciaointernet_subs sul server), 00:02:53-00:03:05: Flora scherza su Fabio che gli passa davanti durante la registrazione («siete concordi che naif è una persona orribile… Fabio naif»). Menzione di passaggio, non ospite.
 - 🆕 **2019-01-17** · Menzionato · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/)  
   verified via wayback; context: …, senza considerare che in Occidente diventa sempre più difficile ottenere riservatezza o effettuare una ricerca non filtrata da algoritmi», spiega a La Stampa Fabio Pietrosanti, fondatore del Centro Hermes per la traspa…
 - 🆕 **2019-01-17** · article · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/)  

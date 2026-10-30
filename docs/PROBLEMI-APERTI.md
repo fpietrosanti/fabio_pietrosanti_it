@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-29** (1249 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-30** (1264 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -178,6 +178,19 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-tervicies. 2026-10-30
+- Copie delle 6 voci nuove: **tutte ottenute** (4 video Ciao Internet in locale, gappsy.com, programma RomHack). **Risolto**:
+  il programma RomHack risultava 🟡 perché la capture Web Archive del 01/10 è precedente all'inserimento del talk → copia
+  rifatta dal sito live, nome presente.
+- **Ritentati** (`--retry-failed`): invariati i 10 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo, Class Life,
+  PrivateWave EN/ES, deck Foggia, notizieoggi ×2, coinage) e i 🟡 noti (rassegna PrivateWave, ritagli Repubblica/Il Fatto a
+  pagamento, programmi IFF 2017/2019 senza relatori, Secunia su Packet Storm e Sogou anti-bot): motivi invariati.
+- **Domande per te:**
+  (a) I 2 pezzi **RomaToday** del 06/05/2025 e del 19/08/2025 con un «Fabio Pietrosanti» (non letti, sito bloccato): sei tu?
+  (b) Hai fatto interviste o articoli su **MXMap / sovranità digitale** o sulla campagna per l'**Aeroporto di Latina** che non
+  trovo online (nessuna testata li riprende)?
+  (c) Restano valide le domande del 29/10, 28/10 e 27/10.
 
 ### B0-duovicies. 2026-10-29
 - Copie delle 4 voci nuove: **tutte ottenute** (Corriere 2001 e kill-9.it e CLUSIT dal Web Archive con il nome presente;

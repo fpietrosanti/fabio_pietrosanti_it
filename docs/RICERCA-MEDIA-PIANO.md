@@ -497,6 +497,35 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-30 (run programmata «ricerca profonda»)
+- **1264 voci** in `data/media.json` (+6 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio,
+  video TimePie): raccolti gli esiti dei job del 29/10 e lanciati 3 agenti sui **progetti e temi 2025–2026**, mai coperti da una
+  passata dedicata (`pass4_mxmap_sovranita`, `pass4_hermes_2025_2026`, `pass4_biohacking_latina_2026`; negativi in
+  `data/research/leads_negatives_*_2026-10-30.json`, ~150 ricerche).
+- **Job `~/wb_personal1997` finito** (7.266 capture kill-9.it/degrazia.it/clusit/smau/naif.itapac.net): solo i 4 risultati
+  già registrati (CEGOS 2001, CLUSIT 2002, Corriere 26/01/2001, lista Defcon su kill-9.it = mailing list, non conta).
+  Watchdog tolto dal crontab.
+- **Sottotitoli Ciao Internet** (job ancora in corso: 1.563/2.096 video, dal più recente al più vecchio; mancano ~530
+  puntate 2016-2019) → **+4 menzioni verificate**: #495 «Bitcoin con il Morto» (07/02/2019, «Fabio naif» ti passa
+  davanti in registrazione), #516 con Stefano Aterno (25/03/2019: nel 2011 «Matteo e Naif» gli spiegarono il captatore
+  del caso Virruso), #763 «Il Ransomware che uccide» (18/09/2020, cena a Cafferata «insieme a naif»), #1005 (06/05/2022,
+  «ho ripreso il tweet di Fabio Pietrosanti, naif» sul voto elettronico). Gli altri «naif» sono l'aggettivo.
+- **MXMap / Osservatorio / spesa ICT / WB Monitor 2025-26 → nessuna copertura di terzi**: solo il programma RomHack
+  Camp 2026 (romhack.io, seconda fonte del talk del 02/10) e la pagina di track SFSCON 2026 (confluita nel talk noto).
+  ~22 testate italiane, podcast, YouTube, stampa estera: nulla.
+- **Hermes/whistleblowing/spyware 2025-26 → +1 voce minore**: scheda GlobaLeaks su gappsy.com («started in December 2010 by
+  Fabio Pietrosanti», senza data). Negativi: Paragon 2025-26, SIO (solo TNW già noto), 39C3, WHY2025, e-privacy, Hackmeeting,
+  IJF, FOSDEM 2025/26, Radio Radicale, GDELT. Pista: 2 pezzi RomaToday (06/05 e 19/08/2025) con un «Fabio Pietrosanti»
+  (sito bloccato, probabilmente omonimo).
+- **Biohacking (non cinese) e Latina 2025-26 → 0 voci**: tutte le occorrenze locali 2025-26 sono l'omonimo ciclista di Velletri;
+  nessuna testata nomina te nella campagna per l'Aeroporto di Latina (Il Caffè 06/02/2025 e 25/03/2026 letti).
+- **Resta**: ultime ~530 puntate Ciao Internet (job sul server, `~/ciaointernet_subs`, giudicare `hits.jsonl` a mano);
+  LatinaToday (CAPTCHA, non aggirato), alessioporcu.it, RomaToday 2025 (bloccati); Corriere/Repubblica/Wired/Vanity Fair/GQ
+  (serve il Chrome di Fabio); programmi CPDP/ITASEC/Cybertech/Codemotion/Linux Day 2026; Web Archive offline in parte della
+  sessione.
+- **Prossima voce lavorabile:** chiudere il giro Ciao Internet (2016-2019, il periodo in cui Fabio e Flora erano più vicini);
+  poi proporre a Fabio la chiusura delle voci «Lacuna» e dei temi 2025-26 (ricerca automatica esaurita).
+
 ## Note sessione 2026-10-29 (run programmata «ricerca profonda»)
 - **1249 voci** in `data/media.json` (+4 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio,
   video TimePie): raccolti gli esiti dei job del 28/10 e lanciati 3 agenti (`pass4_milano2001_vaticana`,

@@ -1,0 +1,137 @@
+[
+ {
+  "source": "WebSearch",
+  "query": "mxmap.it Pietrosanti email PA Microsoft Google",
+  "result": "only Nexa mailing-list post (excluded: mailing list) and Forum Italia thread (forum, excluded); no press"
+ },
+ {
+  "source": "WebSearch",
+  "query": "\"Pietrosanti\" sovranità digitale PA email 2026",
+  "result": "no press article naming him"
+ },
+ {
+  "source": "WebSearch",
+  "query": "\"MXMap Italia\" OR \"mxmap.it\" sovranità digitale comuni",
+  "result": "only project sites, Nexa list, Swiss mxmap coverage (lavx.hu, wikidocs Korean) without his name"
+ },
+ {
+  "source": "WebSearch",
+  "query": "\"osservatorio.mxmap.it\"",
+  "result": "only own GitHub repos/sites, Forum Italia, LinkedIn (own profile)"
+ },
+ {
+  "source": "WebSearch (site-restricted: key4biz, redhotcyber, agendadigitale, corcom, cybersecurity360, ilpost, valigiablu, guerredirete, punto-informatico, startmag, forumpa, hwupgrade, open, ilfatto, domani, agi, ansa, fanpage, irpimedia, innovationpost, lentepubblica, sole24ore)",
+  "query": "Pietrosanti mxmap sovranità digitale posta PA; mxmap Italia email enti pubblici",
+  "result": "no 2025-2026 coverage of mxmap/osservatorio; only already-known 2022 MonitoraPA pieces (key4biz, agendadigitale)"
+ },
+ {
+  "source": "curl agendadigitale.eu",
+  "query": "software-e-patate / sovranita-digitale-litalia-e-la-piu-attendista",
+  "result": "no Pietrosanti/mxmap"
+ },
+ {
+  "source": "curl forumpa.it",
+  "query": "sovranita-digitale-nella-pa-il-vero-plus-e-poter-cambiare-fornitore",
+  "result": "no Pietrosanti/mxmap"
+ },
+ {
+  "source": "curl news.lavx.hu",
+  "query": "MXmap Swiss municipalities article",
+  "result": "Swiss mxmap only, no Pietrosanti"
+ },
+ {
+  "source": "curl engineered.at",
+  "query": "italian-public-schools-surrender-email-to-microsoft (2020)",
+  "result": "no Pietrosanti/MonitoraPA"
+ },
+ {
+  "source": "TMA 2026 (IFIP) paper",
+  "query": "Municipalytics: Mapping the Digital Infrastructure PDF",
+  "result": "mentions Italy, not mxmap.it or Pietrosanti"
+ },
+ {
+  "source": "curl linuxday.it/2026 + pasqualepillitteri.it Linux Day 2026",
+  "query": "Pietrosanti/mxmap in Linux Day 2026 programme",
+  "result": "not found on national page; local event pages not individually checked"
+ },
+ {
+  "source": "curl sustainableitc.substack.com #98, decidiamo.com proposal 30, sovranita-digitale-2026.nextwork360.tech, sovranita-digitale.it",
+  "query": "Pietrosanti/mxmap",
+  "result": "not mentioned"
+ },
+ {
+  "source": "curl zenodo.org/records/20055513",
+  "query": "Ecumenical Digital Sovereignty paper",
+  "result": "no Pietrosanti/mxmap"
+ },
+ {
+  "source": "diggita.com posts 1158182, 1162027",
+  "query": "SFSCON DI.Day announcements",
+  "result": "no Pietrosanti (social aggregator anyway)"
+ },
+ {
+  "source": "iTunes Search API",
+  "query": "mxmap; pietrosanti sovranità; Fabio Pietrosanti",
+  "result": "no 2025-2026 episodes; only old known episodes (MonitoraPA 2022, Agenda Podcast 2020)"
+ },
+ {
+  "source": "YouTube search",
+  "query": "mxmap italia; pietrosanti sovranità digitale; fabio pietrosanti mxmap",
+  "result": "only known RomHack video GyNpnJ5Q2ew"
+ },
+ {
+  "source": "Mastodon API (mastodon.uno, mastodon.social)",
+  "query": "mxmap",
+  "result": "no results (unauthenticated search returns empty)"
+ },
+ {
+  "source": "DuckDuckGo HTML / Bing via curl",
+  "query": "\"mxmap.it\", mxmap pietrosanti",
+  "result": "blocked/empty responses"
+ },
+ {
+  "source": "WebSearch",
+  "query": "\"Osservatorio Nazionale Sovranità Digitale\" Camera dei Deputati",
+  "result": "no Camera presentation found (not yet happened)"
+ },
+ {
+  "source": "WebSearch",
+  "query": "Pietrosanti spesa ICT PA analisi 2026; analisi spesa ICT extra-UE PNRR mxmap",
+  "result": "no coverage of analisi-spesa-ict"
+ },
+ {
+  "source": "WebSearch",
+  "query": "WB Monitor / whistleblowing canali PA scanner Pietrosanti 2026 (2 queries)",
+  "result": "no coverage of whistleblowing-monitor-italia"
+ },
+ {
+  "source": "WebSearch",
+  "query": "MonitoraPA 2025 Pietrosanti",
+  "result": "no 2025-2026 MonitoraPA coverage"
+ },
+ {
+  "source": "WebSearch (EN/DE)",
+  "query": "MXmap Italy email providers; mxmap Italien Behörden Pietrosanti",
+  "result": "no foreign-language coverage naming him"
+ },
+ {
+  "source": "WebSearch",
+  "query": "Copernicani/Nexa/ILS mxmap osservatorio; Pietrosanti programma 2026 festival convegno",
+  "result": "nothing beyond mailing list and own GitHub issue #49"
+ },
+ {
+  "source": "osservatorio repo content/it/press + news",
+  "query": "press coverage links",
+  "result": "press kit only; external links only RomHack (known) and Cigref studies"
+ },
+ {
+  "source": "Nexa mailing list thread PCR7MTDF... 'BETA: Osservatorio Nazionale Sovranità Digitale'",
+  "query": "his own announcement",
+  "result": "excluded: mailing-list post by Fabio"
+ },
+ {
+  "source": "forum.italia.it/t/.../49033",
+  "query": "BETA Osservatorio thread",
+  "result": "excluded: forum post by Fabio"
+ }
+]
