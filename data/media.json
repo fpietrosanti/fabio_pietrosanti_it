@@ -8473,6 +8473,23 @@
   "date": "2015-02-23",
   "year": 2015,
   "type": "quoted",
+  "outlet": "la Sentinella del Canavese",
+  "title": "“Datagate”, violate milioni di Sim card - la Sentinella del Canavese",
+  "url": "https://ricerca.gelocal.it/lasentinella/archivio/lasentinella/2015/02/23/ivrea-datagate-violate-milioni-di-sim-card-36.html",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …lutare il possibile impatto sulla sicurezza derivante dalle azioni di spionaggio del GCHQ nei confronti dei sistemi di sicurezza forniti dalla Gemalto», spiega Fabio Pietrosanti, presidente del Centro Hermes per la Trasp…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-30-2100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-02-23",
+  "year": 2015,
+  "type": "quoted",
   "outlet": "Wired Italia",
   "title": "Gli USA contro il Dark Web. Ma i terroristi preferiscono la Rete normale",
   "url": "https://www.wired.it/internet/web/2015/02/23/gli-usa-contro-il-dark-web-ma-i-terroristi-preferiscono-la-rete-normale/",

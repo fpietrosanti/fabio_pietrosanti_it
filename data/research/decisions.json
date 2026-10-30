@@ -1182,6 +1182,14 @@
   {
    "url": "https://forum.italia.it/t/beta-osservatorio-nazionale-sovranita-digitale-della-pubblica-amministrazione-mxmap-italia/49033",
    "reason": "2026-10-30: post di Fabio sul forum Developers Italia (18/06/2026, annuncio beta MXMap): i post di forum non sono pubblicazioni"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/authentication-service-security/164783773",
+   "reason": "2026-10-30: pagina SlideShare di terzi; il suo nome compare solo nel riquadro «presentazioni correlate» (WHYMCA 2010 Mobile Security), non è una sua pubblicazione"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/cell-phone-viruses-security-presentation/576246",
+   "reason": "2026-10-30: pagina SlideShare di terzi; il suo nome compare solo nel riquadro «presentazioni correlate» (WHYMCA 2010 Mobile Security), non è una sua pubblicazione"
   }
  ],
  "override": [

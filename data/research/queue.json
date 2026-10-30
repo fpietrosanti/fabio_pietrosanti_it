@@ -4324,51 +4324,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Bluetooth OR \"Bluesnarfing\" OR \"Bluebug\" 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 13
   },
   {
    "query": "\"Fabio Pietrosanti\" phishing OR spam OR \"furto di identità\" 2005 OR 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" BlackBerry OR \"cellulare intercettato\" OR \"SIM\" 2009 OR 2010",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 11
   },
   {
    "query": "\"Fabio Pietrosanti\" \"data retention\" OR \"conservazione dei dati\" 2007 OR 2008",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 12
   },
   {
    "query": "\"Pietrosanti\" naif \"Moby\" OR \"Smau\" OR \"Infosecurity\" 2002 OR 2004",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 15
   },
   {
    "query": "\"Fabio Pietrosanti\" whistleblowing PA OR comuni OR scuole 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Microsoft OR Google \"Cloud Act\" pubblica amministrazione",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 5
   },
   {
    "query": "\"Fabio Pietrosanti\" longevità OR biohacking OR \"HackingBiology\" 2025 OR 2026",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 21:00",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Huawei OR 5G sicurezza OR spionaggio",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"IT-alert\" OR \"allerta pubblica\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" LeakBox OR IrpiMedia OR \"giornalismo investigativo\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" DeepSeek OR ChatGPT privacy OR dati",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Tor\" \"exit node\" OR \"nodo di uscita\" OR \"Tor2web\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" TrueCrypt OR \"cifratura del disco\" OR \"crittografia del disco\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" VoIP OR Skype intercettazione 2006 OR 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" hacker intervista 2011 OR 2012",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
   }
  ],
  "history": [
@@ -5440,6 +5504,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (anni deboli 1998-99, 2000, 2003, 2006, 2023-26), chiave localStorage gq20261030c_N: nessun robot check, 78 risultati, 66 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (hyperkitty nexa, lists.linux.it, autistici, seclists) e pagine indice (dicorinto, puntosicuro page-20, radioradicale soggetti, pr-foundation, poul, romhack speaker/schedule, fosdem events, partecipa, gijc13). 37 verificati: 22 già in archivio, 3 nome assente, 12 'OK' di cui 9 già in exclude; aggiunti a exclude slideshare wiretapping (nome solo nei correlati) e forum.italia.it annuncio beta MXMap 18/06/2026 (post di forum). Nuova voce: slide del lightning talk MXMap Italia a RomHack Camp 2026 (repo CyberSaiyanIT/rhc2026-resources, slides.pdf in copia). Voci 1264→1265. Copie offline: 1197 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (Bluetooth 2004-05, phishing 2005-06, BlackBerry/SIM 2009-10, data retention 2007-08, Moby/Smau 2002-04, whistleblowing PA 2025, Cloud Act PA, longevità/biohacking 2025-26)."
+  },
+  {
+   "date": "2026-10-30 21:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Bluetooth 2004-05, phishing 2005-06, BlackBerry/SIM 2009-10, data retention 2007-08, Moby/Smau 2002-04, whistleblowing PA 2025, Cloud Act PA, longevità/biohacking 2025-26), chiave localStorage gq20261030d_N: nessun robot check, 86 risultati, 73 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mail-archive sikurezza (mailing list), 9 inserzioni eBay e pagine indice/home (pr-foundation, dicorinto, alessandrorodolfi, radioradicale soggetti, partecipa, poul, monitora-pa, infosecurity.ch, biohack.it, hackingbiology news, personaldemocracy). 39 verificati: 22 già in archivio, 5 nome assente, 1 shell JS (Instagram); 11 'OK' di cui 9 già in exclude (commenti Schneier, mirror HandWiki, DIG IT, arXiv HTML Cryptocat, Unità 1997 'naif' aggettivo, slide correlate); aggiunte a exclude 2 slide SlideShare di terzi (nome solo nei correlati). Nuova voce: la Sentinella del Canavese 23/02/2015 'Datagate, violate milioni di Sim card' (citazione su Gemalto/GCHQ come presidente Hermes). Voci 1265→1266. Copie offline: 1198 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (Huawei/5G, IT-alert, LeakBox/IrpiMedia, DeepSeek/ChatGPT, Tor exit/Tor2web, TrueCrypt, VoIP/Skype 2006-08, interviste hacker 2011-12)."
   }
  ]
 }
