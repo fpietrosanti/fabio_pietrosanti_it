@@ -1,0 +1,110 @@
+GlobaLeaks Review 2026: Features, Pricing and Alternatives 
+
+ Home ·
+ Tools ·
+ Team Chat · GlobaLeaks
+
+ GlobaLeaks Review, Pricing & Features
+
+ GlobaLeaks review 2026: how this open-source Tor-based whistleblowing platform works, its security model, pricing (its free), key features, pros, cons and…
+
+ Researched and fact-checked by Bartu Cavusoglu · Updated July 18, 2026
+
+ Visit GlobaLeaks Website → 
+
+ Category Team Chat 
+
+ Pricing Open Source, from Free (self-hosted) 
+
+ Verified Not yet 
+
+ Last updated July 18, 2026 
+
+ Founded 2011 
+
+ Headquarters Italy 
+
+ Free Plan Web App API Open Source Self-Hosted 
+
+ Overview
+
+ GlobaLeaks is free, open-source software for building secure and anonymous whistleblowing or reporting channels. Instead of signing up for a hosted service, an organization downloads and deploys the GlobaLeaks application on its own server or a partner's managed infrastructure, then configures reporting workflows through an administrative setup wizard.
+
+ The project was started in December 2010 by Fabio Pietrosanti and shared with the transparency and hacktivist community, with a first working prototype released in September 2011. It has since been developed and maintained by the Hermes Center for Transparency and Digital Human Rights, an Italian nonprofit, and is recognized by the Digital Public Goods Alliance as a Digital Public Good.
+
+ Key Features
+
+ GlobaLeaks runs as a Tor Onion Service (v3) alongside standard HTTPS access, encrypts submissions and attachments end to end using its own encryption protocol, and enforces TLS 1.3 with automatic Let's Encrypt certificates. It deliberately avoids logging IP addresses, device fingerprints, or browser metadata, and does not embed third-party trackers or persistent cookies.
+
+ Administrators can define multiple independent reporting channels with custom intake questionnaires, assign recipients and reviewers by role, and communicate two-way with a source through secure messaging without ever learning that source's identity. The interface supports dozens of languages, making it usable for multinational NGOs, newsrooms and enterprises.
+
+ Pricing
+
+ GlobaLeaks itself carries no license fee: it is free, open-source software that any organization can self-host, audit and modify. There is no SaaS subscription tier structure because GlobaLeaks is not sold as a hosted product by its maintainers.
+
+ The real cost of adoption is infrastructure and operations: server hosting, systems-administration time, and optionally paid implementation, hardening or managed-hosting support from third-party consultancies or partners in the Hermes Center's network.
+
+ Key Features
+
+ Tor Onion Service support — Deploy as a Tor v3 Onion Service alongside HTTPS so whistleblowers can submit reports with strong resistance to network-level identification or censorship.
+
+ End-to-end encrypted submissions — Reports, file attachments and follow-up messages between source and recipient are encrypted using the GlobaLeaks encryption protocol.
+
+ Configurable intake questionnaires — Administrators build multi-step forms per reporting channel without writing code, tailoring the intake process to each department or use case.
+
+ Anonymous two-way messaging — Recipients can ask follow-up questions and sources can respond through a secure channel without ever revealing the source's real identity.
+
+ Multi-channel, multi-tenant setup — One GlobaLeaks instance can host several independent reporting channels for different departments, brands or programs.
+
+ No IP or metadata logging — The platform is built to avoid storing source IP addresses, device or browser fingerprints, and persistent cookies.
+
+ Automatic HTTPS with Let's Encrypt — TLS 1.3 certificates are provisioned and renewed automatically, giving deployments an SSL Labs A+ configuration out of the box.
+
+ Multi-language interface — The platform ships with translations covering dozens of languages for both administrators and reporting sources.
+
+ Pros & Cons
+
+ Pros
+ Free, open-source and fully self-hostable with no licensing cost
+ Strong, audited anonymity and encryption model built around Tor and TLS 1.3
+ Flexible enough to serve journalism, NGO, and corporate compliance use cases from one codebase
+ Transparent development and public funding disclosure build trust for high-risk deployments
+ Recognized as a Digital Public Good, which helps with adoption by public-sector and NGO bodies
+
+ Cons
+ Requires the adopting organization to handle hosting, patching and uptime themselves
+ No official hosted or managed SaaS offering directly from the maintainers
+ Smaller ecosystem and commercial support network than proprietary whistleblowing platforms
+ Setup and hardening still require some systems-administration expertise to do safely
+ Development pace depends on grant funding rather than predictable commercial revenue
+
+ Pricing
+
+ Community (self-hosted) 
+Free N/A
+
+ Frequently Asked Questions
+
+ Is GlobaLeaks free to use? Yes. GlobaLeaks is free, open-source software. There is no license fee; the only costs are the hosting infrastructure and administration time an organization spends running its own instance.
+
+ Who maintains GlobaLeaks? GlobaLeaks is developed and maintained by the Hermes Center for Transparency and Digital Human Rights, an Italian nonprofit, with funding from grants such as the Open Technology Fund rather than commercial investors.
+
+ Does GlobaLeaks require Tor to work? No, but it supports and recommends running as a Tor Onion Service in addition to standard HTTPS access, since Tor offers stronger resistance to network-level identification and censorship for sensitive sources.
+
+ Is GlobaLeaks suitable for corporate whistleblower compliance, not just journalism? Yes. Beyond investigative journalism, organizations use GlobaLeaks to meet whistleblower-protection regulations, such as the EU Whistleblowing Directive, by offering an internal, confidential reporting channel.
+
+ What data does GlobaLeaks store about a whistleblower? The platform is designed to avoid logging IP addresses, browser or device fingerprints, and persistent cookies, and it follows a strict data-retention policy that deletes submission data as soon as policy allows.
+
+ How is GlobaLeaks different from SecureDrop? Both are open-source, security-focused whistleblowing platforms, but GlobaLeaks emphasizes an admin-configurable, multi-channel model with a guided setup wizard, making it approachable for compliance and NGO deployments as well as journalism leak drops.
+
+ Related Tools
+
+ ryver 
+
+ troopmessenger 
+
+ AnyCable 
+
+ Centrifugo 
+
+ Chitchatter

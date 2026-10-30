@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.youtube.com/watch?v=hlOsk_MStbU",
+ "fetched_url": "https://www.youtube.com/watch?v=hlOsk_MStbU",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 1449893,
+ "sha256": "20b3bd9b999f12277eb24fa64dc486f7bf123e82c144aa8dc447402064549338",
+ "name_found": false,
+ "fetched_at": "2026-10-30T01:49:23+00:00"
+}

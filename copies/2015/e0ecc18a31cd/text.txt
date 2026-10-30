@@ -1,0 +1,812 @@
+Pirate’s Night Show - VoidSec 
+
+ Blog 
+
+ About 
+
+ Contact 
+
+ Advisories 
+
+ Blog 
+
+ About 
+
+ Contact 
+
+ Advisories 
+
+ Back to Blog 
+
+ Share this post
+
+ Facebook 
+ Twitter 
+ LinkedIn 
+ Email 
+ VK 
+ Reddit 
+
+ WhatsApp 
+
+ Pirate’s Night Show
+
+ Posted by: voidsec 
+
+ Post Date: October 6, 2015 
+
+ voidsec 2022-01-17T14:21:57+01:00 
+ Reading Time: < 1 minute
+
+ Cos’è il Pirate’s Night Show?
+
+ Il PNS è un talkshow innovativo che tratta di sicurezza informatica, mescola interessi e scambi d’opinioni, completamente in italiano e con un format particolare e interattivo e ogni puntata porta con sé grandi ospiti. Puntiamo a fare formazione, sopratutto tecnica ma anche divulgativa riguardante gli aspetti della sicurezza informatica e dell’hacking (nel senso innovatore del termine appunto).
+
+ Uno show innovativo con un format particolare e interattivo, con grandi ospiti ed esperti del settore. 
+
+ Per saperne di più… 
+
+ Elenco degli episodi passati
+
+ Cyber Security , intervista a Paolo Stagno (aka VoidSec )
+
+ Informatica Forense con Nanni Bassetti 
+
+ Cyber Crime con Alessio Pennasilico ( =mayhem= )
+
+ Advanced Persistent Threat  con Paolo Stagno 
+
+ Tor, Privacy & Anonimato con Fabio Pietrosanti ( naif )
+
+ Web Application Penetration Test con Paolo Stagno 
+
+ Web Application Penetration Test #2 con Paolo Stagno 
+
+ Security & Forensic Italian OS con Nanni Bassetti , Raffaele Forte , Andrea Draghetti e Lorenzo Faletra 
+
+ Hack This – Metasploit Vs Metasploitable con Gabriele Biondo 
+
+ Automated Malware Analysis con Stefano Zanero ( raistolo )
+
+ Back to Blog 
+
+ Related Posts 
+
+ May 20, 2026 
+
+ CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox 
+
+ Read More 
+
+ May 12, 2026 
+
+ AI Vulnerability Research and the Fuzzer Era Déjà Vu: Why the Numbers Are Only Half the Story 
+
+ Read More 
+
+ December 2, 2025 
+
+ Home-made LLM Recipe 
+
+ Read More 
+
+ January 18, 2024 
+
+ OffSec EXP-401 Advanced Windows Exploitation (AWE) – Course Review 
+
+ Read More 
+
+ June 15, 2023 
+
+ Reverse Engineering Terminator aka Zemana AntiMalware/AntiLogger Driver 
+
+ Read More 
+
+ January 18, 2023 
+
+ SANS SEC760: Advanced Exploit Development for Penetration Testers – Review 
+
+ Read More 
+
+ December 22, 2022 
+
+ Naughty List Challenge Write-Up – X-MAS CTF 
+
+ Read More 
+
+ December 1, 2022 
+
+ Windows Exploitation Challenge – Blue Frost Security 2022 (Ekoparty) 
+
+ Read More 
+
+ July 21, 2022 
+
+ Browser Exploitation: Firefox Integer Overflow – CVE-2011-2371 
+
+ Read More 
+
+ January 20, 2022 
+
+ Windows Drivers Reverse Engineering Methodology 
+
+ Read More 
+
+ December 16, 2021 
+
+ Merry Hackmas: multiple vulnerabilities in MSI’s products 
+
+ Read More 
+
+ October 27, 2021 
+
+ Driver Buddy Reloaded 
+
+ Read More 
+
+ September 29, 2021 
+
+ Crucial’s MOD Utility LPE – CVE-2021-41285 
+
+ Read More 
+
+ August 25, 2021 
+
+ Homemade Fuzzing Platform Recipe 
+
+ Read More 
+
+ July 28, 2021 
+
+ Root Cause Analysis of a Printer’s Drivers Vulnerability CVE-2021-3438 
+
+ Read More 
+
+ May 19, 2021 
+
+ Reverse Engineering & Exploiting Dell CVE-2021-21551 
+
+ Read More 
+
+ May 5, 2021 
+
+ CVE‑2021‑1079 – NVIDIA GeForce Experience Command Execution 
+
+ Read More 
+
+ April 28, 2021 
+
+ Malware Analysis: Ragnarok Ransomware 
+
+ Read More 
+
+ April 14, 2021 
+
+ Exploiting System Mechanic Driver 
+
+ Read More 
+
+ March 17, 2021 
+
+ Fuzzing: FastStone Image Viewer & CVE-2021-26236 
+
+ Read More 
+
+ February 24, 2021 
+
+ Software Testing Methodologies & Approaches to Fuzzing 
+
+ Read More 
+
+ January 11, 2021 
+
+ Announcing ECG v2.0 
+
+ Read More 
+
+ November 18, 2020 
+
+ Tivoli Madness 
+
+ Read More 
+
+ October 7, 2020 
+
+ .NET Grey Box Approach: Source Code Review & Dynamic Analysis 
+
+ Read More 
+
+ August 11, 2020 
+
+ CVE-2020-1337 – PrintDemon is dead, long live PrintDemon! 
+
+ Read More 
+
+ May 13, 2020 
+
+ A tale of a kiosk escape: ‘Sricam CMS’ Stack Buffer Overflow 
+
+ Read More 
+
+ April 8, 2020 
+
+ Tabletopia: from XSS to RCE 
+
+ Read More 
+
+ April 2, 2020 
+
+ SLAE – Assignment #7: Custom Shellcode Crypter 
+
+ Read More 
+
+ April 2, 2020 
+
+ SLAE – Assignment #6: Polymorphic Shellcode 
+
+ Read More 
+
+ March 26, 2020 
+
+ SLAE – Assignment #5: Metasploit Shellcode Analysis 
+
+ Read More 
+
+ March 17, 2020 
+
+ SLAE – Assignment #4: Custom shellcode encoder 
+
+ Read More 
+
+ March 13, 2020 
+
+ Perform a Nessus scan via port forwarding rules only 
+
+ Read More 
+
+ February 20, 2020 
+
+ SLAE – Assignment #3: Egghunter 
+
+ Read More 
+
+ January 22, 2020 
+
+ SLAE – Assignment #2: Reverse TCP Shell 
+
+ Read More 
+
+ January 9, 2020 
+
+ SLAE – Assignment #1: Bind TCP Shell 
+
+ Read More 
+
+ December 23, 2019 
+
+ SCADA, A PLC’s Story 
+
+ Read More 
+
+ October 2, 2019 
+
+ SolarPuttyDecrypt 
+
+ Read More 
+
+ July 17, 2019 
+
+ Windows Kernel Debugging & Exploitation Part1 – Setting up the lab 
+
+ Read More 
+
+ June 19, 2019 
+
+ State of Industrial Control Systems (ICS) in Italy 
+
+ Read More 
+
+ June 12, 2019 
+
+ Announcing ECG’s Closed Beta 
+
+ Read More 
+
+ April 24, 2019 
+
+ Rubyzip insecure ZIP handling & Metasploit RCE (CVE-2019-5624) 
+
+ Read More 
+
+ November 16, 2018 
+
+ A Drone Tale 
+
+ Read More 
+
+ August 30, 2018 
+
+ Telegram Secret Chat Bug 
+
+ Read More 
+
+ July 20, 2018 
+
+ Instrumenting Electron Apps for Security Testing 
+
+ Read More 
+
+ May 18, 2018 
+
+ GraphQL – Security Overview and Testing Tips 
+
+ Read More 
+
+ March 27, 2018 
+
+ VPN Leak 
+
+ Read More 
+
+ December 30, 2017 
+
+ Uncommon Phishing and Social Engineering Techniques 
+
+ Read More 
+
+ September 18, 2017 
+
+ Analysis of the Joomla RCE (CVE-2015-8562) 
+
+ Read More 
+
+ June 30, 2017 
+
+ Descending into Cybercrime 
+
+ Read More 
+
+ May 30, 2017 
+
+ VoidSec CTF: Secure the Flag – Writeup 
+
+ Read More 
+
+ March 27, 2017 
+
+ Cerber Dropper Ransomware Analysis 
+
+ Read More 
+
+ January 13, 2017 
+
+ Hacking the DJI Phantom 3 
+
+ Read More 
+
+ November 3, 2016 
+
+ HackInBo 2016 – Winter Edition 
+
+ Read More 
+
+ July 3, 2016 
+
+ Cybersecurity in Italy 
+
+ Read More 
+
+ May 19, 2016 
+
+ The Curse of the Antivirus Solution 
+
+ Read More 
+
+ May 8, 2016 
+
+ Hackinbo Lab 
+
+ Read More 
+
+ May 4, 2016 
+
+ ImageTragick PoC 
+
+ Read More 
+
+ April 21, 2016 
+
+ Phorum – Full Disclosure 
+
+ Read More 
+
+ April 19, 2016 
+
+ LinkedIn – CSV Excel formula injection 
+
+ Read More 
+
+ April 13, 2016 
+
+ Avactis – Full Disclosure 
+
+ Read More 
+
+ April 7, 2016 
+
+ Simulazione di un Penetration Test 
+
+ Read More 
+
+ March 1, 2016 
+
+ Backdoored OS 
+
+ Read More 
+
+ March 1, 2016 
+
+ Backdoored OS 
+
+ Read More 
+
+ January 28, 2016 
+
+ Keybase 
+
+ Read More 
+
+ January 28, 2016 
+
+ KeyBase 
+
+ Read More 
+
+ December 22, 2015 
+
+ Aethra Botnet 
+
+ Read More 
+
+ December 22, 2015 
+
+ Aethra Botnet 
+
+ Read More 
+
+ November 20, 2015 
+
+ Tecniche Evasive #2 
+
+ Read More 
+
+ November 16, 2015 
+
+ WineHat 2015 
+
+ Read More 
+
+ October 26, 2015 
+
+ Reportage: HackInBo 2015 – Winter Edition 
+
+ Read More 
+
+ October 15, 2015 
+
+ DiamondFox 
+
+ Read More 
+
+ October 2, 2015 
+
+ Pirate’s Night Show 
+
+ Read More 
+
+ October 1, 2015 
+
+ Deep Web & Hacking Communities 
+
+ Read More 
+
+ September 24, 2015 
+
+ Tecniche Evasive 
+
+ Read More 
+
+ September 21, 2015 
+
+ HackInBo 2015 – Winter Edition 
+
+ Read More 
+
+ July 2, 2015 
+
+ Secure The Flag 
+
+ Read More 
+
+ June 18, 2015 
+
+ Minds.com – Full Disclosure 
+
+ Read More 
+
+ June 17, 2015 
+
+ HTML5 Injection 
+
+ Read More 
+
+ May 28, 2015 
+
+ Reportage: HackInBo 2015 – Lab Edition 
+
+ Read More 
+
+ April 21, 2015 
+
+ Host Header Injection 
+
+ Read More 
+
+ April 12, 2015 
+
+ Android (Un)Security Guidelines 
+
+ Read More 
+
+ April 2, 2015 
+
+ HackInBo Lab Edition 
+
+ Read More 
+
+ March 11, 2015 
+
+ Panoramica degli Attacchi 2014 
+
+ Read More 
+
+ March 7, 2015 
+
+ Report: Ghost Blogging Platform 
+
+ Read More 
+
+ February 11, 2015 
+
+ News: BackBox Cloud 
+
+ Read More 
+
+ February 9, 2015 
+
+ News: Droidcon 2015 
+
+ Read More 
+
+ February 1, 2015 
+
+ GHOST, Analisi Tecnica 
+
+ Read More 
+
+ January 11, 2015 
+
+ Botnet 
+
+ Read More 
+
+ December 8, 2014 
+
+ Report: Yahoo Messenger 
+
+ Read More 
+
+ December 3, 2014 
+
+ Poodle 
+
+ Read More 
+
+ October 30, 2014 
+
+ NewPosThings Hacked & Exposed 
+
+ Read More 
+
+ October 14, 2014 
+
+ Reportage: HackInBo 2014 – Winter Edition 
+
+ Read More 
+
+ September 30, 2014 
+
+ HackInBo Winter Edition 
+
+ Read More 
+
+ September 27, 2014 
+
+ Shellshock/BashBug 
+
+ Read More 
+
+ September 22, 2014 
+
+ Trend Watch: Drop Hack 
+
+ Read More 
+
+ August 12, 2014 
+
+ WhatsHack 
+
+ Read More 
+
+ August 5, 2014 
+
+ Time to Upgrade 
+
+ Read More 
+
+ June 25, 2014 
+
+ Attacchi DDoS: Hit and Run 
+
+ Read More 
+
+ May 29, 2014 
+
+ TrueCrypt, mistero d’autore 
+
+ Read More 
+
+ May 16, 2014 
+
+ Reportage: HackInBo 2014 
+
+ Read More 
+
+ April 12, 2014 
+
+ Reportage: Deftcon 2014 
+
+ Read More 
+
+ April 11, 2014 
+
+ Heartbleed Bug 
+
+ Read More 
+
+ April 8, 2014 
+
+ Windows XP 
+
+ Read More 
+
+ March 25, 2014 
+
+ HackInBo 2014 
+
+ Read More 
+
+ March 20, 2014 
+
+ Phishing Coinbase bitcoin 
+
+ Read More 
+
+ March 14, 2014 
+
+ Ransomware Virus Killer 
+
+ Read More 
+
+ March 2, 2014 
+
+ Deftcon 2014 
+
+ Read More 
+
+ February 14, 2014 
+
+ Droidcon Italy 2014 
+
+ Read More 
+
+ February 1, 2014 
+
+ Bulletproof Hosting 
+
+ Read More 
+
+ January 8, 2014 
+
+ Black Hat SEO 
+
+ Read More 
+
+ November 24, 2013 
+
+ Report: McDonald’s Wi-fi Login System 
+
+ Read More 
+
+ October 27, 2013 
+
+ Linux Day: Penetration Test con Kali Linux 
+
+ Read More 
+
+ October 18, 2013 
+
+ Trend Watch: DDoS 
+
+ Read More 
+
+ October 11, 2013 
+
+ Skype Social Engineering 
+
+ Read More 
+
+ October 10, 2013 
+
+ Linux Day 2013 – Torino 
+
+ Read More 
+
+ October 2, 2013 
+
+ Reportage: HackInBo 2013 
+
+ Read More 
+
+ September 9, 2013 
+
+ Analisi di un Dropper 
+
+ Read More 
+
+ September 1, 2013 
+
+ Hackinbo 
+
+ Read More 
+
+ August 3, 2013 
+
+ Symantec Cyber Readiness Challenge 
+
+ Read More 
+
+ Blog 
+
+ Advisories 
+
+ Vulnerability Disclosure Policy 
+
+ About 
+
+ Contact Me 
+
+ Mastodon 
+
+ Follow Me
+
+ Twitter 
+ RSS 
+ Youtube 
+ Linkedin 
+ Reddit 
+ Telegram 
+
+ Copyright © Paolo Stagno 2012-2024, All Rights Reserved. 
+
+ This website uses cookies in order to improve your experience. By using this website, you agree to our use of cookies and other technologies to process your data. I Agree

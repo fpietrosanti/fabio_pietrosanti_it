@@ -1,0 +1,869 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (function(){
+ window.ecsSchemeConfig={systemAuto:false,darkLogoUrl:""};
+ var m=document.cookie.match(/(?:^|;\s*)ecs_color_scheme=([^;]+)/);
+ if(m&&m[1]==='alt'){
+ document.documentElement.setAttribute('data-ecs-scheme','alt');
+ }else if(!m&&false){
+ if(window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches){
+ document.documentElement.setAttribute('data-ecs-scheme','alt');
+ }
+ }
+ })();
+ 
+ 
+ 
+ RomHack - Schedule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/romhack.io\/romhack-schedule\/","url":"https:\/\/romhack.io\/romhack-schedule\/","name":"RomHack - Schedule","isPartOf":{"@id":"https:\/\/romhack.io\/#website"},"primaryImageOfPage":{"@id":"https:\/\/romhack.io\/romhack-schedule\/#primaryimage"},"image":{"@id":"https:\/\/romhack.io\/romhack-schedule\/#primaryimage"},"thumbnailUrl":"https:\/\/romhack.io\/wp-content\/uploads\/2026\/02\/romhack-logo-wordpress-featured.png","datePublished":"2026-08-02T12:55:24+00:00","dateModified":"2026-10-27T07:52:11+00:00","description":"The full RomHack Camp 2026 schedule: talks, workshops, the From Dusk Till Dawn CTF, film nights and music. October 2-4, Flaminio Village, Rome.","breadcrumb":{"@id":"https:\/\/romhack.io\/romhack-schedule\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/romhack.io\/romhack-schedule\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/romhack.io\/romhack-schedule\/#primaryimage","url":"https:\/\/romhack.io\/wp-content\/uploads\/2026\/02\/romhack-logo-wordpress-featured.png","contentUrl":"https:\/\/romhack.io\/wp-content\/uploads\/2026\/02\/romhack-logo-wordpress-featured.png","width":1200,"height":628,"caption":"RomHack"},{"@type":"BreadcrumbList","@id":"https:\/\/romhack.io\/romhack-schedule\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/romhack.io\/"},{"@type":"ListItem","position":2,"name":"RomHack – Schedule"}]},{"@type":"WebSite","@id":"https:\/\/romhack.io\/#website","url":"https:\/\/romhack.io\/","name":"RomHack Security Conference","description":"RomHack is a format that includes a Security Confence and a Camp","publisher":{"@id":"https:\/\/romhack.io\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/romhack.io\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/romhack.io\/#organization","name":"RomHack Security Conference","url":"https:\/\/romhack.io\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/romhack.io\/#\/schema\/logo\/image\/","url":"https:\/\/romhack.io\/wp-content\/uploads\/2022\/01\/RomHack_logo.png","contentUrl":"https:\/\/romhack.io\/wp-content\/uploads\/2022\/01\/RomHack_logo.png","width":350,"height":100,"caption":"RomHack Security Conference"},"image":{"@id":"https:\/\/romhack.io\/#\/schema\/logo\/image\/"}}]} 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+var ecs_ajax_params = {"ajaxurl":"https://romhack.io/wp-admin/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"romhack-schedule\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"romhack-schedule\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"all\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","nonce":"ea6b139840"};
+//# sourceURL=ecs_ajax_load-js-extra
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ var _paq = window._paq = window._paq || [];
+ /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ (function() {
+ var u='//stats.cybersaiyan.it/';
+ _paq.push(['setTrackerUrl', u+'matomo.php']);
+ _paq.push(['setSiteId', '1']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+ g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+ })();
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Skip to content 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Camp 
+ 
+ Camp 2026 
+ 
+ Videos 
+ Slides 
+ Photos 
+ Schedule 
+ Communities 
+ The Badge 
+ Swag 
+ Community CTF 
+ RomHack Bẏtes 
+ 
+ 
+ Camp 2022 
+ 
+ Agenda 
+ Communities and People 
+ The Badge 
+ 
+ 
+ 
+ 
+ Training 
+ 
+ Training 2026 
+ Training 2025 
+ Training 2024 
+ Training 2023 
+ 
+ 
+ Conference 
+ 
+ Conf 2025 
+ Conf 2024 
+ Conf 2023 
+ Conf 2022 
+ Conf 2021 
+ Conf 2020 
+ Conf 2019 
+ Conf 2018 
+ Resources 
+ 
+ 
+ 
+ 
+ Home 
+ Camp 
+ 
+ Camp 2026 
+ 
+ Videos 
+ Slides 
+ Photos 
+ Schedule 
+ Communities 
+ The Badge 
+ Swag 
+ Community CTF 
+ RomHack Bẏtes 
+ 
+ 
+ Camp 2022 
+ 
+ Agenda 
+ Communities and People 
+ The Badge 
+ 
+ 
+ 
+ 
+ Training 
+ 
+ Training 2026 
+ Training 2025 
+ Training 2024 
+ Training 2023 
+ 
+ 
+ Conference 
+ 
+ Conf 2025 
+ Conf 2024 
+ Conf 2023 
+ Conf 2022 
+ Conf 2021 
+ Conf 2020 
+ Conf 2019 
+ Conf 2018 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buy tickets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RomHack Camp Schedule 
+
+ 
+ 
+ 
+ 
+ More than 80 activities and 100 speakers across talks, workshops and live performances. 
+ 
+ 
+ 
+ 
+
+ The schedule needs JavaScript enabled. 
+ [["7DJ87Y","RomHack Camp Opening","**Welcome to the second edition of RomHack Camp!** \r\nWe are thrilled to gather the community back at the Flaminio Village in Rome for three intensive days of hacking, sharing, and networking. \r\n\r\nIn this opening session, the Cyber Saiyan team will set the stage for the weekend ahead. \r\nWe will walk you through the **camp layout**, introduce this year's **Community Villages**, and share **essential logistical details** to help you navigate the venue. We will also preview the upcoming highlights of the weekend.\r\n\r\nGrab a seat as we kick off RomHack Camp 2026, celebrate our community, and officially start an unforgettable weekend of collaborative learning. \r\n\r\nLet the hacking begin!",["Cyber Saiyan"],14,"2026-10-02 10:30","2026-10-02 11:00",2,"en"],["RLARMV","Stupid Sexy Bearer Tokens: a deep dive into exploding OIDC sessions and hardening with DPoP","Standard OIDC bearer tokens are deceptively simple and highly attractive to developers, but they hide a structurally weak security posture: anyone who holds them can spend them. Following up on [our previous deep dive](https://www.youtube.com/watch?v=ehSkbR-YuZw) @MOCA24 into securing OIDC code exchanges, this presentation is a hands-on, exploit-driven exploration of token-usage security.\r\nWe will begin by demonstrating how easily standard bearer tokens are stolen and replayed remotely from an attacker's terminal. We will then look \"beyond the basics\" to live-demo a hardened implementation of [RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449) (DPoP) using a Keycloak identity provider and an Express.js resource server.",["jiraky","reymerk","Giuseppe","toctou","Stefano Maistri"],5,"2026-10-02 11:00","2026-10-02 11:40",2,"it"],["CTWEV9","Incontro con la gang ransomware Schrodingercat.","Come un attacco informatico rovina la tua vita, quelle dei tuoi cari e dei tuoi dipendenti.\r\n\r\nRacconteremo di una risposta ad un incidente informatico particolare.\r\nLa gang ransomware è passata dall'azienda I.T. che gestiva la struttura informatica dei sui clienti.\r\nLa gang si è propagata prima sull'infrastruttura del system integrator, per poi infettare le aziende più grandi del loro parco clienti, infine ha fatto quello che sapeva fare meglio...\r\n\r\nQuando non ci sono più strade, si è ad un bivio ove bisogna scegliere per forza se chiudere l'attività o pagare il riscatto. Questa scelta ti toglie il sonno...\r\n\r\nAnche piegandosi ai ricatti del crimine, non sempre va tutto bene, perchè a volte i decryptor non funzionano....\r\n\r\nButteremo uno sguardo alla pseudo struttura di questa gang criminale, alla loro efficienza, nonché al loro modus operandi.\r\n\r\nIn questo talk non vengono tralasciate le implicazioni legali, morali ed emotive che coinvolgono le persone interessate, le loro dinamiche famigliari ed i dipendenti.\r\n\r\nA questo talk non è stato dato un taglio tecnico come di consueto, ma si vuole raccontare una storia di vita reale, che può capitare a chiunque e che sempre più spesso sentiamo ai T.G., leggiamo sui giornali, ma non pensiamo possa toccare a noi. Vogliamo avvicinarci a quei C.E.O., C.T.O., A.D., consigli direttivi, ed imprenditori di qual si voglia natura e grandezza che a volte pensano, \"figurati se succede a noi\", \"non abbiamo nulla di valore\", \"ma noi siamo protetti\".",["Davide Baraldi"],5,"2026-10-02 11:00","2026-10-02 11:40",3,"it"],["KEJWJK","Prove It Without Telling Me Who You Are","Self-Sovereign Identity promises a different way of proving who we are online: instead of relying on a central identity provider, users can hold verifiable credentials and decide what information to disclose.\r\nBut how much information do we really need to reveal to prove something about ourselves?\r\nIn many digital interactions, a verifier does not need to know our full identity. It may only need to know whether we are over 18, authorised to access a service, hold a valid qualification, or possess a non-revoked credential.\r\nThis talk explores how selective disclosure, Zero-Knowledge Proofs and cryptographic accumulators can support a shift from identity disclosure to proof-based verification. Instead of transferring personal data and protecting it afterwards, users can prove that a requirement is satisfied without revealing the underlying information.\r\nUsing scenarios inspired by the TRUSTED project, we discuss data minimisation, unlinkability, credential validity and revocation. We also look beyond cryptography itself: even privacy-preserving credentials can still enable correlation, metadata leakage or unnecessary identification if the wider identity flow is poorly designed.\r\nThe key question is therefore not only “Can I prove who I am?”, but “Can I prove what you need to know without telling you who I am?”",["Carmela Occhipinti","Marco Pratesi","Emanuela Tangari"],5,"2026-10-02 11:00","2026-10-02 13:00",5,"en"],["TGTBKG","Il bullismo non va in vacanza","**Bullismo No Grazie** è un'associazione no profit nata nel 2021 che ha incontrato oltre 200.000 ragazzi e 90.000 adulti in più di 100 città italiane, percorrendo oltre 150.000 km di scuole, palestre e villaggi turistici.\r\n\r\nIn questo workshop portiamo la realtà che vediamo ogni giorno: le challenge pericolose che circolano tra bambini di IV e V elementare, i social network che i ragazzi usano e che i genitori non conoscono, le responsabilità civili e penali che ricadono sulle famiglie quando un minore commette atti di cyberbullismo.\r\n\r\nNiente teoria. Solo casi reali, domande vere, strumenti pratici per riconoscere i segnali e sapere cosa fare.",["Bullismo No Grazie"],4,"2026-10-02 11:00","2026-10-02 13:00",8,"it"],["EXYNT7","macOS Malware Development: An Introduction","This talk introduces the audience to the realm of macOS malware development. As Macs are increasingly adopted by companies, they are being targeted more frequently in malware campaigns. Similarly, in red team engagements, operators are encountering Macs more often, making the development of malware and TTPs for this platform crucial.",["[kuom]"],5,"2026-10-02 12:00","2026-10-02 12:20",2,"en"],["KLSNYA","Command and Collusion: Flipping the C2 Model for No-Egress Environments","Modern red team operations rarely play out in friendly territory. The days of wide-open egress are fading, replaced by environments where defenders tighten every screw. Outbound traffic is inspected, filtered, and often blocked entirely. A shell on a public-facing server might feel like a win, but in many cases, it comes with no DNS, no HTTP, and no callbacks at all. In these conditions, the familiar C2 playbook runs out of pages, and operators are forced to adapt or stall.\r\n\r\nIn this session, we will flip the C2 model on its head. You will see how to turn \"dead-end\" footholds into fully functional command channels without a single outbound packet, blending covert tasking into legitimate inbound web traffic. We will break down the design choices, the stealth advantages, and the pitfalls you will want to avoid, then share tooling to make it work with your own implants and frameworks.\r\nIf you have ever been stuck behind a wall of egress controls, you will walk away with a new blueprint and a few tricks to make the unreachable reachable.\r\n\r\nWhy This Matters\r\n\r\nThis is original, never-before-published research that redefines how C2s can function under extreme network restrictions.\r\nThe technique has been tested in real red teams, proving both its stealth and reliability in complex environments.\r\nWe’re genuinely enthusiastic about sharing this research with the community. Not just as a technical talk and tooling, but as a fresh perspective on adversary resilience in a post-egress world.",["Hatem Mohamed","Moataz Moustafa"],5,"2026-10-02 12:00","2026-10-02 12:40",3,"en"],["KSYBBR","Braccialetti DIY","Durante questo workshop imparerete a costruire braccialetti con perline e charms vari. Tutto l'occorrente sarà fornito dal trainer, l'unica cosa da portare è forza di volontà e un bel sorriso!\r\n\r\nNota: il workshop è aperto anche ai più grandi e non ci sono barriere linguistiche. **English speakers are welcome!**",["Lucrezia"],4,"2026-10-02 14:00","2026-10-02 15:00",8,"it"],["AGFMRW","Stop Injecting, Start Blending: A KISS Approach to Malware Development","As EDR products continue to improve their ability to detect malicious behavior, malware developers are increasingly adding layers of complexity in an attempt to evade detection.\r\n\r\nOne of the most challenging operations to perform under the radar remains code injection. This seemingly unavoidable step is associated with numerous indicators of compromise, ranging from well-known Windows API calls to uncommon memory permissions or suspicious execution flows.\r\n\r\nTo address this challenge, we revisit the decade-old technique of *code caves*: unused memory locations within legitimate binaries that can be repurposed to host and execute malicious code. By extending the concept to include *dead code* and embracing position-independent payload development we show that it is not only possible to go beyond classic code cave limitations, but also eliminate the need for code injection altogether.\r\n\r\nThrough practical demonstrations, we will show how it is possible to automate the discovery and weaponization of dead code in legitimate binaries. This proof of concept advocates a renewed philosophy of malware development, emphasizing simplicity and minimalism rather than increasingly complex evasion chains.\r\n\r\nFinally, we discuss important defensive implications of this work : if attackers can increasingly avoid traditional injection artifacts, detection strategies should focus less on how code reached execution and more on what that code ultimately does.",["Julien Bedel"],5,"2026-10-02 14:30","2026-10-02 15:10",2,"en"],["NNMA7U","2038: The Next Epochalypse — Breaking time before it breaks us","The Year 2038 problem is often framed as a technical limitation of legacy systems, but its real impact extends far beyond code. At 03:14:07 UTC on January 19, 2038, systems relying on signed 32-bit Unix time will overflow, potentially misinterpreting dates and disrupting critical services. While some engineers have long been aware of this boundary, its broader societal implications remain largely overlooked.\r\n\r\nThis talk explores Y2038 as a systemic risk embedded in the infrastructure of modern society. From healthcare devices and industrial control systems to financial records and identity management, many long-lived systems still depend—directly or indirectly—on fragile time representations. Unlike typical vulnerabilities, this issue is not confined to a single product or vendor: it is distributed, silent, and deeply woven into global digital ecosystems.\r\n\r\nWhat happens when time itself becomes unreliable in systems we depend on for safety, trust, and accountability?\r\n\r\nRather than focusing on exploitation, this talk reframes Y2038 as a challenge of governance, resilience, and accountability. It highlights how technical debt, supply chain opacity, and the longevity of embedded systems turn a known limitation into a slow-moving, systemic risk—and why addressing it requires coordination beyond the security community.",["Lorenzo Dina (joecondo)"],10,"2026-10-02 14:30","2026-10-02 15:10",3,"en"],["L9ZERS","Pwn the Pipeline: A Hands-On Tour of CI/CD Security Risks","Modern software delivery runs on CI/CD pipelines and attackers know it. From the SolarWinds Orion backdoor to the Codecov Bash Uploader compromise and the countless exposed Jenkins instances found on Shodan, build systems have become one of the most valuable and least monitored targets in the software supply chain. A single misconfigured runner, an overprivileged token, or a poisoned dependency can silently compromise everything downstream; and the rise of AI-based attacking agents, capable of autonomously discovering and chaining misconfigurations at scale, is only raising the stakes.\r\n\r\nThis workshop is a practical introduction to CI/CD security through the lens of the OWASP Top 10 CI/CD Security Risks. We'll walk through each risk category (insufficient flow control, poisoned pipeline execution, dependency chain abuse, exposed secrets, insecure system configuration, and more) grounding each one in real-world incidents that made these risks tangible rather than theoretical.\r\n\r\nAfter the theory, attendees get their hands dirty with a set of self-contained challenges built on the CICD Goat vulnerable-by-design environment, hunting for and exploiting common pipeline misconfigurations and attack chains, followed by a guided walkthrough of each solution.\r\n\r\nPrerequisites: basic web/Linux exploitation knowledge, familiarity with git, and a laptop with Docker and a git client installed.",["m3ssap0","Mattia Brollo","Fleeenz","IadRabbit"],5,"2026-10-02 15:00","2026-10-02 17:00",5,"en"],["9VWFFW","Brain Arena","Brain Arena – Allenare la mente attraverso sfide, robotica e problem solving\r\n\r\nBrain Arena è un laboratorio esperienziale in cui bambini e ragazzi entrano in una vera arena delle competenze: non una lezione tradizionale di coding, ma una sequenza di missioni da affrontare attraverso logica, strategia, creatività e collaborazione.\r\n\r\nDurante le due ore i partecipanti, organizzati in piccoli team, dovranno osservare un problema, immaginare una soluzione, programmarla e metterla subito alla prova utilizzando robot educativi e speciali tappeti di gioco. Ogni sfida richiede di prendere decisioni, correggere gli errori, migliorare la propria strategia e confrontarsi con gli altri.\r\n\r\nL’obiettivo non è semplicemente “far muovere un robot”, ma allenare competenze fondamentali come problem solving, pensiero computazionale, capacità di analisi, collaborazione e gestione dell’errore.\r\n\r\nRome Hack sarà la prima presentazione pubblica di Brain Arena, un nuovo format educativo Italmaker che trasforma l’apprendimento STEM in un’esperienza dinamica, coinvolgente e competitiva, dove imparare significa soprattutto mettersi alla prova.",["Italmaker"],4,"2026-10-02 15:00","2026-10-02 18:00",8,"it"],["GHQJFC","MXMap Italia: National Observatory for Digital Sovereignty","MXMap Italia has been established as national observatory of the status of digital Sovereignty of italian public agencies, by analyzing DNS records on the basis of the MXMap software. \r\n\r\nThe technical platform provides opendata, mapping and analytics of the 23k+ public agencies on https://mxmap.it .\r\n\r\nThe alarming results, with more than 46% of italian government agencies accessible trough Cloud Act by USA Security Agencies, requires all the institutional, technical, activist world to act now!\r\n\r\nThe political platform https://osservatorio.mxmap.it aim to provides awareness across all the stakeholders, with policy and technical papers, brief for decision makers, and periodic massive emailing campaign to inform the key persons at each agency (DPO, but also RTD, owner of digital transformation).\r\n\r\nThis walk want to share the project results, methodology and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software.",["Fabio Pietrosanti (naif)"],10,"2026-10-02 15:10","2026-10-02 15:30",3,"en"],["SSVQRR","automated vulnerability scanning in software development","i am working in software development in critical infrastructure. \r\n\r\nThere are several different ways of vulnerability scanning and vulnerability management and i'd like to give an overview on that. \r\n\r\nThis talks therefore covers the different opportunities of vulnerability scanning and their different anchor points. \r\nFurthermore i will talk on how to integrate that into a vulnerability management tool and how to build processes around it to achieve that vulns actually get fixed.",["mc.fly"],5,"2026-10-02 15:20","2026-10-02 16:00",2,"en"],["BNCWHH","Last Night a DJ Erased My Drive","As Joni Mitchell famously sang “Don't it always seem to go, that you don't know what you've got till it's gone.”\r\n\r\nLike how an envelope generator in electronic music shapes a sound's character over time, this talk is concerned with the shape and characteristics of cybersecurity and is all about what music teaches us about attacks, timing, and resilience.\r\n\r\nMusic and cybersecurity share the same basic anatomy since they are about identity and community. Both require a trigger to set off a series of events and can be creative or destructive.\r\n\r\nOver the years, music has been used to spread misinformation. Music has also been a method to control and torture people. For example, the use of acoustic bombardment to bring down the Noriega regime in Panama.\r\n\r\nMusic can be a destructive force. Janet Jackson’s Rhythm Nation video caused hard drives to crash and was classified with its own CVE.\r\n\r\nConversely in times of oppression, music has been used as a form of communication to bypass censorship.\r\n\r\nIn this talk, I will explore how ransomware and identity-driven attacks evade detection not by being invisible, but by being indistinguishable from normal operational noise.\r\n\r\nModern attacks don’t break systems, they blend into them.\r\n\r\nUsing the structure of music production (signal/noise, mixing and mastering) to explore real-world attack chains, the goal is to share practical insights into why detection fails.",["Mathew Caplan"],5,"2026-10-02 15:30","2026-10-02 16:10",3,"en"],["XJTACK","Just one proof away: the cryptography behind private payments","Building private payments is a fascinating technical challenge. Somehow, we have to hide some combination of three things: who is paying, who is being paid, and how much. All without letting anyone print infinite money. This talk is about the cryptographic machinery and approaches people have come up with to make private payments possible and practical today. We focus on two projects, Monero and Zcash, which are among the most mature and influential systems.\r\n\r\nIn the talk we will start from a few simple cryptographic primitives: additively homomorphic commitments, ring signatures, stealth addresses, and zero-knowledge proofs. Then we dissect how transactions work in both Monero and Zcash, highlighting differences and similarities.\r\n\r\nWe close with a short, uncomfortable observation: when a system hides payments well, a forged proof is indistinguishable from an honest one, leaving us always just one proof away from trouble.",["Giorgio Dell'Immagine"],5,"2026-10-02 16:10","2026-10-02 16:50",2,"en"],["8EHEDT","Growing a (nearly) self-sufficient vegetable garden","In this talk I'll share my experience over the last few years, since I decided to set up my own vegetable garden and start growing produce for my family.\r\n\r\nI'll walk you through the challenges I faced: no water source available for irrigation, and the need to make the garden as self-sufficient as possible (scheduled irrigation, weed control, keeping manual work to a minimum).\r\n\r\nThere's still some \"nerdy\" stuff left to do: monitoring the pump, the water level and the power supply, so I get alerted when something goes wrong instead of finding out once the plants have already dried out :)\r\n\r\nI'll tell you about the mistakes and wrong choices I made out of sheer inexperience as a grower, but also about the satisfaction of harvesting what you've sown.\r\n\r\nThis is the same talk I'm presenting at [ESC]([url](https://endsummer.camp/)) (End Summer Camp), enriched here with ideas and discussions that came out of ESC.",["merlos"],9,"2026-10-02 16:10","2026-10-02 16:50",3,"en"],["7RZJGK","The Trojan Pop-Up; Modern Threat Actor Uses of Advertising","In the run up to Google’s plans to dump 3rd party cookies, marketing firms (a $1.7 TRILLION dollar industry) were sent into a complete panic. These firms relied heavily on 3rd party cookies in order to better attribute CPM (cost per 1000 clicks) and how many of those clicks turned into sales. So advertisers could better study human behavior and trends in order to more effectively sell products. \r\n\r\nAs a former Security Engineer at the Largest Independent Digital Marketing firm in the world, I had a unique view into the evils that these companies were developing in order to not only maintain a view into consumer trends but to increase these views, increase the invasiveness of these techniques, and increase the cooperation between all levels of the industry from display point (streaming service), device point (iPhone, TV), location points (via ISP), to sales point. \r\n\r\nThis talk is a peek under the curtain for the server side data harvesting that agencies have developed, and how they’ve managed to twist this further invasion into so-called consumer protection and increased privacy.",["Sean Juroviesky"],10,"2026-10-02 16:50","2026-10-02 17:30",2,"en"],["3L33X7","Argus SBOM Guard: gestione delle vulnerabilità a partire dagli SBOM","La generazione degli SBOM è ormai sempre più diffusa, ma in molti contesti rimane un’attività isolata: i file vengono prodotti durante la CI/CD e poi archiviati senza diventare parte di un processo di gestione del rischio.\r\n\r\nIn questo talk presenterò Argus SBOM Guard, un progetto open source e 'self-hostabile' nato per sperimentare un approccio leggero alla raccolta degli SBOM, alla correlazione delle vulnerabilità e al tracciamento delle attività di remediation.\r\n\r\nL’obiettivo non è introdurre l’ennesimo scanner, ma mostrare un flusso pratico che collega SBOM, inventory, vulnerability intelligence, prioritizzazione e verifica delle correzioni, con uno sguardo anche alle esigenze emergenti legate alla software supply chain security e a normative come NIS2 e DORA.\r\n\r\nUn racconto tecnico, pragmatico e basato sull’esperienza di costruzione di un side project open source.",["Matteo Vitali (trotto)"],7,"2026-10-02 17:00","2026-10-02 17:40",3,"it"],["EMS9ZU","Community CTF by fibonhack","Cyber Saiyan is proud to join forces with [fibonhack]([url](https://fibonhack.it/)) to present “**From Dusk Till Dawn**”, an on-site hacking marathon taking place during RomHack Camp.\r\n\r\nThis isn’t your average competition. While the rest of the camp sleeps, 5 elite teams will battle through the night. 12 hours. Pure adrenaline.\r\n\r\n🚩 Meet the Finalists\r\n🥇 1st - FR13NDS TEAM - Kazakhstan 🇰🇿\r\n🥈 2nd - TPC - Japan 🇯🇵\r\n🥉 3rd - thePizzaIncident - Italy 🇮🇹\r\n🏅 4th - SaturnX - South Korea 🇰🇷\r\n🏅 5th - Mntcrl - UniBa, Italy 🇮🇹",["fibonhack"],5,"2026-10-02 17:00","2026-10-03 08:00",5,"en"],["CYFEJK","Meethack NFC CTF — Crack the Mifare Classic 1K Chip","Join the Meethack community for a hands-on NFC CTF challenge based on the Mifare Classic 1K chip! All you need is an Android device with NFC — no root required.\r\n\r\nWe'll open with a short introduction to the chip's specs, then the challenge goes live.\r\n\r\n🎫 Reserve your NFC badge (limited availability): https://forms.gle/3UJ9PnwUTj2NzEm98\r\n(No badge? Bring your own — that works too.)\r\n\r\n📍 Meethack stand",["IadRabbit"],5,"2026-10-02 17:00","2026-10-02 17:30",9,"en"],["GPNXUR","Guerra Profonda. Hacker, bugie e l'architettura segreta dei nuovi conflitti","Viviamo nell'era della sorveglianza totale. I sistemi con cui le corporation controllano ogni angolo del mondo esistono già: intelligenze artificiali generative, droni, telecamere biometriche. \r\nLa battaglia per la sovranità digitale è già cominciata e si combatte a colpi di fibra ottica e codice binario. La posta in gioco non è un territorio lontano, ma la libertà di miliardi di persone. Si combatte con algoritmi, satelliti e troll farm, e il fronte è dentro smartphone, social e dati consensualmente concessi. \r\nÈ una guerra ibrida fatta di episodi concreti: l'attacco alla rete satellitare Viasat che ha accecato le difese ucraine ore prima dell'invasione russa; i cavi sottomarini sabotati nel Mar Baltico, attraverso cui transita una parte delle comunicazioni mondiali; Elon Musk che decide della connettività di una nazione in guerra; Peter Thiel e Alexander Karp che vendono agli Stati la capacità di prevedere tutto, sottraendo loro la sovranità necessaria per difendersi. \r\nLa disinformazione di massa è ormai industrializzata e democratizzata dall'intelligenza artificiale. Internet non è più uno spazio comune, ma un arcipelago di fortezze digitali dove ogni conflitto è permanente e silenzioso. \r\nL'Europa che regolamenta senza produrre tecnologia autonoma. Il rischio è la fine del vecchio ordine globale, delle sue leggi, delle sue istituzioni. In questo conflitto nessuno è civile: siamo tutti bersagli.",["Arturo Di Corinto"],10,"2026-10-02 17:30","2026-10-02 18:10",2,"it"],["NFK7KE","A review bot that just works","Sometimes, the perfectly engineered solution isn’t what you need. We discuss how, at the beginning of 2026, we moved quickly to build a review bot that helped stem the flow of vulnerabilities entering the codebase in the era of vibe coding. We’ll cover the ROI, costs, and practical challenges involved, along with lessons learned about model choice and how reusing existing harnesses helped us move faster.\r\n\r\nPresented at AI for Security event @ DEFCON34.",["Andrea Cappa"],5,"2026-10-02 17:40","2026-10-02 18:00",3,"en"],["LWVQM8","IL SEGRETO DELLA TORRE SOLITARIA DI PIETRASALDA","## Un'avventura epica di Dungeons & Dragons (BECMI) per giovani eroi, consigliata per giocatori neofiti e per ragazzi dai 10 anni in su.\r\n\r\n> _**«Su di me la torre fu eretta, solida, eterna e benedetta...»**_\r\n> \r\n> _Nei fitti e dimenticati boschi a nord di Soglia si staglia la Torre Solitaria di Pietrasalda, un antico avamposto di pietra che si credeva abbandonato da secoli. Ma da qualche settimana, qualcosa al suo interno si è risvegliato. Strane e inquietanti luci blu squarciano la notte dalla sua sommità, e i bracconieri della zona stanno scomparendo uno dopo l'altro senza lasciare traccia._\r\n> \r\n> _Il Patriarca Sherlane Halaran ed il Magistrato cittadino hanno lanciato un appello disperato e hanno scelto voi: un gruppo di audaci avventurieri pronti a tutto. Sarete i protettori di questa remota provincia del Granducato, oppure Pietrasalda diventerà il vostro ultimo viaggio?_\r\n\r\n\r\n## Perché partecipare?\r\n\r\nQuesta sessione \"One-Shot\" di 2 ore circa utilizza il regolamento classico di Dungeons&Dragons (D&D Scatola Rossa/Blu) appositamente semplificato per permettere a completi neofiti e ragazzi dai 10 anni in su di entrare nel fantastico mondo fantasy che ha catturato l'immaginario di generazioni di giocatori. Non è necessaria alcuna esperienza precedente! I giocagtori impareranno a:\r\n\r\n* Collaborerete per un gioco di squadra: Ogni eroe avrà abilità uniche fondamentali per il gruppo: risolvere enigmi e misteri perchè la semplice forza bruta non basta; serviranno logica, intuito e gioco di squadra per superare le trappole che celano il segreto della torre.\r\n* Affrontare scelte morali: Le decisioni dei personaggi plasmeranno il finale della storia e il destino della regione.\r\n\r\nL'avventura vi aspetta. Scegliete il vostro eroe, impugnate i dadi e preparatevi a varcare la soglia dell'ignoto!",["Luca Astori"],4,"2026-10-02 18:00","2026-10-02 20:00",7,"it"],["AHQ3ZZ","Keep caLLM and Let It Block: Agentic SOAR with n8n + Splunk","Everyone talks about SOAR; few have wired one up end to end. In this hands-on lab you'll build the \"respond\" half of a real detection-and-response pipeline — no slideware, no vendor console.\r\n\r\nWe hand you a live AWS environment: an API gateway and WAF fronting a target app, with all traffic and attack detections already flowing into Splunk. Your job is to build the automation that fires when Splunk raises an alert, using n8n (open-source, low-code) as the orchestrator.\r\n\r\nYou'll answer one question — \"should I block this IP?\" — with steadily rising intelligence. First, block on any alert (and watch the false positives roll in). Then block only when threat intel says the IP is malicious. Then hand the decision to an AI agent that investigates for itself: it queries multiple intel sources and runs its own Splunk searches, then returns a verdict with its reasoning. Finally, put a human in the loop to approve or overrule the agent — because trusting an autonomous blocker is the real 2026 question — and, time permitting, make the block self-reverse with a TTL and an audit trail back to Splunk.\r\n\r\nYou'll leave with a working, governed, AI-triaged auto-response pipeline and the patterns to rebuild it at home. Bring a laptop; we bring the infrastructure (AI model included).",["Doc","aserpi","Ric","Francesco Viscardi"],9,"2026-10-02 18:00","2026-10-02 20:00",8,"en"],["MKHXNV","Presentazione \"Manualetto di sicurezza digitale per giornalisti e attivisti\"","A Febbraio 2026 il progetto editoriale [Guerre di Rete](https://guerredirete.it) ha pubblicato il \"Manualetto di sicurezza digitale per giornalisti e attivisti\".\r\n\r\nDurante il Camp presenteremo il manualetto, in ricordo di Carola Frediani, fondatrice ed anima del progetto Guerre di Rete, venuta a mancare troppo presto, il 3 Giugno 2026.\r\n\r\nll manualetto è rivolto a categorie essenziali per il funzionamento della democrazia e del dibattito pubblico, che troppe volte abbiamo visto essere target di attacchi informatici, sorveglianza, campagne d’odio e di molestie nel mondo, in Europa, in Italia.\r\nÉ scritto da giornalisti e attivisti in maniera semplice e discorsiva, ma fornisce anche indicazioni pratiche di base per iniziare a sistemare e a proteggere la propria vita digitale.",["Guerre di Rete"],10,"2026-10-02 18:20","2026-10-02 19:00",2,"it"],["8QEJPW","MovementHound: You might be missing something, move it!","\"You need local admin for that.\" It's one of the most repeated assumptions in offensive Windows tradecraft, and it's mostly wrong.\r\nMost of these techniques are gated by a specific set of access-mask and DACL permissions, not by group membership, so the real question isn't \"am I admin?\" but \"what do I actually need?\" This talk answers that systematically: what each lateral-movement technique truly requires, instead of what folklore and our tooling assume.\r\nWe'll walk through the true minimum rights behind service creation and reconfiguration, DCOM, WinRM, WMI (over both DCOM and WSMAN), Remote Registry, Remote GhostTask, Remote Network Provider hijack, RDP and RDP Shadowing, SSH, and User Right Assignments. Along the way we'll hit the under-documented Microsoft policy that silently breaks \"non-admin service creation,\" the granular access masks that make these paths work (0x0003 on the SCM, 0x00011 for shadowing, and friends), and why those same minimal rights double as quiet persistence.\r\nThe uncomfortable part cuts both ways. BloodHound edges, NetExec's \"Pwned!\", and group-membership checks systematically miss these configurations, so attackers slip through and defenders never see it. I'll cover MovementHound, a PowerShell minimal-rights enumerator that surfaces these overlooked paths and feeds the missing edges straight into BloodHound, with a recorded demo of it in action.\r\nExpect granular access-mask details and honest caveats.",["Umberto Micillo (polair)"],5,"2026-10-02 18:20","2026-10-02 19:00",3,"en"],["QECNXZ","Developers under attack - how to protect yourself","Supply chain attacks are increasingly focusing on developers and automation tools.\r\nIn early 2025, someone infected a widely used security tool, then used the knowledge from that attack to subsequently infect npm- and python packages to steal developer credentials.\r\nThe talk will show how these kinds of attacks worked and how developers can protect themselves (and their assets) against similar attacks and why ai might or might not be helpful in these scenarios.",["Christian \u003ccy> Kühn"],5,"2026-10-02 19:00","2026-10-02 19:40",2,"en"],["3FTTEN","🍕 Pizza Truck — Wood-Fired Dinner","Hungry after a day of hacking? A wood-fired Pizza Truck parks on site both evenings, serving fresh pizza straight from a real wood oven.\r\n\r\nNo need to leave the woods for dinner — grab a slice, grab a seat, and refuel before or after the Hacker Cinema Night and the After Dark music session.\r\n\r\nAvailable Friday and Saturday evening.",["Pizza Truck"],15,"2026-10-02 19:00","2026-10-02 23:00",10,"en"],["AS8AWJ","Why I've to waste my (precious) time on cryptography?","Cryptography is a magic ring of darkness and mistiness, but seems that every time a new attack comes in town, while cryptographers get excited, technicians start suffering to re-configure everything trying to survive following signals coming from misterious regulations and crypto public challenges. And in the Quantum era everything is exploding: QKD, PQC, Hybrid Crypto, key exchange latency problems. We'll try to give a little survival guide for this (apparently new) world, which can make us more aware and confident on the future, or at least better prepare for the next fashionable attacks. Maybe..",["Andrea Pompili"],5,"2026-10-02 19:10","2026-10-02 19:50",3,"it"],["MMBQHU","\"tradizionale\" polenta taragna di Berghem-in-the-Middle","Take a break from hacking: it’s time for the ultimate caloric overflow! Masterfully cooked and proudly served by Berghem-in-the-Middle (the crew behind [No Hat conference](https://www.nohat.it), our traditional Polenta Taragna is made to perfection with cornmeal, buckwheat, the finest alpine cheese and a terabit-scale DoS of butter.\r\nA tradition we deeply cherish, sparked during the first RomHack Camp edition, when [a dear friend forever in our hearts wrote: “after that night, the world will be divided into those who have tasted polenta taragna and those who haven't.”](https://romhack.io/un-hacker-camp-da-ricordare/) \r\nBring some appetite, and good luck staying awake at your terminal once that inevitable post-taragna sleep mode kicks in!",["Berghem-in-the-Middle"],15,"2026-10-02 20:00","2026-10-02 23:00",9,"en"],["GY3RFX","Hacker Cinema Night - Sneakers (1992)","The Camp goes dark and the screen lights up.\r\n\r\nOn Friday night we open our two open-air screenings with a film that needs no introduction to this crowd: [Sneakers](https://www.imdb.com/title/tt0105435/) (1992). A team of security specialists, a black box that breaks any encryption, and a plot that put pentesting on the big screen decades before it was cool. \"Setec Astronomy\" — you'll get it.\r\n\r\nGrab a drink, find a spot under the sky, and watch with the people who get it. No slides, no keynotes — just a film, together.",["Cyber Saiyan"],13,"2026-10-02 20:30","2026-10-02 22:30",2,"en"],["RBQXR3","IRC is not dead: self-hosting real-time chat like it's 1996 (but with TLS)","Before Slack, before Discord, before Telegram, there was IRC. A protocol so simple you could read it with netcat, so resilient it survived 35 years of \"IRC is dead\" articles, and so transparent that what you typed was exactly what the server saw — no algorithms, no tracking, no engagement metrics.\r\nThis late-night session is part storytelling, part live hacking. We will walk through the history of IRC from the Italian underground scene of the late '90s — irc.tin.it, war scripts, channel takeovers, netsplits, and the culture that shaped an entire generation of Italian hackers — to deploying a modern IRC server in 2026 on a self-hosted LXC container with TLS, persistent history, and integrated services, no third-party dependencies.\r\nBring your laptop. We will spin up a live server at the camp and open a channel for attendees to join in real time via browser or terminal client. You will register a nick, join a channel, and experience what real-time communication looked like before corporations decided your attention was a product.\r\nNo slides. No frameworks. Just a terminal, a protocol from 1988, and a conversation about what we lost when we handed our communication to platforms we don't control.\r\nSuitable for all skill levels. Nostalgia-prone attendees may experience involuntary emotions.",["Myfox"],10,"2026-10-02 21:00","2026-10-02 22:00",8,"it"],["E7ZT7B","After Dark - Friday Music Session","The screen goes dark, the speakers wake up.\r\n\r\nRight after the Friday film, the Camp turns up the volume. Two hours of music to keep the night going with the community.\r\n\r\nNo agenda, no schedule to follow, just good sound, good people, and the woods around you.\r\n\r\nThe DJ line-up will be announced closer to the Camp.",["Cyber Saiyan"],13,"2026-10-02 22:30","2026-10-03 00:30",2,"en"],["HLLYEW","[Sponsor workshop] Introduction to Cobalt Strike: Command & Control and Code Execution Fundamentals","Delivered through Fortra's Zero-Point Security training platform, this hands-on workshop provides an introduction to Cobalt Strike, its core components, and the product philosophy behind modern adversary simulation and red team operations.\r\n\r\nAttendees will begin by exploring the Cobalt Strike ecosystem, including key concepts such as Team Servers, Beacons, listeners, and communication channels. Through interactive labs, participants will learn how to deploy and manage Beacons, work with HTTP, SMB,\r\n and TCP listeners, and understand how Beacon communication topologies can be modified in real time.\r\n\r\nThe workshop also covers code execution fundamentals using Cobalt Strike's Resource Kit, where attendees will customize payload resources, generate and host payloads, and execute them within a controlled lab environment.\r\n\r\nBy the end of the session, participants will have a foundational understanding of Cobalt Strike's architecture, Beacon communications, listener types, payload delivery, and customization techniques commonly used in adversary emulation and red team engagements.\r\n\r\n**Workshop Requirements**\r\n* Max capacity of 30 attendees\r\n* Attendees must bring their own laptop to access the training. \r\n* Attendee email addresses must be provided to Fortra in order to provide access to the platform:\r\n * At least 3 days prior to the event\r\n * Attendees must be able to access the email address which they provide, or they will not receive their login credentials",["Fortra"],16,"2026-10-03 09:30","2026-10-03 11:30",5,"en"],["F9WCBL","GNOME and Beyond Dream Tour: Discover Linux desktop sandboxing and more through its vulnerabilities","Unlike mobile environments, The Linux desktop paradigm wasn’t really designed with app-level security, permissions and sandboxing in mind. Despite this, modern desktop environments try to shoehorn this in with systems such as Flatpak and desktop portals.\r\n\r\nWe went digging into GNOME ecosystem security, investigating its core libraries (glib, libsoup, and gvfs) and sandboxing mechanisms (Flatpak, bubblewrap, dbus-proxy, and desktop portals). During this journey into the GNOME world we uncovered numerous security issues, resulting in more than 14 CVEs, including a full, zero-precondition Flatpak sandbox escape.\r\n\r\nWe’ll take you along our very same journey where you’ll discover how permissions and security boundaries are enforced and rely on a web of libraries and tools, some of which seemingly unaware of their importance in the overall chain. This way you’ll be able to see with your own eyes what issues arise in such a complex environment where a couple of small mistakes, or colliding opinions, can lead to impactful vulnerabilities. We’ll also take a few detours to show critical issues that we found in widely used open source productivity software, and how those vulnerabilities can have a severe impact also outside of the desktop paradigm.",["Edoardo Geraci"],5,"2026-10-03 10:00","2026-10-03 10:40",2,"en"],["SVZ8AS","Anatomia di un DRM editoriale","Aumentare la criptazione, rende il sistema più sicuro?\r\nTra la versione A e la versione B di un'app di edicola digitale: il sistema di protezione è diventato più sofisticato ma nello stesso tempo, più fragile.\r\n\r\nLa versione A proteggeva l'accesso tramite regolare autenticazione e autorizzazione, lato server. Con la versione B, indici e metadati cifrati sono diventati pubblicamente raggiungibili, mentre la protezione è stata affidata a uno schema crittografico proprietario, costruito sopra Crypto++ e distribuito all'interno dell'app.\r\n\r\nRicostruiremo il percorso che ci ha permesso di comprenderne il funzionamento: MITM, decompilazione dell'APK, analisi del bridge JNI e reverse engineering di una libreria nativa ARM64.",["Fabio Fabrizi"],9,"2026-10-03 10:00","2026-10-03 10:20",3,"it"],["S8XTE9","AI4KIDS laboratorio di introduzione all'intelligenza artificiale","Un laboratorio pratico dove i ragazzi useranno modelli di Machine Learning e la funzione di riconoscimento dei gesti delle mani per decodificare la Lingua Italiana dei Segni (LIS). Tutte le fasi di raccolta dati, addestramento, validazione e test saranno gestite in ambiente Pictoblox. Un'esperienza interattiva per scoprire come l'intelligenza artificiale possa abbattere le barriere della comunicazione e favorire l'inclusione.",["Agnese"],4,"2026-10-03 10:00","2026-10-03 12:00",8,"it"],["JLSUBR","Meethack — Solving the remaining CI/CD challenges","Reserve your time to solve the remaining challenges of the workshop held on Friday and join Meethack as we walk through the solutions.\r\n📍 Meethack stand\r\n\r\nDidn't finish on Friday? Come back, pick up where you left off, and see how it's done. See you there!",["m3ssap0","IadRabbit","Fleeenz","Mattia Brollo"],5,"2026-10-03 10:00","2026-10-03 12:00",9,"en"],["U8LFED","Come avvelenare una skill, e perché nessuno la riesamina due volte","Nobody runs a bare AI agent. Everyone extends it: skills, MCP servers, plugins, hooks, subagents. Every one of those is, underneath, a folder of text that gets loaded into the model's context and read as instruction.\r\n\r\nWhich makes them a supply chain. One that gets reviewed exactly once, at install, and executed every session afterwards.\r\n\r\nThis talk poisons one, step by step. We write a skill that does what it advertises and one extra thing, and we look at where you put the payload so that the person installing it does not see it, not in the file they skim, but in the reference file that skill loads on demand. Then we do the version that actually matters: a clean skill, installed and approved three weeks ago, updated today. Four lines different. Nobody diffs an update.\r\n\r\nSame trick without installing anything: MCP tool descriptions are context, so changing one after approval changes what the agent does with no code the user ever reviews. And repository content is read as task context by an agent that cannot tell instruction from data.\r\n\r\nThe point is what none of it requires: no exploit, no privilege escalation, no CVE. Every step uses capability that was granted on purpose.\r\n\r\nSecond half is defensive: which controls change the outcome, which ones only feel like they do, and what you can still reconstruct afterwards.",["Pietro Virgillito"],5,"2026-10-03 10:20","2026-10-03 11:00",3,"it"],["8AZUTX","From Hero to Zero: The FatalNoise neverending story","Dopo aver sfidato i limiti del **Commodore 64** con **Catalypse**, perché non ripetersi su **Amiga**? Perchè non spingere l'hardware a livelli mai visti, ricreando la magia dei coin-op che ci facevano sognare alla fine degli anni '90? Questa è la storia di **Fatalnoise**, un picchiaduro ambizioso che non ha mai visto la luce. Un progetto folle, nato e sviluppato tra sfide tecniche insormontabili, problemi con l'università, accese divergenze creative e quella immancabile, totale incoscienza di chi non aveva la minima idea di cosa stesse realmente combinando... fino ad oggi...",["Andrea Pompili"],12,"2026-10-03 10:40","2026-10-03 11:20",2,"it"],["J7BBDG","Linux-IpFire hardening lan with suricata/IPS","Il talk vuole presentare questa distro linux IpFire per uso firewall in casa e piccole ditte con molti plug-in in particolare quello per tor che permette il firewall non solo di proteggere le connessioni tramite IPS ma anche per l'anonimato come nodo entrante al circuito tor e volendo come bridge per contribuire alla complessita del deepweb. Il talk quindi fa una panoramica dei punti di forza del progetto opensource non avendo una versione commerciale, vuole sensibilizzare all'uso di strumenti opensource per la privacy come VPN e protezione DNS.",["fabio carletti aka Ryuw"],5,"2026-10-03 11:00","2026-10-03 11:40",3,"it"],["GHGK7L","Presentazione libro \"L'inganno dell'Automa\" di Carola Frediani","Insieme alla famiglia di Carola, a amici e amiche e alla redazione di Guerre di Rete presenteremo il suo ultimo libro \"L'inganno dell'Automa\"\r\n\r\n_«È un big game, my friend. Chi si oppone non finisce bene.» Italia contemporanea. Andrea, un giovane ricercatore di cybersicurezza che vive tra Milano e la Liguria, viene interrotto nella sua edonistica quotidianità dalla notizia dell’arresto a Dubai di un vecchio amico. L’uomo, che commerciava vulnerabilità informatiche e si dedicava a vari traffici in giro per il mondo, è accusato di spionaggio. Mentre Andrea cerca di capire come aiutare l’amico e cosa si nasconda dietro l’arresto, incrocia sulla sua strada una giornalista investigativa, Agnese, autrice di un blog molto seguito, dal quale si scaglia contro la corruzione del governo; ma anche Caterina, brillante e frustrata social media manager di una politica nazionale. Travolta da rivelazioni, inquietanti trafficanti d’armi, e oscuri intrecci di politici corrotti e società di intelligenza artificiale, la vita dei tre viene cambiata, obbligandoli a cercare giustizia più che una facile via d’uscita. E non tutto è ciò che sembra._\r\n\r\n[https://venipedia.it/inganno-automa](https://venipedia.it/inganno-automa)",["Guerre di Rete"],10,"2026-10-03 11:30","2026-10-03 12:10",2,"it"],["JCWFDW","PhySec Lab Part 1: Lockpicking 101","This 2 hours workshop (max 20 people) wants to be an introductory course to the marvelous world of picking locks. After an overview of the most common types of locks and how they operate, the instructor will show you which type of tools are needed to manipulate and open them. In the second part of this training, you will be provided with a lockpicking kit and some practice locks in order to try yourself.",["CYBERANTANI"],5,"2026-10-03 11:30","2026-10-03 13:30",5,"en"],["KKWVTD","Codice Python Sicuro: Buone Pratiche e Strumenti di Analisi","Nel mondo attuale dello sviluppo software, la sicurezza non può più essere un ripensamento. Con l'approccio DevSecOps e il principio \"shift left\", gli sviluppatori svolgono un ruolo proattivo nell'integrare la sicurezza fin dalle prime fasi dello sviluppo, contribuendo a rendere le applicazioni più sicure e resilienti. In questo talk esploreremo best practices per scrivere codice sicuro e presenteremo alcuni strumenti che aiutano ad automatizzare la rilevazione di vulnerabilità nel nostro codice Python e nelle dipendenze.",["Matteo Vitali (trotto)"],7,"2026-10-03 12:00","2026-10-03 12:40",3,"it"],["ELJLML","So you're interested in social engineering? The very first steps","It is well known that humans are the weakest link in information security.\r\nSocial engineering has emerged as a means to influence and manipulate individuals to achieve desired outcomes. In this presentation, we delve into the realm of social engineering, exploring the art of behavior alteration, manipulation and persuasive communication.",["Kirils Solovjovs"],9,"2026-10-03 12:00","2026-10-03 14:00",8,"en"],["TT8EEA","Breaking the Charge: Security Analysis of the Phoenix Contact CHARX SEC-3000 EV Charging Controller","Talk summary: Electric vehicle charging infrastructure is rapidly expanding, becoming a critical component of modern transportation. Despite the increased attention on its security, our research shows that even devices previously examined in competitions such as Pwn2Own can still hide impactful vulnerabilities.\r\n\r\nWe picked up this device right after Pwn2Own results were announced and the competition was over - and quickly found that the story was far from finished. Our security analysis of this commercially available Phoenix Contact CHARX SEC-3000 EV charging station controller uncovered serious, previously unknown issues that had gone unnoticed during the event. By combining firmware analysis with emulation techniques, we identified several critical vulnerabilities (including OS Injection) affecting the device. We will walk through the approaches, challenges, and what we have learned.\r\n\r\nLonger talk description: This session provides a technical analysis into our ongoing research on an EV charging station controller. The device we investigated had already been part of a Pwn2Own competition, yet our analysis revealed multiple security vulnerabilities. We will cover our approach to analyzing the charger, including firmware extraction and emulation to understand internal components and logic of the device ecosystem.",["Piotr Ptaszek","Matthew"],5,"2026-10-03 12:30","2026-10-03 13:10",2,"en"],["HETQC3","You Don't Need a Security Solution","Over the years as a cybersecurity pre-sales engineer, I've had the privilege of seeing organizations prepare to defend themselves against sophisticated attackers, ransomware gangs, zero-days, and nation-state threats. Sometimes, however, the biggest security problem was much closer to home.\r\nA company wants NAC, but there's no IdP. Another wants PAM while every workstation shares the same local administrator password. Someone wants an anti-spam solution while SPF, DKIM and DMARC are not configured properly. I've encountered passwords stored in passwords.txt, environments where every machine is administered individually.\r\nThese aren't just funny war stories. They reveal a recurring problem: security products have prerequisites.\r\nNAC and EDR assume you can manage your endpoints. Vulnerability management assumes you know what assets you have. SIEM assumes you have useful logs and someone who can act on them. Zero Trust assumes you have some idea who your users, devices and applications actually are.\r\nThis talk is a collection of strange, surprising and sometimes painful lessons from the security pre-sales trenches, and an argument for asking an uncomfortable question before buying the next security product:\r\n“What should we fix first?”\r\nBecause sometimes the most useful thing a security vendor can tell you is:\r\n“You don't need our product yet.”",["Max Derkach"],5,"2026-10-03 12:40","2026-10-03 13:00",3,"en"],["3MJRSS","SBOM SBAM: Who Put This in My Code? Enterprise-Grade Supply Chain Security on a Zero Budget","Modern software is assembled, not just written: nearly 90% of a typical application consists of third-party libraries. If a critical vulnerability like Log4Shell were disclosed tomorrow, how long would it take your team to identify every affected microservice? While large enterprises rely on expensive \"Ultimate\" licenses, SMEs and independent teams often face a dangerous security gap.\r\nIn this session, we will explore how to democratize Software Supply Chain Security (SSCS) by building an automated defense perimeter at zero licensing cost. Through a Live Demo featuring a Docker-based prototype, we will walk through a real-world architecture integrating:\r\n• GitLab Community Edition for pipeline orchestration.\r\n• Trivy and cdxgen for automated SBOM (Software Bill of Materials) generation in CycloneDX format.\r\n• OWASP Dependency-Track for continuous, proactive vulnerability monitoring.\r\nWe will go beyond basic scanning by demonstrating how to leverage Artificial Intelligence for code reachability analysis, generating VEX (Vulnerability Exploitability eXchange) files to silence false positives and focus only on actionable risks. We will also discuss how this stack prepares organizations for the upcoming EU Cyber Resilience Act (CRA) requirements.",["Maurizio Argoneto"],7,"2026-10-03 14:00","2026-10-03 14:40",3,"it"],["MXTLKL","\"Don't crash\" challenges walkthrough","You've always wanted to start with binary exploitation challenges, but fear the horrors of weird machines? This will be a workshop for you! After a theoretical introduction on binary exploitation basics all the way to x86_64 Return Oriented Programming you will get your hands dirty with the \"Don't crash\" challenges with the help of the author. Bring your Linux laptop (or VM) with Ghidra, pwntools and pwndbg\r\n\r\n\r\nFind the challenges at:\r\nhttps://donotcrash.sparrrgh.me",["Max 'Sparrrgh' Bellia"],5,"2026-10-03 14:00","2026-10-03 16:00",5,"en"],["87DHLD","Zero to podcaster, start today your show with AI!","Ready to build?\r\nMove beyond theory and construct a full functional AI-powered podcast in this hands-on \"Build with AI\" workshop.\r\nWe'll guide you through an end-to-end workflow, leveraging specific Google AI and Cloud tools to transform an idea into publishable audio content.\r\n-Dive into practical prompt engineering with Google Gemini. You'll actively brainstorm niche topics, outline a compelling episode structure, and generate a working script for a short podcast segment.\r\n-Take your Gemini-generated script and bring it to life. We'll use the Google Cloud Text-to-Speech API to synthesize natural-sounding voice audio, experimenting with different voice profiles. You'll see how to generate audio files directly from text.\r\n-We'll then explore how Google Cloud Run can serve as the backbone for automating this workflow – designing a simple service architecture capable of potentially taking script inputs and orchestrating the TTS generation and audio file delivery. \r\nWho is this for? Developers, creators, and tech enthusiasts that want to apply latest Google's AI and Cloud tools to the content creation challenges.",["Nicola Guglielmi"],13,"2026-10-03 14:00","2026-10-03 15:00",8,"it"],["DTBUCX","State Trojan: The Malware with a Warrant","Your smartphone is not just a phone. It is your microphone, camera, archive, diary, GPS tracker, wallet, authenticator, and memory. In this talk, we will explore what happens when that device is turned into an informant during a legitimate criminal investigation through the use of lawful investigative malware, commonly known in Italy as a \"captatore informatico\".\r\nWe will start from the civic and legal tension: the need for effective investigations versus the privacy impact of compromising the most intimate device we own. Then we will move into the technical side, dissecting a real-world mobile implant to understand how it likely infected the device, what data it was able to collect, how it communicated, and what traces it left behind.\r\nThis is not an anti-law-enforcement talk. It is a hard look at the technical power of these tools, the risks created by their use, the vendors and supply chains behind them, and the practical signals defenders can monitor.",["Pietro Boccaletto","Francesco Infantini"],5,"2026-10-03 14:30","2026-10-03 15:10",2,"en"],["ACVWSL","Shells Without Phish","Initial access isn’t just about phishing anymore. Modern breaches are increasingly rooted in the application layer, where logic flaws, design weaknesses, and overlooked attack surfaces can open paths to compromise.\r\nIn this talk, we’ll dissect how AppSec-driven tactics can redefine red team operations. We’ll share our methodology for embedding vulnerability research into live engagements, blending code-level analysis, target hunting, and exploit chaining with traditional adversary tradecraft. This isn’t about dropping a pre-packaged exploit - it’s about building one mid-operation.\r\nThrough case studies against high-profile global targets, we’ll show how this approach surfaced and chained zero-day vulnerabilities to breach external perimeters and operate effectively in mature environments. Whether you’re looking to sharpen your offensive capabilities or expand your initial access playbook, this session delivers hard-earned insights straight from the field",["Mohamed Elsayed","Abdulrahman Nour"],5,"2026-10-03 14:40","2026-10-03 15:20",3,"en"],["NAWSXY","🏆 ROMhack Camp Table Football Cup","👥 Format: teams of two, 16 teams\r\n✍️ Sign-up: write your names on the sheet at the Gentleman Loser Bar (where the beer is). Closes today at 13:00. First come, first served, with a waitlist\r\n🕒 Kick-off: today at 15:00\r\n🏅 Prize: eternal glory\r\n\r\nSee you at the table!",["Cyber Saiyan"],13,"2026-10-03 15:00","2026-10-03 17:00",7,"en"],["TGTBKG","Il bullismo non va in vacanza","**Bullismo No Grazie** è un'associazione no profit nata nel 2021 che ha incontrato oltre 200.000 ragazzi e 90.000 adulti in più di 100 città italiane, percorrendo oltre 150.000 km di scuole, palestre e villaggi turistici.\r\n\r\nIn questo workshop portiamo la realtà che vediamo ogni giorno: le challenge pericolose che circolano tra bambini di IV e V elementare, i social network che i ragazzi usano e che i genitori non conoscono, le responsabilità civili e penali che ricadono sulle famiglie quando un minore commette atti di cyberbullismo.\r\n\r\nNiente teoria. Solo casi reali, domande vere, strumenti pratici per riconoscere i segnali e sapere cosa fare.",["Bullismo No Grazie"],4,"2026-10-03 15:00","2026-10-03 18:00",8,"it"],["3LJDWR","Command-Line Alchemy: Turning Scripts into Superpower","Bash isn't just an interface to your daily laptop - it's a weapon. This 45 minute talk shows how to push bash beyond its typical use-cases, leveraging it for hacking, data processing, automation, and real-world security applications. Whether you're crafting exploits, analyzing massive datasets, or automating reconnaissance, this talk will equip you with the skills to turn bash into your ultimate hacking tool.",["Kirils Solovjovs"],7,"2026-10-03 15:10","2026-10-03 15:40",2,"en"],["V9FE9N","Living Off Trusted Cloud: Provider Infrastructure as Phishing Delivery Channel","Phishing defenses assume the attack comes from outside the trusted set: a lookalike domain, a domain registered last week, a sender with no history. Your cloud Provider's own infrastructure breaks that assumption, and this talk covers how far that goes.\r\nB2B guest invitations produce real, Signed mail carrying a redirection target the attacker influences. Open redirects across Trusted Cloud Provider-owned domains supply the pivot, and chaining them keeps the trusted origin intact through to the payload. I'll demo forced POST parameter injection, image and context injection that pulls the target's own tenant branding into the lure, and end-to-end credential and MFA capture. The address bar stays your favorite Provider's the whole way.",["Rahul Vashisht"],5,"2026-10-03 15:20","2026-10-03 16:00",3,"en"],["8VXCLW","Reticulum: building network for fun and resiliency","Quasi tutto ciò che ci diciamo passa attraverso infrastrutture che non ci appartengono. Paghiamo per usarle e ne accettiamo le condizioni. Quando smettono di funzionare o cambiano le regole, non possiamo farci niente. Come Metro Olografix ci siamo chiesti quanto sia davvero difficile costruire qualcosa di diverso.\r\n\r\nSiamo partiti da Meshtastic: dispositivi LoRa economici, nessun operatore, nessun server centrale, nessun abbonamento. I messaggi crittografati rimbalzano di nodo in nodo per chilometri, e il costo di ingresso è quello di un paio di pizze. Poi siamo andati oltre e abbiamo esplorato Reticulum. È uno stack di rete basato sulla crittografia, pensato per funzionare su quasi ogni mezzo trasmissivo, dalla radio LoRa al packet radio fino al semplice IP, senza alcun coordinamento centrale.\r\n\r\nIn questo lightning talk raccontiamo cosa abbiamo costruito finora, cosa ha funzionato, cosa si è rotto e cosa abbiamo imparato strada facendo, tra sperimentazioni sul campo e incontri aperti a chiunque volesse provare. Abbiamo scoperto presto che la parte difficile non è la tecnologia, ma le persone. Una rete mesh diventa utile solo quando abbastanza persone decidono di farne parte, mettendo un nodo sul balcone, in sede o nello zaino. E costruirla, oltre che utile, è anche molto divertente.",["Metro Olografix"],11,"2026-10-03 15:40","2026-10-03 16:00",2,"it"],["PTNMVU","Cash, Card or Root? Security Archaeology of a Fiscal Cash Register","Fiscal cash registers are everywhere in Italy, yet they receive surprisingly little attention as embedded systems. They are regulated appliances with tamper-evident seals, periodic inspections, controlled service procedures, and hardware mechanisms intended to make fiscal data difficult to manipulate.\r\nWe bought one of the most common models on the second-hand market and started taking it apart. Inside, we found an unusual design: an FPGA driving the user interface, an internal battery supporting a peculiar power lifecycle, a resin-encapsulated memory module, and physical switches hidden on the main board.\r\n\r\nThe software architecture is much more familiar: the device runs an old Linux-based OS with a writable root filesystem, essentially no privilege separation, extensive debug functionality, and a broad network attack surface.\r\n\r\nWhether you prefer hardware or software, we found ways in from both sides. Rather than presenting a vulnerability catalogue, this talk examines the security model of a regulated embedded system and the mismatch between elaborate physical protections and weak software trust boundaries.\r\nWhat does “tamper resistant” mean when the protected component is connected to a general-purpose computer with weak security assumptions?\r\n\r\nBy the end of the talk, we’ll have answered that question and one more: does it run Doom?",["Jacopo Jannone","Jacopo Moioli"],5,"2026-10-03 16:00","2026-10-03 16:40",2,"en"],["UCVJX3","Tesla Coil by VoltagePyromania","In questa presentazione verrà illustrato il principio di funzionamento delle Tesla coil musicali, dispositivi elettromeccanici capaci di generare scariche elettriche controllate e visibili, sincronizzate con segnali audio. Partendo da un inquadramento storico e scientifico, verrà spiegato cosa sono le Tesla coil e come, attraverso l’elettronica di potenza e il controllo digitale, sia possibile modulare le scariche per produrre suoni e melodie. L’incontro approfondirà i concetti di risonanza, alta tensione e ionizzazione dell’aria, evidenziando il legame tra fisica, ingegneria e musica. La presentazione farà da introduzione allo spettacolo serale, in cui le Tesla coil musicali saranno protagoniste di una performance dal vivo: un’esperienza immersiva che unisce divulgazione scientifica e intrattenimento, trasformando l’elettricità in luce, suono ed emozione.",["michele pietravalle aka PHCV"],6,"2026-10-03 16:00","2026-10-03 16:40",3,"it"],["ALJJBE","From IOC to Detection: Turning Threat Intelligence Into Something Your SOC Can Actually Use","Threat intelligence teams collect indicators, follow threat actors and produce reports. SOC teams build detections and investigate alerts. Too often, the connection between the two ends with a list of IP addresses, domains and hashes added to a SIEM.\r\n\r\nThis talk looks at how to move beyond that model.\r\n\r\nUsing practical attack examples, I'll walk through how intelligence can be transformed from an IOC or threat report into an investigative hypothesis, observable attacker behaviour and ultimately a detection. We will look at what information gets lost when intelligence is reduced to indicators, how to identify the behaviour behind those indicators, and how to decide which telemetry can actually expose it.\r\n\r\nThe session follows a simple workflow:\r\n\r\nThreat Intelligence → Adversary Behaviour → Detection Hypothesis → Telemetry → Detection → Hunt → Validation\r\n\r\nI'll also cover what happens after a detection fires: how investigation results can feed back into threat intelligence, improve context and help identify what should be hunted for next.\r\n\r\nThe goal is not to collect more intelligence or generate more alerts. It is to make threat intelligence operational enough to change what your SOC can detect.\r\n\r\nAn IOC may tell you what the attacker used. A good detection should help you find what the attacker did.",["Sanjay Kumar"],5,"2026-10-03 16:00","2026-10-03 17:00",5,"en"],["HBCFWE","Using Temporal‑Spatial 3D CNN Features to Enhance OSINT‑Based Profiling and Individual Traceability","Deepfake detection using 3D CNNs traditionally focuses on identifying synthetic facial manipulations in video. This work inverts that lens. I leverage temporal‑spatial 3D CNN features originally designed to spot fake videos and apply them to a completely different domain: OSINT‑based profiling. By treating metadata as a volumetric signal across related individuals, the same convolutional filters that detect frame‑to‑frame anomalies can reconstruct familial linkages from public or leaked databases. This methodology enhances traditional OSINT by adding a predictive layer. Instead of manually building family trees, the 3D CNN model learns kinship patterns and flags potential person matches with high confidence. The result is a hybrid attack that combines AI forensics and open source intelligence to identify a target individual from a distant relative’s spit sample. I demonstrate a proof of concept using synthetic profiles and real OSINT sources. The talk shows how a deepfake detection technique becomes a privacy‑breaking weapon for person traceability at scale.",["Reza"],5,"2026-10-03 16:40","2026-10-03 17:20",3,"en"],["9V9HDD","The state of systemd security sandboxing in Debian","Systemd units have many built-in configuration options that can be used to restrict access of a unit to the rest of the system, with the goal of containing a compromised system service.\r\nMarco will review the state of systemd security sandboxing in Debian packages, what we need to fix to have more and what will break by enabling too much of it.",["Marco d'Itri"],5,"2026-10-03 17:00","2026-10-03 17:20",2,"en"],["GHQT3K","Hands-On Forensic Imaging and Data Extraction from Windows and macOS Using Free and Open Source Tools","The growing reliance on heterogeneous computing environments in both personal and enterprise contexts has made cross-platform forensic acquisition a critical competency for digital investigators. Yet the adoption of rigorous forensic workflows remains uneven, particularly in resource-constrained settings where commercial tools may be inaccessible. This workshop addresses that gap by offering a structured, hands-on introduction to forensic data extraction from Windows and macOS systems using exclusively free tools.\r\nThe session opens with a foundational module covering the core principles of digital forensics as they apply to forensic imaging: bit-by-bit acquisition, cryptographic hash verification (MD5, SHA-256), write-blocking procedures, chain of custody documentation, and legal admissibility requirements. \r\nThe practical component introduces a curated toolkit of free acquisition and analysis solutions. Guymager is presented as a reliable, GUI-based imaging platform offering multi-format output (DD, EWF/E01, AFF), real-time hash calculation, and parallel acquisition support. Fuji is introduced as a modern imager optimized for macOS environments, particularly suited for APFS volumes and Apple Silicon hardware, featuring automated image verification workflows. For analysis, FTK Imager is demonstrated for forensic extraction from Windows hosts, while Autopsy provides participants with an open-source platform for analysis, data recovery and case management.",["Alessandro Farina"],9,"2026-10-03 17:00","2026-10-03 19:00",5,"en"],["RVWPFH","Meethack NFC CTF — Solutions Revealed","Couldn't crack the Mifare Classic 1K challenge, or just curious how it's done? Join Meethack as we walk through the solution to the NFC CTF launched on Friday.\r\n\r\n📍 Meethack stand\r\n\r\nThe full write-up will also be posted afterwards in the Telegram group.\r\n\r\nSee you there!",["IadRabbit"],5,"2026-10-03 17:00","2026-10-03 17:30",9,"en"],["VPLU83","From Discovery to Automated Windows Malware Analysis","Threat actors are increasingly adopting generative Al to rapidly generate, mutate, and deploy malware at scale. Combating this influx requires automated analysis that goes beyond rigid signatures. In this session, we demonstrate an automated analysis framework utilizing LangGraph, CAPEv2 sandbox telemetry, and locally hosted LLMs to summarize what we found out.",["Pizzamarinarasadd"],5,"2026-10-03 17:30","2026-10-03 17:50",2,"en"],["CATUNP","Ghost in the SIM: Silent, Zero-Click, Over-the-Air Exploitation of a Pixel 9 Baseband OOB Read","Cellular baseband processors run highly privileged, proprietary software beneath the main OS, making them a critical yet hard-to-analyze attack surface. Focusing on the Google Pixel 9 modem, this talk demonstrates how adapting open-source emulation software allowed us to build a baseband fuzzing pipeline, surfacing three new vulnerabilities and several rediscoveries, including an Out-of-Bounds (OOB) read in 5G message parsing.\r\nAfter validating the flaw with Software Defined Radios (SDRs), we address the challenge of turning local memory leaks into full remote attacks. We show how SIM Toolkit (STK) applets, legitimate applications running on SIMs/eSIMs that can be provisioned over-the-air, can be repurposed as a delivery and execution primitive operating entirely outside main OS visibility. Finally, we detail how pairing remote STK provisioning with the 5G baseband vulnerability creates a silent, zero-click exfiltration chain that leaks sensitive memory over SMS.",["Lorenzo Valeriani","Pasquale Caporaso"],5,"2026-10-03 17:30","2026-10-03 17:50",3,"en"],["WVKS3F","A call for collective action on cyber defense","AI is changing both the scale and speed of cyber offense and defense. In response, more than 100 organizations across technology, cybersecurity, industry, and government have called for a global surge in cyber defense: better tools for defenders, stronger protection for critical infrastructure, more useful intelligence sharing, and faster remediation of vulnerabilities.\r\n\r\nThe harder question is what happens next. What should organizations actually commit to, and how should progress be measured? Who gets access to advanced defensive AI, and who decides what qualifies as a “trusted defender”? How can vendors share intelligence and fixes that defenders can use in practice? And who pays to bring these capabilities to smaller hospitals, utilities, municipalities, and other resource-constrained organizations?\r\n\r\nThe panel will also tackle a fundamental technical challenge: securing software and infrastructure at scale. More models, agents, or compute do not automatically translate into fewer critical vulnerabilities. We will discuss what AI labs, governments, security vendors, software producers, and infrastructure operators each need to do to turn a broad call for action into concrete, accountable improvements in cyber defense.",["Andrea Cappa","Abdel Adim `smaury` Oisfi","gdg"],5,"2026-10-03 18:00","2026-10-03 18:40",2,"en"],["9ZK9QM","Community CTF by fibonhack - Award Ceremony","The long night is finally over! After an intense 12-hour on-site hacking marathon, it is time to wrap up the From Dusk Till Dawn CTF.\r\n\r\nOrganized by the brilliant community-driven group **fibonhack**, this competition tested the limits of our finalists across Web Security, Binary Exploitation, Cryptography, and Reverse Engineering. \r\nWhile the rest of the camp slept, five elite teams—FR13NDS TEAM, TPC, thePizzaIncident, SaturnX, and Mntcrl—battled it out from Friday at 19:00 straight through to Saturday morning at 07:00.\r\n\r\nIn this 20-minute award ceremony, the **fibonhack** and **Cyber Saiyan** teams will take the stage to review the final scoreboard and officially crown the **RomHack Camp 2026 Community CTF Champions**.\r\n\r\nJoin us to celebrate the incredible skills of our players, discover who takes home the prizes, and give a massive round of applause to everyone who survived until dawn!",["fibonhack"],5,"2026-10-03 18:00","2026-10-03 18:30",3,"en"],["ZHYFFX","PhySec Lab Part 2: Hacking Physical Access Control Systems","This 2 hours workshop (max 20 people) is designed to provide the attendees a good grasp on how Physical Access Control Systems work and how they can be defeated. During the course there will be multiple real examples and different offensive techniques will be explained. In the second part, it will be also possible to try exploiting them in live against real targets setup for the occasion.",["CYBERANTANI"],5,"2026-10-03 18:00","2026-10-03 20:00",8,"en"],["JZSCRH","GULP: See the Attack. Understand the Story. Prove the Facts","Modern Digital Forensics and Incident Response (DFIR) investigations require analysts to process large volumes of heterogeneous data, correlate evidence from multiple sources, and quickly reconstruct attack timelines without losing context. Gulp (Graphical Universal Log Processor) is designed to address these challenges by providing a flexible, visual platform for exploring, correlating, and analyzing logs and digital artifacts, complementing existing forensic workflows rather than replacing them.\r\n\r\nThis session introduces the GULP project, its architecture, and the challenges it is designed to address. The core of the presentation is a hands-on investigation that walks attendees through the different stages of a real-world attack. It also demonstrates how GULP can be used to analyze data collected from third-party forensic tools and log sources, leveraging graphical visualizations and contextual correlations to accelerate investigations and improve the understanding of complex attack scenarios.",["Davide Inzerillo","calligraf0"],5,"2026-10-03 18:30","2026-10-03 19:10",2,"en"],["DZPHFB","ZeroSOC Framework Working Session: Building the Open Standard for Human & Agentic SecOps","Why is security operations know-how trapped inside proprietary vendor platforms and siloed team wikis? Traditional SOCs operate at human speed against machine-speed adversaries, while commercial \"AI SOC\" tools hide behind opaque black boxes and prohibitive costs. Meanwhile, attempting to automate without common operational grammar leads to alert chaos, hallucinations, and inconsistent response actions that either disrupt business operations or leave incidents partially unresolved.\r\nThe ZeroSOC initiative (zerosoc.org) is an early-stage open project (Apache-2.0, v0.1 working draft) democratizing autonomous cyberdefense. Centered on the ZeroSOC Framework, it explores Executor Neutrality — the principle that the same human-readable playbook can be executed interchangeably by a human analyst, deterministic automation, or an AI agent —, OCSF-aligned taxonomy, and verifiable measurement gates.\r\nThis 1-hour interactive working session aims to bring together SOC analysts, detection engineers, incident responders, and researchers at RomHack Camp to co-design and shape this emerging standard. Following a 15-minute introduction to the architecture (no prerequisites required), we will open the floor for a working group focused on the framework's foundational building blocks: Definitions & Taxonomy, 4-Phase Processes, Operational Metrics, Agentic Guardrails, and Playbooks. Come ready to challenge assumptions, debate edge cases, and help architect the open foundation for modern SecOps!",["Berghem-in-the-Middle"],5,"2026-10-03 19:00","2026-10-03 20:00",5,"en"],["3FTTEN","🍕 Pizza Truck — Wood-Fired Dinner","Hungry after a day of hacking? A wood-fired Pizza Truck parks on site both evenings, serving fresh pizza straight from a real wood oven.\r\n\r\nNo need to leave the woods for dinner — grab a slice, grab a seat, and refuel before or after the Hacker Cinema Night and the After Dark music session.\r\n\r\nAvailable Friday and Saturday evening.",["Pizza Truck"],15,"2026-10-03 19:00","2026-10-03 23:00",10,"en"],["XQUFNN","The miracle of Plane and Sprite Multiplication","How it was possible to have more that one independent scrolling plane in a C64 videogame? How it was possible to have more than the 8 declared sprites in a 50 frames per second game? We will explore the tricks and the strategies applied by most of the games of the C64 era, including my shoot-em-up game Catalypse. We will discuss about charset maps, double buffering, shifting chars but also about the software interrupts, the synchronized drawing opportunities given by the VIC II graphic chipset and the real-life sorting algorithm choices, everything constrained inside a complete screen raster time",["Andrea Pompili"],12,"2026-10-03 19:20","2026-10-03 20:00",3,"en"],["WCZZS9","Bada home la fuma - gnocco fritto by fibonhack","You've definitely seen that guy shouting about some focaccia saying \"bada 'ome la fuma\"\r\nThat catchphrase somehow became part of Tuscany's identity, so why not embracing that? We'll serve you the classic fried snack from pisa, the _Sgabeo_, prepared by fibonhack with love",["fibonhack"],15,"2026-10-03 20:00","2026-10-03 23:00",9,"en"],["PUJVLA","Hacker Cinema Night - The Hitchhiker's Guide to the Galaxy (2005)","One more night, one more film.\r\n\r\nAfter a full day of hacking and the CTF award ceremony, we close Saturday under the open sky with [The Hitchhiker's Guide to the Galaxy](https://www.imdb.com/title/tt0371724/) (2005). Douglas Adams' tale of Earth's demolition, improbable escapes, and one very useful towel — a reminder that the answer might be 42, but the fun is in the questions.\r\n\r\nSame spot, same spirit as Friday. Bring your towel and Don't Panic.",["Cyber Saiyan"],13,"2026-10-03 20:30","2026-10-03 22:30",3,"en"],["FZ8THH","NIS 2 by night","Una chiacchierata libera tra soggetti NIS ed interessati\r\nUna chiacchierata libera tra soggetti NIS ed interessati\r\nUna chiacchierata libera tra soggetti NIS ed interessati\r\nUna chiacchierata libera tra soggetti NIS ed interessati",["Marco d'Itri"],5,"2026-10-03 21:00","2026-10-03 22:00",5,"en"],["DYTTWZ","Whiskyleaks","Self organizing, repeating, turned into a legend. Many bottles arrive, none leave. Bring a bottle of your favourite whisky (or other spirits) and share it with other passionate drinkers. If you can’t bring a bottle, come along - bring one next time!\r\n\r\n📍 Milliways stand",["Milliways"],9,"2026-10-03 21:00","2026-10-03 22:00",9,"en"],["CUHGR3","Trusting Trust, Hands On: Building a Self-Reproducing Compiler Backdoor","In 1984 Ken Thompson, during his Turing Award acceptance speech, introduced to the world a very interesting kind of backdoor, described by himself as \"the cutest program I have ever wrote\". The speech has later been written in an article called \"Reflections on Trusting Trust\".\r\n\r\nThe idea is simple: modify a C compiler in order to insert a backdoor into the login binary whenever the login.c program is compiled. The backdoor allows a specific username to bypass authentication and obtain root privileges. This is the simple step. Then comes the hack: the logic to introduce the backdoor will replicate itself whenever the compromised compiler is used to compile a new compiler. This means that once your compiler has been compromised, it becomes very hard to get rid of it. Because how do you compile a compiler? With the compiler you already have!\r\n\r\nThis workshop is all about compilers and backdoors. To make it practical we will apply it against a small but functional C compiler (TinyCC). We will show how to build a working Thompson backdoor step by step in a fun and reproducible way. We will talk about quines, about self-replication, and ultimately about why trust in software cannot be established by just reading the source code. The Thompson backdoor is now 40 years old, yet it is more relevant than ever, as modern supply-chain compromises e.g. SolarWinds can be reduced to similar trust-delegation problems in the supply chain of software as Thompson described.",["Leonardo Tamiano"],5,"2026-10-03 21:30","2026-10-03 22:30",8,"en"],["K7LM7X","Ghost talk malware PHP","Ghost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP\r\nGhost talk malware PHP",["Marco d'Itri"],5,"2026-10-03 22:00","2026-10-03 23:00",5,"en"],["HEPMEH","After Dark - Saturday Music Session","One more night, one more set.\r\n\r\nAfter the Saturday film, we close the Camp's last full night the right way. Two hours of open-air music with the community.\r\n\r\nSame spirit as Friday, one more chance to hang out under the sky before the Camp winds down.\r\n\r\nThe DJ line-up will be announced closer to the Camp.",["Cyber Saiyan"],13,"2026-10-03 22:30","2026-10-04 00:30",2,"en"],["BLFNET","Imagine: pwning your favourite Nintendo DS game!","Imagine pwning a game from your childhood! \r\nWhat could possibly go wrong with a cute Nintendo DS game?\r\n\r\nThis talk will include a brief overview of the game, some useful details about Nintendo DS internals, the exploitation process, and a few other interesting observations I made while reversing it.",["daisy"],5,"2026-10-04 10:00","2026-10-04 10:40",2,"en"],["QBPJBB","When Even AI Writes the CVE","We used to treat every CVE as an alert. Each one meant dropping what we were building, classifying severity, chasing versions, lighting up the dashboard in red. Endless noise. That works when a serious vulnerability is a monthly event. It doesn't anymore. In 2025 the Linux kernel was the single most reported product on the planet, with thousands of CVEs, **roughly ten every day, from one project**. And its maintainers don't even rank them by severity, so you can't sit back and wait for the \"important\" ones. Then the AI era poured fuel on the fire: 2026 is on track for **66,000 CVEs**, and a single AI model (Claude Mythos) recently surfaced thousands of high severity flaws that remain **99% unpatched**. The flood is now machine speed.\r\n\r\nWhen a CVE lands every few minutes, you can't sound the alarm every time. So we stopped. Today patching is just part of the workflow, and we fight AI with AI: automation ingests and rolls out the patches, while AI triages the flood down to what is actually exploitable for each deployment. This talk shows how a small team keeps **hundreds of Keycloak clusters and thousands of vulnerabilities** under control, everywhere and anytime, without adding a single delay to the product roadmap.",["Luis Rubiera"],5,"2026-10-04 10:00","2026-10-04 10:40",3,"en"],["87DHLD","Zero to podcaster, start today your show with AI!","Ready to build?\r\nMove beyond theory and construct a full functional AI-powered podcast in this hands-on \"Build with AI\" workshop.\r\nWe'll guide you through an end-to-end workflow, leveraging specific Google AI and Cloud tools to transform an idea into publishable audio content.\r\n-Dive into practical prompt engineering with Google Gemini. You'll actively brainstorm niche topics, outline a compelling episode structure, and generate a working script for a short podcast segment.\r\n-Take your Gemini-generated script and bring it to life. We'll use the Google Cloud Text-to-Speech API to synthesize natural-sounding voice audio, experimenting with different voice profiles. You'll see how to generate audio files directly from text.\r\n-We'll then explore how Google Cloud Run can serve as the backbone for automating this workflow – designing a simple service architecture capable of potentially taking script inputs and orchestrating the TTS generation and audio file delivery. \r\nWho is this for? Developers, creators, and tech enthusiasts that want to apply latest Google's AI and Cloud tools to the content creation challenges.",["Nicola Guglielmi"],13,"2026-10-04 10:00","2026-10-04 11:00",5,"it"],["PRSQPQ","When IaC goes wrong","The infrastructure team built out an automated and orchestrated solution to simplify it all, access, scaling ect. Alas the team who built it has left or is allocated to another project; services and infrastructure are breaking. This session will examine the challenges of lifecycle management that IaC can create, and uncover a few strategies you can use to prevent it.",["Sean Juroviesky"],5,"2026-10-04 10:40","2026-10-04 11:20",3,"en"],["N93XCA","Chain Reaction - From Isolated Vulnerabilities to Full System Compromise","This talk presents a real-world penetration test of a global platform with over 30 million users, where a series of seemingly isolated vulnerabilities were transformed into a complete attack chain that resulted in full system compromise.\r\n\r\nAttendees will follow the attacker's path as trust boundaries are systematically dismantled through exposed secrets in public JavaScript, session abuse, cross-application trust violations, and critical CORS and WAF misconfigurations. What begins as a handful of low-risk findings rapidly escalates into the exposure of production credentials, cryptographic keys, and complete control over the platform.\r\n\r\nThis is a technical autopsy of how small cracks can align to create a catastrophic failure and a front-row seat to how attackers turn scattered weaknesses into total compromise!",["Rana"],5,"2026-10-04 11:00","2026-10-04 11:40",2,"en"],["UW8HAH","RomHack Camp Closing","As three incredible days of hacking, learning, and community life come to an end, it’s time to gather for the RomHack Camp 2026 closing remarks. \r\n\r\nIn this final session, the Cyber Saiyan team will look back at the best highlights of this second edition, sharing key event insights, memorable milestones, and our collective achievements. \r\nMost importantly, we want to express our deepest gratitude to our brilliant speakers, the independent community groups who brought the villages to life, our supportive sponsors, and our tireless team of volunteers who made this event possible. \r\n\r\nJoin us to wrap up the camp, celebrate the community, and get a quick sneak peek at what’s next on the roadmap for Cyber Saiyan. Safe travels home!",["Cyber Saiyan"],14,"2026-10-04 12:00","2026-10-04 12:30",2,"en"]] 
+ 
+(function(){
+var root=document.getElementById('rhs');
+if(!root||root.getAttribute('data-ready'))return;
+root.setAttribute('data-ready','1');
+var RAW;try{RAW=JSON.parse(document.getElementById('rhs-data').textContent);}catch(e){root.textContent='Schedule data could not be loaded.';return;}
+var ROOMS=[[2,"STAGE 1 (Section 9)",""],[3,"STAGE 2 (Ghost in the Shellcode)",""],[5,"WORKSHOP 1 (Neon Genesis Exploitation)",""],[8,"WORKSHOP 2 (GetRoot no Jutsu)",""],[7,"HACKSPACE (The Wired)",""],[9,"COMMUNITY AREA",""],[10,"FOOD AREA","Outside the camp area"]];
+var TRACKS=[[14,"Orga","#a52a2a",""],[15,"Food","#6f7c1a",""],[16,"Sponsor","#aaa604",""],[5,"Cybersecurity and Hacking","#00ccff","The core of the camp. Offensive security, binary exploitation, web vulnerabilities, OSINT, and real-world bug bounty tales."],[13,"Entertainment","#7b2fbf",""],[12,"Gaming and game development","#800aa7","The intersection of code and play. Deep dives into emulators, homemade engines, ROM hacking, and the art of reverse engineering game logic."],[6,"Hardware, Makers and IoT","#fbaa12","Getting your hands dirty. DIY electronics, IoT teardowns, embedded systems, and the \"Right to Repair\" culture."],[10,"Journalism, society, hacker culture","#61be3d","The human side of tech. History of the underground, digital rights, surveillance awareness, and the ethics of community building."],[4,"Kids","#001dff","Empowering the next generation. Interactive sessions on hacking for young minds, maker-labs, and cybersecurity through play."],[11,"Networking and Radio","#25a785","Explore the airwaves and the wire. From SDR and RF hacking to mesh networks, extreme homelabs, and the \"cloud horror stories\" that keep us up at night."],[7,"Scripting, Coding, Development","#d02077","Beyond the syntax. Low-level programming, software archeology, esoteric languages, and the creative use of modern dev tooling."],[9,"Other","#406d78","The \"Unclassified\" category. If your project is too weird, too new, or too unique to fit elsewhere, this is its home."]];
+var DAYS=[["2026-10-02","Fri 2 Oct"],["2026-10-03","Sat 3 Oct"],["2026-10-04","Sun 4 Oct"]];
+var LANGS={en:"English",it:"Italiano"};
+var SCALE=2.6;
+var TR={},RM={};
+TRACKS.forEach(function(t){TR[t[0]]={id:t[0],name:t[1],color:t[2],desc:t[3],ink:ink(t[2])};});
+ROOMS.forEach(function(r){RM[r[0]]={id:r[0],name:r[1],note:r[2]};});
+function ink(h){var n=parseInt(h.slice(1),16),r=n>>16&255,g=n>>8&255,b=n&255;var f=function(c){c/=255;return c .4?"#111827":"#ffffff";}
+function pad(n){return(n /g,">").replace(/"/g,""");}
+function dur(m){if(m 1440?" (+1)":"");}
+/* ---- tiny markdown renderer ---- */
+function inl(s){
+ var ph=[];
+ function keep(h){ph.push(h);return "\u0000"+(ph.length-1)+"\u0000";}
+ s=s.replace(/\[([^\]]*)\]\(\[url\]\((https?:\/\/[^)\s]+)\)\)/g,"[$1]($2)");
+ s=s.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,function(m,t,u){return keep(' '+esc(t)+' ');});
+ s=esc(s);
+ s=s.replace(/(https?:\/\/[^\s '+u+' ');});
+ s=s.replace(/\*\*([^*]+)\*\*/g," $1 ");
+ s=s.replace(/(^|[^*\w])\*([^*\s][^*]*?)\*(?![*\w])/g,"$1 $2 ");
+ s=s.replace(/(^|[\s>(])_([^_]+?)_(?=[\s $2 ");
+ s=s.replace(/`([^`]+)`/g," $1 ");
+ return s.replace(/\u0000(\d+)\u0000/g,function(m,i){return ph[+i];});
+}
+function md(t){
+ var L=String(t).replace(/\r/g,"").split("\n"),out=[],para=[],list=[],quote=null;
+ function fp(){if(para.length){out.push(" "+para.map(inl).join(" ")+" ");para=[];}}
+ function fl(){if(!list.length)return;var h=" ",open=false;
+ list.forEach(function(it,i){
+ if(it.l===1&&!open){h+=" ";open=true;}
+ if(it.l===0&&open){h+=" ";open=false;}
+ h+=" "+inl(it.t)+" ";
+ });
+ if(open)h+=" ";out.push(h+" ");list=[];}
+ function fq(){if(quote){out.push(" "+md(quote.join("\n"))+" ");quote=null;}}
+ L.forEach(function(ln){
+ var m;
+ if(/^\s*>/.test(ln)){fp();fl();(quote=quote||[]).push(ln.replace(/^\s*>\s?/,""));return;}
+ fq();
+ if(!ln.trim()){fp();fl();return;}
+ if((m=ln.match(/^\s*#{1,6}\s+(.*)$/))){fp();fl();out.push(" "+inl(m[1])+" ");return;}
+ if((m=ln.match(/^(\s*)([*\u2022-]|\d+[.)])\s+(.*)$/))){fp();list.push({l:m[1].length>=2?1:0,t:m[3]});return;}
+ fl();para.push(ln.replace(/^\s+/,""));
+ });
+ fp();fl();fq();
+ return out.join("");
+}
+/* ---- state ---- */
+var st={day:0,view:(window.innerWidth ';
+ DAYS.forEach(function(d,i){h+=' '+d[1]+' ';});
+ h+=' Grid List ';
+ h+=' Search ';
+ h+=' Room All rooms ';
+ ROOMS.forEach(function(r){h+=' '+esc(r[1])+' ';});
+ h+=' Language All languages English Italiano ';
+ h+=' \u2605 My favourites Clear filters ';
+ h+=' =820?' open':'')+'> Filter by track ';
+ TRACKS.forEach(function(t){h+=' '+esc(t[1])+' ';});
+ h+=' ';
+ h+=' Times are Europe/Rome (CEST, UTC+2). ';
+ h+=' ';
+ root.innerHTML=h;
+ elTabs=root.querySelector(".rhs-tabs");elCount=root.querySelector(".rhs-count");elBody=root.querySelector(".rhs-scroll");elOv=root.querySelector(".rhs-ov");
+}
+function sync(){
+ [].forEach.call(root.querySelectorAll(".rhs-tab"),function(b){b.setAttribute("aria-selected",String(+b.getAttribute("data-i")===st.day));});
+ [].forEach.call(root.querySelectorAll("[data-act=view]"),function(b){b.setAttribute("aria-pressed",String(b.getAttribute("data-v")===st.view));});
+ [].forEach.call(root.querySelectorAll("[data-act=track]"),function(b){b.setAttribute("aria-pressed",String(!!st.tracks[b.getAttribute("data-t")]));});
+ root.querySelector("[data-act=fav]").setAttribute("aria-pressed",String(st.fav));
+ root.querySelector("[data-act=fav] span").textContent="My favourites ("+Object.keys(FAV).length+")";
+}
+/* ---- rendering ---- */
+function star(x){var on=!!FAV[x.id];return ' '+(on?"\u2605":"\u2606")+' ';}
+function spkTxt(x){return esc(x.spk.join(", "));}
+function lanes(list){
+ var res=[],cl=[],end=0;
+ function close(){var n=0;cl.forEach(function(c){if(c.lane+1>n)n=c.lane+1;});cl.forEach(function(c){c.n=n;res.push(c);});cl=[];}
+ list.forEach(function(x){
+ if(cl.length&&x.s>=end)close();
+ var used={};cl.forEach(function(c){if(c.x.e>x.s)used[c.lane]=1;});
+ var l=0;while(used[l])l++;
+ cl.push({x:x,lane:l});end=cl.length===1?x.e:Math.max(end,x.e);
+ });
+ close();return res;
+}
+function renderGrid(items){
+ var all=items;if(!all.length)return ' No sessions on this day. ';
+ var mins=Math.min.apply(null,all.map(function(x){return x.s;})),maxe=Math.max.apply(null,all.map(function(x){return Math.min(x.e,1500);}));
+ var t0=Math.floor(mins/60)*60,t1=Math.ceil(maxe/60)*60,H=(t1-t0)*SCALE;
+ var rooms=ROOMS.filter(function(r){return all.some(function(x){return x.room===r[0];});});
+ var h=' ';
+ rooms.forEach(function(r){h+=' '+esc(r[1])+(r[2]?' '+esc(r[2])+' ':'')+' ';});
+ h+=' ';
+ for(var t=t0;t '+fmt(t)+' ';}
+ h+=' ';
+ rooms.forEach(function(r){
+ var L=lanes(all.filter(function(x){return x.room===r[0];}));
+ h+=' ';
+ L.forEach(function(c){
+ var x=c.x,e=Math.min(x.e,t1),top=(x.s-t0)*SCALE,ht=Math.max((e-x.s)*SCALE-2,22),tr=TR[x.track]||{color:"#888",name:""};
+ var cls="rhs-card"+(ht ';
+ h+=' '+tlabel(x)+(x.lang==="it"?' IT ':'')+' '+esc(x.title)+' '+spkTxt(x)+' '+esc(tr.name)+' '+star(x)+' ';
+ });
+ h+=' ';
+ });
+ return h+' ';
+}
+function renderList(items){
+ var m=items.filter(match);if(!m.length)return ' No sessions match the current filters. ';
+ var h="",last=null;
+ m.forEach(function(x){
+ var key=fmt(x.s);
+ if(key!==last){h+=' '+key+' ';last=key;}
+ var tr=TR[x.track]||{color:"#888",name:"",ink:"#fff"},rm=RM[x.room]||{name:""};
+ h+=' '+fmt(x.s)+' '+dur(x.e-x.s)+' '+esc(x.title)+' '+spkTxt(x)+' '+esc(tr.name)+' '+esc(rm.name)+' '+(x.lang==="it"?"IT":"EN")+' '+(x.e>1440?' until '+fmt(x.e)+' (+1) ':(x.e-x.s>=600?' until '+fmt(x.e)+' (+1) ':''))+' '+star(x)+' ';
+ });
+ return h;
+}
+function render(){
+ var items=daySessions(st.day),n=items.filter(match).length;
+ elBody.style.overflowX="auto";
+ elBody.innerHTML=st.view==="grid"?renderGrid(items):renderList(items);
+ elCount.textContent=n+" of "+items.length+" sessions on "+DAYS[st.day][1];
+ sync();fitScroll();
+}
+function fitScroll(){
+ if(st.view!=="grid"){elBody.style.overflowX="visible";return;}
+ elBody.style.overflowX="auto";
+ if(elBody.scrollWidth \u00d7 '+esc(x.title)+' '+esc(tr.name)+' '+(d?d[1]+", ":"")+tlabel(x)+" \u00b7 "+dur(x.e-x.s)+' '+esc(rm.name)+' '+(LANGS[x.lang]||x.lang)+' '+
+ ' '+x.spk.map(function(s){return ' '+esc(s)+' ';}).join("")+' '+md(x.abs)+' '+
+ ' Add to calendar Copy link '+(FAV[x.id]?"\u2605 Remove favourite":"\u2606 Add to favourites")+' ';
+ lastFocus=document.activeElement;
+ elOv.classList.add("rhs-open");elOv.setAttribute("aria-hidden","false");elOv.scrollTop=0;
+ document.documentElement.setAttribute("data-rhs-lock","1");
+ try{document.body.style.overflow="hidden";}catch(e){}
+ box.querySelector(".rhs-x").focus();
+ if(!noHash)setHash("s="+x.id);
+}
+function closeS(){
+ if(!elOv.classList.contains("rhs-open"))return;
+ elOv.classList.remove("rhs-open");elOv.setAttribute("aria-hidden","true");
+ try{document.body.style.overflow="";}catch(e){}
+ if(lastFocus&&lastFocus.focus&&document.contains(lastFocus))try{lastFocus.focus();}catch(e){}
+ setHash("d="+st.day);
+}
+function setHash(v){try{history.replaceState(null,"",location.pathname+location.search+"#rhs-"+v);}catch(e){}}
+function plain(t){return t.replace(/\r/g,"").replace(/\[([^\]]*)\]\(\[url\]\(([^)]+)\)\)/g,"$1 ($2)").replace(/\[([^\]]*)\]\(([^)]+)\)/g,"$1 ($2)").replace(/[*_`#>]/g,"");}
+function icsEsc(s){return String(s).replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\n/g,"\\n");}
+function icsDate(date,m){var u=Date.UTC(+date.slice(0,4),+date.slice(5,7)-1,+date.slice(8,10),0,m-120);var d=new Date(u);return d.getUTCFullYear()+pad(d.getUTCMonth()+1)+pad(d.getUTCDate())+"T"+pad(d.getUTCHours())+pad(d.getUTCMinutes())+"00Z";}
+function ics(x){
+ var rm=RM[x.room]||{name:""};
+ var L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//RomHack Camp 2026//Schedule//EN","BEGIN:VEVENT","UID:"+x.id+"@romhack.io","DTSTAMP:"+icsDate("2026-10-01",0),"DTSTART:"+icsDate(x.date,x.s),"DTEND:"+icsDate(x.date,x.e),"SUMMARY:"+icsEsc(x.title),"LOCATION:"+icsEsc(rm.name+", Flaminio Village, Rome"),"DESCRIPTION:"+icsEsc(x.spk.join(", ")+"\n\n"+plain(x.abs).slice(0,1500)),"END:VEVENT","END:VCALENDAR"];
+ var blob=new Blob([L.join("\r\n")],{type:"text/calendar;charset=utf-8"});
+ var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="romhack-"+x.code+".ics";document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);
+}
+/* ---- events ---- */
+root.addEventListener("click",function(ev){
+ if(ev.target===elOv){closeS();return;}
+ var t=ev.target.closest?ev.target.closest("[data-act]"):null;if(!t||!root.contains(t))return;
+ var a=t.getAttribute("data-act"),id=t.getAttribute("data-id");
+ if(a==="day"){st.day=+t.getAttribute("data-i");setHash("d="+st.day);render();}
+ else if(a==="view"){st.view=t.getAttribute("data-v");render();}
+ else if(a==="track"){var k=t.getAttribute("data-t");st.tracks[k]=!st.tracks[k];render();}
+ else if(a==="fav"){st.fav=!st.fav;render();}
+ else if(a==="clear"){st.q="";st.room="";st.lang="";st.fav=false;st.tracks={};root.querySelector("#rhs-q").value="";root.querySelector("#rhs-room").value="";root.querySelector("#rhs-lang").value="";render();}
+ else if(a==="star"){ev.stopPropagation();if(FAV[id])delete FAV[id];else FAV[id]=1;saveFav();render();}
+ else if(a==="open"){openS(id);}
+ else if(a==="close"){closeS();}
+ else if(a==="ics"){ics(BY[id]);}
+ else if(a==="link"){var u=location.href.split("#")[0]+"#rhs-s="+id;try{navigator.clipboard.writeText(u);t.textContent="Link copied";}catch(e){window.prompt("Copy this link",u);}}
+ else if(a==="fav1"){if(FAV[id])delete FAV[id];else FAV[id]=1;saveFav();t.textContent=FAV[id]?"\u2605 Remove favourite":"\u2606 Add to favourites";render();}
+});
+root.addEventListener("keydown",function(ev){
+ if(ev.key==="Escape"){closeS();return;}
+ if((ev.key==="Enter"||ev.key===" ")&&ev.target.getAttribute&&ev.target.getAttribute("data-act")==="open"){ev.preventDefault();openS(ev.target.getAttribute("data-id"));}
+ if(ev.key==="Tab"&&elOv.classList.contains("rhs-open")){
+ var f=[].slice.call(elOv.querySelectorAll("button,a[href]")),i=f.indexOf(document.activeElement);
+ if(!f.length)return;
+ if(ev.shiftKey&&i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RomHack is made with 🤍 by Cyber Saiyan Support us  making a donation  or  becoming a member [ Code of Conduct ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ Icon-twitter-x 
+ 
+ 
+ 
+ 
+ Youtube 
+ 
+ 
+ 
+ 
+ Telegram 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ Instagram 
+ 
+ 
+ 
+ 
+ Mastodon 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ Envelope 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Icon-twitter-x 
+ 
+ 
+ 
+ 
+ Youtube 
+ 
+ 
+ 
+ 
+ Telegram 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Instagram 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ Envelope 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy and Cookies Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cyber Saiyan Ente del Terzo Settore – C.F. (FC) 97958200582 – VAT 14669161003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Camp 
+ 
+ Camp 2026 
+ 
+ Videos 
+ Slides 
+ Photos 
+ Schedule 
+ Communities 
+ The Badge 
+ Swag 
+ Community CTF 
+ RomHack Bẏtes 
+ 
+ 
+ Camp 2022 
+ 
+ Agenda 
+ Communities and People 
+ The Badge 
+ 
+ 
+ 
+ 
+ Training 
+ 
+ Training 2026 
+ Training 2025 
+ Training 2024 
+ Training 2023 
+ 
+ 
+ Conference 
+ 
+ Conf 2025 
+ Conf 2024 
+ Conf 2023 
+ Conf 2022 
+ Conf 2021 
+ Conf 2020 
+ Conf 2019 
+ Conf 2018 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buy tickets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ( () => {
+ const lazyloadRunObserver = () => {
+ const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+ const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+ entries.forEach( ( entry ) => {
+ if ( entry.isIntersecting ) {
+ let lazyloadBackground = entry.target;
+ if( lazyloadBackground ) {
+ lazyloadBackground.classList.add( 'e-lazyloaded' );
+ }
+ lazyloadBackgroundObserver.unobserve( entry.target );
+ }
+ });
+ }, { rootMargin: '200px 0px 200px 0px' } );
+ lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+ lazyloadBackgroundObserver.observe( lazyloadBackground );
+ } );
+ };
+ const events = [
+ 'DOMContentLoaded',
+ 'elementor/lazyload/observe',
+ ];
+ events.forEach( ( event ) => {
+ document.addEventListener( event, lazyloadRunObserver );
+ } );
+ } )();
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+var EAELImageMaskingConfig = {"svg_dir_url":"https://romhack.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/"};
+//# sourceURL=elementor-frontend-js-extra
+ 
+ 
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.3.5","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_atomic_elements":true,"e_opt_in_v4":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true},"urls":{"assets":"https:\/\/romhack.io\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/romhack.io\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/romhack.io\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"b666815942","atomicFormsSendForm":"a4e050765c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":9888,"title":"RomHack%20-%20Schedule","excerpt":"","featuredImage":"https:\/\/romhack.io\/wp-content\/uploads\/2026\/02\/romhack-logo-wordpress-featured-1024x536.png"}};
+//# sourceURL=elementor-frontend-js-before
+ 
+ 
+ 
+ 
+ 
+ 
+var localize = {"ajaxurl":"https://romhack.io/wp-admin/admin-ajax.php","nonce":"b7b5da5927","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https://romhack.io/romhack-schedule/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+//# sourceURL=eael-general-js-extra
+ 
+ 
+ 
+ 
+var embedPrivacyElementor = {"videoTitle":"YouTube video"};
+var embedPrivacyElementor = {"videoTitle":"YouTube video"};
+//# sourceURL=embed-privacy-elementor-video-js-extra
+ 
+ 
+ 
+var embedPrivacy = {"alwaysActiveProviders":[0]};
+//# sourceURL=embed-privacy-js-extra
+ 
+ 
+ 
+ 
+ 
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+ 
+ 
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/romhack.io\/wp-admin\/admin-ajax.php","nonce":"51b29b1f20","urls":{"assets":"https:\/\/romhack.io\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/romhack.io\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/romhack.io\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+ 
+ 
+ 
+ 
+ 
+ 
+var MPTT = {"table_class":"mptt-shortcode-table"};
+//# sourceURL=mptt-event-object-js-extra
+ 
+ 
+ 
+
+
+ 
+ 
+ Install Magi System app 
+ ✕ 
+ 
+
+ 
+ Get the RomHack Camp app 
+ To install it, tap the Share button, then “Add Magi to Home Screen”. 
+ 
+
+ 
+(function () {
+ 'use strict';
+
+ var CFG = {
+ cooldownDays: 14, // dopo la X non ripropone il pulsante per N giorni
+ key: 'rhPwaInstall',
+ swUrl: '/chatbot/sw.js',
+ swScope: '/chatbot/'
+ };
+
+ function get(k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } }
+ function set(k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} }
+ function del(k) { try { window.localStorage.removeItem(k); } catch (e) {} }
+
+ // Debug: aggiungi ?rh-pwa-reset all'URL per azzerare lo stato salvato.
+ if (window.location.search.indexOf('rh-pwa-reset') > -1) {
+ del(CFG.key + ':installed'); del(CFG.key + ':dismissed');
+ }
+
+ // Gia' aperta come app installata -> niente pulsante.
+ var standalone = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
+ window.navigator.standalone === true;
+ if (standalone) { return; }
+ if (get(CFG.key + ':installed')) { return; }
+
+ var dismissedAt = parseInt(get(CFG.key + ':dismissed'), 10) || 0;
+ if (Date.now() - dismissedAt 1);
+ if (isIOS) {
+ document.getElementById('rh-pwa-fab-label').textContent = 'Add Magi to Home Screen';
+ showFab();
+ }
+})();
+ 
+ var localize ={"ajaxurl":"https:\/\/romhack.io\/wp-admin\/admin-ajax.php","nonce":"b7b5da5927","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/romhack.io\/romhack-schedule\/","cart_redirectition":false,"cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}} jQuery( document ).ready(function($){
+ $(document).on('click','.elementor-location-popup a', function(event){
+ elementorProFrontend.modules.popup.closePopup( {}, event);
+ })
+});; 
+ 
+ 
+
+
+ 

@@ -1,0 +1,348 @@
+Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa 
+
+ This site uses cookies. By continuing to browse the site, you agree to our use of cookies. Find out more about cookies .
+
+ I agree 
+
+ × 
+
+ Skip to main content 
+
+ Search 
+
+ Sign In 
+
+ Home 
+ Processes 
+ Assemblies 
+ Help 
+
+ 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese
+
+ #italia2025 
+
+ Idee e proposte per migliorare la digitalizzazione del Paese
+
+ Phase 3 of 3 
+
+ Valutazione delle proposte e restituzione dei risultati 
+
+ 2020-05-01 - 2020-06-30
+
+ Process phases 
+
+ Proposals
+
+ The process
+
+ Proposals
+
+ Back to list
+
+ Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain
+
+ adriano
+
+ 14/01/2020 10:10  
+
+ Report
+
+ Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain “unificando” SPID per l’identità digitale, ANPR per l’anagrafe della popolazione e CIE per i certificati digitali e firme elettroniche. Ci sono diversi vantaggi: 
+
+- è un registro pubblico, condiviso e criptato
+
+- Riduce i tempi, i costi ed i rischi
+
+- Può essere “pensata” centralmente ma usata “localmente”
+
+- Può vivere e integrarsi ai silos degli ecosistemi "tradizionali" (sia nella fase di roll-up graduale che a tendere)
+
+- L’informazione è sempre “aggiornata”
+
+- Anche se “federata” o chiusa la PA disporrebbe comunque di migliaia di Nodi
+
+- Con una parte pubblica può generare integrazioni terze-parti
+
+- Riduce le operazioni manuali potendo integrare pezzi di processi standard
+
+ Sono intrinsechi inoltre tutti gli altri vantaggi tecnici di una soluzione decentralizzata:
+
+ Maggiore resilienza
+
+Minor rischio di manomissione
+
+Controllo, conoscenza e capability distribuito.
+
+ La blockchain conterrà sempre l’ultimo dato aggiornato di tutte le informazioni (Anagrafe, Identità Digitale, Certificato di identità) diventando il primo Single Point of Truth (SPOT).
+
+ Filter results for category: Società digitale 
+ Società digitale 
+
+ Reference: tec-PROP-2020-01-404
+
+ Version number 1 (of 1) see other versions 
+
+ Check fingerprint 
+
+ Fingerprint
+
+ The piece of text below is a shortened, hashed representation of this content. It's useful to ensure the content hasn't been tampered with, as a single modification would result in a totally different value.
+
+ Value: 
+ 41d18df43b4c399e275d5b265a9f96b2a265ca1b816552dcec304f7e1d269813 
+
+ Source: 
+ {"body":{"it":"Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain “unificando” SPID per l’identità digitale, ANPR per l’anagrafe della popolazione e CIE per i certificati digitali e firme elettroniche. Ci sono diversi vantaggi: \r\n- è un registro pubblico, condiviso e criptato\r\n- Riduce i tempi, i costi ed i rischi\r\n- Può essere “pensata” centralmente ma usata “localmente”\r\n- Può vivere e integrarsi ai silos degli ecosistemi \"tradizionali\" (sia nella fase di roll-up graduale che a tendere)\r\n- L’informazione è sempre “aggiornata”\r\n- Anche se “federata” o chiusa la PA disporrebbe comunque di migliaia di Nodi\r\n- Con una parte pubblica può generare integrazioni terze-parti\r\n- Riduce le operazioni manuali potendo integrare pezzi di processi standard\r\n\r\nSono intrinsechi inoltre tutti gli altri vantaggi tecnici di una soluzione decentralizzata:\r\n\r\nMaggiore resilienza\r\nMinor rischio di manomissione\r\nControllo, conoscenza e capability distribuito.\r\n\r\nLa blockchain conterrà sempre l’ultimo dato aggiornato di tutte le informazioni (Anagrafe, Identità Digitale, Certificato di identità) diventando il primo Single Point of Truth (SPOT)."},"title":{"it":"Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain"}} 
+
+ This fingerprint is calculated using a SHA256 hashing algorithm. In order to replicate it yourself, you can use an MD5 calculator online and copy-paste the source data.
+
+ × 
+
+ Share
+
+ Share:
+
+ × 
+
+ Share link
+
+ Share link:
+
+ × 
+
+ Copy
+
+ Embed
+
+ Please paste this code in your page:
+
+ × 
+
+ <script src="https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404/embed.js?locale=en"></script>
+
+ <noscript><iframe src="https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404/embed.html?locale=en" frameborder="0" scrolling="vertical"></iframe></noscript>
+
+ Report inappropriate content
+
+ × 
+
+ Is this content inappropriate?
+
+ Reason 
+
+ Contains clickbait, advertising, scams or script bots. 
+
+ Contains racism, sexism, slurs, personal attacks, death threats, suicide requests or any form of hate speech. 
+
+ Contains illegal activity, suicide threats, personal information, or something else you think doesn't belong on ParteciPa. 
+
+ Additional comments 
+
+ Report 
+
+ 6 comments
+
+ Order by: 
+
+ Older 
+
+ Best rated 
+
+ Recent 
+
+ Older 
+
+ Most discussed 
+
+ Conversation with Fabio Pietrosanti
+
+ Fabio Pietrosanti
+
+ 16/01/2020 22:38 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ Non riesco a vedere in quale modo la tecnologia Blockchain possa essere di alcuna utilità in questo scenario d'uso.
+ La base dati identità è centralizzata, come centralizzata è l'autorità dello stato di gestirla e di modificarla.
+ Mi appare una proposta senza vantaggi e con solo problematiche tecno-soluzionitiche blockchain.
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+ adriano
+
+ 17/01/2020 11:21 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ ciao Fabio, grazie per il commento. 
+
+Potrebbe essere utile però qualche considerazione in più rispetto a "non ci vedo utilità". 
+ Centralizzare l'autorità non è in contrasto con distribuire l'informazione. Naturalmente l'utilità dell'utilizzo della Blockchain per gestire un'identità digitale non l'ho "pensata" io e ci sono realtà come DIF (Decentralized Identity Foundation) che raccoglie partner e collaboratori per sviluppare una identità aperta, decentralizzata ed interoperabile. 
+
+Il World Wide Web Consortium, anche conosciuto come W3C,sta sviluppando standard ed il documento di W3C Decentralized Identifiers (DIDs), Microsoft, IBM ed altri player fanno parte della foundation e hanno sviluppato soluzione per una Identità Decentralizzata. Infine uPort sta sviluppando un sistema “Open Identity System for the Decentralized Web”. 
+
+Gli altri vantaggi li ho descritti sopra, naturalmente immagino che sia tutto da approfondire ma continuo a vederci "l'utilità". Grazie ancora per il contributo.
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ Conversation with adriano
+
+ adriano
+
+ 18/01/2020 18:29 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ aggiungo qui un commento su un altra proposta simile per inserirlo negli elementi di discussione :
+
+Parlando di un piano 2025 ho provato ad essere ancora più "estremo" e ipotizzare l'unificazione dell'identità "fisica" a quella "digitale" (ANPR deve includere non solo le informazioni fisiche come età, sesso, indirizzo di residenza o altezza) ma anche quelle digitali (ID SPID, Certificato Pubblico Personale, Domicilio Digitale ecc) e strumenti per identificare le persone (carta di identità nelle interazioni fisiche e SPID nelle interazioni digitali). Infine potremmo integrare fisico e digitale al fine di avere il secondo fattore di autenticazione (utilizzando il supporto CIE). Tutto questo distribuito su Private Blockchain tra i migliaia di nodi PA (con una parte pubblica aperta a "integratori di servizi") e "automatismi" come ad esempio: in caso di decesso disattivazione immediata della componente digitale ecc ecc
+
+postato qui https://partecipa.gov.it/processes/innovazio 
+
+ I agree with this comment 
+
+ 1 
+
+ I disagree with this comment 
+
+ 0 
+
+ adriano
+
+ 18/01/2020 18:29 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ qui 
+
+ CIE + Spid è tutto più facile! 
+
+ I agree with this comment 
+
+ 1 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ Alex44
+
+ 29/01/2020 01:33 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ Mettere assieme SPID + CIE + App "IO" per sistema unico identità 
+ Ho fatto una proposta simile, più approfondita sul lato applicativo ma meno su quello tecnico. L'aggiunta della blockchain potrebbe essere una valida soluzione 
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ cos_sayan
+
+ 27/04/2020 18:54 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ Against 
+
+ Ho l'impressione che "blockchain" sia una moda passeggera, cosi' come "smart", l'idrogeno come vettore energetico e altri. Tra l'altro le blockchain secondo alcuni studi consumano quantita' mostruose di energia. Lasciamo le cose sul semplice: lo stato gestisce l'identita' digitale tramite suoi server proprietari con gli obiettivi della sua diffusione nel paese e integrazione con servizi di altri paesi. Altre soluzioni complicherebbero invece di semplificare la questione.
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ Loading comments ...
+
+ What can I do in Partecipa? 
+
+ Privacy policy 
+
+ Termini e condizioni d'uso 
+
+ Dichiarazione di accessibilità 
+
+ Scarica da GitHub.com 
+
+ Confirm
+
+ × 
+
+ OK 
+ Cancel 
+
+ Please sign in
+
+ × 
+
+ You can access with an external account
+
+ Login

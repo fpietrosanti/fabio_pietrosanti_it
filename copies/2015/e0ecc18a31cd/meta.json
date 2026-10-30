@@ -1,0 +1,11 @@
+{
+ "source_url": "https://voidsec.com/pirate-night-show/",
+ "fetched_url": "https://voidsec.com/pirate-night-show/",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 151999,
+ "sha256": "a5d74b99febb7a58e3bf04c37de032ddaddeaf78eede2f3d0545462d5b6a1c2c",
+ "name_found": true,
+ "fetched_at": "2026-10-29T23:36:22+00:00"
+}

@@ -1,0 +1,12 @@
+{
+ "source_url": "https://romhack.io/romhack-schedule/",
+ "fetched_url": "https://romhack.io/romhack-schedule/",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 305860,
+ "sha256": "3928c6310b153570552c1613593a92681c35d41530ee9b430521974a13ba6918",
+ "name_found": true,
+ "fetched_at": "2026-10-30T01:50:27+00:00",
+ "note": "La capture Web Archive 20261001031722 precede l'inserimento del talk nel programma; copia rifatta dal sito live (il nome è nel JSON del programma incorporato nella pagina)."
+}

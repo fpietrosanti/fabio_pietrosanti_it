@@ -1,0 +1,293 @@
+Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione 
+
+ IT Security 
+
+ Hot Trends 
+
+ Internet 
+
+ Recensioni 
+
+ Exploit & POC 
+
+ Eventi 
+
+ Search 
+
+ Twitter 
+
+ Google+ 
+
+ LinkedIn 
+
+ Feeds 
+
+ IT Security 
+
+ Hot Trends 
+
+ Internet 
+
+ Recensioni 
+
+ Exploit & POC 
+
+ Eventi 
+
+ Search 
+
+ Twitter 
+
+ Google+ 
+
+ LinkedIn 
+
+ Feeds 
+
+ Menu 
+ Chiudi 
+
+ Fabio Natalucci Post 
+
+ Sicurezza Informatica & Ethical Hacking
+
+ 2 gennaio 2017
+
+ Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione
+
+ 12
+ CONDIVISIONI 
+ Share on Facebook Share on Twitter LinkedIn Google + 
+
+ Da pochi giorni si è concluso l’evento hacker 33c3 organizzato dal Chaos Computer Club ad Amburgo in Germania. Uno degli eventi più attesi dell’anno e dove spesso vengono divulgate informazioni interessanti, su governi, vulnerabilità, tecniche di exploitation e molto altro.
+
+ Quest’anno al 33c3 era presente un nostro connazionale Fabio Pietrosanti con un talk dal titolo: “ Robots txt abuses by government agencies against transparency “.
+
+ Fabio Pietrosanti – Entrepreneur, Technologist, Transparency Advocate, Security Advisor, Privacy Activist, Business Consultant – ‎Hermes – Center For Transparency and Digital Human Rights .
+
+ Nel talk si parla di trasparenza governativa, la stessa “trasparenza” che molti governi da un lato adottano ma poi a quanto pare cercano di nascondere in qualche modo. Per esempio come sapete alcune leggi obbligano le istituzioni a pubblicare (anche online): stipendi dei manager, contratti stipulati con il settore privato, entrate e uscite di bilancio e molto altro.
+
+ Su internet è facile rendere non raggiungibili queste informazioni utilizzando piccoli trick tecnologici, come il file Robots.txt .
+
+ Questo file è molto importante per un sito web perché viene letto dai motori di ricerca come Google per apprendere cosa indicizzare nei propri database. Ogni sito web di solito ne ha uno.
+
+ Il cosa indicizzare o cosa non indicizzare nei motori di ricerca, viene deciso dal proprietario del sito che lo crea di sua spontanea volontà. In alcuni casi il file viene creato in modo automatico da alcuni CMS o plugin, con regole di default.
+
+ Come funziona un file robots.txt?
+
+ Il contenuto tipico di un file robots.txt è
+
+User-agent: * 
+
+ 1
+
+ User - agent : * 
+
+ quel “:*” sta a significare che ogni crawler  che scandaglia internet alla ricerca di siti web da indicizzare, può prendere qualsiasi informazione dal sito e metterla nei propri “database”.
+
+ Se volessimo invece nascondere le informazioni presenti sul nostro sito web e quindi evitare di indicizzare qualsiasi informazioni presente basta scriverci:
+
+User-agent: * 
+Disallow: / 
+
+ 1
+ 2
+
+ User - agent : * 
+ Disallow : / 
+
+ In questo modo il nostro sito internet entrerà a far parte di una sorta di deep web.
+
+ Il file robots.txt una volta creato va poi posizionato nella document root del webserver.
+
+ Per chi volesse approfondire può farlo qui .
+
+ Progetto SenzaFiltri/De-Robots
+
+ De-Robots è un progetto di ricerca ancora in fase beta che consiste in:
+
+ Mettere sotto il riflettore agenzie governative che nascondono informazioni sui motori di ricerca
+
+ Usare la tecnologia per inserire negli indici dei motori di ricerca le informazioni finora non accessibili
+
+ In pratica, De-Robots rende accessibili a tutti queste informazioni che prima erano nascoste deanonimizzando le URL presenti nel file Robots.txt con la regola Disallow . Questo progetto a detta dell’autore si pone l’obiettivo di diffondere un controllo democratico sulla spesa pubblica, smascherare la corruzione e aumentare la trasparenza con i cittadini.
+
+ Fabio successivamente ha mostrato cosa è accaduto utilizzando questo meccanismo contro il governo italiano.
+
+ Sono stati presi da indicePA http://indicepa.gov.it 23k siti web di agenzie pubbliche (anche domini gov.it) e attraverso l’utilizzo di uno script sono state estratte dai file robots.txt le linee con la regola Disallow. Questo ha fatto emergere 1160 hidden path raccolte in un file excel online visibile qui:
+
+https://docs.google.com/spreadsheets/d/12qXpcpU02j4LKGcx8qcUYmQ6DSRuhypP2Fyp5RVmZZc/edit#gid=804367425 
+
+ 1
+
+ https : //docs.google.com/spreadsheets/d/12qXpcpU02j4LKGcx8qcUYmQ6DSRuhypP2Fyp5RVmZZc/edit#gid=804367425 
+
+ Cosa era nascosto? 
+
+ Quello che è emerso sono una serie di documenti, curriculum, parti di siti web istituzionali. Sono stati  mostrati alcuni dei risultati emersi da questa azione tra cui:
+
+ camera.it/robots.txt  che nascondeva i curriculum dei manager a questo link:
+
+ Disallow: /*/application/xmanager/projects/leg17/attachments/curriculum/files/* 
+
+ www.regione.sicilia.it/robots.txt  che nascondeva addirittura una parte del sito che aveva il compito di dare informazioni sulla trasparenza dell’amministrazione:
+
+ Disallow: /amministrazioneaperta 
+
+ http://ec.europa.eu/robots.txt  anche l’Unione Europea che vanta trasparenza con i cittadini nascondeva ai motori di ricerca queste pagine:
+
+ Disallow: /trasparencyregister/public/staticPage/displayStaticPage.do 
+
+ Disallow: /trasparencyregister/public/consultation/search.do 
+
+ Disallow: /trasparencyregister/public/consultation/reportControllerPager.do 
+
+ Disallow: /europeaid/companion/ 
+
+ Disallow: /trasparencyregister/ 
+
+ Disallow: /trasparencyinitiative/ 
+
+ Come sono state rese pubbliche queste informazioni?
+
+ E’ bastato molto poco per far si che i motori di ricerca indicizzassero le URL nascoste. E’ stato necessario registrare un dominio “ senzafiltri.org ” e configurare con i link individuati dallo script iniziale un reverse proxy (https://pypi.python.org/pypi/rproxy). Questo ha poi esposto pubblicamente le URL nascoste con questo formato:
+
+ http:// originalsite .senzafiltri.org/ PathNascosta 
+
+ Il meccanismo sembra aver funzionato e se proviamo a fare una ricerca su Google troveremo indicizzati al momento in cui vi scrivo circa 45.500 risultati che potete vedere voi stessi a questo link 
+
+ Lato negativo
+
+ Se da un lato troviamo un’azione positiva da parte di un attivista in nome della trasparenza delle istituzioni verso i cittadini, dall’altro questa azione ha esposto sui motori di ricerca documenti che non hanno nulla a che fare con la trasparenza e che per un motivo o per l’altro non dovevano figurare sui motori di ricerca.
+
+ Invito quindi, tutti i responsabili dei vari CertPA , CERTdifesa e le varie Polizie a verificare la presenza di link esposti su Google e a prendere le dovute precauzioni li dove necessario. 
+
+ Trovo fondamentale un equilibrio dove la troppa trasparenza non influsica sulla sicurezza delle infrastrutture nazionali.
+
+ 12
+ CONDIVISIONI 
+ Share on Facebook Share on Twitter LinkedIn Google + 
+
+ Comments 
+
+ Post info 
+
+ Author info 
+
+ Fabio Natalucci 
+
+ 2 gennaio 2017 
+
+ Cyber Security , Internet 
+
+ 33c3 , ccc , governo , senzafiltri 
+
+ Previous post
+
+ Violare account WhatsApp: basta la segreteria telefonica
+
+ Next post
+
+ Tutto quello che c’è da sapere sul caso EyePyramid e Giulio Occhionero
+
+ Fabio Natalucci 
+
+ -->
+
+ Ethical Hacker & IT Security Specialist 
+
+ Posts by Fabio Natalucci
+
+ ZeroDays il docufilm su Stuxnet
+
+ 28 gennaio 2017
+
+ Tutto quello che c’è da sapere sul caso EyePyramid e Giulio Occhionero
+
+ 10 gennaio 2017
+
+ Violare account WhatsApp: basta la segreteria telefonica
+
+ 26 ottobre 2016
+
+ Malvertising: quando i malware utilizzano i banner pubblicitari
+
+ 13 ottobre 2016
+
+ Foto ESC2K16
+
+ 28 settembre 2016
+
+ Comments by Fabio Natalucci
+
+ Postfix: come configurare smtp esterno
+
+ Perfetto! Sono contento che ti sia stata utile.
+
+ Marco Gioanola 
+
+ Trovo che la frase “questa azione ha esposto sui motori di ricerca documenti che non hanno nulla a che fare con la trasparenza e che per un motivo o per l’altro non dovevano figurare sui motori di ricerca” non abbia alcun senso.
+
+Se qualcuno carica su un sito web esposto su Internet dei dati che mettono in pericolo le “infrastrutture personali”, non è certo da colpevolizzare il motore di ricerca o chi rende i dati disponibili a quest’ultimo, ma solo chi ha deciso di caricarli sul server.
+
+E’ un’idiozia tipicamente italiana quella per cui possano esistere dati “pubblici ma non accessibili” (ricordiamo le polemiche quando anni fa furono pubblicati i dati dei 730). Quindi, ripeto, se ci sono documenti “pericolosi” sui siti della PA, la colpa è della PA e non certo di chi “pubblica” su un motore di ricerca.
+
+ Fabio 
+
+ Ciao Marco, innanzitutto grazie per aver espresso la tua opinione. In realtà temevo che qualcuno potesse avere da ridire su questo punto. Hai perfettamente ragione, purtroppo però alcuni file potevano essere li per: pura casualità, errori, inadempienze, ignoranza etc etc per questo ho inserito “per un motivo o per l’altro”. Credimi nella PA italiana a volte l’idiozia è il primo e l’ultimo dei mali. Non do nessuna colpa ai motori di ricerca. Ciao!
+
+ Previous post 
+ « 
+
+ Next post 
+ » 
+
+ Fabio Natalucci Post
+ Blog personale di Fabio Natalucci 
+Ethical Hacker & IT Security Specialist 
+
+ Scopri di più 
+
+ Post Recenti
+
+ ZeroDays il docufilm su Stuxnet
+
+ 28 gennaio 2017
+
+ Tutto quello che c’è da sapere sul caso EyePyramid e Giulio Occhionero
+
+ 10 gennaio 2017
+
+ Violare account WhatsApp: basta la segreteria telefonica
+
+ 26 ottobre 2016
+
+ Commenti recenti
+
+ L10L20L30L40L50L60 
+
+ "Scusa, ma c'è un modo per recuperare i 250€ che ho pagato in ..."
+
+ Denny 
+
+ "Ciao, ti segnalo anche la web directory Uhelà ( http://www.uhela.com ). Link diretto ..."
+
+ Andreone 
+
+ "Fabio, grazie per la risposta... il servizio di barring ce l'ho attivo gia ..."
+
+ © 2017 Fabio Natalucci Post . Tutti i diritti sono riservati. 
+
+ Home 
+
+ Chi sono 
+
+ Parlano di me 
+
+ Contattami 
+
+ Hall of Fame 
+
+ Disclaimer 
+
+ Cookie Policy
