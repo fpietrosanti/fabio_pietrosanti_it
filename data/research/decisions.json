@@ -1162,6 +1162,18 @@
   {
    "url": "http://www.pr-foundation.org/content/",
    "reason": "2026-10-30: pagina indice/elenco contenuti della P&R Foundation; i singoli articoli sono già in archivio"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/sicurezza-nelle-reti-wireless-lan/52748307",
+   "reason": "2026-10-30: slide di terzi; il nome compare solo nella barra 'Recommended' di SlideShare (sue slide Smau 2002/Webbit 2004, già in archivio)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/presentazione-tesi-lm31/117816837",
+   "reason": "2026-10-30: slide di terzi; il nome compare solo nella barra 'Recommended' di SlideShare (sue slide Smau 2002/Webbit 2004, già in archivio)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/aspetti-di-sicurezza-dei-protocolli-wireless/56868",
+   "reason": "2026-10-30: slide di terzi; il nome compare solo nella barra 'Recommended' di SlideShare (sue slide Smau 2002/Webbit 2004, già in archivio)"
   }
  ],
  "override": [

@@ -5,7 +5,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1264**; già processate: **1443**; ancora da processare: **0**
+- Voci in `data/media.json`: **1263**; già processate: **1443**; ancora da processare: **0**
 - Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1078** di terzi (**solo archivio privato**, mai linkate dal sito)
 - ✅ Copia locale, nome verificato nella copia: **1195**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
