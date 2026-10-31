@@ -4892,51 +4892,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Sinistra Unita\" OR \"San Marino\" whistleblowing 2017 OR 2018",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 2
   },
   {
    "query": "\"Fabio Pietrosanti\" Kaspersky Euronews OR TGcom24 OR Rainews 2018",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"ANAC\" OR \"Cantone\" piattaforma segnalazioni 2016 OR 2017",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 8
   },
   {
    "query": "\"Fabio Pietrosanti\" Bluetooth OR \"Bluesnarfing\" OR \"cellulari\" sicurezza 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Punto Informatico\" OR \"Zeus News\" 2009 OR 2010 OR 2011 OR 2012",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Il Fatto Quotidiano\" whistleblowing OR GlobaLeaks OR Tor",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Wired\" OR \"Linkiesta\" OR \"Valigia Blu\" 2015 OR 2016 OR 2017",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Comune\" OR \"Regione\" whistleblowing GlobaLeaks adozione 2018 OR 2019",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA",
+   "date": "2026-11-01",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Il Sole 24 Ore\" OR \"Nova\" sicurezza OR intercettazioni 2009 OR 2010 OR 2011",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Panorama\" OR \"L'Espresso\" hacker OR cifratura OR GlobaLeaks",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"e-privacy\" relatore 2015 OR 2016 OR 2017 OR 2018",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Clusit\" OR \"Security Summit\" intervento 2010 OR 2011 OR 2012",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Repubblica\" Tor OR \"deep web\" OR anonimato 2013 OR 2014 OR 2015",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Agenda Digitale\" OR \"Key4biz\" whistleblowing OR sicurezza 2016 OR 2017 OR 2018 OR 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hackmeeting\" OR \"Moca\" OR \"ESC\" 2003 OR 2004 OR 2005 talk",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" intervista radio \"Radio24\" OR \"Radio Popolare\" OR \"Rai Radio\" 2016 OR 2017 OR 2018 OR 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
   }
  ],
  "history": [
@@ -6080,6 +6144,14 @@
    "captcha": false,
    "confirmed_new": 2,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (San Marino/Sinistra Unita, legge 179/2017, PrivateGSM 2010-11, Transparency International Italia 2014-16, Corriere/La Stampa 2003-05, Hermes/GlobaLeaks convegni 2017-19, Wikileaks/GlobaLeaks radio 2011, Euronews/Sky TG24), chiave localStorage gq20261031g_N: nessun robot check, 77 risultati, 64 URL unici. Scartati senza verifica LinkedIn, Threads, mailing list (seclists, freeswitch pipermail, mail-archive sikurezza, nexa hyperkitty), forum.italia.it, pagine indice/home/tag (dicorinto, pr-foundation, snobnonpertutti autore, radioradicale soggetti, hermescenter category, euronews tag, romhack schedule). 42 verificati: 9 'OK', di cui 5 già in exclude (Schneier nobody_encrypts, Motorola VoWLAN slideshare, MOCA 2016 speaker, it.wikipedia GlobaLeaks, IJF Gallus) e 2 ripubblicazioni Libertas dello stesso articolo (aggiunte a exclude come alias). NUOVE voci (raw ridotto alle sole 2): annuncio della serata 'SOS Trasparenza' di Sinistra Unita del 17/02/2016 su Libertas e comunicato su San Marino RTV (comunicati a162704). Merged 1289→1291. Copie offline: 1211 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-11-01 00:32",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (San Marino/Sinistra Unita 2017-18, Kaspersky/Euronews 2018, ANAC/Cantone 2016-17, Bluetooth/cellulari 2004-05, Punto Informatico/Zeus News 2009-12, Il Fatto Quotidiano, Wired/Linkiesta/Valigia Blu 2015-17, Comuni/Regioni whistleblowing 2018-19), chiave localStorage gq20261101a_N: nessun robot check, 67 risultati, 58 URL unici. Scartati senza verifica LinkedIn/X, mailing list (lists.linux.it flug, nexa hyperkitty), forum.italia.it, pagine indice/home/tag (euronews tag/profili, snobnonpertutti autore, pr-foundation, dicorinto, poul.org topic, romhack speaker). 38 verificati: 3 'OK' tutti duplicati (Euronews ES Kaspersky 2018 già in archivio; Schneier end-to-end 2010 e slideshare 'Cell Phone Viruses' già in exclude), 3 nome assente (s0ftpj webbit04 wifi, Visura whistleblowingsolutions), 2 non raggiungibili (dokumen.pub, uilpa veneto), il resto già in archivio. Raw lasciato vuoto. Nessuna voce nuova. Merged 1291. Copie offline: 1211 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }
