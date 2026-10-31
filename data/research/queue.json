@@ -4636,51 +4636,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Webb OR Metro OR \"Il Messaggero\" hacker 2001 OR 2004",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" naif \"s0ftpj\" OR \"Butchered From Inside\" 2003 OR 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"PrivateWave\" intercettazioni 2009 OR 2010 intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 0
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Wikileaks\" OR \"leaks\" 2010 OR 2011 OR 2012",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Pirate Party\" OR \"Partito Pirata\" OR \"Liquid Feedback\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Movimento 5 Stelle\" OR Rousseau \"voto online\" 2016 OR 2017",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 6
   },
   {
    "query": "\"Fabio Pietrosanti\" anticorruzione ANAC whistleblowing 2015 OR 2016 OR 2018",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" podcast OR intervista OR puntata 2019 OR 2020 sicurezza",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)",
+   "date": "2026-10-31",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Corriere della Sera\" OR Repubblica sicurezza informatica 2005 OR 2006",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 01:00: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Kaspersky OR antivirus \"pubblica amministrazione\" 2018 OR 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"trojan di Stato\" OR captatore OR \"intercettazioni\" 2017 OR 2018 OR 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks giornalisti OR redazioni 2013 OR 2014 OR 2015",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Transparency International\" OR \"Allerta Anticorruzione\" 2014 OR 2015 OR 2016",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Immuni OR \"app di tracciamento\" OR \"contact tracing\" 2020",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Pietrosanti\" naif wardriving OR \"wi-fi\" OR wireless 2003 OR 2004",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"voto elettronico\" OR \"e-voting\" 2019 OR 2020 OR 2021",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 01:30: coda esaurita; anni/temi deboli (2001-05, 2009-12, 2015-19)"
   }
  ],
  "history": [
@@ -5792,6 +5856,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (OpenPGP/GnuPG 2002-03, Hacker Journal/Linux Pro 2002-03 [0 risultati], ransomware 2023-24, IA e privacy 2024-25, Snowden/Datagate 2013, Hermes Center/Tor 2013-14, firma digitale/smart card 2006-07, Telegram/Signal/WhatsApp 2023-25), chiave localStorage gq20261031c_N: nessun robot check, 66 risultati, 56 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (nexa hyperkitty, seul.org/tor-talk, lists.torproject, lists.linux.it), pagine indice/home/tag (dicorinto tag/tipologia/page, pr-foundation, raiplaysound puntate, profilo slideshare, e-privacy materiali 2005) e due siti spam (luxurygoods*). 29 verificati: 18 già in archivio o nome assente, 2 non raggiungibili (dokumen.pub libro Springer Digital Whistleblowing Platforms, manuals.plus), s0ftpj Ep2005 PGP 'nome non trovato' (PDF già noto), 8 'OK' di cui 7 già in exclude (slide SlideShare correlate, GIJC13 sched, slideserve PGP, IRPA spyware); il manuale JaroMail su GitHub è già in archivio (ringraziamento, via archive.org). Raw lasciato vuoto. Nessuna voce nuova (1284 merged). Copie offline: 1204 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-10-31 01:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Webb/Metro/Messaggero 2001-04, s0ftpj/BFi 2003-05, PrivateWave 2009-10 [0 risultati], Wikileaks 2010-12, Partito Pirata/Liquid Feedback, M5S/Rousseau 2016-17, ANAC whistleblowing 2015-18, podcast/interviste 2019-20), chiave localStorage gq20261031d_N: nessun robot check, 63 risultati, 60 URL unici. Scartati senza verifica LinkedIn, mailing list (seclists bugtraq/fulldisclosure, seul.org/tor-talk, nexa hyperkitty), forum.italia.it, pagine indice/home/tag (dicorinto tag/tipologia, personaldemocracy, pr-foundation, monitora-pa, snobnonpertutti autore) e slideserve PGP (già in exclude). 43 verificati: 37 già in archivio o non pertinenti, 5 nome assente (tra cui s0ftpj Ep2005 PGP e webbit04 wifi, PDF già noti; replica MonitoraPA del Partito Pirata 2022; programma DIG 2022), 1 non raggiungibile (datwww.mit.edu), 3 'OK' tutti duplicati: it.wikipedia GlobaLeaks e globaleaks.org/it/about/people già in exclude; aggiunta a exclude la pagina indice della tesi Fifield (PDF già in archivio). Raw lasciato vuoto. Nessuna voce nuova. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }

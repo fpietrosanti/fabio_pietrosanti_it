@@ -1203,6 +1203,10 @@
   {
    "url": "https://www.slideshare.net/slideshow/data-center-infographic/37585001",
    "reason": "2026-10-31: pagina SlideShare di terzi; il suo nome compare solo nel riquadro «presentazioni correlate» (Voice communication security), non è una sua pubblicazione"
+  },
+  {
+   "url": "https://www.bamsoftware.com/papers/thesis/",
+   "reason": "2026-10-31: pagina indice della tesi Fifield; il PDF (fifield-thesis.pdf, ringraziamenti) è già in archivio → alias, non una voce"
   }
  ],
  "override": [
