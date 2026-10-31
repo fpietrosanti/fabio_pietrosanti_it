@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1285**; già processate: **1465**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1098** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1205**
+- Voci in `data/media.json`: **1289**; già processate: **1469**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1102** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1209**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -41,8 +41,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 88 | 5 | 4 | 0 | 0 | 0 | 0 |
+| 2016 | 28 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 177 | 14 | 0 | 0 | 0 | 0 | 0 |
@@ -888,8 +888,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/speakers/fabio-naif-pietrosanti/) · copia: `2016/8e366b51a756` (Web Archive 20241203) · licenza: terzi
 - **2016** · OSCE Representative on Freedom of the Me — [Digital Whistleblowing and Cybersecurity: Partnership of Journalists and Hackers in Public](https://rfom.osce.org/sites/default/files/f/documents/6/f/261926.pdf) · copia: `2016/888305f301cb` (live) · licenza: terzi
 - **2016** · Internet Freedom Festival 2016 (IFF), Va — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks) · copia: `2016/9098ca501b52` (Web Archive 20210620) · licenza: terzi
+- **2016** · dire.it — [Sinistra unita: "Anche sul Titano servono norma anti-corruzione" - DIRE.it](https://www.dire.it/17-02-2016/38088-sinistra-unita-anche-sul-titano-servono-norma-anti-corruzione/) · copia: `2016/b8a5ecbdeb1c` (Web Archive 20210226) · licenza: terzi
 - **2016** · eunews.it — [HGE3 G2 - 2 Intelligence privacy 1 - Eunews](https://www.eunews.it/2016/11/21/can-govern-europe-3-le-immagini-della-due-giorni/hge3-g2-2-intelligence-privacy-1/) · copia: `2016/4fd2f13ecaf0` (live) · licenza: terzi
 - **2016** · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo ](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/) · copia: `2016/8622100d1807` (Web Archive 20240301) · licenza: terzi
+- **2016** · libertas.sm — ['SOS Trasparenza'. Sinistra Unita - libertas](https://www.libertas.sm/sos-trasparenza-sinistra-unita/) · copia: `2016/5878fd0a8e73` (live) · licenza: terzi
 - **2016** · LineaEDP — [Cyber sicurezza: attacco a Renzi sulla nomina Carrai](https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/) · copia: `2016/9436b6f13785` (live) · licenza: terzi
 - **2016** · OSCE, Office of the Representative on Fr — [Biographies - Gaining a Digital Edge: Freedom of Expression, Vienna, 14-15 September 2016](https://www.osce.org/representative-on-freedom-of-media/263301) · copia: `2016/a5d1e3f9a943` (Web Archive 20200218) · licenza: terzi
 - **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf) · copia: `2016/08ad988ef917` (live) · licenza: terzi
@@ -905,6 +907,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · repubblica.it — [Cybersicurezza, esperti italiani contro la nomina Carrai](https://www.repubblica.it/tecnologia/sicurezza/2016/01/20/news/sicurezza_informatica_lettera_aperta_renzi-131683869/) · copia: `2016/642e86b26172` (Web Archive 20160121) · licenza: terzi
 - **2016** · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/) · copia: `2016/71c62e74b813` (Web Archive 20160913) · licenza: terzi
 - **2016** · San Marino RTV — [SU: presentato il progetto “whistleblowing”, uno strumento per combattere il fenomeno corr](https://www.sanmarinortv.sm/news/comunicati-c9/presentato-progetto-whistleblowing-strumento-combattere-fenomeno-corruttivo-a162676) · copia: `2016/e074763dbfe9` (Web Archive 20191018) · licenza: terzi
+- **2016** · sanmarinortv.sm — [Sinistra Unita: il peso della corruzione sul Paese](https://www.sanmarinortv.sm/news/politica-c2/sinistra-unita-peso-corruzione-paese-a5097) · copia: `2016/2975cb7f3c7d` (Web Archive 20191019) · licenza: terzi
 - **2016** · slideshare.net — [Storia e storie degli hacker della sicurezza informatica](https://www.slideshare.net/slideshow/storia-e-storie-degli-hacker-della-sicurezza-informatica/60171340) · copia: `2016/e8f574cc9b98` (Web Archive 20260310) · licenza: terzi
 - **2016** · Valigia Blu — [Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza](https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/) · copia: `2016/754391ca99e6` (Web Archive 20160122) · licenza: terzi
 - **2016** · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/) · copia: `2016/ca13df31ee2a` (Web Archive 20160202) · licenza: terzi
@@ -931,6 +934,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · e-privacy XXII (2017 autumn), Venezia, T — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) · copia: `2017/fde565d575a5` (Web Archive 20171008) · licenza: terzi
 - **2017** · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/) · copia: `2017/dcc7ee25c642` (Web Archive 20200922) · licenza: propria
 - **2017** · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/) · copia: `2017/a89b8b021b54` (Web Archive 20200927) · licenza: propria
+- **2017** · futura.news — [La tutela dei whistleblowers è legge: un torinese tra chi denuncia la corruzione](https://futura.news/segnalazioni-anonime-whistleblowing-torino/) · copia: `2017/6e63674ac518` (Web Archive 20221201) · licenza: terzi
 - **2017** · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29) · copia: `2017/7f8bfd94ce5e` (api) · licenza: propria
 - **2017** · GitHub drego85 — [Why-VLC-NEED-to-enforce-HTTPS (Andrea Draghetti PoC)](https://github.com/drego85/Why-VLC-NEED-to-enforce-HTTPS) · copia: `2017/8675661d94d3` (Web Archive 20180612) · licenza: terzi
 - **2017** · GitHub / Camera dei Deputati (Civici e I — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di ](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law) · copia: `2017/3dc34cde44b3` (Web Archive 20200930) · licenza: propria

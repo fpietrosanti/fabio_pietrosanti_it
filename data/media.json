@@ -9388,6 +9388,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "sanmarinortv.sm",
+  "title": "Sinistra Unita: il peso della corruzione sul Paese",
+  "url": "https://www.sanmarinortv.sm/news/politica-c2/sinistra-unita-peso-corruzione-paese-a5097",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …punto sulla questione morale in termini politici: sottolineata da entrambi la necessità di una evoluzione culturale “perché la corruzione è un fatto mentale”. Fabio Pietrosanti, del centro HERMES, legato a Transparency I…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-31-1310"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2016",
   "type": "talk",
   "outlet": "OSCE Representative on Freedom of the Media (speaker bios)",
@@ -9582,6 +9599,23 @@
   "on_old_site": false
  },
  {
+  "date": "2016-02-17",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "dire.it",
+  "title": "Sinistra unita: \"Anche sul Titano servono norma anti-corruzione\" - DIRE.it",
+  "url": "https://www.dire.it/17-02-2016/38088-sinistra-unita-anche-sul-titano-servono-norma-anti-corruzione/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …a” di Su, la coodinatrice Vanessa D’Ambrosio , il consigliere Francesca Michelotti e Giulia Muratori della segreteria del partito. Ospiti della serata sono poi Fabio Pietrosanti del centro Hermes, Gerardo Giovagnoli, Psd…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-31-1310"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2016-02-19",
   "year": 2016,
   "type": "mentioned",
@@ -9595,6 +9629,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-10-31-1233"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016-02-19",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "libertas.sm",
+  "title": "'SOS Trasparenza'. Sinistra Unita - libertas",
+  "url": "https://www.libertas.sm/sos-trasparenza-sinistra-unita/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …e Consiliare d’Inchiesta CARISP-SOPAF; Mario Venturini (AP) in qualità di Membro delle due Commissioni Consiliari d’Inchiesta FINCAPITAL e CARISP-SOPAF, l’Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-31-1310"
   ],
   "on_old_site": false
  },
@@ -11386,6 +11437,23 @@
   ],
   "tags": [
    "appeals"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-11-15",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "futura.news",
+  "title": "La tutela dei whistleblowers è legge: un torinese tra chi denuncia la corruzione",
+  "url": "https://futura.news/segnalazioni-anonime-whistleblowing-torino/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ntità dei segnalanti. Nei primi 30 mesi di attività, sono state oltre 300 le denunce inviate da cittadini a conoscenza di casi di corruzione o di irregolarità. Fabio Pietrosanti , presidente del Centro Hermes , organizza…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-31-1310"
   ],
   "on_old_site": false
  },
