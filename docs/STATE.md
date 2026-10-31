@@ -52,8 +52,14 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **205 file, 52,9 GB**. Su Drive al 2026-10-30: **77 file, 11,9 GiB** (`data/drive_links.json`);
-  mancano **129 file** (~36 GiB). Spazio libero su Drive: 54,4 GiB.
+- Da caricare in tutto: **206 file**. Su Drive al 2026-10-31: **78 file, 12,0 GiB** (`data/drive_links.json`);
+  mancano **128 file** (~38 GiB). Spazio libero su Drive: 54,4 GiB.
+- Notte 2026-10-31 (01:07–06:31): caricato **1 solo file** (`2022/15ff9d2a79eb/media.mp4`, 95 MB), più ~1,4 GiB
+  di trasferimenti parziali persi all'arresto. Velocità molto bassa, **55–65 KiB/s** (circa la metà delle notti
+  precedenti), nessun errore di quota. rclone fermato con taskkill alle 06:31, lo script ha registrato da solo
+  i link (77 → 78, exit 2). Copie leggere pubblicate: 1193 voci, 460 MB in `copies/`. Controlli lingue e LinkedIn OK.
+  **Da valutare**: con molti trasferimenti paralleli lenti, i parziali persi a ogni arresto superano il caricato;
+  ridurre `--transfers` (o caricare prima i file piccoli) farebbe chiudere più file per notte.
 - Notte 2026-10-30 (01:08–06:31): caricati 8 file, ~1,3 GiB (più ~2 GiB di trasferimenti parziali persi
   all'arresto). Velocità 130–160 KiB/s, nessun errore di quota. rclone fermato con taskkill alle 06:31, lo
   script ha registrato da solo i link (69 → 77). Il totale da caricare è salito da 201 a 205 file per le nuove

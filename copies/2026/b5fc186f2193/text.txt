@@ -1,0 +1,203 @@
+rhc2026-resources/mxmap-italia at main · CyberSaiyanIT/rhc2026-resources · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in 
+
+ Products Platform GitHub Repository hosting, code review, and collaboration 
+ Copilot AI coding agent for tasks, projects and automated work 
+
+ Build & Ship Actions CI/CD and automation 
+ Code Quality Quality analysis, fixes, and enforcement 
+ Codespaces Cloud development environments 
+
+ Secure Code Security Vulnerability detection and remediation 
+ Secret Protection Secret scanning and leak prevention 
+
+ All Features 
+
+ Developers Learn Documentation 
+ Training 
+ Certifications 
+
+ Build Build with Copilot 
+ Customize Copilot 
+ Integrations 
+
+ Explore Trending repos 
+ GitHub Sponsors 
+ Events 
+
+ Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. 
+
+ Businesses By Stage Enterprises 
+ Team 
+ Startups 
+ Nonprofits 
+
+ By Industry Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ See all industries 
+
+ Evaluate GitHub Why GitHub 
+ Customer Stories 
+ Business insights 
+ Trust Center 
+
+ Add-ons GitHub Advanced Security Enterprise-grade code security 
+ Copilot for business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Resources Learn & Connect Documentation 
+ Resource center 
+ Blog 
+ Events & webinars 
+ Community Forum 
+ Customer Stories 
+ Integrations 
+
+ Support Customer support 
+ Training 
+ GitHub Status 
+
+ Company About 
+ Partners 
+ Changelog 
+
+ GitHub Universe GitHub Universe The event for developers, by developers — talks, workshops, and what’s next for GitHub. 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ CyberSaiyanIT 
+ rhc2026-resources 
+
+ Repository navigation
+
+ Code 
+ Issues 
+ Pull requests 
+ Actions 
+ Projects 
+ Security and quality 
+ Insights 
+
+ More items 
+
+ Files Expand file tree 
+
+ main 
+
+ Breadcrumbs
+ rhc2026-resources 
+ / mxmap-italia
+ / 
+ Copy path 
+
+ Directory actions
+
+ More options
+ More options 
+
+ Directory actions
+
+ More options
+ More options 
+
+ Latest commit
+
+ History
+ History 
+ History 
+
+ main 
+
+ Breadcrumbs
+ rhc2026-resources 
+ / mxmap-italia
+ / 
+ Copy path 
+
+ Top 
+
+ Folders and files
+ Name Name Last commit message 
+ Last commit date 
+
+ parent directory
+ ..
+
+ README.md 
+
+ README.md 
+
+ slides.pdf 
+
+ slides.pdf 
+
+ View all files 
+
+ README.md 
+ Outline 
+ MXMap Italia: National Observatory for Digital Sovereignty
+
+ Speaker(s): Fabio Pietrosanti (naif)
+
+ Event: RomHack Camp 2026 (2026-10-02, Lightning Talk)
+
+ Abstract
+
+ MXMap Italia has been established as national observatory of the status of digital Sovereignty of italian public agencies, by analyzing DNS records on the basis of the MXMap software.
+
+ The technical platform provides opendata, mapping and analytics of the 23k+ public agencies on https://mxmap.it .
+
+ The alarming results, with more than 46% of italian government agencies accessible trough Cloud Act by USA Security Agencies, requires all the institutional, technical, activist world to act now!
+
+ The political platform https://osservatorio.mxmap.it aim to provides awareness across all the stakeholders, with policy and technical papers, brief for decision makers, and periodic massive emailing campaign to inform the key persons at each agency (DPO, but also RTD, owner of digital transformation).
+
+ This walk want to share the project results, methodology and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software.
+
+ Materials
+
+ Slides (PDF) 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.
