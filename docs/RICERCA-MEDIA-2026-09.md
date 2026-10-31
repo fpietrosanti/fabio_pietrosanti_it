@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1764**; dopo deduplica: **1284**
+- Risultati grezzi dalle ricerche: **1765**; dopo deduplica: **1285**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1229**
-- Verificati aprendo la pagina: **1212**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1230**
+- Verificati aprendo la pagina: **1213**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 276, tweet 132, Talk 105, Video 97, Citato 79, Post sul blog infosecurity.ch 72, article 50, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 277, tweet 132, Talk 105, Video 97, Citato 79, Post sul blog infosecurity.ch 72, article 50, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -34,7 +34,7 @@ Per tipo (nuovi): Menzionato 276, tweet 132, Talk 105, Video 97, Citato 79, Post
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 50 | 50 |
-| 2016 | 0 | 29 | 29 |
+| 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 92 | 92 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
@@ -1550,7 +1550,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 29 voci, 29 nuove
+## 2016 — 30 voci, 30 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
@@ -1584,6 +1584,8 @@ Anni senza nessun risultato: nessuno
   HackInBo 2016 Bologna closing roundtable (Sikurezza.org / GlobaLeaks)
 - 🆕 **2016-03-15** · Menzionato · repubblica.it — [Internet gratis da smartphone, paga lo sponsor. C'è Jana, l'anti Free Basics](https://www.repubblica.it/tecnologia/mobile/2016/03/15/news/internet_gratis_senza_restrizioni_in_cambio_di_pubblicita_c_e_jana_l_anti_free_basics-135554343/)  
   verified via wayback; context: …ventano sempre più fornitori di contenuti, massimizzando i loro ricavi", avverte il cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali Fabio Pietrosanti . I vantaggi superano l'imposta? Questione…
+- 🆕 **2016-02-19** · Menzionato · San Marino RTV — [SU: presentato il progetto “whistleblowing”, uno strumento per combattere il fenomeno corruttivo](https://www.sanmarinortv.sm/news/comunicati-c9/presentato-progetto-whistleblowing-strumento-combattere-fenomeno-corruttivo-a162676)  
+  Comunicato su San Marino RTV (19/02/2016): presentazione del progetto di whistleblowing per combattere la corruzione; tra i relatori «l'Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency International». Verificato sul testo (live + Web Archive).
 - 🆕 **2016-02-01** · Citato · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/)  
   Sul ddl whistleblowing (Businarolo) appena approvato alla Camera: "Fabio Pietrosanti, cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali, punta il dito contro il fatto che 'la norma non tiene ancora conto dell'esigenza di considerare pure le segnalazioni anonime'"; poi "prosegue Pietrosanti" sull'assenza di un sistema informatico unico per le segnalazioni. Verificato live 2026-10-13 (datePublished 2016-02-01).
 - 🆕 **2016-01-24** · Radio · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/)  

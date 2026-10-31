@@ -1207,6 +1207,10 @@
   {
    "url": "https://www.bamsoftware.com/papers/thesis/",
    "reason": "2026-10-31: pagina indice della tesi Fifield; il PDF (fifield-thesis.pdf, ringraziamenti) è già in archivio → alias, non una voce"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/programme/2018/telefone-intercepts-in-the-age-of-nsagate",
+   "reason": "2026-10-31: alias con anno 2018 nell'URL della sessione IJF del 3/05/2014 «Intercettazioni telefoniche nell'era dell'NSA Gate», già in archivio come programme/2014/..."
   }
  ],
  "override": [

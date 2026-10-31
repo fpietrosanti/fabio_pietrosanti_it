@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1284**; già processate: **1464**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1097** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1204**
+- Voci in `data/media.json`: **1285**; già processate: **1465**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1098** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1205**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -41,7 +41,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2016 | 25 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 2 |
@@ -904,6 +904,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · repubblica.it — [Internet gratis da smartphone, paga lo sponsor. C'è Jana, l'anti Free Basics](https://www.repubblica.it/tecnologia/mobile/2016/03/15/news/internet_gratis_senza_restrizioni_in_cambio_di_pubblicita_c_e_jana_l_anti_free_basics-135554343/) · copia: `2016/9fbf6d8b1009` (Web Archive 20160316) · licenza: terzi
 - **2016** · repubblica.it — [Cybersicurezza, esperti italiani contro la nomina Carrai](https://www.repubblica.it/tecnologia/sicurezza/2016/01/20/news/sicurezza_informatica_lettera_aperta_renzi-131683869/) · copia: `2016/642e86b26172` (Web Archive 20160121) · licenza: terzi
 - **2016** · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/) · copia: `2016/71c62e74b813` (Web Archive 20160913) · licenza: terzi
+- **2016** · San Marino RTV — [SU: presentato il progetto “whistleblowing”, uno strumento per combattere il fenomeno corr](https://www.sanmarinortv.sm/news/comunicati-c9/presentato-progetto-whistleblowing-strumento-combattere-fenomeno-corruttivo-a162676) · copia: `2016/e074763dbfe9` (Web Archive 20191018) · licenza: terzi
 - **2016** · slideshare.net — [Storia e storie degli hacker della sicurezza informatica](https://www.slideshare.net/slideshow/storia-e-storie-degli-hacker-della-sicurezza-informatica/60171340) · copia: `2016/e8f574cc9b98` (Web Archive 20260310) · licenza: terzi
 - **2016** · Valigia Blu — [Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza](https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/) · copia: `2016/754391ca99e6` (Web Archive 20160122) · licenza: terzi
 - **2016** · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/) · copia: `2016/ca13df31ee2a` (Web Archive 20160202) · licenza: terzi

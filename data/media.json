@@ -9582,6 +9582,23 @@
   "on_old_site": false
  },
  {
+  "date": "2016-02-19",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "San Marino RTV",
+  "title": "SU: presentato il progetto “whistleblowing”, uno strumento per combattere il fenomeno corruttivo",
+  "url": "https://www.sanmarinortv.sm/news/comunicati-c9/presentato-progetto-whistleblowing-strumento-combattere-fenomeno-corruttivo-a162676",
+  "language": "it",
+  "role": "subject",
+  "note": "Comunicato su San Marino RTV (19/02/2016): presentazione del progetto di whistleblowing per combattere la corruzione; tra i relatori «l'Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency International». Verificato sul testo (live + Web Archive).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-31-1233"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2016-03-15",
   "year": 2016,
   "type": "mentioned",
