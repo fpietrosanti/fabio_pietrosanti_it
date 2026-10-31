@@ -497,6 +497,33 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-31 (run programmata «ricerca profonda»)
+- **1284 voci** in `data/media.json` (+14 verificate/da verificare: 11 Ciao Internet, 3 dai residui). Prime voci della coda ancora
+  bloccate (chiavi, login, risposte di Fabio, video TimePie): raccolti gli esiti del job Ciao Internet e lanciati 3 agenti sui
+  **residui delle lacune** (`pass4_residui2017r`, `pass4_residui2007r`, `pass4_residui2023chrome`; negativi in
+  `data/research/leads_negatives_*_2026-10-31.json`).
+- **Ciao Internet: 2.074/2.096 video scansionati** (mancano 22: YouTube blocca il server con 429/«Sign in», il job riprova
+  da solo). **+11 menzioni nelle dirette «L»** (2019-2022, mai giudicate prima): L4 (rimando alla puntata sul voto
+  elettronico con te), L5 (CCC Berlino), L6 (aneddoto con Mayhem), L8 (interviste al CCC), L12 (puntata sul voto elettronico
+  con Zanero e te), L27 e L39 (commenti in chat, deboli), L29 (OpenRousseau), L38, **L41 08/03/2021 (il tuo reclamo al Garante
+  contro Rousseau)**, L60. 8 occorrenze di «naif» aggettivo escluse. Tutti gli 11 video scaricati in locale.
+- **Nuove dai residui**: **Il Fatto Quotidiano 20/08/2022** — sei tra i candidati della lista «Referendum e Democrazia» di
+  Marco Cappato («Pietrosanti Fabi[o]», esperti di diritti digitali, con Ciurcina) → candidatura mai registrata, da
+  confermare; **Il Post 29/08/2019** «Come funziona la piattaforma Rousseau» (tweet incorporato «Segnalazione di
+  @fpietrosanti»); **Camera WebTV 31/01/2017** conferenza stampa Quintarelli sulla pdl captatori (evento 10532): non
+  verificata, la pagina non elenca gli intervenuti e il video dà 504.
+- **Negativi solidi**: zfoneproject.com (200 capture HTML lette), khamsa.it/.ch (75 pagine), ohloh/freshmeat/Google Code/
+  launchpad (zero capture: ora negativo vero), SMAU 2007-10 (~12.000 URL archiviati filtrati), Hackmeeting 2006-10, 24C3-27C3;
+  Il Post 2017-19 (185 articoli a tema), Open 2018-19 (94), HuffPost, Wired Next Fest, Codemotion, Security Summit, MozFest;
+  La Stampa, Corriere, Il Fatto, latinanews.eu, laprovincialatina.it 2023-26 (solo omonimi), ComeInClasse (MonitoraPA senza
+  nome), 38C3 (nessun meetup longevity nel programma). **RomaToday 06/05 e 19/08/2025: omonimi** (domanda B0-tervicies (a) chiusa).
+- **Resta**: 22 video Ciao Internet; ihc.camp 2024/2026 e IFF 2019 sessione 1462 (Web Archive offline); Open/AGI/Adnkronos
+  (anti-bot o ricerca interna inutilizzabile); Repubblica per nome completo (blocco temporaneo); meetup Legal Hackers Roma
+  14/10/2019 (login); video della conferenza Camera 31/01/2017.
+- **Prossima voce lavorabile:** la ricerca automatica sulle lacune è esaurita → proporre a Fabio di chiudere le voci «Lacuna
+  2007–2010», «2017–2019», «2023–2025» (i residui sono solo carta, login o sue risposte); nel frattempo ripassare i siti
+  temporaneamente giù (ihc.camp, Web Archive) e finire Ciao Internet.
+
 ## Note sessione 2026-10-30 (run programmata «ricerca profonda»)
 - **1264 voci** in `data/media.json` (+6 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio,
   video TimePie): raccolti gli esiti dei job del 29/10 e lanciati 3 agenti sui **progetti e temi 2025–2026**, mai coperti da una

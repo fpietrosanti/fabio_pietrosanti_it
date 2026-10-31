@@ -1,0 +1,82 @@
+[
+ {
+  "source": "Wayback zfoneproject.com 2006-2011: 200 captures read (HTML pages: home, about, aboutphil, news.html e pressreleases.html con tutte le versioni per digest, partners, customers, contact, prod_asterisk, asterisk/, wireshark, zrtp_ietf, downloadhelp, EN/*, lic_*, docs index; esclusi doxygen SDK/Asterisk man, bozze IETF, binari). Server ~/wb_r2007 (run.py, done.txt)",
+  "query": "pietrosanti | naif",
+  "result": "Non nominato in nessuna capture. RFC 6189 (ZRTP) acknowledgements: non nominato."
+ },
+ {
+  "source": "Wayback www.khamsa.it 2006-2011: 34 capture HTML (home, company, organization, offices, investors, clienti, prodotti, prodotti_pmail, lavoro, contatti, distributori, website/en|it|de|fr) con timeline per digest; khamsa.ch + khamsa.net + khamsa.com: 46 capture HTML (41 lette, 5 vuote)",
+  "query": "pietrosanti | naif",
+  "result": "Non nominato: le pagine aziendali Khamsa non elencano persone."
+ },
+ {
+  "source": "Wayback CDX ohloh.net/www.ohloh.net accounts/naif, accounts/fpietrosanti, p/privategsm|osxcrypt|sniffjoke|zrtp; openhub.net accounts/naif*",
+  "query": "profilo/progetto",
+  "result": "Nessuna capture (CDX ha risposto 0; quella del 23/10 era la pagina 'Temporarily Offline'). www.ohloh.net/accounts/fabio* solo omonimi (fabiomaulo, fabiocorneti, FabioA)."
+ },
+ {
+  "source": "Wayback CDX freshmeat.net/~naif, /users/naif, /projects/osxcrypt|privategsm|sniffjoke|sikurezza",
+  "query": "profilo/progetto",
+  "result": "Nessuna capture."
+ },
+ {
+  "source": "Wayback CDX code.google.com/p/privategsm|osxcrypt|sniffjoke|zrtp|privatewave*, code.google.com/u/naif|fpietrosanti|fabio.pietrosanti*",
+  "query": "progetto/profilo",
+  "result": "Nessuna capture."
+ },
+ {
+  "source": "Wayback CDX launchpad.net/~naif|~fpietrosanti|~fabio-pietrosanti; sourceforge.net/users/naif*|fpietrosanti*",
+  "query": "profilo",
+  "result": "Nessuna capture (sourceforge users/naif* = solo 'naifnajjar', omonimo di handle)."
+ },
+ {
+  "source": "Wayback sourceforge.net/projects/osxcrypt (capture 2008-02-12 e 2015-2022, 11 pagine) e /projects/sniffjoke (2014)",
+  "query": "pietrosanti | naif",
+  "result": "Non nominato nelle capture lette (la pagina 2008 non elenca gli sviluppatori per nome)."
+ },
+ {
+  "source": "PrivateWave area stampa: capture 2010-02-27 (privatewave.it/chi-siamo/area-stampa.html); CDX privatewave.it/media/* e privatewave.com/media/*; file collegati /media/0/40065712755352/privategsm.pdf, /media/0/49149342294843/khamsa_11dic2009.doc, /media/0/87838406383009/economy_4feb2010.pdf",
+  "query": "ritagli/PDF",
+  "result": "Nessun ritaglio archiviato: i tre file linkati non hanno capture; in /media/* solo brochure, immagini e SWF dimostrativi. Link della pagina: neapolis.blog.rai.it (post 29/12/2009 senza capture), cellularemagazine.it video 279, classlife.it, tvtech.it: tutti gia' noti."
+ },
+ {
+  "source": "Rai 3 TGR Neapolis 29/12/2009 'Telefonate protette': CDX del post neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/, URL live, ricerca web",
+  "query": "pietrosanti",
+  "result": "Post mai archiviato, host non piu' risolvibile; nessuna copia del video trovata. Resta non verificato (gia' in media.json)."
+ },
+ {
+  "source": "Cellulare Magazine (CMAG) YouTube EJVK8nB7yAM 'PrivateWave di Khamsa contro le intercettazioni' (24/02/2010) + pagina cellularemagazine.it/site/video/279 (Wayback 2010-03-05): trascrizione faster-whisper small della copia locale fabio_pietrosanti_it-copies/2010/c20b180907dd/media.mp4",
+  "query": "pietrosanti | fabio | naif | khamsa",
+  "result": "Demo d'uso di PrivateGSM (prefisso +801, ZRTP, SAS, latenze Wi-Fi/UMTS/GPRS) con voce narrante: nessun nome pronunciato, nessun sottopancia leggibile dal testo. Resta non verificato (voce probabilmente sua, ma senza nome non conta)."
+ },
+ {
+  "source": "MOCA 2008: olografix.org/en/activities/moca-2008, moca2008.olografix.org e moca.olografix.org/moca2008/home.php (Wayback 2016-09-14); CDX di home.php?goto=1 (programma)",
+  "query": "pietrosanti | naif",
+  "result": "Il programma (home.php?goto=1) non e' mai stato archiviato; la home e la pagina storica non elencano relatori. Il sito live reindirizza a moca.camp senza archivio 2008."
+ },
+ {
+  "source": "SMAU 2007-2010: CDX per anno di www.smau.it (2007: 2620 URL, 2008: 2309, 2009: 14, 2010: 7178), grep sugli slug (speakers/, article/articleview/*/nome_cognome, schedules/) per pietrosanti|naif|khamsa|privatewave|privategsm|zrtp|intercett|cifrat; letta la scheda 2010 'VoIP: e' davvero sicuro?' e speakers/list/tag/telefonia",
+  "query": "pietrosanti | naif | khamsa | privatewave",
+  "result": "Nessuno slug col suo nome (2008: solo altri 'fabio'; 2010: speakers/fabio.lazzarini, fabio.panada). La sessione VoIP 2010 e' di AIPSI con Alessio Pennasilico. SMAU 2009 quasi non archiviato (14 URL). Ricerche web smau.it + Pietrosanti, Khamsa/PrivateGSM a SMAU: nulla."
+ },
+ {
+  "source": "Seminario Trento 2010: SlideShare 5059251 (gia' noto: 'Crypto Lab (University of Trento) 24 Aug 2010'); ricerche web CryptoLabTN 24/08/2010, unitn",
+  "query": "pietrosanti | crypto lab",
+  "result": "L'evento e' il Crypto Lab dell'Universita' di Trento (laboratorio fondato nel 2010), 24/08/2010; nessuna pagina-annuncio trovata oltre al deck gia' noto."
+ },
+ {
+  "source": "Hackmeeting 2006 Parma (hackmeeting.org/hackit06/index.php%3Fact=seminari.html, calendario completo) + hackit07/08/09/10 pagine seminari",
+  "query": "pietrosanti | naif | zrtp",
+  "result": "Non nominato. Hackit07 'VoIP: Voice over Internet Privacy' e' di Mayhem (Pennasilico)."
+ },
+ {
+  "source": "CCC lightning talks: 24C3 wiki Lightning_Talks, 25C3 wiki Lightning_Talks + Fahrplan eventi 3047/3048, 27C3 wiki Lightning_Talks, Camp 2007 Lightning_Talks (26C3 wiki non piu' online)",
+  "query": "pietrosanti | naif | zrtp | privategsm",
+  "result": "Non nominato."
+ },
+ {
+  "source": "Ricerche web: Pietrosanti+Khamsa 2008-2009 convegni; Politecnico di Milano 23/04/2008 incontro Khamsa con Phil Zimmermann (Punto Informatico 'Attenzione, parla il papa' di PGP'); telefonino.net 'Khamsa PrivateGSM per Symbian'",
+  "query": "pietrosanti | naif",
+  "result": "Gli articoli non lo nominano (solo Zimmermann/Khamsa). e-privacy 2009 gia' noto."
+ }
+]

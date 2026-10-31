@@ -1,0 +1,52 @@
+[
+ {
+  "source": "Il Post (ilpost.it)",
+  "query": "WP REST /wp-json/wp/v2/posts?search= (pietrosanti, globaleaks, centro hermes, hermes center) e ricerca interna ?s=",
+  "outcome": "REST 403; ?s= non restituisce risultati server-side. Sostituito con lo spoglio delle pagine tag (rousseau, piattaforma-rousseau, trojan, hacker, spyware, voto-elettronico, sorveglianza, exodus, casaleggio-associati, wikileaks, tor, dark-web, deep-web; tag whistleblowing inesistente): 185 articoli 2017-2019 scaricati e cercati per pietrosanti/naif/centro hermes/hermes center/globaleaks. Unico riscontro: 2019-08-29 «Come funziona la piattaforma Rousseau» (handle @fpietrosanti in tweet incorporato, voce inserita). 2017-08-04 e 2019-04-05 su Rousseau: nessun nome."
+ },
+ {
+  "source": "Open (open.online)",
+  "query": "WP REST e ?s= (403); sitemap post-sitemap1..49 (4.891 URL 2018-2019, Open nasce a dicembre 2018) filtrate per parole chiave (rousseau, hacker, privacy, whistleblowing, spyware, trojan, exodus, cyber, garante, casaleggio, dark web, sorveglianza, intercettazioni, leak, evariste, rogue, password, spia, ecc.)",
+  "outcome": "94 articoli letti integralmente (tutti HTTP 200): nessun Pietrosanti, naif, Centro Hermes, Hermes Center o GlobaLeaks. Compresi i pezzi su Rousseau/4chan del 29/08 e 02/09/2019, rogue0 18/02/2019, Evariste 09/03/2019. Tag page paginate non funzionano (ripetono la pagina 1)."
+ },
+ {
+  "source": "HuffPost Italia (huffingtonpost.it/ricerca/?query=)",
+  "query": "pietrosanti; globaleaks; centro hermes; fabio pietrosanti; whistleblowing hacker",
+  "outcome": "'pietrosanti': 2 risultati, entrambi non pertinenti (Olivier Dupuis 2026, Paula Cooper 2015). Le altre query: 0 risultati."
+ },
+ {
+  "source": "WebSearch site:ilpost.it / site:open.online / site:huffingtonpost.it",
+  "query": "Pietrosanti + GlobaLeaks/Centro Hermes/Rousseau/whistleblowing",
+  "outcome": "Il filtro site: non viene applicato; nessun risultato pertinente nuovo."
+ },
+ {
+  "source": "Rousseau/4chan agosto 2019 - altre testate",
+  "query": "WebSearch 'Rousseau screenshot 4chan amministratore 29 agosto 2019 Pietrosanti'; lettura Rolling Stone 378986, Il Post 2019-09-03, ilsussidiario 2076827 (già in media.json, 2020)",
+  "outcome": "Nessuna nuova menzione 2019."
+ },
+ {
+  "source": "Convegno voto a distanza Roma 14/10/2019 (Legal Hackers Roma #AperiTech 'Voto Elettronico: Verso una democrazia digitale?')",
+  "query": "WebSearch titolo+relatori; meetup.com/legal-hackers-roma/events/past; CDX meetup.com/Legal-Hackers-Roma*",
+  "outcome": "Meetup richiede login (non aggirato); CDX: solo home 18/07/2019 e pagine membri, nessuna pagina evento; Internet Archive di nuovo 'Temporarily Offline' a tratti. Relatori ignoti. Resta come nel pass 2026-10-27."
+ },
+ {
+  "source": "Camera WebTV conferenza stampa 31/01/2017",
+  "query": "webtv.camera.it/ws/get_event_playlist/<id>.json (id 10500-10575) + /evento/<id>",
+  "outcome": "Evento trovato: id 10532 'Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli' (inserito come non verificato). Nessun elenco intervenuti; video m3u8 504 (anche il controllo su un evento del 2026 dà 504 da questa rete). Slide della conferenza (repo fpietrosanti/trojanregulations) senza nomi. Punto Informatico 'Italia, una legge per i trojan di Stato': nessun nome. Startmag ?p=62480: 403."
+ },
+ {
+  "source": "IFF Valencia 2019 sessione 1462 'Whistleblowing PA' (relatore ignoto)",
+  "query": "platform.internetfreedomfestival.org live (timeout); CDX della pagina sessione (vuoto); WebSearch IFF 2019 + WhistleblowingPA/GlobaLeaks; WP REST hermescenter.org; archivio locale hermescenter-restore",
+  "outcome": "Nessun relatore trovato. Hermes-restore: solo pagina partner IFF (2020) e logo, nessun post 2019 sull'IFF."
+ },
+ {
+  "source": "Wired Next Fest / Codemotion / Security Summit / MozFest 2017-2019",
+  "query": "WebSearch combinata 'Pietrosanti' + nomi eventi; CDX con filtro URL su securitysummit.it e codemotion (Wayback offline/504)",
+  "outcome": "Nessuna menzione. Wired Next Fest coperto anche dalla ricerca interna wired.it del 2026-10-24 (solo 2017-04-11 noto)."
+ },
+ {
+  "source": "POuL 2018, HOPE 2018, SSRN 3459366, tesi NOVA Lisboa 2018",
+  "query": "non ripetuti",
+  "outcome": "Già chiusi negativi nel pass 2026-10-26 (leads_negatives_eventi2017_residui_2026-10-26.json): HOPE = Casadevall, POuL = Pellerano, SSRN e tesi NOVA letti integralmente via copie open, nessun nome."
+ }
+]

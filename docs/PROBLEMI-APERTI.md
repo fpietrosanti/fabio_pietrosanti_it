@@ -184,6 +184,25 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-quatervicies. 2026-10-31
+- Copie delle 14 voci nuove: **tutte ottenute** (11 dirette Ciao Internet in locale, Il Post 2019, Il Fatto 2022);
+  **Camera WebTV 10532** 🟡 con motivo esplicito (pagina senza intervenuti, video 504).
+- **Ritentati** (`--retry-failed`): invariati i 10 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo, Class Life, PrivateWave
+  EN/ES, deck Foggia, notizieoggi ×2, coinage) e i 🟡 noti. Web Archive «Temporarily Offline» per parte della notte: CDX di
+  coinage/notizieoggi non interrogabile. Area stampa PrivateWave: nella capture 27/02/2010 ci sono i link diretti a
+  `privategsm.pdf`, `khamsa_11dic2009.doc`, `economy_4feb2010.pdf`, **nessuno archiviato**.
+- **Risolto**: RomaToday 06/05/2025 e 19/08/2025 → **omonimi** (didascalia «foto facebook Fabio Pietrosanti» di un residente
+  di Borghesiana; il secondo pezzo non contiene più il nome).
+- **Domande per te:**
+  (a) **Candidatura 2022** con la lista «Referendum e Democrazia» di Cappato (Il Fatto 20/08/2022): confermi? In quale
+  collegio/posizione?
+  (b) Alla **conferenza stampa di Quintarelli alla Camera del 31/01/2017** (pdl sui captatori, slide nel tuo repo
+  `trojanregulations`) hai parlato tu?
+  (c) Il video **Cellulare Magazine** (YouTube `EJVK8nB7yAM`, demo PrivateGSM): la voce narrante è la tua?
+  (d) Hai i ritagli PrivateWave 2010 (`economy_4feb2010.pdf`, comunicato Khamsa 11/12/2009, press release EN/ES)?
+  (e) Proposta: chiudere le voci «Lacuna» 2007–2010, 2017–2019, 2023–2025 (ricerca automatica esaurita). Ok?
+  (f) Restano valide le domande dal 27/10 al 30/10.
+
 ### B0-tervicies. 2026-10-30
 - Copie delle 6 voci nuove: **tutte ottenute** (4 video Ciao Internet in locale, gappsy.com, programma RomHack). **Risolto**:
   il programma RomHack risultava 🟡 perché la capture Web Archive del 01/10 è precedente all'inserimento del talk → copia

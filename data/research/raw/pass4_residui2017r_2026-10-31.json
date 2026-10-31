@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2019-08-29",
+  "year": 2019,
+  "type": "article",
+  "outlet": "Il Post",
+  "title": "Come funziona la piattaforma Rousseau",
+  "url": "https://www.ilpost.it/2019/08/29/piattaforma-rousseau-come-funziona/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Letto il 2026-10-31 (pagina live). Il nome compare solo come handle: l'articolo incorpora il tweet di Marco Canestrari (29/08/2019) sullo screenshot del pannello admin di Rousseau comparso su 4chan: «Oh oh. Che succede a #Rousseau ? Segnalazione di @fpietrosanti». Nessuna altra menzione nel testo. Menzione minore.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-01-31",
+  "year": 2017,
+  "type": "video",
+  "outlet": "Camera dei deputati - WebTV",
+  "title": "Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli (31/01/2017 ore 11:30)",
+  "url": "https://webtv.camera.it/evento/10532",
+  "language": "it",
+  "role": "speaker",
+  "note": "Evento WebTV identificato (id 10532, trovato scorrendo gli id via webtv.camera.it/ws/get_event_playlist/<id>.json). È la conferenza stampa di presentazione della pdl sui captatori (C.4260, depositata lo stesso giorno; materiali «Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf» nel suo repo trojanregulations). La pagina NON elenca gli intervenuti (sezione Interventi 0/0, «conferenze stampa disponibili per un periodo massimo di 15 giorni») e il flusso video (akamaized, playlist.m3u8) risponde 504: la sua presenza come relatore NON è verificata. Nemmeno la slide-deck della conferenza contiene nomi.",
+  "verified": false,
+  "known": false
+ }
+]

@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1270**; già processate: **1450**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1083** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1202**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
+- Voci in `data/media.json`: **1284**; già processate: **1464**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1097** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1204**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **124**
+- 🎬 Video/audio scaricato (+ pagina): **135**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **10**
 
@@ -42,12 +42,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
+| 2017 | 88 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 99 | 5 | 2 | 0 | 0 | 0 | 2 |
-| 2020 | 177 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 60 | 18 | 0 | 0 | 0 | 0 | 2 |
+| 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 2 |
+| 2020 | 177 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -296,6 +296,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · Internet Freedom Festival 2017 (Valencia — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione](https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/) · licenza: terzi  
   programma ufficiale IFF 2017: elenca solo titolo, orario e link alla wiki della sessione; il nome è nella pagina wiki (mirror_of) già verificata — senza nome per natura
+- 🟡 **2017** · Camera dei deputati - WebTV — [Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli](https://webtv.camera.it/evento/10532) · licenza: terzi  
+  Pagina evento WebTV senza elenco degli intervenuti; il video (m3u8 akamaized) risponde 504 il 31/10/2026: non si sa se Fabio abbia parlato alla conferenza stampa Quintarelli sui captatori. Da chiedere a Fabio o riprovare il video da altra rete.
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Internet Freedom Festival 2019 (Valencia — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) · licenza: terzi  
@@ -1185,6 +1187,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.fcporto.ws/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/) · copia: `2019/1515921df5ce` (Web Archive 20200918) · licenza: terzi
 - **2019** · glistatigenerali.com — [Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane](https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/) · copia: `2019/8e5900e7a50e` (Web Archive 20250324) · licenza: terzi
+- **2019** · Il Post — [Come funziona la piattaforma Rousseau](https://www.ilpost.it/2019/08/29/piattaforma-rousseau-come-funziona/) · copia: `2019/a91cf2a256f1` (Web Archive 20190829) · licenza: terzi
 - **2019** · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html) · copia: `2019/6df5e77422f0` (Web Archive 20211209) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035) · copia: `2019/9423417abeec` (live) · licenza: terzi
 - **2019** · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/) · copia: `2019/06a1a3aed351` (Web Archive 20210619) · licenza: terzi
@@ -1197,9 +1200,14 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want ](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/) · copia: `2019/a361e5b7452c` (Web Archive 20200808) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube, d — [L6. [LIVE] La Diretta di Ciao Internet - 07.05.2019](https://www.youtube.com/watch?v=5BKWe0pm5vU) · copia: `2019/62dafcce13da` (live · video locale `media.mp4` (216 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [495. Bitcoin con il Morto: come un Exchange ha perso 150 milioni di dollari](https://www.youtube.com/watch?v=5t6duBMAWJ8) · copia: `2019/5de6ac791f2b` (Web Archive 20220825 · video locale `media.mp4` (57 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube, d — [L12. [LIVE] La Diretta di Ciao Internet - 24.11.2019](https://www.youtube.com/watch?v=Q5yUoFWAjZ0) · copia: `2019/a941a59e3cc7` (Web Archive 20220825 · video locale `media.mp4` (276 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube, d — [L8. [LIVE] La Diretta di Ciao Internet - 02.08.2019](https://www.youtube.com/watch?v=Zghth2ofUUU) · copia: `2019/7638fb176578` (live · video locale `media.mp4` (462 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [516. Malware illegali o no? I Captatori Informatici con Stefano Aterno](https://www.youtube.com/watch?v=o3da6mpThyk) · copia: `2019/1f89045ffd68` (Web Archive 20250519 · video locale `media.mp4` (98 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube, d — [L5. [LIVE] La Diretta di Ciao Internet - 24.05.2019](https://www.youtube.com/watch?v=ucnTiBAQecI) · copia: `2019/5d33cdb9726e` (Web Archive 20220825 · video locale `media.mp4` (444 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · Ciao Internet - Matteo Flora (YouTube, d — [L4. [LIVE] La Diretta di Ciao Internet - 10.04.2019](https://www.youtube.com/watch?v=x-MUItiFObc) · copia: `2019/3f211431bf8d` (Web Archive 20220825 · video locale `media.mp4` (417 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
 - **2020** · pr-foundation.org — [La nostra Fondazione contribuisce al convegno online "Gli Anticorpi del Futuro" del Foglio](http://www.pr-foundation.org/la-nostra-fondazione-contribuisce-al-convegno-online-gli-anticorpi-del-futuro-del-foglio-quotidiano/) · copia: `2020/2a22f167518d` (Web Archive 20210619) · licenza: terzi
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
@@ -1387,6 +1395,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E) · copia: `2020/47d15b9a4026` (live · video locale `media.mp4` (1,298 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · YouTube (Associazione Copernicani) — [Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma? (#DialoghiCoperni](https://www.youtube.com/watch?v=Payk7MfIeFs) · copia: `2020/fcb7a9dd8940` (live · video locale `media.mp4` (454 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet con Matteo Flora — [752. Manicomio Rousseau - Voto Elettronico, MoVimento e altre follie](https://www.youtube.com/watch?v=ejXlfoMZ_4k) · copia: `2020/c072e99210fa` (live · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · Ciao Internet - Matteo Flora (YouTube, d — [L27. [LIVE] La Diretta di Ciao Internet - 10.07.2020 (Moriremo tutti prima o poi)](https://www.youtube.com/watch?v=jiaX1z9sL34) · copia: `2020/cc03bcbbf1de` (Web Archive 20230717 · video locale `media.mp4` (628 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · Ciao Internet - Matteo Flora (YouTube, d — [L29. [LIVE] La Diretta di Ciao Internet - 01.11.2020](https://www.youtube.com/watch?v=n7EtGHYT1Ug) · copia: `2020/4967c243b07c` (Web Archive 20230722 · video locale `media.mp4` (741 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · YouTube (Eumans_archive) — [Condivisi. Covid19: quali dati per quali diritti?](https://www.youtube.com/watch?v=uLamuswTq8g) · copia: `2020/53390ce3962a` (Web Archive 20200415 · video locale `media.mp4` (755 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet - Matteo Flora (YouTube) — [763. Il Ransomware che uccide](https://www.youtube.com/watch?v=yFtCpv10NwQ) · copia: `2020/9f33ed3c78de` (Web Archive 20220820 · video locale `media.mp4` (64 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
@@ -1480,7 +1490,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · Radio Radicale — [Da "Milano Partecipa" alla comunità italiana per la e-democracy](https://www.radioradicale.it/scheda/631935/da-milano-partecipa-alla-comunita-italiana-per-la-e-democracy) · copia: `2021/b0587a0cb233` (Web Archive 20220409 · video locale `media.mp4` (1,323 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici) · copia: `2021/d8ee8af51780` (Web Archive 20210730 · video locale `media.00.mp4` (1,420 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765) · copia: `2021/65553fc78213` (live · video locale `media.mp3` (91 MB, da caricare su Drive)) · licenza: terzi
+- **2021** · Ciao Internet - Matteo Flora (YouTube, d — [L41. [LIVE] La Diretta di Ciao Internet - 08.03.2021](https://www.youtube.com/watch?v=3BD3I4vfJws) · copia: `2021/57135658b223` (Web Archive 20220825 · video locale `media.mp4` (298 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · Ciao Internet con Matteo Flora (YouTube) — [863. Voto Elettronico: perché è (ancora) una pessima idea](https://www.youtube.com/watch?v=GvPZe41S_as) · copia: `2021/7ba77dc53eca` (Web Archive 20210607 · video locale `media.mp4` (392 MB, da caricare su Drive)) · licenza: terzi
+- **2021** · Ciao Internet - Matteo Flora (YouTube, d — [L38. [LIVE] La Diretta di Ciao Internet - 06.02.2021 (SPID, Social, Minori - Con Stefano Z](https://www.youtube.com/watch?v=diAh1p77cKU) · copia: `2021/35e43f62e1e9` (live · video locale `media.mp4` (498 MB, da caricare su Drive)) · licenza: terzi
+- **2021** · Ciao Internet - Matteo Flora (YouTube, d — [L39. [LIVE] La Diretta di Ciao Internet - 20.02.2021](https://www.youtube.com/watch?v=fFNzy8XVCnE) · copia: `2021/984e8a884ac5` (Web Archive 20211014 · video locale `media.mp4` (695 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · YouTube - Free Software Foundation Europ — [The first AGPL compliance case settled in an Italian Court - FOSDEM 2021](https://www.youtube.com/watch?v=gm0NKwL5QZw) · copia: `2021/680769ca46c1` (live · video locale `media.mp4` (297 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · VoidSec (YouTube) — [Pirate's Night Show #5 Tor e Privacy con Fabio Pietrosanti Naif](https://www.youtube.com/watch?v=j5T6loxU25s) · copia: `2021/3710852d4b6a` (live · video locale `media.mp4` (393 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Raffaello Cortina Editore — [Aggiustare il mondo. La vita, il processo e l'eredità dell'hacker Aaron Swartz](https://archive.org/details/aggiustare-il-mondo.-la-vita-il-processo-e-leredita-dellhacker-aaron-swartz) · copia: `2022/9dc3080fb43c` (live) · licenza: terzi
@@ -1523,6 +1536,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Easyteam.org (blog di un fornitore di so — [MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali](https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/) · copia: `2022/9cd758b7033f` (Web Archive 20251119) · licenza: terzi
 - **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
 - **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi
+- **2022** · Il Fatto Quotidiano — [“Referendum e democrazia”, Marco Cappato presenta i candidati: “12mila firme, una corsa co](https://www.ilfattoquotidiano.it/2022/08/20/referendum-e-democrazia-marco-cappato-presenta-i-candidati-12mila-firme-una-corsa-contro-il-tempo-per-arrivare-a-60mila/6768347/) · copia: `2022/fc8bb2282954` (Web Archive 20220820) · licenza: terzi
 - **2022** · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/) · copia: `2022/81fb6ebe105d` (live) · licenza: terzi
 - **2022** · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usa](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/) · copia: `2022/d8829e0278a1` (Web Archive 20220315) · licenza: terzi
 - **2022** · Il Riformista — ["Ecco come Putin può disconnettere l'Italia", il rischio dell'antivirus Kaspersky utilizza](https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/) · copia: `2022/e68cb385c0ce` (Web Archive 20220228) · licenza: terzi
@@ -1560,6 +1574,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · YouTube — SOS LOGistica - Associazione L — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 ](https://www.youtube.com/watch?v=bPXna2KujUE) · copia: `2022/0a221d505d08` (live · video locale `media.mp4` (286 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · copia: `2022/f9712cf38150` (Web Archive 20220513 · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1005. I GATTINI del CAPITANO, ma anche MPS e le affermazioni di Pasquale Marchese e VOTO E](https://www.youtube.com/watch?v=hlOsk_MStbU) · copia: `2022/a1eaa622069b` (live · video locale `media.mp4` (73 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Ciao Internet - Matteo Flora (YouTube, d — [L60. [LIVE] La Diretta di Ciao Internet - 27.08.2022](https://www.youtube.com/watch?v=hspTjLjG30A) · copia: `2022/8439a564c59f` (Web Archive 20220827 · video locale `media.mp4` (471 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [L54. [LIVE] La Diretta di Ciao Internet - 1.04.2022](https://www.youtube.com/watch?v=s7II5CAR2po) · copia: `2022/1e1ee2d947ce` (Web Archive 20220401 · video locale `media.mp4` (206 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/) · copia: `2023/df9cad7c9e11` (Web Archive 20230517) · licenza: terzi
 - **2023** · costabile.net — CyberCoach (Gerardo Cost — [CyberCoach — elenco video, tra cui «Evoluzione dell'hacking con Fabio Pietrosanti (aka Nai](https://costabile.net/cibercoach/) · copia: `2023/4309631c2a3d` (Web Archive 20230607) · licenza: terzi

@@ -1,0 +1,13 @@
+{"date": "2026-10-31", "source": "job ~/ciaointernet_subs (sottotitoli Ciao Internet, 2.074/2.096 video fatti, 86 righe in hits.jsonl)",
+ "note": "Occorrenze di «naif» come aggettivo, non riferite a Fabio: esclusi.",
+ "excluded": [
+  {"id": "76vxJiC56-M", "date": "2026-01-26", "why": "«magari sono naif io» (aggettivo)"},
+  {"id": "Ci2e3FOVKbI", "date": "2022-05-03", "why": "«in maniera un po' naif» (aggettivo)"},
+  {"id": "HEzA9CPcpns", "date": "2021-10-11", "why": "«ritengo naif pensare» (aggettivo)"},
+  {"id": "TQeVGLhqpO4", "date": "2021-08-13", "why": "«implementarlo nel modo naif» (aggettivo)"},
+  {"id": "BQeXlWysyug", "date": "2021-04-27", "why": "«in maniera naif», «sei talmente naif» (aggettivo)"},
+  {"id": "rBo1HDL1lD4", "date": "2021-04-26", "why": "«in modalità un po naif» (aggettivo)"},
+  {"id": "USbDW5gfpo0", "date": "2020-10-20", "why": "«cinismo naif e realismo naive» (aggettivo)"},
+  {"id": "JlYTBn5758E", "date": "2024-10-18", "why": "«sembra un po' naif» (aggettivo)"}
+ ],
+ "remaining": "22 video non ancora scansionati: YouTube blocca il server (429 / «Sign in to confirm»), il job riprova con backoff crescente."}
