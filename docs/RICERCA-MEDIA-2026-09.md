@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1769**; dopo deduplica: **1289**
+- Risultati grezzi dalle ricerche: **1771**; dopo deduplica: **1291**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1234**
-- Verificati aprendo la pagina: **1217**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1236**
+- Verificati aprendo la pagina: **1219**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 281, tweet 132, Talk 105, Video 97, Citato 79, Post sul blog infosecurity.ch 72, article 50, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 283, tweet 132, Talk 105, Video 97, Citato 79, Post sul blog infosecurity.ch 72, article 50, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -34,7 +34,7 @@ Per tipo (nuovi): Menzionato 281, tweet 132, Talk 105, Video 97, Citato 79, Post
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 50 | 50 |
-| 2016 | 0 | 33 | 33 |
+| 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
@@ -1552,7 +1552,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 33 voci, 33 nuove
+## 2016 — 35 voci, 35 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
@@ -1592,6 +1592,10 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …e Consiliare d’Inchiesta CARISP-SOPAF; Mario Venturini (AP) in qualità di Membro delle due Commissioni Consiliari d’Inchiesta FINCAPITAL e CARISP-SOPAF, l’Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency …
 - 🆕 **2016-02-17** · Menzionato · dire.it — [Sinistra unita: "Anche sul Titano servono norma anti-corruzione" - DIRE.it](https://www.dire.it/17-02-2016/38088-sinistra-unita-anche-sul-titano-servono-norma-anti-corruzione/)  
   verified via wayback; context: …a” di Su, la coodinatrice Vanessa D’Ambrosio , il consigliere Francesca Michelotti e Giulia Muratori della segreteria del partito. Ospiti della serata sono poi Fabio Pietrosanti del centro Hermes, Gerardo Giovagnoli, Psd…
+- 🆕 **2016-02-17** · Menzionato · sanmarinortv.sm — [SU: serata pubblica sulla corruzione](https://www.sanmarinortv.sm/news/comunicati-c9/serata-pubblica-corruzione-a162704)  
+  comunicato di Sinistra Unita sulla serata pubblica sulla corruzione del 18/02/2016, tra i relatori «l'Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency International». verified via wayback; context: …Consiliare d’Inchiesta CARISP-SOPAF; Mario Venturini (AP) in qualità di Membro delle due Commissioni Consiliari d’Inchiesta FINCAPITAL e CARISP-SOPAF e l’Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency I…
+- 🆕 **2016-02-17** · Menzionato · libertas.sm — [SOS TRASPARENZA: strumenti ed interventi per combattere la corruzione a San Marino - libertas](https://www.libertas.sm/sos-trasparenza-strumenti-ed-interventi-per-combattere-la-corruzione-a-san-marino/)  
+  annuncio della serata 'SOS Trasparenza' di Sinistra Unita (Domagnano, 18/02/2016) tra i relatori «l'Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency International». verified via wayback; context: …Consiliare d’Inchiesta CARISP-SOPAF; Mario Venturini (AP) in qualità di Membro delle due Commissioni Consiliari d’Inchiesta FINCAPITAL e CARISP-SOPAF e l’Ing. Fabio Pietrosanti, del centro HERMES, legato a Transparency I…
 - 🆕 **2016-02-01** · Citato · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/)  
   Sul ddl whistleblowing (Businarolo) appena approvato alla Camera: "Fabio Pietrosanti, cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali, punta il dito contro il fatto che 'la norma non tiene ancora conto dell'esigenza di considerare pure le segnalazioni anonime'"; poi "prosegue Pietrosanti" sull'assenza di un sistema informatico unico per le segnalazioni. Verificato live 2026-10-13 (datePublished 2016-02-01).
 - 🆕 **2016-01-24** · Radio · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/)  

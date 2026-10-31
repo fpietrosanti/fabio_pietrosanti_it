@@ -4828,51 +4828,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Sinistra Unita\" OR \"Repubblica di San Marino\" trasparenza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"legge 179\" OR \"legge sul whistleblowing\" 2017",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" PrivateGSM OR \"chiamate criptate\" iPhone 2010 OR 2011",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Transparency International Italia\" 2014 OR 2015 OR 2016",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Corriere della Sera\" OR \"La Stampa\" hacker 2003 OR 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Hermes\" OR \"GlobaLeaks\" Torino OR Milano OR Bologna convegno 2017 OR 2018 OR 2019",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Wikileaks OR Globaleaks intervista radio 2011",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Euronews\" OR \"Sky TG24\" OR \"TG\" cybersecurity",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)",
+   "done": "2026-10-31 13:40",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Sinistra Unita\" OR \"San Marino\" whistleblowing 2017 OR 2018",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 13:10: coda esaurita; filoni emersi (San Marino 2016, legge 179/2017) e anni deboli (2003-05, 2009-12, 2015-19)"
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Kaspersky Euronews OR TGcom24 OR Rainews 2018",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"ANAC\" OR \"Cantone\" piattaforma segnalazioni 2016 OR 2017",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Bluetooth OR \"Bluesnarfing\" OR \"cellulari\" sicurezza 2004 OR 2005",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Punto Informatico\" OR \"Zeus News\" 2009 OR 2010 OR 2011 OR 2012",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Il Fatto Quotidiano\" whistleblowing OR GlobaLeaks OR Tor",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Wired\" OR \"Linkiesta\" OR \"Valigia Blu\" 2015 OR 2016 OR 2017",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Comune\" OR \"Regione\" whistleblowing GlobaLeaks adozione 2018 OR 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 13:40: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e filoni Transparency/whistleblowing PA"
   }
  ],
  "history": [
@@ -6008,6 +6072,14 @@
    "captcha": false,
    "confirmed_new": 4,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (San Marino/Svizzera, Hermes corruzione 2016-17, interviste sicurezza 2010-12, telefonate cifrate 2009-10, radio, whistleblowing aziende/d.lgs. 24/2023, Metro Olografix/Smau/Webbit, Tor/anonimato 2015-18), chiave localStorage gq20261031f_N: nessun robot check, 76 risultati, 58 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (nexa hyperkitty, lists.autistici), pagine indice/home/tag (dicorinto, pr-foundation, raiplaysound programmi/puntate, dalchecco category, ilsole24ore tag, poul.org topic, radioradicale soggetti, personaldemocracy, romhack speaker, principigrimaldi, alessandrorodolfi). 38 verificati: 9 'OK', di cui 5 già in exclude (Wikipedia GlobaLeaks, IJF Di Salvo, Radio Radicale 316486 correlati, MOCA 2016 speaker, logisticasostenibile = omonimo LESS Impresa Sociale). NUOVE voci (raw ridotto alle sole 4): serata 'SOS Trasparenza' di Sinistra Unita a San Marino, febbraio 2016, con Fabio 'del centro HERMES, legato a Transparency' — DIRE 17/02/2016, Libertas 19/02/2016, San Marino RTV (politica); Futura News 15/11/2017 sulla legge whistleblowing, 'Fabio Pietrosanti, presidente del Centro Hermes'. Merged 1285→1289. Copie offline: 1209 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-10-31 13:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (San Marino/Sinistra Unita, legge 179/2017, PrivateGSM 2010-11, Transparency International Italia 2014-16, Corriere/La Stampa 2003-05, Hermes/GlobaLeaks convegni 2017-19, Wikileaks/GlobaLeaks radio 2011, Euronews/Sky TG24), chiave localStorage gq20261031g_N: nessun robot check, 77 risultati, 64 URL unici. Scartati senza verifica LinkedIn, Threads, mailing list (seclists, freeswitch pipermail, mail-archive sikurezza, nexa hyperkitty), forum.italia.it, pagine indice/home/tag (dicorinto, pr-foundation, snobnonpertutti autore, radioradicale soggetti, hermescenter category, euronews tag, romhack schedule). 42 verificati: 9 'OK', di cui 5 già in exclude (Schneier nobody_encrypts, Motorola VoWLAN slideshare, MOCA 2016 speaker, it.wikipedia GlobaLeaks, IJF Gallus) e 2 ripubblicazioni Libertas dello stesso articolo (aggiunte a exclude come alias). NUOVE voci (raw ridotto alle sole 2): annuncio della serata 'SOS Trasparenza' di Sinistra Unita del 17/02/2016 su Libertas e comunicato su San Marino RTV (comunicati a162704). Merged 1289→1291. Copie offline: 1211 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }

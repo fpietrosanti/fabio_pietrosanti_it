@@ -1211,6 +1211,14 @@
   {
    "url": "https://www.festivaldelgiornalismo.com/programme/2018/telefone-intercepts-in-the-age-of-nsagate",
    "reason": "2026-10-31: alias con anno 2018 nell'URL della sessione IJF del 3/05/2014 «Intercettazioni telefoniche nell'era dell'NSA Gate», già in archivio come programme/2014/..."
+  },
+  {
+   "url": "https://www.libertas.sm/san-marino-sos-trasparenza-se-ne-e-parlato-ieri-sera-a-domagnano-sinistra-unita-116688/",
+   "reason": "2026-10-31: ripubblicazione Libertas (19/02/2016 18:06) dello stesso resoconto Sinistra Unita già in archivio come libertas.sm/sos-trasparenza-sinistra-unita/ (19/02/2016 17:17) → alias, non una voce"
+  },
+  {
+   "url": "https://www.libertas.sm/san-marino-sinistra-unita-il-18-febbraio-promuove-la-serata-sos-trasparenza-sulla-corruzione-sul-titano-116592/",
+   "reason": "2026-10-31: ripubblicazione Libertas (17/02/2016 16:54) dell'annuncio 'SOS Trasparenza' tenuto come libertas.sm/sos-trasparenza-strumenti-ed-interventi-per-combattere-la-corruzione-a-san-marino/ (17/02/2016 16:32) → alias, non una voce"
   }
  ],
  "override": [
