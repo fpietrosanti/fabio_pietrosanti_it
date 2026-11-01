@@ -1,0 +1,146 @@
+{
+ "negatives": [
+  {
+   "url": "https://www.lemonde.fr/recherche/?search_keywords=Pietrosanti (intervallo 1944-2026)",
+   "note": "Ricerca interna Le Monde (full text): unico risultato l'articolo Hermès 17/10/2014 già noto. Gli articoli Le Monde su GlobaLeaks/Source Sûre (2014-04-01 ligue des lanceurs, 2014-04-17 tanière virtuelle, 2015-02-12 Source Sûre, 2017-01-24 Barcelone) non escono per 'Pietrosanti' -> non lo nominano (pagine dirette dietro bot-wall, non aperte)."
+  },
+  {
+   "url": "https://www.mediapart.fr/search?search_word=Pietrosanti",
+   "note": "«Aucun résultat dans le Journal pour « Pietrosanti »» (il blog Mediapart 2019 è già noto)."
+  },
+  {
+   "url": "https://www.letemps.ch/recherche?query=Pietrosanti ; query=GlobaLeaks",
+   "note": "«Aucun résultat trouvé» per entrambi."
+  },
+  {
+   "url": "https://www.laquadrature.net/?s=Pietrosanti ; ?s=GlobaLeaks",
+   "note": "«Nothing Found»."
+  },
+  {
+   "url": "https://www.numerama.com/?s=Pietrosanti ; ?s=GlobaLeaks",
+   "note": "Nessun risultato."
+  },
+  {
+   "url": "https://www.lesinrocks.com/?s=Pietrosanti",
+   "note": "arch_results 0."
+  },
+  {
+   "url": "https://korben.info/globaleaks-une-plateforme-libre-pour-les-lanceurs-dalerte.html",
+   "note": "Articolo Korben su GlobaLeaks aperto: nessuna occorrenza di Pietrosanti/naif."
+  },
+  {
+   "url": "https://www.journaldugeek.com/2015/02/13/source-sure-premiere-plateforme-francophone-securisee-pour-lanceur-dalerte/ ; https://www.frenchweb.fr/medias-les-infos-a-ne-pas-rater-un-nouveau-site-pour-les-lanceurs-dalertes-francophones-snapchat-lance-discover/178573",
+   "note": "Source Sûre 2015: aperti, nessuna occorrenza."
+  },
+  {
+   "url": "https://web.archive.org/web/20150909044839id_/http://www.coe.int/fr/web/world-forum-democracy/2015-lab-15-safe-whistleblowing",
+   "note": "World Forum for Democracy CoE 2015, LAB 15: l'iniziativa GlobaLeaks/Hermes è presentata da Claudio Agosti; nessuna occorrenza di Fabio."
+  },
+  {
+   "url": "https://web.archive.org/web/20120831071135id_/http://owni.fr:80/2012/08/29/lagence-tous-leaks/",
+   "note": "OWNI 29/08/2012 (Pierre Alonso) su Associated Whistleblowing Press: nessuna occorrenza (non è la versione FR del pezzo owni.eu 27/08/2012 già noto)."
+  },
+  {
+   "url": "https://web.archive.org/web/2013id_/http://owni.fr/2011/07/20/fuites-a-litalienne-spider-truman/",
+   "note": "OWNI 2011 su Spider Truman: nessuna occorrenza."
+  },
+  {
+   "url": "https://web.archive.org/web/20110922033523id_/http://owni.fr/2011/09/01/sur-la-route-des-hackers-evangelistes/",
+   "note": "Nessuna occorrenza."
+  },
+  {
+   "url": "Wayback CDX owni.fr/2010-2012 (2838 slug di articoli)",
+   "note": "Nessuno slug contiene globaleaks/tor2web/pietrosanti/hermes; 2 candidati non aperti per 429 (vedi open_leads)."
+  },
+  {
+   "url": "https://www.tomsguide.fr/un-ancien-developpeur-dethereum-condamne-a-5-ans-de-prison-pour-une-conference-en-coree-du-nord/",
+   "note": "Griffith/Corea del Nord: nessuna occorrenza."
+  },
+  {
+   "url": "https://www.lemondeinformatique.fr/actualites/lire-italie-les-revelations-sur-hacking-team-perturbent-des-enquetes-61949.html",
+   "note": "Hacking Team 2015: nessuna occorrenza."
+  },
+  {
+   "url": "https://ijnet.org/{fr,pt-br,en,ar,ru,es,fa}/node/1437",
+   "note": "IJNet su AfriLEAKS in 7 lingue: nessuna occorrenza."
+  },
+  {
+   "url": "https://www.brandsouthafrica.com/stay-updated/quick-facts/2015/sa-newspaper-in-afrileaks-launch/",
+   "note": "AfriLEAKS: nessuna occorrenza."
+  },
+  {
+   "url": "https://www.securitylab.ru/news/491610.php",
+   "note": "19/02/2018 «Итальянцы создали платформу для информаторов в Tor» (ANAC/GlobaLeaks): nomina Hermes Center, non Pietrosanti."
+  },
+  {
+   "url": "https://ktisis.cut.ac.cy/bitstream/20.500.14279/15446/1/Pages%20from%20Untitled.pdf",
+   "note": "Accountancy Cyprus (Krambia-Kapardis): nessuna occorrenza."
+  },
+  {
+   "url": "https://pergamos.lib.uoa.gr/uoa/dl/object/2934928/file.pdf",
+   "note": "Tesi UoA 2020 sui whistleblower: nessuna occorrenza."
+  },
+  {
+   "url": "https://avisdexperts.ch/en/user/17144",
+   "note": "Falso positivo: Fabrizio Sabelli (IHEID), non Fabio."
+  },
+  {
+   "url": "https://conf2013.arij.net/speakers/fabio-pietrosanti/index.html",
+   "note": "404; nessun legame con ARIJ trovato."
+  },
+  {
+   "url": "https://english.atlatszo.hu/?s=Pietrosanti",
+   "note": "Nessun risultato (la versione HU ha solo l'articolo 2013 registrato come voce)."
+  },
+  {
+   "url": "hlidacipes.org, oko.press, bird.bg, istinomer.rs, occrp.org, tvxs.gr, efsyn.gr, insidestory.gr, reportersunited.gr, politis.com.cy, balkaninsight.com (ricerche interne)",
+   "note": "Nessun risultato (solo eco della query). krik.rs, cins.rs, arij.net, riseproject.ro: challenge JS anti-bot, non aggirato. rfi.fr, lesoir.be, liberation.fr, lepoint.fr: 403. rtbf.be, lalibre.be, 20minutes.fr, telerama.fr, rts.ch, lapresse.ca, ledevoir.com, nouvelobs.com: risultati renderizzati via JS, non conclusivi."
+  },
+  {
+   "url": "https://api.archives-ouvertes.fr/search/?q=Pietrosanti ; q=GlobaLeaks ; text:\"Fabio Pietrosanti\"",
+   "note": "HAL: solo omonimi (Fabiano, L. Pietrosanti); GlobaLeaks 0 risultati. OpenEdition: nessun risultato utile."
+  },
+  {
+   "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Pietrosanti -sourcelang:english -sourcelang:italian (per anno 2018-2026)",
+   "note": "Vuoto {} (2017 non interrogabile per rate-limit)."
+  },
+  {
+   "url": "https://be-api.us.archive.org/fts/v1/search (Fabio Pietrosanti / Pietrosanti naif / Tor2web / Hermes / lanceurs / Wikileaks)",
+   "note": "Solo materiale IT/EN già noto e omonimi; nessun testo FR o altre lingue."
+  },
+  {
+   "url": "WebSearch: \"Пьетросанти\", \"ピエトロサンティ\", \"피에트로산티\", \"بيتروسانتي\"",
+   "note": "Solo Pietrasanta (città) e omonimi."
+  },
+  {
+   "url": "WebSearch: Pietrosanti + Hacking Team / e-voting / Svizzera / Source Sûre / AfriLeaks / Indonesia / Corea / Turchia / Ucraina-Russia / Polonia-Cechia",
+   "note": "Nessuna nuova fonte non-IT/EN con il nome."
+  },
+  {
+   "url": "Google Books API / Google Books HTML",
+   "note": "API: quota giornaliera esaurita (429); HTML renderizzato via JS, nessun risultato estraibile. Non eseguito."
+  },
+  {
+   "url": "https://web.archive.org/web/20120513063655id_/http://owni.fr/2012/05/10/linternationale-des-hackers-reunie-en-serbie/",
+   "note": "OWNI 10/05/2012 (Share Conference Belgrado): aperto (200), nessuna occorrenza di Pietrosanti/naif/GlobaLeaks/Tor2web."
+  },
+  {
+   "url": "http://owni.fr/2011/08/22/photos-hackers-sont-jolies-les-quotes-du-ccamp11/ (Wayback 20110830192024)",
+   "result": "Aperto il 2026-11-01 dal Web Archive (id_, capture indicata) dalla sessione principale: pagina completa, nessuna occorrenza di «Pietrosanti» né di «naif» (solo 3× «italien») → negativo."
+  },
+  {
+   "url": "https://gijn.org/fr/histoires/francais-lanceurs-alerte-plateformes-numeriques",
+   "result": "Aperto il 2026-11-01 dal Web Archive (id_, capture indicata) dalla sessione principale: pagina completa, nessuna occorrenza di «Pietrosanti» né di «naif» (GIJN cita GlobaLeaks 4 volte) → negativo."
+  }
+ ],
+ "open_leads": [
+  {
+   "url": "RFE/RL altri servizi linguistici (svoboda.org, europalibera.org, radiosvoboda.org ecc.)",
+   "note": "Possibili altre traduzioni del pezzo Allnutt 2012; le ricerche interne RFE/RL non filtrano per termine."
+  },
+  {
+   "url": "Cipro, febbraio 2020 (Philenews, Politis, Kathimerini Cipro, Cyprus Mail)",
+   "note": "Altri resoconti del dibattito dell'11/02/2020 con Fabio in video: non trovati."
+  }
+ ]
+}

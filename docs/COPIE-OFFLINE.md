@@ -5,17 +5,18 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1291**; già processate: **1471**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1104** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1211**
+- Voci in `data/media.json`: **1298**; già processate: **1478**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1111** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1218**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
+- ♻️ Ripresa identica di un articolo già copiato: la pagina della ripresa non è raggiungibile, il testo è nella copia dell'originale: **3**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **135**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **10**
+- ❌ Non ottenuta: **7**
 
 ## Per anno
 
@@ -37,17 +38,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
 | 2010 | 71 | 3 | 1 | 0 | 0 | 0 | 4 |
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 38 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 32 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 2 |
-| 2020 | 177 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 1 |
+| 2020 | 179 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -276,14 +277,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   URLError
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
-- ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
-  URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
   http 410
-- ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
-  URLError
-- ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
-  URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
@@ -304,6 +299,12 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   programma IFF 2019 dal Web Archive: solo titolo, orario e sala, nessun relatore; pagina della sessione (id 1462) mai archiviata, piattaforma IFF giù — chi ha tenuto la sessione lo può dire solo Fabio
 - 🟡 **2019** · Il Fatto Quotidiano (print, 'In edicola' — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- ♻️ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
+  2026-11-01: coinage.it è un aggregatore che ripubblicava CoinDesk; host irraggiungibile e nessuna capture Wayback dell'articolo (CDX coinage.it/news/*: solo un altro pezzo del 2021). Testo identico già copiato dall'originale CoinDesk (Wayback 20210918, nome verificato) e dalla versione CoinDesk Italiano.
+- ♻️ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
+  2026-11-01: notizieoggi.com ripubblica l'articolo di Il Post del 14/09/2022; sito irraggiungibile (certificato errato) e mai archiviato. Il testo è nella copia dell'originale Il Post (nome verificato).
+- ♻️ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
+  2026-11-01: seconda ripubblicazione notizieoggi.com dello stesso pezzo di Il Post del 14/09/2022; sito irraggiungibile e mai archiviato. Testo nella copia dell'originale Il Post (nome verificato).
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
@@ -754,13 +755,18 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · nazioneindiana.com — [La riscoperta dei diritti civili nell’era digitale: e-privacy 2012 a Milano | Nazione Indi](https://www.nazioneindiana.com/2012/06/18/la-riscoperta-dei-diritti-civili-nellera-digitale-e-privacy-2012-a-milano/) · copia: `2012/d9838e2f61fc` (Web Archive 20120625) · licenza: terzi
 - **2012** · Radio Free Europe/Radio Liberty (RFE/RL) — [With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?](https://www.rferl.org/a/with-wikileaks-on-ice-what-has-happened-to-all-those-digital-whistle-blowers/24686710.html) · copia: `2012/f15bbf475c56` (Web Archive 20181005) · licenza: terzi
 - **2012** · scribd.com (copia del paper FOCI 2012) — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog — FOCI 2012)](https://www.scribd.com/document/962321259/How-the-Great-Firewall-of-China-is-Blocking-Tor) · copia: `2012/f61a6ba1edee` (Web Archive 20260113) · licenza: terzi
+- **2012** · Radio Slobodna Evropa (RFE/RL, servizio  — [Kakva je sudbina digitalnih zviždača nakon WikiLeaksa](https://www.slobodnaevropa.org/a/kakva-je-sudbina-digitalnih-zvizdaca-nakon-wikileaksa/24693271.html) · copia: `2012/55fd89da3c7e` (Web Archive 20210507) · licenza: terzi
 - **2012** · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) · copia: `2012/90c06f908516` (Web Archive 20140223) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=1MYg_32I8lg) · copia: `2012/f059cb1da0bf` (live · video locale `media.mp4` (50 MB, da caricare su Drive)) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=8icNqwJEIXM) · copia: `2012/56d560e86e70` (live · video locale `media.mp4` (30 MB, da caricare su Drive)) · licenza: terzi
 - **2012** · YouTube / Estrema Mente — [Globaleaks, whistleblowing made in Italy](https://www.youtube.com/watch?v=A8BVIvD_bUk) · copia: `2012/42ddecfca1ab` (live · video locale `media.mp4` (83 MB, da caricare su Drive)) · licenza: terzi
 - **2013** · techPresident (Personal Democracy Media) — [After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge](http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists) · copia: `2013/cac665e75238` (Web Archive 20131114) · licenza: terzi
+- **2013** · Abraji / Conferência Global de Jornalism — [GLOBAL: Mini-curso sobre segurança: Protegendo a si mesmo e suas fontes on-line (Ing)](https://abraji.sched.com/event/1e75v78/global-mini-curso-sobre-seguranca-protegendo-a-si-mesmo-e-suas-fontes-on-line-ing) · copia: `2013/b83428570b8c` (live) · licenza: terzi
+- **2013** · Abraji / Conferência Global de Jornalism — [Fabio Pietrosanti — página de palestrante (sched Abraji, versão em português)](https://abraji.sched.com/speaker/fabio_pietrosanti.1rar6wir) · copia: `2013/9463d0881fef` (live) · licenza: terzi
 - **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/abs/1306.5156) · copia: `2013/2b21e79e736a` (Web Archive 20131206) · licenza: terzi
 - **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/pdf/1306.5156) · copia: `2013/54a5bcd599ee` (Web Archive 20240419) · licenza: terzi
+- **2013** · Átlátszó (atlatszo.hu, Ungheria) — [Wikileaks-klónok a Žít Brno-tól a Balkanleaksig - kiszivárogtatási körkép](https://atlatszo.hu/kozpenz/2013/07/05/wikileaks-klonok-a-zit-brno-tol-a-balkanleaksig-kiszivarogtatasi-korkep/) · copia: `2013/96e05289a132` (Web Archive 20211201) · licenza: terzi
+- **2013** · Matthijs R. Koot's notebook (blog.cyberw — [Dutch press unites in “Publeaks Foundation”, opens new whistleblower website: www.publeaks](https://blog.cyberwar.nl/2013/09/dutch-press-unites-in-publeaks-foundation-opens-new-whistleblower-website-www-publeaks-nl/) · copia: `2013/fa30bc2b32d4` (live) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — July, 31st 2013](https://blog.torproject.org/tor-weekly-news-july-31st-2013/) · copia: `2013/acb3104fa036` (Web Archive 20190131) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — October 9th, 2013](https://blog.torproject.org/tor-weekly-news-october-9th-2013/) · copia: `2013/01c0be7c6b03` (Web Archive 20190131) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 18th, 2013](https://blog.torproject.org/tor-weekly-news-september-18th-2013/) · copia: `2013/9be5871abf08` (Web Archive 20190131) · licenza: terzi
@@ -1232,6 +1238,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · IGI Global — [Applying Internet Laws and Regulations to Educational Technology](https://books.google.com/books?id=gkThDwAAQBAJ) · copia: `2020/f27e1373cd7d` (live) · licenza: terzi
 - **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/) · copia: `2020/423816c0d044` (Web Archive 20210619) · licenza: terzi
 - **2020** · Copernicani (#DialoghiCopernicani, onlin — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, stru](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/) · copia: `2020/2cd8cd7b083a` (Web Archive 20201019) · licenza: terzi
+- **2020** · 24h (quotidiano, Cipro) — via rassegna s — [Να προστατεύσουμε τους μάρτυρες δημοσίου συμφέροντος](https://cut.ac.cy/digitalAssets/234/234870_100PRESS_PDF_20200215__1_.pdf) · copia: `2020/2718279cd1cf` (live) · licenza: terzi
 - **2020** · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-locat](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk) · copia: `2020/50fc2ff6af5f` (live) · licenza: terzi
 - **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Sim Toolkit uses notes for covid-19](https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/) · copia: `2020/713a2501cbca` (Web Archive 20210314) · licenza: terzi
 - **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Commissione Voto Elettronico: Rigetto FOIA](https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/) · copia: `2020/0a6aad5ea2f8` (Web Archive 20201219) · licenza: terzi
@@ -1406,6 +1413,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Ciao Internet - Matteo Flora (YouTube, d — [L29. [LIVE] La Diretta di Ciao Internet - 01.11.2020](https://www.youtube.com/watch?v=n7EtGHYT1Ug) · copia: `2020/4967c243b07c` (Web Archive 20230722 · video locale `media.mp4` (741 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · YouTube (Eumans_archive) — [Condivisi. Covid19: quali dati per quali diritti?](https://www.youtube.com/watch?v=uLamuswTq8g) · copia: `2020/53390ce3962a` (Web Archive 20200415 · video locale `media.mp4` (755 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet - Matteo Flora (YouTube) — [763. Il Ransomware che uccide](https://www.youtube.com/watch?v=yFtCpv10NwQ) · copia: `2020/9f33ed3c78de` (Web Archive 20220820 · video locale `media.mp4` (64 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · Xnet (Barcelona) — [Sobre el uso de la inteligencia artificial y los datos contra el #COVID19](https://xnet-x.net/inteligencia-artificial-datos-covid19/) · copia: `2020/65e80bbff745` (Web Archive 20200604) · licenza: terzi
 - **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
 - **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2021/b94e84acade8` (Web Archive 20220119) · licenza: terzi
 - **2021** · Ethan Lou, Once a Bitcoin Miner: Scandal — [Once a Bitcoin Miner](https://archive.org/details/oncebitcoinminer0000loue) · copia: `2021/69694a319f01` (live) · licenza: terzi

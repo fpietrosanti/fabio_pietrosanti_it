@@ -1,0 +1,137 @@
+[
+ {
+  "outlet": "netzpolitik.org",
+  "query": "site search ?s=Pietrosanti; ?s=globaleaks; tag/globaleaks",
+  "result": "only known 2021 Clearview article; OHM2013 video post (2013) credits talk to 'Hermes Center', no name; 2022 Clearview-Italy fine article names Hermes Center only; 2025 Italian Staatstrojaner/Paragon articles: no name"
+ },
+ {
+  "outlet": "heise.de",
+  "query": "internal search 'Pietrosanti' (rendered in browser)",
+  "result": "3 results, all known (2010 Hickhack, 2017 SHA2017, 2021 Clearview). Also checked heise 2013 'Globaleaks: Whistleblowing für alle' and c't 2013/20 (Wayback): only Hermes/Filastò, no name"
+ },
+ {
+  "outlet": "golem.de",
+  "query": "articles 1108/85925 and 1109/86276 via Wayback; site search blocked by pay-or-consent wall",
+  "result": "no name (Seif Lotfy/Globaleaks only). Site search not run (consent wall requires accepting tracking)"
+ },
+ {
+  "outlet": "taz.de",
+  "query": "taz.de/!s=Pietrosanti/ ; article 2025 'Stille Spione'",
+  "result": "'Keine Artikel mit Pietrosanti gefunden'; 2025 article no name"
+ },
+ {
+  "outlet": "Spiegel",
+  "query": "spiegel.de/suche/?suchbegriff=Pietrosanti",
+  "result": "Keine Ergebnisse gefunden"
+ },
+ {
+  "outlet": "Die Zeit",
+  "query": "zeit.de/suche/index?q=Pietrosanti (browser)",
+  "result": "Keine Suchergebnisse"
+ },
+ {
+  "outlet": "Süddeutsche Zeitung",
+  "query": "sueddeutsche.de/suche?search=Pietrosanti",
+  "result": "no results, but date filter forced to last 12 months -> INCONCLUSIVE for archive"
+ },
+ {
+  "outlet": "NRC",
+  "query": "nrc.nl/search/?query=Pietrosanti (browser)",
+  "result": "geen resultaten"
+ },
+ {
+  "outlet": "Tweakers",
+  "query": "tweakers.net/zoeken/?keyword=Pietrosanti (browser)",
+  "result": "geen resultaten"
+ },
+ {
+  "outlet": "de Volkskrant",
+  "query": "volkskrant.nl/search/?query=Pietrosanti",
+  "result": "empty page (inconclusive); 2013-09-09 Publeaks article already negative in earlier pass"
+ },
+ {
+  "outlet": "Villamedia / Webwereld / NOS / FTM / security.nl / id.nl / securitymanagement.nl / emerce",
+  "query": "Publeaks launch articles 2013 + site searches",
+  "result": "no name (Villamedia 'Leksite Publeaks van start' mentions Hermes only; Webwereld via Wayback only GlobaLeaks)"
+ },
+ {
+  "outlet": "Free Press Unlimited",
+  "query": "'The Publeaks Projects' PDF (51 pp)",
+  "result": "no Pietrosanti/Hermes"
+ },
+ {
+  "outlet": "OHM2013 programme (NL)",
+  "query": "Wayback program.ohm2013.org speakers/events + noisysquare roundtable",
+  "result": "GlobaLeaks talk/workshop credited to 'Hermes Center for Transparency and Digital Human Rights', no personal name"
+ },
+ {
+  "outlet": "HOPE 2014 (thinkst citation)",
+  "query": "Lessons Learned from Implementing Real Life Whistleblowing Platforms",
+  "result": "Publeaks talk by Jurre van Bergen/Sacha van Geffen, no name"
+ },
+ {
+  "outlet": "media.ccc.de",
+  "query": "API search Pietrosanti / naif / GlobaLeaks / Tor2web",
+  "result": "only known SHA2017 talk"
+ },
+ {
+  "outlet": "TIB AV-Portal",
+  "query": "av.tib.eu",
+  "result": "only known FOSDEM 2021 AGPL talk (13945)"
+ },
+ {
+  "outlet": "Woz / Republik / SRF / NZZ / ORF / futurezone / derStandard",
+  "query": "site searches Pietrosanti",
+  "result": "WOZ, Republik: none. SRF/NZZ/ORF: JS-only or 404 (inconclusive). futurezone/derStandard: consent wall, not run"
+ },
+ {
+  "outlet": "Dagens Nyheter",
+  "query": "dn.se/sok/?q=Pietrosanti",
+  "result": "1 hit = Katia Pietrosanti (OS 1996 results) - homonym, excluded"
+ },
+ {
+  "outlet": "Yle / Version2 / Computer Sweden / digi.no / NRK / SVT / SR / ing.dk / kode24",
+  "query": "WebSearch allowed_domains 'Pietrosanti'",
+  "result": "nothing (only Pietari/Pietarsaari noise)"
+ },
+ {
+  "outlet": "Information.dk / Yle haku / Deutschlandfunk",
+  "query": "site searches",
+  "result": "JS-rendered, inconclusive"
+ },
+ {
+  "outlet": "Internet Archive full-text",
+  "query": "\"Fabio Pietrosanti\", Pietrosanti GlobaLeaks/Whistleblower/klokkenluiders/Hermes Zentrum/visselblåsare",
+  "result": "no German/Dutch/Nordic items (only Italian/English, already covered)"
+ },
+ {
+  "outlet": "Google Books (GData feed; v1 API quota exhausted)",
+  "query": "Pietrosanti + globaleaks/whistleblowing/Tor2web/Hacker/Hermes/Filasto/Publeaks/Staatstrojaner/Pjöngjang",
+  "result": "no de/nl/sv/da/no/fi volumes; only en/it/fr/es/pl"
+ },
+ {
+  "outlet": "German/Austrian Notrax-SecurStar 2010 coverage",
+  "query": "PC-Welt ?p=1116923, Computerwoche 2688026",
+  "result": "SecurStar product pieces, no name/Khamsa"
+ },
+ {
+  "outlet": "Landtag Schleswig-Holstein Umdruck 18/5413; lehmanns.ch sample (Informantenschutz-Buch); Böll 'Whistleblowing for Change' Berlin 2013; WU Wien 2023",
+  "query": "PDF full text",
+  "result": "no name"
+ },
+ {
+  "outlet": "business-humanrights.org (de page) Clearview 2021",
+  "query": "live",
+  "result": "no name"
+ },
+ {
+  "outlet": "German Wikipedia GlobaLeaks",
+  "query": "externallinks",
+  "result": "no German press refs; nl/sv/fi/da/no articles do not exist"
+ },
+ {
+  "outlet": "WebSearch themes",
+  "query": "Hacking Team/Spähsoftware; Staatstrojaner Italien; Nordkorea/Pjöngjang; Rousseau/Fünf-Sterne; re:publica; SIGINT/Datenspuren/Privacy Week/BornHack; Logan/Winterkongress; Nordic visselblåsare/varsler",
+  "result": "no new DE/NL/Nordic item naming him (Record 'spyware hub' 2024 already known; German rewrites not found)"
+ }
+]

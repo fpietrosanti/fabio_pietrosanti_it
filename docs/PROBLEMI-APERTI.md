@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-30** (1264 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-11-01** (1298 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -183,6 +183,22 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-quinvicies. 2026-11-01
+- Copie delle 7 voci nuove (stampa estera): **tutte ottenute** con il nome verificato (RFE/RL e Átlátszó dal Web Archive,
+  24h Cipro dal PDF della rassegna CUT, Abraji ×2, cyberwar.nl dal vivo, Xnet dal Web Archive).
+- **Risolti 3 ❌** con il nuovo stato **♻️ `obtained-via-original`** (ripresa identica; il testo sta nella copia dell'originale,
+  campo `original_id` in `copies.json`): coinage.it → CoinDesk 03/12/2019 (aggregatore morto, mai archiviato); notizieoggi.com
+  17/09 e 20/09/2022 → Il Post 14/09/2022 (sito con certificato errato, mai archiviato).
+- **Ancora ❌ (7), motivi invariati**: RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life 2010, PrivateWave
+  press release EN/ES 2010, deck Google Slides Foggia 2019. 🟡 invariati (8, motivi in `COPIE-OFFLINE.md`).
+- **Domande per te:**
+  (a) **Dibattito di Nicosia dell'11/02/2020** (Blueprint for Free Speech, tu in video come cofondatore di GlobaLeaks): te lo
+  ricordi? Hai una registrazione o il titolo esatto dell'incontro?
+  (b) Átlátszó 2013 ti chiama per errore «giornalista»: lo lasciamo con una nota (proposta) o lo escludiamo?
+  (c) Proposta: dopo un passaggio nel tuo Chrome sulle grandi testate estere con ricerca interna bloccata (El País, Folha,
+  Libération, Le Soir, Golem, NZZ…), chiudere anche la voce «Stampa estera». Ok?
+  (d) Restano valide le domande dal 27/10 al 31/10.
 
 ### B0-quatervicies. 2026-10-31
 - Copie delle 14 voci nuove: **tutte ottenute** (11 dirette Ciao Internet in locale, Il Post 2019, Il Fatto 2022);

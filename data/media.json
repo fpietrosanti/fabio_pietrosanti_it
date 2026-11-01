@@ -7040,6 +7040,23 @@
   "on_old_site": false
  },
  {
+  "date": "2012-09-02",
+  "year": 2012,
+  "type": "article",
+  "outlet": "Radio Slobodna Evropa (RFE/RL, servizio balcanico)",
+  "title": "Kakva je sudbina digitalnih zviždača nakon WikiLeaksa",
+  "url": "https://www.slobodnaevropa.org/a/kakva-je-sudbina-digitalnih-zvizdaca-nakon-wikileaksa/24693271.html",
+  "language": "sr/bs",
+  "role": "quoted",
+  "note": "Traduzione (Biljana Jovićević) del pezzo di Luke Allnutt per RFE/RL (originale inglese già in archivio: rferl.org/a/24686710). Pagina aperta live: «Prema Fabiu Pietrosantiu , jednom od utemeljivača GlobaLeaksa, cilj su što manje barijere…» e «„Naš cilj je da omogućimo svakome…“ kaže Pietrosanti.»",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_fr_altre_2026-11-01"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2012-09-13",
   "year": 2012,
   "type": "book",
@@ -7449,6 +7466,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-07-05",
+  "year": 2013,
+  "type": "article",
+  "outlet": "Átlátszó (atlatszo.hu, Ungheria)",
+  "title": "Wikileaks-klónok a Žít Brno-tól a Balkanleaksig - kiszivárogtatási körkép",
+  "url": "https://atlatszo.hu/kozpenz/2013/07/05/wikileaks-klonok-a-zit-brno-tol-a-balkanleaksig-kiszivarogtatasi-korkep/",
+  "language": "hu",
+  "role": "quoted/mentioned",
+  "note": "Rassegna delle piattaforme di leaking in Europa centro-orientale (firma Zsilák Szilvia). Pagina aperta live: «Fabio „naif” Pietrosanti, olasz újságíró, a GlobaLeaks nevű szivárogtató „szolgáltatás” egyik kitalálója, a Radio Radicalén adott interjúban azt nyilatkozta…» (lo definisce erroneamente 'giornalista'; riprende l'intervista a Radio Radicale).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_fr_altre_2026-11-01"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-07-10",
   "year": 2013,
   "type": "mentioned",
@@ -7568,6 +7602,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-09-09",
+  "year": 2013,
+  "type": "quoted",
+  "outlet": "Matthijs R. Koot's notebook (blog.cyberwar.nl, NL)",
+  "title": "Dutch press unites in “Publeaks Foundation”, opens new whistleblower website: www.publeaks.nl",
+  "url": "https://blog.cyberwar.nl/2013/09/dutch-press-unites-in-publeaks-foundation-opens-new-whistleblower-website-www-publeaks-nl/",
+  "language": "en",
+  "role": "quoted (via @fpietrosanti) on JavaScript in Publeaks/GlobaLeaks",
+  "note": "Opened live 2026-11-01 (post dated 2013-09-09T05:45). Dutch security researcher's blog on the Publeaks.nl launch: \"However, as stated by @fpietrosanti, JavaScript is necessary for certain aspects of whistleblower security awareness\" followed by his quote \"Without using JavaScript it would not be possible to provide the usability required for whistleblower security awareness...\". Identified via Twitter handle linked to twitter.com/fpietrosanti (name not spelled out in full). Same quote as the known Punto Informatico item.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_de_nl_nordic_2026-11-01"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-09-10",
   "year": 2013,
   "type": "research",
@@ -7635,6 +7686,40 @@
   ],
   "tags": [
    "newsroom-leaks"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-10-14",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Abraji / Conferência Global de Jornalismo Investigativo (8º Congresso Abraji + GIJC13 + 5ª COLPIN), PUC-Rio",
+  "title": "Fabio Pietrosanti — página de palestrante (sched Abraji, versão em português)",
+  "url": "https://abraji.sched.com/speaker/fabio_pietrosanti.1rar6wir",
+  "language": "pt",
+  "role": "speaker",
+  "note": "Pagina speaker in portoghese, distinta da gijc13.sched.com (già nota). Riporta: 'Fabio Pietrosanti', 'Hermes Center for Transparency and Digital Human Rights', 'Secretário', 'Itália'; bio: \"hacking in the digital underground as “naif” since 1995\". Evento: Conferência Global de Jornalismo Investigativo, Rio de Janeiro, 12–15 ottobre 2013. Live 2026-11-01 via WebFetch (curl diretto riceve pagina 'Be back soon' di Sched).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_es_pt_latam_2026-11-01"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-10-14",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Abraji / Conferência Global de Jornalismo Investigativo, PUC-Rio (sala B3 IAG)",
+  "title": "GLOBAL: Mini-curso sobre segurança: Protegendo a si mesmo e suas fontes on-line (Ing)",
+  "url": "https://abraji.sched.com/event/1e75v78/global-mini-curso-sobre-seguranca-protegendo-a-si-mesmo-e-suas-fontes-on-line-ing",
+  "language": "pt",
+  "role": "speaker (workshop Tor, con Claudio Agosti e Karen Reilly/Tor)",
+  "note": "Pagina sessione: lunedì 14/10/2013 9:00–10:30 GMT-3, sala B3 (IAG); relatori: Claudio Agosti (President, Hermes Center), 'Fabio Pietrosanti, Secretary, Hermes Center for Transparency and Digital Human Rights', Karen Reilly (Tor). Descrizione: 'um mini-curso prático sobre o uso do Tor'. Corrisponde alla sessione inglese già nota su gijc13.sched.com (global-security-workshop-tor-globaleaks...), ma URL/versione portoghese diversa. Verificata live 2026-11-01 via WebFetch.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_es_pt_latam_2026-11-01"
   ],
   "on_old_site": false
  },
@@ -15448,6 +15533,23 @@
  {
   "date": "2020-02-14",
   "year": 2020,
+  "type": "article (stampa, rassegna)",
+  "outlet": "24h (quotidiano, Cipro) — via rassegna stampa Cyprus University of Technology",
+  "title": "Να προστατεύσουμε τους μάρτυρες δημοσίου συμφέροντος",
+  "url": "https://cut.ac.cy/digitalAssets/234/234870_100PRESS_PDF_20200215__1_.pdf",
+  "language": "el",
+  "role": "speaker (video-collegamento) / mentioned",
+  "note": "Articolo di Μάριος Δημητρίου, 24h 14/02/2020 pp.24-25,32, sul dibattito dell'11/02/2020 alla Δημοσιογραφική Εστία di Nicosia (Blueprint for Free Speech: Suelette Dreyfus, Naomi Colvin, Bruno Galizzi, Maria Krambia-Kapardis). PDF aperto: «Μίλησε επίσης μέσω ζωντανού βίντεο από την Ιταλία ο Fabio Pietrosanti συνιδρυτής του Λογισμικού GlobaLeaks που στηρίζει ανώνυμες πρωτοβουλίες πληροφοριοδοτών». Vale anche come intervento (talk in video).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_fr_altre_2026-11-01"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02-14",
+  "year": 2020,
   "type": "tweet",
   "outlet": "Twitter",
   "title": "Difendiamo la democrazia dal Rousseau di Stato",
@@ -16689,6 +16791,23 @@
   "known": false,
   "_slices": [
    "pass4_covid_dati_cella_2026-09-24"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-06-01",
+  "year": 2020,
+  "type": "article",
+  "outlet": "Xnet (Barcelona)",
+  "title": "Sobre el uso de la inteligencia artificial y los datos contra el #COVID19",
+  "url": "https://xnet-x.net/inteligencia-artificial-datos-covid19/",
+  "language": "es",
+  "role": "cited (expert, 'nuestro compañero')",
+  "note": "Testo: \"Remitimos, para más informaciones técnicas, al análisis de nuestro compañero Fabio Pietrosanti del Hermes Center: Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile\" e \"Tal y como muy bien explica aquí Fabio Pietrosanti, ... no es deseable fiar solo al análisis de los datos el mapeo de afectados.\" article:published_time 2020-06-01 (probabile aggiornamento; il tweet @X_net_ del 2020-04-14 già in media.json è verosimilmente il lancio dello stesso testo). Esistono versioni /ca/ e /en/ (hreflang): la /ca/ verificata, contiene lo stesso testo in castigliano. Verificato live con curl 2026-11-01.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_estero_es_pt_latam_2026-11-01"
   ],
   "on_old_site": false
  },

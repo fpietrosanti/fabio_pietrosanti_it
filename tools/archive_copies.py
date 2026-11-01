@@ -307,7 +307,7 @@ def _yt_dlp(url, folder, mode, template):
 
 # Statuses set by hand after reviewing a copy (see docs/PROBLEMI-APERTI.md B3-bis)
 CLASSIFIED = {"obtained-org-only", "obtained-book-pending", "obtained-media-only", "obtained-name-absent",
-              "obtained-stub", "closed-by-decision"}
+              "obtained-stub", "closed-by-decision", "obtained-via-original"}
 
 
 def main():

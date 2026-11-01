@@ -1,0 +1,104 @@
+{
+ "pass": "estero ES/PT/CA/LatAm",
+ "date": "2026-11-01",
+ "method": "~45 WebSearch + curl site-search + Wayback CDX + IA full-text; Google Books API sempre 429; SciELO 403 (bot check, non aggirato); DuckDuckGo html = anomaly/bot check (abbandonato); Bing via curl inutile",
+ "negatives": [
+  {
+   "what": "Site search interne 'Pietrosanti' con 0 risultati pertinenti",
+   "sites": [
+    "civio.es",
+    "lamarea.com",
+    "elsaltodiario.com",
+    "vilaweb.cat",
+    "apublica.org",
+    "codingrights.org",
+    "internetlab.org.br",
+    "r3d.mx",
+    "web.karisma.org.co",
+    "aristeguinoticias.com",
+    "animalpolitico.com",
+    "chequeado.com",
+    "observador.pt",
+    "abraji.org.br (Nenhum resultado)",
+    "cryptorave.org",
+    "derechosdigitales.org",
+    "eldiario.es (solo Roberto Pietrosanti, artista, 2019 Toledo = omonimo)",
+    "latamjournalismreview.org (en/es/pt)",
+    "pt.euronews.com/search (0)",
+    "es.euronews.com/search (solo i 2 già noti: Kaspersky 2018-04-06, app mestruali 2018-04-12)"
+   ]
+  },
+  {
+   "what": "Site search bloccate/non concludenti",
+   "sites": [
+    "intercept.com.br 403",
+    "sinembargo.mx 403",
+    "publico.es 404",
+    "gijn.org 403",
+    "ijnet.org 500",
+    "criptonoticias.com 403 (2 articoli verificati via WebFetch: nessuna menzione)",
+    "search.scielo.org 403",
+    "redalyc/dialnet (risultati via JS, non leggibili)"
+   ]
+  },
+  {
+   "what": "Pagine aperte, nessuna menzione di Pietrosanti/naif",
+   "urls": [
+    "https://apublica.org/2015/07/hackeando-o-brasil/",
+    "https://www.conjur.com.br/2015-jul-23/empresa-vigilancia-digital-usada-governos-hackeada/",
+    "https://www.latercera.com/nacional/noticia/ciudadano-inteligente-abre-buzon-denuncias-anonimas/433907/",
+    "https://www.publico.es/espana/contrata-gobierno-delincuentes-digitales-espiar.html",
+    "https://elektormagazine.com/articles/the-associated-whistle-blowing-press-launches-spanish-leak-site",
+    "https://www.vice.com/es/article/el-imperio-ilegal-de-hacking-team-en-america-latina/",
+    "https://www.profmex.org/cronicasinfin/noticias/Filtracion_en_Italia_compromete_a_jefes_de_inteligencia.pdf",
+    "https://es.digitaltrends.com/computadoras/programador-ethereum-carcel-corea-del-norte-criptomonedas/",
+    "https://www.ntn24.com/noticias-judicial/a-la-carcel-el-estadounidense-que-enseno-sobre-criptomonedas-al-regimen-de-corea-del-norte-394929",
+    "https://criptonoticias.com/comunidad/eventos/quiere-lograr-realmente-corea-norte-conferencia-criptomonedas",
+    "https://www.criptonoticias.com/sucesos/arrestan-miembro-fundacion-ethereum-asesorias-corea-del-norte",
+    "https://www.record.pt/futebol/football-leaks/detalhe/a-carta-aberta-de-eurodeputados-jornalistas-e-ongs-em-defesa-de-rui-pinto (lettera Rui Pinto: Record non riporta l'elenco firmatari)",
+    "https://postal.pt/nacional/mais-de-uma-centena-de-personalidades-pede-libertacao-de-rui-pinto/",
+    "https://www.anagomes.eu/PublicDocs/e2afe517-40ac-4ad0-b868-f27b32873665.pdf (lettera 18/6/2019 alla ministra della Giustizia PT)",
+    "https://thesignalsnetwork.org/wp-content/uploads/2019/04/April-Press-Release-TSN.pdf",
+    "https://e-revistas.uc3m.es/index.php/DYL/article/download/6103/4472",
+    "https://www.e-revistes.uji.es/index.php/recerca/article/download/168/155/626",
+    "https://portalesmunicipales.dival.es/sites/default/files/Manual%20de%20uso%20Buz%C3%B3n%20denuncias%20-%20PORTALES%20MUNICIPALES.pdf",
+    "https://dialnet.unirioja.es/descarga/articulo/7962167.pdf",
+    "https://xnet-x.net/es/buzon-xnet/",
+    "https://xnet-x.net/posgrado-tecnopolitica-simona-levi/",
+    "https://xnet-x.net/quienes-somos/",
+    "https://xnet-x.net/es/prensa/",
+    "https://xnet-x.net/eventos/"
+   ]
+  },
+  {
+   "what": "Internet Archive full-text: nessun testo es/pt con Fabio",
+   "queries": [
+    "Pietrosanti filtraciones",
+    "Pietrosanti denunciantes",
+    "Pietrosanti vazamentos",
+    "Pietrosanti GlobaLeaks",
+    "Pietrosanti hacker",
+    "Pietrosanti Tor2web"
+   ],
+   "note": "Hit spagnoli solo omonimi: 'Francisco Pietrosanti' (Sartor, America Latina y la cultura artistica italiana, 2011) e rugbista Pietrosanti (Clarín tapas 1987-2001) = NON lui"
+  },
+  {
+   "what": "WebSearch tematiche senza esiti es/pt/ca",
+   "topics": [
+    "GlobaLeaks entrevista/denuncias/denúncia anônima",
+    "MexicoLeaks",
+    "Hacking Team ES/LatAm (Messico, Ecuador, Colombia, Panamá)",
+    "Corea del Norte/Virgil Griffith in spagnolo",
+    "Filtrala/La Marea/eldiario.es/Diagonal 2014",
+    "Bústia ètica Barcelona/Antifrau 2017",
+    "voto electrónico/Rousseau in spagnolo",
+    "Tor2web/deep web",
+    "biohacking/longevidade",
+    "Paragon/Graphite, Exodus/eSurv, Kaspersky in es/pt",
+    "Media Party Buenos Aires, CryptoRave, RightsCon, Festival de Periodismo",
+    "Euronews PT (nessuna versione PT dei servizi 2018)",
+    "Carta aberta Rui Pinto: ristampe PT oltre JN/Expresso già note senza elenco firmatari"
+   ]
+  }
+ ]
+}

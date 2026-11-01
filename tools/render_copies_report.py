@@ -22,6 +22,7 @@ LABEL = {
     "obtained-media-only": "🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione)",
     "obtained-stub": "🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera",
     "obtained-encoding-bug": "🧩 Copia salvata compressa/non decodificata: da riscaricare",
+    "obtained-via-original": "♻️ Ripresa identica di un articolo già copiato: la pagina della ripresa non è raggiungibile, il testo è nella copia dell'originale",
     "closed-by-decision": "⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce)",
     "partial": "🟠 Solo guscio JavaScript: serve cattura col browser",
     "video-obtained": "🎬 Video/audio scaricato (+ pagina)",

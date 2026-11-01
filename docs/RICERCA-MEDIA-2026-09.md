@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1771**; dopo deduplica: **1291**
+- Risultati grezzi dalle ricerche: **1778**; dopo deduplica: **1298**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1236**
-- Verificati aprendo la pagina: **1219**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1243**
+- Verificati aprendo la pagina: **1226**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 283, tweet 132, Talk 105, Video 97, Citato 79, Post sul blog infosecurity.ch 72, article 50, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 80, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -30,15 +30,15 @@ Per tipo (nuovi): Menzionato 283, tweet 132, Talk 105, Video 97, Citato 79, Post
 | 2009 | 1 | 48 | 46 |
 | 2010 | 6 | 77 | 64 |
 | 2011 | 4 | 30 | 27 |
-| 2012 | 0 | 37 | 37 |
-| 2013 | 0 | 33 | 33 |
+| 2012 | 0 | 38 | 38 |
+| 2013 | 0 | 37 | 37 |
 | 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 50 | 50 |
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
-| 2020 | 0 | 188 | 188 |
+| 2020 | 0 | 190 | 190 |
 | 2021 | 0 | 97 | 97 |
 | 2022 | 0 | 77 | 77 |
 | 2023 | 0 | 20 | 20 |
@@ -612,7 +612,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 188 voci, 188 nuove
+## 2020 — 190 voci, 190 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -792,6 +792,8 @@ Anni senza nessun risultato: nessuno
   Conferma 2026-09-28 di un libro gia' noto (front matter Springer), con pagine via Google Books search-within (q=Pietrosanti, 3 risultati; q=naif, 1): ringraziamenti p. v (PR5) «Fabio 'Naif' Pietrosanti and the Hermes Center for Transparency and Digital Human Rights ... have all been crucial»; p. 73 (cap. su GlobaLeaks/SecureDrop): «(Fabio Pietrosanti and Arturo Filastò, the main coders behind the project)» in citazione di Andy Greenberg; indice p. 186 «Pietrosanti, Fabio, 73». GlobaLeaks citato anche a pp. 71-72, 80, 84, 99, 131, 133. [URL del riscontro: https://books.google.com/books?id=ikzrDwAAQBAJ; riportato sulla voce canonica Springer]
 - 🆕 **2020-06-09** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)  
   Contribution as GLS network licensee on e-commerce delivery
+- 🆕 **2020-06-01** · article · Xnet (Barcelona) — [Sobre el uso de la inteligencia artificial y los datos contra el #COVID19](https://xnet-x.net/inteligencia-artificial-datos-covid19/)  
+  Testo: "Remitimos, para más informaciones técnicas, al análisis de nuestro compañero Fabio Pietrosanti del Hermes Center: Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile" e "Tal y como muy bien explica aquí Fabio Pietrosanti, ... no es deseable fiar solo al análisis de los datos el mapeo de afectados." article:published_time 2020-06-01 (probabile aggiornamento; il tweet @X_net_ del 2020-04-14 già in media.json è verosimilmente il lancio dello stesso testo). Esistono versioni /ca/ e /en/ (hreflang): la /ca/ verificata, contiene lo stesso testo in castigliano. Verificato live con curl 2026-11-01.
 - 🆕 **2020-06-01** · tweet · Twitter — [Integrare il backend Immuni (AGPLv3) nei sistemi sanitari regionali: il virus GPL nella PA](https://twitter.com/fpietrosanti/status/1267377569730617344)  
   Testo: «@ebobferraris @carlopiana @simonealiprandi @zacchiro Il vero passaggio successivo è spingere verso la integrazione del backend immuni, licenziato anch’esso AGPLv3, verso i sistemi informativi sanitari regionali... il contrasto al virus covid porterà il virus GPL nella PA? 😛❤️» Wayback capture 20200601085129 (id_) di twitter.com/fpietrosanti/status/1267377569730617344.
 - 🆕 **2020-06-01** · tweet · Twitter — [Immuni e AGPLv3: possibile viralizzazione della licenza ai backend SSN regionali](https://twitter.com/fpietrosanti/status/1267729376566796291)  
@@ -938,6 +940,8 @@ Anni senza nessun risultato: nessuno
   Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985 VERIFICATO 2026-10-23 dalla trascrizione Whisper (2020/baede58337bd, 24:15-24:40): «come racconta a Valigia Blu Fabio Pietrosanti, che è stato cofondatore di Khamsa, poi PrivateWave».
 - 🆕 **2020-02-15** · tweet · Twitter — [EFF/MIT su Voatz, Brescia e voto online](https://twitter.com/fpietrosanti/status/1228742138814353409)  
   Testo: «[ITA] L’EFF condivide la ricerca del MIT sul perché il Voto Online è sbagliato.  In Italia l’onorevole @g_brescia, dichiara che alle prossime elezioni in Italia si voterà online, procedendo senza dibattito pubblico con l'accademia ed esperti di cybersecurity.  #votoelettronico https://t.co/A1E7uylpBt» Link: https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf. Wayback capture 20200215195211 (id_) di twitter.com/fpietrosanti/status/1228742138814353409.
+- 🆕 **2020-02-14** · article (stampa, rassegna) · 24h (quotidiano, Cipro) — via rassegna stampa Cyprus University of Technology — [Να προστατεύσουμε τους μάρτυρες δημοσίου συμφέροντος](https://cut.ac.cy/digitalAssets/234/234870_100PRESS_PDF_20200215__1_.pdf)  
+  Articolo di Μάριος Δημητρίου, 24h 14/02/2020 pp.24-25,32, sul dibattito dell'11/02/2020 alla Δημοσιογραφική Εστία di Nicosia (Blueprint for Free Speech: Suelette Dreyfus, Naomi Colvin, Bruno Galizzi, Maria Krambia-Kapardis). PDF aperto: «Μίλησε επίσης μέσω ζωντανού βίντεο από την Ιταλία ο Fabio Pietrosanti συνιδρυτής του Λογισμικού GlobaLeaks που στηρίζει ανώνυμες πρωτοβουλίες πληροφοριοδοτών». Vale anche come intervento (talk in video).
 - 🆕 **2020-02-14** · tweet · Twitter — [Difendiamo la democrazia dal Rousseau di Stato](https://twitter.com/fpietrosanti/status/1228323803299794944)  
   Testo: «[ITA] Il voto online continua ad essere violato, anche su blockchain.  Eppure l’onorevole @g_brescia, nonostante l’abbandono del voto online in tutte le grandi democrazie tranne la micronazione estone, vuole introdurlo in italia.   Difendiamo la democrazia dal Rousseau di Stato!! https://t.co/gPqaXJKnJZ» Link: https://www.nytimes.com/2020/02/13/us/politics/voting-smartphone-app.html. Wayback capture 20200214153006 (id_) di twitter.com/fpietrosanti/status/1228323803299794944.
 - 🆕 **2020-02-13** · Comunicato · Hermes Center for Transparency and Digital Human Rights — [Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Importante tutelare anche chi sta attorno ai segnalanti, e cioè i media e la società civile](https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/)  
@@ -1795,7 +1799,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 33 voci, 33 nuove
+## 2013 — 37 voci, 37 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -1813,6 +1817,10 @@ Anni senza nessun risultato: nessuno
   Letto via Wayback (https://web.archive.org/web/2014/http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists ; sito live in errore 522). Di Carola Frediani, 13/11/2013. «"Many people are asking us to use GlobaLeaks but we don't have enough resources to help them all, and we are looking for grants," Fabio Pietrosanti, co-founder of GlobaLeaks, told TechPresident.»
 - 🆕 **2013-11-05** · article · La Stampa (Federico Guerrini) — [Debutta Mafialeaks, la piattaforma](https://www.lastampa.it/archivio/2013/11/05/news/debutta_mafialeaks_la_piattaforma-2211054/)  
   Letto direttamente (2026-10-22, trovato con la ricerca interna lastampa.it/ricerca?query=fabio+pietrosanti). Il pezzo riporta le critiche alla sicurezza di MafiaLeaks e le risposte, tra cui quella di «Fabio Pietrosanti, uno degli sviluppatori del software GlobaLeaks, usato dalla piattaforma anti-mafia» (precisando che non c'e' rapporto tra Pietrosanti e MafiaLeaks).
+- 🆕 **2013-10-14** · Talk · Abraji / Conferência Global de Jornalismo Investigativo (8º Congresso Abraji + GIJC13 + 5ª COLPIN), PUC-Rio — [Fabio Pietrosanti — página de palestrante (sched Abraji, versão em português)](https://abraji.sched.com/speaker/fabio_pietrosanti.1rar6wir)  
+  Pagina speaker in portoghese, distinta da gijc13.sched.com (già nota). Riporta: 'Fabio Pietrosanti', 'Hermes Center for Transparency and Digital Human Rights', 'Secretário', 'Itália'; bio: "hacking in the digital underground as “naif” since 1995". Evento: Conferência Global de Jornalismo Investigativo, Rio de Janeiro, 12–15 ottobre 2013. Live 2026-11-01 via WebFetch (curl diretto riceve pagina 'Be back soon' di Sched).
+- 🆕 **2013-10-14** · Talk · Abraji / Conferência Global de Jornalismo Investigativo, PUC-Rio (sala B3 IAG) — [GLOBAL: Mini-curso sobre segurança: Protegendo a si mesmo e suas fontes on-line (Ing)](https://abraji.sched.com/event/1e75v78/global-mini-curso-sobre-seguranca-protegendo-a-si-mesmo-e-suas-fontes-on-line-ing)  
+  Pagina sessione: lunedì 14/10/2013 9:00–10:30 GMT-3, sala B3 (IAG); relatori: Claudio Agosti (President, Hermes Center), 'Fabio Pietrosanti, Secretary, Hermes Center for Transparency and Digital Human Rights', Karen Reilly (Tor). Descrizione: 'um mini-curso prático sobre o uso do Tor'. Corrisponde alla sessione inglese già nota su gijc13.sched.com (global-security-workshop-tor-globaleaks...), ma URL/versione portoghese diversa. Verificata live 2026-11-01 via WebFetch.
 - 🆕 **2013-10-14** · Talk · Global Investigative Journalism Conference GIJC13 (Rio de Janeiro) — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng)  
   Listed as Secretary of the Hermes Center and GlobaLeaks co-founder
 - 🆕 **2013-10-12** · Talk · Global Investigative Journalism Conference (GIJC13), Rio de Janeiro — Sched speaker page — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Rights, Secretary, Italy)](https://gijc13.sched.com/speaker/fabio.pietrosanti)  
@@ -1825,6 +1833,8 @@ Anni senza nessun risultato: nessuno
   His own project; one of several TLS-hardening tickets on Tor2web 2012-2014 (#46, #56, #79, #124, #138)
 - 🆕 **2013-09-09** · Citato · Punto Informatico — [Publeaks protegge le soffiate dalla Rete](https://www.punto-informatico.it/publeaks-protegge-le-soffiate-dalla-rete/)  
   Mauro Vecchio on Publeaks NL (GlobaLeaks); Pietrosanti quoted on JavaScript/usability
+- 🆕 **2013-09-09** · Citato · Matthijs R. Koot's notebook (blog.cyberwar.nl, NL) — [Dutch press unites in “Publeaks Foundation”, opens new whistleblower website: www.publeaks.nl](https://blog.cyberwar.nl/2013/09/dutch-press-unites-in-publeaks-foundation-opens-new-whistleblower-website-www-publeaks-nl/)  
+  Opened live 2026-11-01 (post dated 2013-09-09T05:45). Dutch security researcher's blog on the Publeaks.nl launch: "However, as stated by @fpietrosanti, JavaScript is necessary for certain aspects of whistleblower security awareness" followed by his quote "Without using JavaScript it would not be possible to provide the usability required for whistleblower security awareness...". Identified via Twitter handle linked to twitter.com/fpietrosanti (name not spelled out in full). Same quote as the known Punto Informatico item.
 - 🆕 **2013-08-02** · Talk · OHM2013 (Observe. Hack. Make.), Netherlands — [Digital Whistleblowing with GlobaLeaks](https://www.youtube.com/watch?v=Q6k8hHAoIKA)  
   OHM2013, talk Hermes Center: 2026-10-14: confermato da Fabio — relatori lui e Arturo Filastò (un altro caricamento, waLUT87-F8M, lo attribuisce al solo Filastò)
 - 🆕 **2013-07-31** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — July, 31st 2013](https://blog.torproject.org/tor-weekly-news-july-31st-2013/)  
@@ -1835,6 +1845,8 @@ Anni senza nessun risultato: nessuno
   names Fabio: …itolo “Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione.” ha avuto come relatore Fabio Pietrosanti . Per maggiori informazioni: La pagina ufficiale dell’evento Scarica le slide dell’intervento … — restored in hermescenter/hermescenter.org-restoration id hermes-center-intervento-whistleblowingitalia-congress-milano
 - 🆕 **2013-07-10** · Talk · Transparency International Italia - WhistleblowingItalia Congress (Milano) — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/)  
   Talk at the conference 'Partecipazione e responsabilità. Il whistleblowing come strumento di contrasto alla corruzione negli enti pubblici'
+- 🆕 **2013-07-05** · article · Átlátszó (atlatszo.hu, Ungheria) — [Wikileaks-klónok a Žít Brno-tól a Balkanleaksig - kiszivárogtatási körkép](https://atlatszo.hu/kozpenz/2013/07/05/wikileaks-klonok-a-zit-brno-tol-a-balkanleaksig-kiszivarogtatasi-korkep/)  
+  Rassegna delle piattaforme di leaking in Europa centro-orientale (firma Zsilák Szilvia). Pagina aperta live: «Fabio „naif” Pietrosanti, olasz újságíró, a GlobaLeaks nevű szivárogtató „szolgáltatás” egyik kitalálója, a Radio Radicalén adott interjúban azt nyilatkozta…» (lo definisce erroneamente 'giornalista'; riprende l'intervista a Radio Radicale).
 - 🆕 **2013-06-21** · Paper · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, Arlo Breault)](https://arxiv.org/pdf/1306.5156)  
   Acknowledgments credit Fabio Pietrosanti among those who contributed review, testing and feedback
 - 🆕 **2013-06-14** · Menzionato · WikiLeaks - Hacking Team emails (published 2015) — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431)  
@@ -1864,7 +1876,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 37 voci, 37 nuove
+## 2012 — 38 voci, 38 nuove
 
 - 🆕 **2012-11-19** · programme · e-privacy 2012 Winter Edition, Politecnico di Torino / Centro Nexa — [E-government & e-democracy: prospettive ed implicazioni sulla privacy - programma (tavola rotonda Sicurezza e controllo)](https://nexa.polito.it/wp-content/uploads/2012/11/2012-egovernment-programma.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)
@@ -1880,6 +1892,8 @@ Anni senza nessun risultato: nessuno
   Verified via IA full-text snippet: '...worse models for changing the world. Fabio Pietrosanti and Arturo Filasto, the cofounders of GlobaLeaks...' on scan page 394 (thismachinekills00gree_0) and 404 (thismachinekills0000andy). The book is already known; these are extra copies with page numbers.
 - 🆕 **2012-09-13** · libro · Dutton (Penguin), New York - Andy Greenberg — [This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information](https://archive.org/details/thismachinekills0000gree)  
   Numero di pagina a stampa confermato 2026-09-27 via Google Books search-within sull'edizione ebook ricercabile (books?id=bIaZf663Z2cC&jscmd=SearchWithinVolume2&q=Pietrosanti, 4 risultati): indice analitico «Pietrosanti, Fabio, 318–19» (pp. 318-319 dell'edizione Dutton). Snippet PT238: «Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks, say they aim to create the BitTorrent to WikiLeaks' Napster»; PT239: «Pietrosanti says, is to expand the leaking movement from the current fifty or so WikiLeaks copycats to a network of hundreds or thousands of "leak nodes"». 'naif' non compare. Libro gia' noto (copia IA).
+- 🆕 **2012-09-02** · article · Radio Slobodna Evropa (RFE/RL, servizio balcanico) — [Kakva je sudbina digitalnih zviždača nakon WikiLeaksa](https://www.slobodnaevropa.org/a/kakva-je-sudbina-digitalnih-zvizdaca-nakon-wikileaksa/24693271.html)  
+  Traduzione (Biljana Jovićević) del pezzo di Luke Allnutt per RFE/RL (originale inglese già in archivio: rferl.org/a/24686710). Pagina aperta live: «Prema Fabiu Pietrosantiu , jednom od utemeljivača GlobaLeaksa, cilj su što manje barijere…» e «„Naš cilj je da omogućimo svakome…“ kaže Pietrosanti.»
 - 🆕 **2012-09** · Paper · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398)  
   Collin Anderson. Acknowledgements: 'it is possible to recognize Fabio Pietrosanti and Arturo Filastò for their valuable insight on applied network research methods'.
 - 🆕 **2012-08-27** · article · OWNI.eu — [Where Are The Post-WikiLeaks Digital Whistleblowers?](http://owni.eu/2012/08/27/where-are-the-post-wikileaks-digital-whistleblowers-assange/)  

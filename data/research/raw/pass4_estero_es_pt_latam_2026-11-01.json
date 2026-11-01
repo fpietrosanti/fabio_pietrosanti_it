@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2013-10-14",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Abraji / Conferência Global de Jornalismo Investigativo (8º Congresso Abraji + GIJC13 + 5ª COLPIN), PUC-Rio",
+  "title": "Fabio Pietrosanti — página de palestrante (sched Abraji, versão em português)",
+  "url": "https://abraji.sched.com/speaker/fabio_pietrosanti.1rar6wir",
+  "language": "pt",
+  "role": "speaker",
+  "note": "Pagina speaker in portoghese, distinta da gijc13.sched.com (già nota). Riporta: 'Fabio Pietrosanti', 'Hermes Center for Transparency and Digital Human Rights', 'Secretário', 'Itália'; bio: \"hacking in the digital underground as “naif” since 1995\". Evento: Conferência Global de Jornalismo Investigativo, Rio de Janeiro, 12–15 ottobre 2013. Live 2026-11-01 via WebFetch (curl diretto riceve pagina 'Be back soon' di Sched).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2013-10-14",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Abraji / Conferência Global de Jornalismo Investigativo, PUC-Rio (sala B3 IAG)",
+  "title": "GLOBAL: Mini-curso sobre segurança: Protegendo a si mesmo e suas fontes on-line (Ing)",
+  "url": "https://abraji.sched.com/event/1e75v78/global-mini-curso-sobre-seguranca-protegendo-a-si-mesmo-e-suas-fontes-on-line-ing",
+  "language": "pt",
+  "role": "speaker (workshop Tor, con Claudio Agosti e Karen Reilly/Tor)",
+  "note": "Pagina sessione: lunedì 14/10/2013 9:00–10:30 GMT-3, sala B3 (IAG); relatori: Claudio Agosti (President, Hermes Center), 'Fabio Pietrosanti, Secretary, Hermes Center for Transparency and Digital Human Rights', Karen Reilly (Tor). Descrizione: 'um mini-curso prático sobre o uso do Tor'. Corrisponde alla sessione inglese già nota su gijc13.sched.com (global-security-workshop-tor-globaleaks...), ma URL/versione portoghese diversa. Verificata live 2026-11-01 via WebFetch.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-06-01",
+  "year": 2020,
+  "type": "article",
+  "outlet": "Xnet (Barcelona)",
+  "title": "Sobre el uso de la inteligencia artificial y los datos contra el #COVID19",
+  "url": "https://xnet-x.net/inteligencia-artificial-datos-covid19/",
+  "language": "es",
+  "role": "cited (expert, 'nuestro compañero')",
+  "note": "Testo: \"Remitimos, para más informaciones técnicas, al análisis de nuestro compañero Fabio Pietrosanti del Hermes Center: Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile\" e \"Tal y como muy bien explica aquí Fabio Pietrosanti, ... no es deseable fiar solo al análisis de los datos el mapeo de afectados.\" article:published_time 2020-06-01 (probabile aggiornamento; il tweet @X_net_ del 2020-04-14 già in media.json è verosimilmente il lancio dello stesso testo). Esistono versioni /ca/ e /en/ (hreflang): la /ca/ verificata, contiene lo stesso testo in castigliano. Verificato live con curl 2026-11-01.",
+  "verified": true,
+  "known": false
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2012-09-02",
+  "year": 2012,
+  "type": "article",
+  "outlet": "Radio Slobodna Evropa (RFE/RL, servizio balcanico)",
+  "title": "Kakva je sudbina digitalnih zviždača nakon WikiLeaksa",
+  "url": "https://www.slobodnaevropa.org/a/kakva-je-sudbina-digitalnih-zvizdaca-nakon-wikileaksa/24693271.html",
+  "language": "sr/bs",
+  "role": "quoted",
+  "note": "Traduzione (Biljana Jovićević) del pezzo di Luke Allnutt per RFE/RL (originale inglese già in archivio: rferl.org/a/24686710). Pagina aperta live: «Prema Fabiu Pietrosantiu , jednom od utemeljivača GlobaLeaksa, cilj su što manje barijere…» e «„Naš cilj je da omogućimo svakome…“ kaže Pietrosanti.»",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2013-07-05",
+  "year": 2013,
+  "type": "article",
+  "outlet": "Átlátszó (atlatszo.hu, Ungheria)",
+  "title": "Wikileaks-klónok a Žít Brno-tól a Balkanleaksig - kiszivárogtatási körkép",
+  "url": "https://atlatszo.hu/kozpenz/2013/07/05/wikileaks-klonok-a-zit-brno-tol-a-balkanleaksig-kiszivarogtatasi-korkep/",
+  "language": "hu",
+  "role": "quoted/mentioned",
+  "note": "Rassegna delle piattaforme di leaking in Europa centro-orientale (firma Zsilák Szilvia). Pagina aperta live: «Fabio „naif” Pietrosanti, olasz újságíró, a GlobaLeaks nevű szivárogtató „szolgáltatás” egyik kitalálója, a Radio Radicalén adott interjúban azt nyilatkozta…» (lo definisce erroneamente 'giornalista'; riprende l'intervista a Radio Radicale).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-02-14",
+  "year": 2020,
+  "type": "article (stampa, rassegna)",
+  "outlet": "24h (quotidiano, Cipro) — via rassegna stampa Cyprus University of Technology",
+  "title": "Να προστατεύσουμε τους μάρτυρες δημοσίου συμφέροντος",
+  "url": "https://cut.ac.cy/digitalAssets/234/234870_100PRESS_PDF_20200215__1_.pdf",
+  "language": "el",
+  "role": "speaker (video-collegamento) / mentioned",
+  "note": "Articolo di Μάριος Δημητρίου, 24h 14/02/2020 pp.24-25,32, sul dibattito dell'11/02/2020 alla Δημοσιογραφική Εστία di Nicosia (Blueprint for Free Speech: Suelette Dreyfus, Naomi Colvin, Bruno Galizzi, Maria Krambia-Kapardis). PDF aperto: «Μίλησε επίσης μέσω ζωντανού βίντεο από την Ιταλία ο Fabio Pietrosanti συνιδρυτής του Λογισμικού GlobaLeaks που στηρίζει ανώνυμες πρωτοβουλίες πληροφοριοδοτών». Vale anche come intervento (talk in video).",
+  "verified": true,
+  "known": false
+ }
+]

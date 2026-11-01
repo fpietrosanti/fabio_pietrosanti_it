@@ -164,6 +164,26 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   IEEE 2017, *The Dark Net Rises*, recensione Di Salvo ZORA 2021); video WebTV Senato del 14/05/2020; verbali commissioni
   LIBE/JURI del PE (nessuna ricerca full-text pubblica). **Proposta: chiudere questa voce** — quel che resta dipende da
   chiavi API, copie fisiche o dal browser di Fabio, non da altre ricerche automatiche.
+- [ ] **Stampa estera non anglofona — passata 2026-11-01** (in archivio solo ~25 voci in es/de/fr/pt/altre; 3 agenti:
+  `pass4_estero_{de_nl_nordic,es_pt_latam,fr_altre}`, negativi in `data/research/leads_negatives_estero_*_2026-11-01.json`,
+  ~135 ricerche) → **+7 voci verificate**, tutte con copia: **RFE/RL servizio balcanico 02/09/2012** (traduzione serbo-croata del
+  pezzo Allnutt, «…kaže Pietrosanti»); **Átlátszó 05/07/2013** (Ungheria, rassegna dei «cloni di WikiLeaks», «Fabio „naif"
+  Pietrosanti»); **24h Cipro 14/02/2020** (dibattito Blueprint for Free Speech a Nicosia dell'11/02, tu in video dall'Italia; dalla
+  rassegna stampa PDF della Cyprus University of Technology); **Abraji/GIJC13 Rio 2013** pagina relatore in portoghese +
+  sessione «Mini-curso sobre segurança» (14/10/2013, con Agosti e Karen Reilly); **Xnet 01/06/2020** (testo su IA e dati contro
+  il COVID, «nuestro compagnero Fabio Pietrosanti»); **blog.cyberwar.nl 09/09/2013** (lancio di Publeaks, citato come @fpietrosanti).
+  **Negativi solidi**: heise/netzpolitik/Spiegel/Zeit/taz (oltre al noto), Golem 2011, copertura Publeaks 2013 (NOS, Villamedia,
+  FTM, Webwereld), OHM2013 (talk attribuito a «Hermes Center»), WOZ/Republik, nordici (solo Katia P., omonima); Le Monde (solo il
+  pezzo 2014 noto), Mediapart, Le Temps, Quadrature, Numerama, **OWNI 2010-12 (2.838 URL; anche «quotes du #ccamp11» e Belgrado
+  2012 aperti: niente)**, GIJN FR, Source Sûre; Civio, El Salto, Vilaweb, Agência Pública, Coding Rights, InternetLab, R3D,
+  Karisma, Aristegui, Animal Político, Chequeado, Euronews PT, CryptoRave; eldiario.es (solo Roberto P., omonimo); OCCRP,
+  BalkanInsight, OKO.press, efsyn, Reporters United; GDELT non-EN/IT 2018-26, IA full-text, HAL.
+  **Resta** (anti-bot, JavaScript o consenso con tracciamento, non aggirati): Google Books per libri es/pt/de/fr (429 tutto il
+  giorno), SciELO, Dialnet, Redalyc; ricerche interne di El País, Folha, Estadão, La Nación, Público.pt, Proceso, Libération, Le
+  Soir, RTBF, RTS, Golem, derStandard, futurezone, NZZ, SRF, ORF, Deutschlandfunk (→ Chrome di Fabio); CDX per pattern su
+  Spiegel/taz/Volkskrant/SvD (Web Archive «Temporarily Offline»); altre traduzioni RFE/RL del pezzo Allnutt; altri giornali
+  ciprioti sul dibattito del 2020.
+
 - [x] ~~Corriere della Sera 2001-01-26 p.25~~: **chiuso** — «esperto» senza nome, escluso per decisione di Fabio (18/09).
 - [x] RAI Teche, Mediaset, arretrati ICT Security / Wireless / WeekIT — passata 2026-09-22 (`pass4_it_magazines`,
   `pass4_mediaset_other_tv`): +2 WeekIT 2001/2002, Radio 24 (5 puntate), Sky TG24 Datagate 2013. **Resta** solo
@@ -496,6 +516,17 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   laprovincialatina.it (non rispondono); post LinkedIn di terzi (login); PDF ComeInClasse fuss.bz.it (9,8 MB, MonitoraPA);
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
+
+## Note sessione 2026-11-01 (run programmata «ricerca profonda»)
+- **1298 voci** in `data/media.json` (+7 verificate, tutte copiate). Prime voci della coda ancora bloccate (chiavi, login,
+  risposte di Fabio, video TimePie) e lacune per anno esaurite → aperta e lavorata una **voce nuova: stampa estera non
+  anglofona** (vedi la voce in coda): RFE/RL balcanico 2012, Átlátszó 2013, 24h Cipro 2020, Abraji 2013 ×2, Xnet 2020,
+  cyberwar.nl 2013.
+- **Copie**: `--retry-failed` invariato sui 10 ❌; **3 ❌ risolti** con il nuovo stato `obtained-via-original` (♻️, ripresa
+  identica di un articolo già copiato): coinage.it = CoinDesk 03/12/2019, notizieoggi.com ×2 = Il Post 14/09/2022. Restano 7 ❌.
+- **Ciao Internet**: job sul server ancora in attesa dei 429 di YouTube (86 righe in `hits.jsonl`, riprova da solo).
+- **Prossima voce lavorabile:** residui della stampa estera via Chrome di Fabio (El País, Folha, Libération, Golem, NZZ…) e
+  Google Books es/pt/de/fr con quota fresca; poi proporre la chiusura delle voci «Lacuna» e «Stampa estera».
 
 ## Note sessione 2026-10-31 (run programmata «ricerca profonda»)
 - **1284 voci** in `data/media.json` (+14 verificate/da verificare: 11 Ciao Internet, 3 dai residui). Prime voci della coda ancora
