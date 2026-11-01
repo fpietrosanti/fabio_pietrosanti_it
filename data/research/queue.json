@@ -5068,51 +5068,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" whistleblowing \"d.lgs. 24/2023\" OR \"direttiva europea\" intervista 2023 OR 2024",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" GlobaLeaks 2024 OR 2025 whistleblowing piattaforma",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"voto elettronico\" OR \"e-voting\" 2023 OR 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Hermes \"diritti digitali\" OR \"sorveglianza\" 2023 OR 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Tor\" OR \"Wikileaks\" OR \"Anonymous\" 2011 intervista OR articolo",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"wireless\" OR \"WiFi\" OR \"wardriving\" sicurezza 2003 OR 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"VoIP\" OR \"Skype\" OR \"intercettazioni\" 2006 OR 2007 OR 2008",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" security researcher OR hacker interview 2005 OR 2006 OR 2007 OR 2008",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)",
+   "date": "2026-11-01",
+   "found": 2
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks university thesis OR dissertation whistleblowing software",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 18:40: coda esaurita; anni più deboli in media.json (2003-08 con 8-14 voci, 2023-25 con 11-20, 2011 con 30)"
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" book OR chapter whistleblowing technology anonymity",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks português OR denúncia OR Brasil",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Bluetooth OR Symbian virus 2004 OR 2005 security expert",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hermes Center\" 2023 OR 2024 OR 2025 \"digital rights\" OR surveillance",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" naif 2006 OR 2007 OR 2008 talk OR seminario OR conferenza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" whistleblowing \"open source\" 2025 OR 2026",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks Ukraine OR Africa OR \"Latin America\" journalists",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 21:30: coda esaurita; tematiche già sature, nuovi angoli: citazioni accademiche/libri in inglese, lingue non coperte (portoghese), uso internazionale di GlobaLeaks, anni deboli 2004-08 e 2023-26"
   }
  ],
  "history": [
@@ -6280,6 +6344,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Il Messaggero/Il Tempo, Wired 2012-14, Infosecurity/Smau 2005-08, Corriere Comunicazioni/ZeroUno/Computerworld, Tg1/Tg3/Report/Presa Diretta, Transparency International/Riparte il futuro 2015-16, AlmavivA/Bluetooth/Symbian 2004-06, Internazionale/Il Post/Valigia Blu), chiave localStorage gq20261101c_N: nessun robot check, 84 risultati, 65 URL unici. Scartati senza verifica LinkedIn, forum.italia.it, mailing list (nexa hyperkitty), youtube senza id, pagine indice/home/tag (dicorinto, euronews tag, pr-foundation, personaldemocracy, festival speaker-list e pagine speaker di altri, agendadigitale pagina autore, ilsole24ore tag, globaleaks people, hackingbiology about). 43 verificati: 8 'OK', di cui 7 già in exclude/archivio (handwiki GlobaLeaks, slideshare tesi X509/hera-lombardi/cell-phone-viruses correlati, Schneier 2010, IJF15 Greenwald-in-a-box, MOCA 2016) e 1 alias della sessione IJF15 'Abbi cura delle tue fonti' (percorso programme/2017 → exclude). 3 nome assente (newsletter DFA 2012, 2 slideshare mobile security), 2 non raggiungibili (researchgate, dokumen.pub). Raw lasciato vuoto. Nessuna voce nuova. Merged 1298. Copie offline: 1218 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (anni deboli 2003-08, 2011, 2023-25)."
+  },
+  {
+   "date": "2026-11-01 21:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (whistleblowing d.lgs. 24/2023, GlobaLeaks 2024-25, voto elettronico 2023-25, Hermes diritti digitali/sorveglianza 2023-25, Tor/Wikileaks/Anonymous 2011, wireless/wardriving 2003-05, VoIP/intercettazioni 2006-08, security researcher 2005-08), chiave localStorage gq20261101d_N: nessun robot check, 71 risultati, 63 URL unici (9 con query string troncata, recuperato l'id del video YouTube). Scartati senza verifica LinkedIn, mailing list (seclists fulldisclosure, lists.linux.it flug, nexa hyperkitty), pagine indice/tag (poul topic, pr-foundation, dicorinto, ilsole24ore tag, puntosicuro elenchi, raiplaysound elenco puntate), spam (luxurygoodsnetworkks), schede Radio Radicale di altri (correlati). 31 verificati: 6 'OK', di cui 5 già in exclude (irpa spyware, MOCA 2016 speaker, zh.wikipedia GlobaLeaks cn/tw, slideshare protocolli wireless correlati) e 1 slideshare videosorveglianza dove Fabio è solo nei correlati (→ exclude). 4 nome assente (munus 2019, unibo, s0ftpj webbit04, slideshare LoRa), 1 non raggiungibile (elgaronline), il resto già in archivio. Raw lasciato vuoto. Nessuna voce nuova. Merged 1298. Copie offline: 1218 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (citazioni accademiche/libri, portoghese, uso internazionale, anni 2004-08 e 2023-26)."
   }
  ]
 }
