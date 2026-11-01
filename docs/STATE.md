@@ -52,8 +52,18 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **206 file**. Su Drive al 2026-10-31: **78 file, 12,0 GiB** (`data/drive_links.json`);
-  mancano **128 file** (~38 GiB). Spazio libero su Drive: 54,4 GiB.
+- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-01: **98 file, 11,7 GiB** (`data/drive_links.json`);
+  mancano **119 file** (~43 GiB). Spazio libero su Drive: 54,0 GiB.
+- Notte 2026-11-01 (01:08–06:31): caricati **20 file, 0,38 GiB** (i più piccoli, 10–40 MB). Cambiato
+  `tools/drive_sync.py`: `--transfers 2` + `--order-by size,ascending --check-first` (senza `--check-first`
+  l'ordine non viene rispettato: alle 01:38 nessun file chiuso dopo 337 MB, poi chiusi ~3 file in 5 minuti).
+  Collo di bottiglia = **uplink di casa ~75–86 KB/s** misurato (download 3 MB/s); nessun errore di quota.
+  Attenzione: lo "0 B/s" nelle statistiche di rclone **non è uno stallo**. Con chunk da 128 MB rclone conta i
+  byte quando li legge nel buffer, poi resta a 0 mentre li invia. Il riavvio forzato delle 03:12 era quindi
+  inutile (perso un parziale). rclone fermato con taskkill alle 06:31, link registrati dallo script (78 → 98, exit 2).
+  Copie leggere: 1207 voci, 463 MB in `copies/`. Controlli lingue e LinkedIn OK.
+  Con questo ritmo i ~119 file rimasti (quasi tutti grandi) richiedono settimane: valutare l'upload da una
+  connessione più veloce o dal server.
 - Notte 2026-10-31 (01:07–06:31): caricato **1 solo file** (`2022/15ff9d2a79eb/media.mp4`, 95 MB), più ~1,4 GiB
   di trasferimenti parziali persi all'arresto. Velocità molto bassa, **55–65 KiB/s** (circa la metà delle notti
   precedenti), nessun errore di quota. rclone fermato con taskkill alle 06:31, lo script ha registrato da solo
