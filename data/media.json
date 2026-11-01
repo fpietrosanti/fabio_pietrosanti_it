@@ -8555,6 +8555,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-01-18",
+  "year": 2015,
+  "type": "mentioned",
+  "outlet": "Les Brindherbes (ripubblicazione Le Monde)",
+  "title": "TAILS, l'outil incognito et amnésique détesté par la NSA",
+  "url": "https://lesbrindherbes.org/2015/01/18/tails-loutil-incognito-et-amnesique-deteste-par-la-nsa/",
+  "language": "fr",
+  "role": "subject",
+  "note": "Ripubblicazione su lesbrindherbes.org (18/01/2015) dell'articolo di Le Monde Pixels del 20/11/2014 su Tails (già in archivio, URL diverso): «Fabio Pietrosanti, l'un des développeurs d'une plateforme…» (GlobaLeaks). verified via wayback; context: …e GlobaLeaks image: http://s2.lemde.fr/image/2014/10/30/204×0/4515584_4_8ac2_fabio-pietrosanti-l-un-des-developpeurs-d-une_5107775ba160ebd48afbf2b5d4c26ab0.png Fabio Pietrosanti, l’un des développeurs d’une plateforme à …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-11-01-2345"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-02",
   "year": 2015,
   "type": "mentioned",

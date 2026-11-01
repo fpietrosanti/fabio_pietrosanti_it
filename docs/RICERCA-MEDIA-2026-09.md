@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1779**; dopo deduplica: **1299**
+- Risultati grezzi dalle ricerche: **1780**; dopo deduplica: **1300**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1244**
-- Verificati aprendo la pagina: **1227**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1245**
+- Verificati aprendo la pagina: **1228**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,7 +33,7 @@ Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 81, Post
 | 2012 | 0 | 38 | 38 |
 | 2013 | 0 | 37 | 37 |
 | 2014 | 0 | 32 | 32 |
-| 2015 | 0 | 50 | 50 |
+| 2015 | 0 | 51 | 51 |
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
@@ -1631,7 +1631,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Menzionato · sanmarinortv.sm — [Sinistra Unita: il peso della corruzione sul Paese](https://www.sanmarinortv.sm/news/politica-c2/sinistra-unita-peso-corruzione-paese-a5097)  
   verified via wayback; context: …punto sulla questione morale in termini politici: sottolineata da entrambi la necessità di una evoluzione culturale “perché la corruzione è un fatto mentale”. Fabio Pietrosanti, del centro HERMES, legato a Transparency I…
 
-## 2015 — 50 voci, 50 nuove
+## 2015 — 51 voci, 51 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1727,6 +1727,8 @@ Anni senza nessun risultato: nessuno
   Carola Frediani piece; he explains that 30,000 hidden services are more like IP addresses than websites
 - 🆕 **2015-02** · Menzionato · lumieresurgaia.com — [Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia](https://lumieresurgaia.com/2015/02/dossier-nsa-tails-lanonymat-en-ligne-version-ultime/)  
   verified via live; context: …Leaks , un outil de dénonciation des atteintes à la faune sauvage, qu’à PubLeaks , une plateforme mutualisée rassemblant une quarantaine de médias néerlandais. Fabio Pietrosanti, l’un des développeurs d’une plateforme à …
+- 🆕 **2015-01-18** · Menzionato · Les Brindherbes (ripubblicazione Le Monde) — [TAILS, l'outil incognito et amnésique détesté par la NSA](https://lesbrindherbes.org/2015/01/18/tails-loutil-incognito-et-amnesique-deteste-par-la-nsa/)  
+  Ripubblicazione su lesbrindherbes.org (18/01/2015) dell'articolo di Le Monde Pixels del 20/11/2014 su Tails (già in archivio, URL diverso): «Fabio Pietrosanti, l'un des développeurs d'une plateforme…» (GlobaLeaks). verified via wayback; context: …e GlobaLeaks image: http://s2.lemde.fr/image/2014/10/30/204×0/4515584_4_8ac2_fabio-pietrosanti-l-un-des-developpeurs-d-une_5107775ba160ebd48afbf2b5d4c26ab0.png Fabio Pietrosanti, l’un des développeurs d’une plateforme à …
 - 🆕 **2015-01-07** · Citato · Wired Italia — [Slur, la piattaforma che vende le fughe di notizie](https://www.wired.it/attualita/media/2015/01/07/slur-vendita-fughe-notizie/)  
   He criticises the leak-selling platform Slur as spying/extortion rather than whistleblowing
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  

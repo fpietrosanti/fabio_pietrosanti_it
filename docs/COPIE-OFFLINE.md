@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1299**; già processate: **1479**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1112** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1219**
+- Voci in `data/media.json`: **1300**; già processate: **1480**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1113** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1220**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -41,7 +41,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2012 | 38 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 32 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 43 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
@@ -844,6 +844,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · copia: `2015/f84e72f2ed5c` (Web Archive 20150711) · licenza: propria
 - **2015** · Chaos Communication Camp 2015 Wiki — [Village:Italian Embassy](https://events.ccc.de/camp/2015/wiki/Village:Italian_Embassy) · copia: `2015/be0a00adc033` (Web Archive 20150710) · licenza: propria
 - **2015** · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi ](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/) · copia: `2015/a28007ff1dbb` (Web Archive 20191021) · licenza: terzi
+- **2015** · Les Brindherbes (ripubblicazione Le Mond — [TAILS, l'outil incognito et amnésique détesté par la NSA](https://lesbrindherbes.org/2015/01/18/tails-loutil-incognito-et-amnesique-deteste-par-la-nsa/) · copia: `2015/d312fad8efcb` (Web Archive 20200922) · licenza: terzi
 - **2015** · lumieresurgaia.com — [Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia](https://lumieresurgaia.com/2015/02/dossier-nsa-tails-lanonymat-en-ligne-version-ultime/) · copia: `2015/48cc92f8e43b` (live) · licenza: terzi
 - **2015** · manifestofblasphemy.blogspot.com — [Manifest of Blasphemy: Taglie, broker e Stati: così funziona il mercato degli attacchi inf](https://manifestofblasphemy.blogspot.com/2015/10/taglie-broker-e-stati-cosi-funziona-il.html) · copia: `2015/e6a4756a2548` (Web Archive 20231126) · licenza: terzi
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/) · copia: `2015/3ecb72b724bd` (Web Archive 20150305) · licenza: terzi
