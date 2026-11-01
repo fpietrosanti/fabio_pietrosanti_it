@@ -4956,51 +4956,107 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Il Sole 24 Ore\" OR \"Nova\" sicurezza OR intercettazioni 2009 OR 2010 OR 2011",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Panorama\" OR \"L'Espresso\" hacker OR cifratura OR GlobaLeaks",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"e-privacy\" relatore 2015 OR 2016 OR 2017 OR 2018",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Clusit\" OR \"Security Summit\" intervento 2010 OR 2011 OR 2012",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Repubblica\" Tor OR \"deep web\" OR anonimato 2013 OR 2014 OR 2015",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Agenda Digitale\" OR \"Key4biz\" whistleblowing OR sicurezza 2016 OR 2017 OR 2018 OR 2019",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Hackmeeting\" OR \"Moca\" OR \"ESC\" 2003 OR 2004 OR 2005 talk",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
   },
   {
    "query": "\"Fabio Pietrosanti\" intervista radio \"Radio24\" OR \"Radio Popolare\" OR \"Rai Radio\" 2016 OR 2017 OR 2018 OR 2019",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate",
+   "done": "2026-11-01"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Il Messaggero\" OR \"Il Tempo\" hacker OR sicurezza OR intercettazioni",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-01 00:32: coda esaurita; anni deboli (2003-05, 2009-12, 2015-19) e testate nazionali non ancora interrogate"
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Wired\" GlobaLeaks OR whistleblowing 2012 OR 2013 OR 2014",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Infosecurity\" OR \"Smau\" relatore 2005 OR 2006 OR 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Corriere delle Comunicazioni\" OR \"ZeroUno\" OR \"Computerworld\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Tg1\" OR \"Tg3\" OR \"Report\" OR \"Presa Diretta\" whistleblowing OR hacker",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Transparency International\" OR \"Riparte il futuro\" whistleblowing 2015 OR 2016",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"AlmavivA\" OR \"Bluetooth\" OR \"Symbian\" virus cellulari 2004 OR 2005 OR 2006",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Internazionale\" OR \"Il Post\" OR \"Valigia Blu\" GlobaLeaks OR Hermes",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-01 15:00: coda esaurita; anni deboli (2003-08, 2012-16) e testate/TV nazionali non ancora interrogate"
   }
  ],
  "history": [
@@ -6152,6 +6208,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (San Marino/Sinistra Unita 2017-18, Kaspersky/Euronews 2018, ANAC/Cantone 2016-17, Bluetooth/cellulari 2004-05, Punto Informatico/Zeus News 2009-12, Il Fatto Quotidiano, Wired/Linkiesta/Valigia Blu 2015-17, Comuni/Regioni whistleblowing 2018-19), chiave localStorage gq20261101a_N: nessun robot check, 67 risultati, 58 URL unici. Scartati senza verifica LinkedIn/X, mailing list (lists.linux.it flug, nexa hyperkitty), forum.italia.it, pagine indice/home/tag (euronews tag/profili, snobnonpertutti autore, pr-foundation, dicorinto, poul.org topic, romhack speaker). 38 verificati: 3 'OK' tutti duplicati (Euronews ES Kaspersky 2018 già in archivio; Schneier end-to-end 2010 e slideshare 'Cell Phone Viruses' già in exclude), 3 nome assente (s0ftpj webbit04 wifi, Visura whistleblowingsolutions), 2 non raggiungibili (dokumen.pub, uilpa veneto), il resto già in archivio. Raw lasciato vuoto. Nessuna voce nuova. Merged 1291. Copie offline: 1211 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-11-01 15:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Sole 24 Ore/Nova 2009-11, Panorama/L'Espresso, e-privacy 2015-18, Clusit/Security Summit 2010-12, Repubblica Tor/deep web 2013-15, Agenda Digitale/Key4biz 2016-19, Hackmeeting/MOCA/ESC 2003-05, radio 2016-19), chiave localStorage gq20261101b_N: nessun robot check, 76 risultati, 67 URL unici (6 con query string troncata). Scartati senza verifica LinkedIn, mailing list (lists.inventati hackmeeting, nexa hyperkitty), pagine indice/home/tag (dicorinto, pr-foundation, personaldemocracy, poul.org topic, romhack, sfscon, nexa category, ilsole24ore tag, dalchecco tag, alessandrorodolfi, agendadigitale pagina autore). 38 verificati: 6 'OK', di cui 4 già in exclude (slideshare trust e hera-lombardi correlati, Radio Radicale 438714 'stampa e regime' alias, 377967 correlati), 1 alias già in archivio (Repubblica 30/06/2017 censura) e 1 omonimo (Eventi Culturali Magazine, giornalista-fotografo mostra Pasolini 2022 → exclude). Raw lasciato vuoto. Nessuna voce nuova. Merged 1298. Copie offline: 1218 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }
