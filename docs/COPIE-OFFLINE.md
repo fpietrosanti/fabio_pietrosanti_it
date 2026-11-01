@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-11-01 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-11-02 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1300**; già processate: **1480**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1113** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1220**
+- Voci in `data/media.json`: **1301**; già processate: **1481**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1114** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1221**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -46,7 +46,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 1 |
-| 2020 | 179 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 180 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -1266,6 +1266,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Nexa Center for Internet & Society (Poli — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/) · copia: `2020/fecb07b890f6` (Web Archive 20200421) · licenza: terzi
 - **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · copia: `2020/d89f8f1c3c55` (Web Archive 20260206 · video locale `media.mp3` (26 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · ParteciPa (consultazione Italia 2025) — [Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposal](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404) · copia: `2020/89620f044012` (Web Archive 20240806) · licenza: terzi
+- **2020** · ParteciPa (consultazione Italia 2025) — [Accentuazione utilizzo, riuso e contribuzione a software Open Source - Proposte per Piano ](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/408) · copia: `2020/3c77f953568c` (Web Archive 20220804) · licenza: terzi
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423) · copia: `2020/f973695f7ec0` (Web Archive 20241007) · licenza: terzi
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425) · copia: `2020/2afc1fa9d196` (Web Archive 20240806) · licenza: terzi

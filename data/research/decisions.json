@@ -1239,6 +1239,14 @@
   {
    "url": "https://podcastaddict.com/podcast/codice-beta-ogni-cosa-e-digitale/7309571",
    "reason": "2026-11-01 23:45: pagina aggregatore podcast di Codice Beta (Rai Playsound); l'episodio S04EP08 con Fabio è già in archivio con l'URL RaiPlay Sound → doppione"
+  },
+  {
+   "url": "https://www.ondata.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/",
+   "reason": "2026-11-02: stesso articolo onData già in archivio con il percorso /trasparenza/ → alias, non una voce"
+  },
+  {
+   "url": "https://calendify.com/session/EQVO23WBMkZ",
+   "reason": "2026-11-02: copia calendify della sessione FOSDEM 2021 'The first AGPL compliance case settled in an Italian Court', già in archivio (archive.fosdem.org, TIB AV-Portal) → alias"
   }
  ],
  "override": [
@@ -1593,6 +1601,16 @@
   },
   {
    "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404",
+   "set": {
+    "date": "2020-01-16",
+    "year": 2020,
+    "type": "consultazione",
+    "role": "author",
+    "outlet": "ParteciPa (consultazione Italia 2025)"
+   }
+  },
+  {
+   "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/408",
    "set": {
     "date": "2020-01-16",
     "year": 2020,

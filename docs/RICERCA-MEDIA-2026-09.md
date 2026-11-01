@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1780**; dopo deduplica: **1300**
+- Risultati grezzi dalle ricerche: **1781**; dopo deduplica: **1301**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1245**
-- Verificati aprendo la pagina: **1228**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1246**
+- Verificati aprendo la pagina: **1229**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
-| 2020 | 0 | 190 | 190 |
+| 2020 | 0 | 191 | 191 |
 | 2021 | 0 | 97 | 97 |
 | 2022 | 0 | 77 | 77 |
 | 2023 | 0 | 20 | 20 |
@@ -614,7 +614,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 190 voci, 190 nuove
+## 2020 — 191 voci, 191 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -964,6 +964,8 @@ Anni senza nessun risultato: nessuno
   Found via ricerca.repubblica.it query "Fabio Pietrosanti" (Chrome). Article page opened; text contains: 'come ha scoperto subito dopo Fabio Pietrosanti del Centro Hermes'. Same column also in the print edition 19/01/2020 p. 46 (title '#bravimabasta', paywalled, quotidiano.repubblica.it searchdetail).
 - 🆕 **2020-01-16** · consultazione · ParteciPa (consultazione Italia 2025) — [Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404)  
   verified via wayback; context: …hing else you think doesn't belong on ParteciPa. Additional comments Report 6 comments Order by: Older Best rated Recent Older Most discussed Conversation with Fabio Pietrosanti Fabio Pietrosanti 16/01/2020 22:38 ellipse…
+- 🆕 **2020-01-16** · consultazione · ParteciPa (consultazione Italia 2025) — [Accentuazione utilizzo, riuso e contribuzione a software Open Source - Proposte per Piano Italia 2025 - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/408)  
+  verified via wayback; context: …uscirà finalmente ad incentivare gli enti a "comportarsi bene". Sono d'accordo con questo commento 6 Non sono d'accordo con questo commento 0 Conversazioni con Fabio Pietrosanti Fabio Pietrosanti 16/01/2020 22:36 Segnala…
 - 🆕 **2020-01-16** · Articolo scritto · ParteciPa (Italian government consultation platform) - 'Italia 2025' Strategia per l'innovazione tecnologica e la digitalizzazione del Paese — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424)  
   Proposal page shows author 'Fabio Pietrosanti'; date 16/01/2020 found in page markup. Grey literature (public consultation submission).
 - 🆕 **2020-01-16** · consultazione · ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025' — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423)  
