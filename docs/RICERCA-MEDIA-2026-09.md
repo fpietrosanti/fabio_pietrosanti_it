@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1778**; dopo deduplica: **1298**
+- Risultati grezzi dalle ricerche: **1779**; dopo deduplica: **1299**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1243**
-- Verificati aprendo la pagina: **1226**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1244**
+- Verificati aprendo la pagina: **1227**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 80, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -43,7 +43,7 @@ Per tipo (nuovi): Menzionato 283, tweet 132, Talk 107, Video 97, Citato 80, Post
 | 2022 | 0 | 77 | 77 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
-| 2025 | 0 | 16 | 16 |
+| 2025 | 0 | 17 | 17 |
 | 2026 | 0 | 51 | 51 |
 
 Anni senza nessun risultato: nessuno
@@ -153,8 +153,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Menzionato · Gappsy (software directory) — [GlobaLeaks Review, Pricing & Features](https://gappsy.com/tools/globaleaks/)  
   Fetched via curl 2026-10-30, page contains: 'The project was started in December 2010 by Fabio Pietrosanti and shared with the transparency and hacktivist community'. Undated tool-directory review (search engine labels it 2026); low value, auto-generated-style software listing.
 
-## 2025 — 16 voci, 16 nuove
+## 2025 — 17 voci, 17 nuove
 
+- 🆕 **2025-10-28** · Citato · PPC Land — [Criminal charges filed against Clearview AI after regulatory fines fail](https://ppc.land/criminal-charges-filed-against-clearview-ai-after-regulatory-fines-fail/)  
+  verified via wayback; context: …reaten online and offline lives. "By surreptitiously collecting our biometric data, these technologies introduce a constant surveillance of our bodies," stated Fabio Pietrosanti, president of the Hermes Center. "Just bec…
 - 🆕 **2025-10-10** · Video · YouTube – Ciao Internet (Matteo Flora) — [La vera storia di Cassandra Crossing: da e-privacy alle Svalbard con Marco Calamari #1453](https://www.youtube.com/watch?v=f6W1nARxxpo)  
   Sottotitoli automatici (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29: a 00:23:29-00:23:31 Flora, con Calamari, ricordando la scena dei diritti digitali italiana: «c'è stato un periodo in cui l'internet italiana dei diritti era naif contro autistici, cioè nel senso ciao naif» — citato per nick (saluto diretto, come in #ONference 2023). Video non scaricato.
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  

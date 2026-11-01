@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1298**; già processate: **1478**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1111** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1218**
+- Voci in `data/media.json`: **1299**; già processate: **1479**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1112** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1219**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -51,7 +51,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 53 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
@@ -1628,6 +1628,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2025** · hackingbiology.com — [Radio Rai: intervista a Codice Beta — Ogni cosa è digitale (2025)](https://hackingbiology.com/news/radio-rai-codice-beta-2025/) · copia: `2025/ab3bb3414371` (Web Archive 20260924) · licenza: terzi
 - **2025** · hackingbiology.com — [Speciale Tg1: pionieri della longevità — Biohacker](https://hackingbiology.com/news/speciale-tg1-pionieri-longevita-2025/) · copia: `2025/6460a41dcc53` (Web Archive 20260924) · licenza: terzi
 - **2025** · info.nodes ETS (report attività 2024) — [Report attività 2024 - board](https://irp.cdn-website.com/6c73ff89/files/uploaded/Report_attivit%C3%A0_2024.pdf) · copia: `2025/95d4da4c16f9` (live) · licenza: terzi
+- **2025** · PPC Land — [Criminal charges filed against Clearview AI after regulatory fines fail](https://ppc.land/criminal-charges-filed-against-clearview-ai-after-regulatory-fines-fail/) · copia: `2025/93374ad6668d` (Web Archive 20251028) · licenza: terzi
 - **2025** · Facebook – pagina «Codice Barbara Carfag — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Al](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/) · copia: `2025/71f0893eb32f` (live · video locale `media.mp4` (1 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · copia: `2025/042e06a82d08` (live · video locale `video.mp4` (0 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) · copia: `2025/78dcc033928e` (Web Archive 20250107 · video locale `media.mp4` (1,324 MB, da caricare su Drive)) · licenza: terzi
