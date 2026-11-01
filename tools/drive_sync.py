@@ -50,7 +50,8 @@ def main():
         args = [rc, "copy", str(LIB), REMOTE,
                 "--min-size", size,
                 "--exclude", ".git/**", "--exclude", "_*.log",
-                "--drive-chunk-size", "128M", "--transfers", "4", "--checkers", "8",
+                "--drive-chunk-size", "128M", "--transfers", "2", "--checkers", "8",
+                "--order-by", "size,ascending", "--check-first",  # small files first: partials are lost at each stop
                 "--retries", "20", "--low-level-retries", "20", "--retries-sleep", "20s",
                 "--drive-stop-on-upload-limit", "--timeout", "10m",
                 "--log-file", str(LOG), "--log-level", "INFO", "--stats", "5m", "--stats-one-line"]

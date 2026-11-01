@@ -1,0 +1,245 @@
+Dutch press unites in “Publeaks Foundation”, opens new whistleblower website: www.publeaks.nl – Matthijs R. Koot's notebook 
+
+ Menu 
+
+ Skip to content 
+
+ Home 
+ List of all posts on this blog 
+
+ Matthijs R. Koot's notebook 
+
+ Personal blog. Hobbies: IT, security, privacy, democracy.
+
+ Dutch press unites in “Publeaks Foundation”, opens new whistleblower website: www.publeaks.nl
+
+ Posted on 2013-09-09 by mrkoot 
+
+ Today, September 9th 2013, an impressive collaboration was announced in Dutch media – many of the most influential Dutch media outlets have united in the “Publeaks Foundation” and started a whistleblower website:
+
+ www.publeaks.nl 
+
+ The actual leaking can be done via https://secure.publeaks.nl , which uses the Tor anonymity network as part of protecting those involved. That URL should be visited via the Tor Browser Bundle . Unfortunately, JavaScript must be enabled in order to use the leaking interface:
+
+ Error! 🙁  Your browser is not running Javascript, and It’s required to use GlobaLeaks anonymous submission client, because is entirely Javascript based. 
+
+ It’s common believe that Javascript and security don’t sound well together, for this reason we suggest to use GlobaLeaks, with Tor Browser Bundle, an extremely tuned FireFox browser with Tor integrated. Here you can found and download the latest release of: Tor Browser Bundle . 
+
+ Requiring JavaScript increases technical attack surface, as demonstrated in April by the FBI, who exploited a 0-day in Tor Browser Bundle using this JavaScript code . However, as stated by @fpietrosanti , JavaScript is necessary for certain aspects of whistleblower security awareness, and the current set-up may be a good balance: “Without using JavaScript it would not be possible to provide the usability required for whistleblower security awareness. It’s a good balance between privacy awareness vs. usability vs. security focusing on whistleblower side.”
+
+ The Publeaks website contains information on social and technical risks and how to mitigate those (in Dutch). It is possible to donate to Publeaks (in Dutch, scroll down).
+
+ The Publeaks Foundation selects participating media outlets based on two principles: 1) the outlet must have statutory objectives, and 2) the outlet must act in accordance with the IFJ Declaration of Principles on the Conduct of Journalists .
+
+ Here is Publeak’s official English press release ( source ):
+
+ Publeaks press release September 9th 
+
+ The Publeaks Foundation and a large number of Dutch media outlets are today launching Publeaks.nl , a website for people to leak documents to the media securely and anonymously. The initiative is designed to protect whistleblowers, shed light on wrongdoings and encourage and support investigative journalism. 
+
+ Publeaks is a secure channel. It facilitates safe leaking to the press: the sender remains completely anonymous and he or she can choose which of the participating media outlets receive documents, sound fragments or photographic material. Recipient media outlets can process these files in a protected environment. 
+
+ Publeaks is based on the GlobaLeaks software package developed by the Hermes Center for Transparency and Digital Human Rights . The Publeaks organization has no access to the leaked files, does not publish anything itself and has no means of identifying the informant. Participating media outlets have committed themselves to verifying the leaked materials, finding sources to support the content and hearing all sides before publishing anything. Journalists can put questions to the anonymous informant on a secure part of the site.. The informant decides whether or not to answer them. Journalists who receive material through Publeaks will know which other media outlets have received the same material and can decide whether or not to undertake a collaborative investigation. 
+
+ Publeaks is an initiative of the Publeaks Foundation. The foundation takes measures to support press scrutiny and is financed by the participating news media: AD , De Correspondent , De Groene Amsterdammer , De Volkskrant , Het Financieele Dagblad , het Parool , NOS Nieuws , NRC Handelsblad , Nieuwsuur , Nu.nl , Pownews , RTL-Nieuws , Trouw and Vrij Nederland . This collaboration of almost all leading Dutch news organisations is a unique initiative without global precedent, in a time that safety, privacy and protection of whistleblowers is more relevant than ever. 
+
+ EOF
+
+ Uncategorized 
+
+ Post navigation
+
+ ← Criminal offering: “We glad to represent service on sale Bank logins, ***s, PayPal, Ebay, dumps, poker rooms accts, search SSN, DOB etc” 
+ Dutch govt response to revelations by Edward Snowden → 
+
+ Leave a Reply Cancel reply 
+ You must be logged in to post a comment.
+
+ Search Go 
+
+ Bluesky: @cyberwar.nl 
+LinkedIn: /in/mrkoot 
+Email: koot at cyberwar dot nl
+PGP key: 51F9 8FC9 C92A 1165 (verified via Keybase.io )
+
+MSc in OS3 System & Network Engineering (2005-2006) and PhD in data anonymity (2007-2011) from University of Amsterdam.
+
+ Critical thinking 
+
+ * Master List of Logical Fallacies 
+
+ * Taxonomy of Logical Fallacies 
+
+ * Your Logical Fallacy Is 
+
+ * A Skeptical Manifesto 
+
+ Archives
+ June 2022 
+
+ April 2022 
+
+ February 2022 
+
+ December 2020 
+
+ October 2020 
+
+ June 2020 
+
+ May 2020 
+
+ April 2020 
+
+ December 2019 
+
+ September 2019 
+
+ July 2019 
+
+ June 2019 
+
+ May 2019 
+
+ April 2019 
+
+ November 2018 
+
+ October 2018 
+
+ September 2018 
+
+ June 2018 
+
+ October 2017 
+
+ September 2017 
+
+ June 2017 
+
+ May 2017 
+
+ April 2017 
+
+ August 2016 
+
+ May 2016 
+
+ April 2016 
+
+ March 2016 
+
+ February 2016 
+
+ January 2016 
+
+ December 2015 
+
+ November 2015 
+
+ October 2015 
+
+ September 2015 
+
+ August 2015 
+
+ July 2015 
+
+ June 2015 
+
+ May 2015 
+
+ April 2015 
+
+ March 2015 
+
+ February 2015 
+
+ January 2015 
+
+ December 2014 
+
+ November 2014 
+
+ October 2014 
+
+ September 2014 
+
+ August 2014 
+
+ July 2014 
+
+ June 2014 
+
+ May 2014 
+
+ March 2014 
+
+ February 2014 
+
+ January 2014 
+
+ December 2013 
+
+ November 2013 
+
+ October 2013 
+
+ September 2013 
+
+ August 2013 
+
+ July 2013 
+
+ June 2013 
+
+ April 2013 
+
+ March 2013 
+
+ January 2013 
+
+ December 2012 
+
+ October 2012 
+
+ September 2012 
+
+ August 2012 
+
+ July 2012 
+
+ June 2012 
+
+ May 2012 
+
+ April 2012 
+
+ February 2012 
+
+ January 2012 
+
+ December 2011 
+
+ November 2011 
+
+ September 2011 
+
+ August 2011 
+
+ July 2011 
+
+ June 2011 
+
+ May 2011 
+
+ April 2011 
+
+ March 2011 
+
+ February 2011 
+
+ Categories
+ Uncategorized 
+
+ Powered by GovPress

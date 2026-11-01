@@ -1,0 +1,718 @@
+Más sobre inteligencia artificial y datos contra #COVID19 
+
+ bool(false)
+
+ Posgrado Tecnopolítica y Derechos en la Era Digital 
+
+ #FAKEYOU 
+
+ Hazte Banquero 
+
+ Votar y cobrar 
+
+ #DatosPorLiebre 
+
+ Buzón de Xnet 
+
+ OXcars 
+
+ Free Culture Forum 
+
+ Recomendaciones de políticas 
+
+ Publicaciones 
+
+ Eventos 
+
+ Recursos de Cultura Libre 
+
+ Acciones en red 
+
+ Visualizaciones 
+
+ Follow us 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ Xnet 
+
+ true, 'type'=>'text')); y con qtransalte: qTranslateWidget y con qtransalteSlug el código--> 
+
+ Es 
+
+ Ca 
+
+ En 
+
+ Quiénes somos 
+
+ Blog – Nuestras últimas acciones 
+
+ Tecnopolítica, Artivismo y guerrilla de la comunicación [vídeos y +] 
+
+ Cultura Libre [vídeos y +] 
+
+ Derechos Digitales, Datos, IA y Neutralidad de la Red 
+
+ Libertad de expresión e información vs fake news, propaganda y desinformación 
+
+ Alertadores – Whistleblowers 
+
+ Democracia en red. Método, i+d político, Vigilancia electoral ciudadana 
+
+ Filtraciones Anticorrupción 
+
+ Luchas por las libertades civiles. Redes nacionales e internacionales 
+
+ Entendido 
+
+ USAMOS COOKIES PARA MEJORAR LA NAVEGACIÓN. MÁS INFO, O COMO DESHABILITARLAS, EN NUESTRA POLÍTICA DE COOKIES 
+
+ 1 junio, 2020 
+ Más claridad sobre la utilidad de la inteligencia artificial (IA) y los datos contra la propagación del #COVID19 desde la perspectiva de las libertades civiles
+
+ Comparte 
+  
+  
+ * 
+  
+
+ÚLTIMA ACTUALIZACIÓN 1/6/2020
+
+ No. Google/Apple no han mantenido la promesa de apertura y auditabilidad que hicieron sobre el código de las aplicaciones de traceo (para saber lo que son, lee abajo nuestro primer post al respecto).
+
+Sin esta auditabilidad no podemos saber si se extraen y utilizan los datos que se generan y recogen para combatir el Covid19.
+
+ Ni estaban prometiendo mucho ni estamos pidiendo mucho.
+
+No pretendemos que cambien su modelo de negocio y abran el código.
+
+Solo que se cumpla con lo que nos diferencia de regímenes autoritarios que rompen la privacidad de sus ciudadanxs.
+
+ Como explicamos reiteradamente en los posts anteriores más abajo, no es necesario hacerlo para tracear los contactos de las personas contagiadas.
+
+ Lo prometieron, pero de momento no cumplen.
+
+ Os explicamos porqué.
+
+ Los que tenemos Android o IOS (IPhone) habremos visto que ya se ha instalado lo siguiente en el sistema operativo del teléfono:
+
+IMAGEN
+
+ No se deja claro que esta no es la aplicación. Se tiene que clicar en más informaciones para entenderlo mejor:
+
+ https://support.google.com/android/answer/9888358? 
+
+ 1 – Dicen que para que funcione el Bluetooth debes activar también la geolocalización básicamente “porque si no no funciona”. No tenemos modo de saber realmente por qué, ni de auditar el motivo real.
+
+Y esto después de haber declarado estar de acuerdo con que el traceo y la geolocalización deben estar alejado.
+
+ 2 – No dejan claro que el sistema no sirve para saber quien tiene Covid19 entorno tuyo en tiempo real. La app no sirve para eso, pero puede ser más interesante que la gente lo crea – y la gente lo cree – probablemente porque lo hace más atractivo. Esto ya está produciendo fake news al respecto.
+
+ 3 – Se ha dicho muy claramente que un servidor central con todos los datos no es bueno. Afirman que los datos solo están en el teléfono cosa que no pueden afirmar todavía ya que en principio dijeron que lo decidirían las Autoridades de cada lugar.
+
+ Hace un mes dijimos que se había conseguido la victoria de desplazar la opción centralizadora.
+
+Parece que está volviendo por la puerta trasera.
+
+ Google/Apple han publicado dos elementos: la base para una app para que sea desarrollada por los gobiernos y una API relacionada con la actualización de los sistemas operativos de los teléfonos para que la App pueda operar.
+
+ Solo el código de la App está abierto. El resto no se puede auditar.
+
+Y han optado para no poner en la parte de la App los procesos principales y cruciales para la privacidad. La respuesta presumiblemente es que esto es por razones de seguridad. Pero los protocolos de seguridad abiertos son los más utilizados y existen otras opciones para no poner esta parte del código en la app si realmente no quieren, por ejemplo vincularla a Android y no a Google Play siendo el primero auditable y el segundo no.
+
+También la motivación de no querer la proliferación de app poco fiables no nos convencen: ya han estructurado el sistema para que se tenga que pedirles permiso ( entitlment ) para operar estas apps, no hay motivo para más barreras.
+
+ Así que de momento esta es la situación. Si no cambia y se publican más partes, creemos que no es admisible.
+
+ Aquí los datos:
+
+ Dicen: “ The following is the full list of the parts of the system that Google Play services handles ”
+
+(No podemos ver la implementación de la API):
+
+ “ – Manages daily random keys
+
+ – Manages Bluetooth broadcast and collection:
+
+ – Identifies whether the user was in close contact with a confirmed case
+
+ – Presents permission requests to users at the following points
+
+ This part of the system has no user interface other than the permission dialogs and notification message, and it runs in a low-power-consuming and privacy-centric way ”.
+
+ What the app does (code published):
+
+ – Enables users to start and stop broadcasting and scanning.
+
+ – Provides Temporary Exposure Keys, key start time number, and key transmission risk level from your internet-accessible server to Google Playservices.
+
+ – Retrieves keys from the on-device data store and submits them to yourinternet-accessible server after a user has been confirmed by a medical provideras having tested positive, and the user has provided permission.
+
+ – Schedules polling of your internet-accessible server for keys.
+
+ – Registers a receiver to receive broadcasts
+
+of the com.google.android.gms.exposurenotification.ACTION_EXPOSURE_STATE_UPDATED intent, andresponds by presenting information to the user. See Broadcast receivers for more information.
+
+ – Shows a notification to the user with instructions on what to do next when the user has been exposed to another user who has tested positive for COVID-19.
+
+ Google / apple ha resuelto algunos problemas importantes como el uso de la batería. Es cierto que se les necesita, pero creemos que es un chantaje que sea a cambio de cerrar todo eso.
+
+ Por otra parte, queda también por ver que gobiernos se decantarán por querer todos los datos de usuarixs centralizados en sus manos. Tampoco se ha de aceptar (al respecto leer anteriores textos más abajo).
+
+NOTA:
+
+ – Explicación de API:
+
+ https://www.applesfera.com/apple-1/apple-google-lanzan-primera-version-publica-api-notificacion-exposicion-al-covid-19-para-desarrolladores 
+
+ – Código implementación Server del Estado:
+
+ https://github.com/google/exposure-notifications-server 
+
+ Código de referencia para desarrollar app para Android:
+
+ https://github.com/google/exposure-notifications-android 
+
+ Explicación de la arquitectura:
+
+ https://static.googleusercontent.com/media/www.google.com/es//covid19/exposurenotifications/pdfs/Android-Exposure-Notification-API-documentation-v1.3.2.pdf 
+
+ Información de DP3T realizada con epidemiólogos sobre como se relacionan técnicamente con la API (siempre en Beta):
+
+ https://github.com/DP-3T/documents/blob/master/DP3T%20-%20Exposure%20Score%20Calculation.pdf 
+
+1ª ACTUALIZACIÓN 14/5/2020
+
+ (Si lees solo la actualización y no entiendes algo, es probable que lo encuentres explicado en el post original más abajo) 
+
+ Igual no somos conscientes de ello, pero se ha obtenido una gran victoria de la sociedad civil en cuanto a privacidad .
+
+ Como explicamos en el post, sobre el tema de las apps de rastreo de contactos para el Covid19, hay dos elementos distintos de los que se está hablando:
+
+A) Geolocalización: mapa de los lugares frecuentados por personas infectadas (esto sería a través de la geolocalización GPS del teléfono o de los datos de las compañías telefónicas que los mantienen por obligación de la legislación europea de Retención de Datos ( https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:0063:IT:PDF ) [Nota: no confundir con la legislación de Protección de Datos – RGPD].
+
+ B) Contactos: lista de personas encontradas en los 7(-15) días anteriores por persona que posteriormente resulta ser positiva. De esto se habla cuando se habla de rastreo de contacto. La tecnología con la que se está planteando hacer esto es la tecnología Bluetooth low energy – 5-15 minutos de contacto a menos de 2-3 metros. 
+ También hay dos acercamientos distintos y extremos y luego una cierta variedad de opciones intermedias:
+
+A) Un sistema centralizado en manos de la autoridad. Tanto la geolocalización como la lista de contactos están en un ordenador central en manos de la autoridad. El máximo de control sobre la población. A descartar absolutamente.
+
+ B) Un sistema descentralizado en manos de las y los usuarios: los datos se quedan en el teléfono de las personas y solo ellas pueden activar la alerta. Este sistema, si bien protege absolutamente la privacidad, puede ser fácilmente troleado, pudiendo crear alarma social injustificada en manos de intereses espurios. 
+ SOLUCIÓN MÁS AVANZADA QUE SE PLANTEA
+
+La solución es un círculo virtuoso entre estado, ciudadanía y tecnología; pasa por una combinación de los elementos positivos de estos dos acercamientos, descartando los negativos e introduciendo una perspectiva pragmática e indispensable, completamente opuesta al « tecnosolucionismo «:
+
+ 1 – La trazabilidad de los contactos de las personas infectadas no se inventa con la era de los datos. Es una práctica que siempre se ha utilizado en epidemiología, consolidada y con protocolos aceptados. (Aquí puedes ver los parámetros para el rastreo de contactos en Covid19 del Centro Europeo para la Prevención y el Control de Enfermedades:
+
+ https://www.ecdc.europa.eu/sites/default/files/documents/Contact-tracing-Public-health-management-persons-including-healthcare-workers-having-had-contact-with-COVID-19-cases-in-the-European-Union-second-update_0.pdf-second-update_0.pdf 
+
+ Recordemos que el objetivo -aunque nadie lo recuerde con una especie de fe ciega en la tecnología- es mejorar la eficacia de la entrevista entre el epidemiólogo y el paciente para reconstruir cuáles son las personas posiblemente infectadas en el período de incubación; no se busca sustituir esta entrevista, sino mejorarla. La tecnología NO puede sustituir la entrevista de rastreo de contactos entre epidemiólogo y pacientes .
+
+ 2 – La legislación europea dice que los datos son propiedad personal. Los datos que Google (o similares) y las compañías telefónicas tienen son transferencias, no propiedad. Estas empresas tienen la obligación de dar estos datos a las y los clientes cuando los pidan. Los datos personales son de propiedad de las personas y solo ellas deben gestionar los propios, ACOMPAÑADAS y no usurpadas por la autoridad .
+
+ Círculo virtuoso: 
+
+ USO DE LOS CONTACTOS DE LAS APPs DE RASTREO DE CONTACTO 
+
+– La o el usuario tiene los datos de los contactos con los que se han encontrado como ID efímeras encriptadas (o sea anonimizado incluso para él) en su teléfono según la opción b) + B). No puede acceder a ellos y solo pueden activarlos con->
+
+ – el Servicio de Salud Pública – los epidemiólogos, que en el momento de diagnosticar los positivos, con su consentimiento y ayuda activan los avisos en el sentido de que la «ficha» anónima y cifrada del positivo se sube a un ordenador central (esto ya es así en el traceo “manual” tradicional de la entrevista epidemiólogo-paciente) y los teléfonos de quién se haya encontrado recibirán un aviso. No es un aviso en tiempo real. El aviso les comunica el posible contagio y les dirá que se pongan en contacto con el servicio de epidemiología.
+
+Lo que dicen quienes está diseñando este sistema es que naturalmente esto produce muchos falsos positivos, pero siempre serán menos que el confinamiento total. Además existirían incentivos a cumplir con lo indicado en el aviso.
+
+Volviendo a lo que hemos llamado círculo virtuoso, ni paciente ni médico pueden operar sin la asistencia del otro.
+
+Hasta aquí lo que propone el método #DP-3T.
+
+[Nota: hay más cuestiones no resueltas que están en fase de experimentación: la imprecisión del BT; BT no es un puerto seguro; el uso mal intencionado; la emisión no es constante por lo que hay gaps importantes (o sea numerosos falsos negativos también)…].
+
+ NOSOTRXS QUISIÉRAMOS AÑADIR ALGO MÁS 
+
+Se trata de dar la vuelta a la ley de Retención de Datos como con el copyleft le hemos dado la vuelta al copyright .
+
+Para reducir la intensidad y alarmismo de las alertas, creemos que en los avisos se podría dar más información con la ayuda de la reconstrucción mnemónica de la persona positiva a través de la reconstrucción de sus desplazamientos auxiliada por la tecnología. 
+
+ No estamos defendiendo la geolocalización, sino diciendo que actualmente – antes de que acabemos con la obscena geolocalización de nuestros movimientos por grandes corporaciones – nuestros datos de desplazamiento ya están extraídos; se debería exigir tanto a las Telecos como a las empresas de los sistemas operativos de los teléfonos (Google, Apple,…) que faciliten mapeo automatizables descargables a petición y solo para la y el usuario para ayudarle en su reconstrucción mnemónica durante la entrevista de rastreo. Como este mapa de un teléfono que usa Google Maps: 
+
+ Esta información permitiría dar indicaciones más precisas en el aviso y reducir todavía más los falsos positivos.
+
+Es importante mantener contactos y geolocalizaciones separadas. La geolocalización solo en manos de su proprietario. El máximo control orweliano es que la autoridad sepa al detalle dónde has estado y con quién. No queremos abrir la puerta a esto. Y la gente lo ha dejado claro cuando ha empezado a oír hablar de que se la quería geolocalizar durante el confinamiento.
+
+ UNA IMPORTANTE VICTORIA
+
+Recordaremos cómo entró en escena Google en este asunto: con un gran show off de poderío. Mientras los Estados se planteaban cómo hacer mapeos estadísticos de contagio y de eficacia del confinamiento, Google presentó un mapa de todo ello en 131 países. Acto seguido, junto con Apple ofreció sus servicios a los Estados occidentales que elegían las opciones más centralistas.
+
+ Pero se dieron cuenta que ponerse a disposición de una política de control a través de sus dispositivos no era una buena política ante sus clientes. Esto ha producido una inversión de tendencia espectacular:
+
+a) Han aceptado el sistema no centralizado, lo que ha convencido incluso a Alemania para que lo abandone.
+
+b) Liberarán (prometen) el código informático y permitirán que sea supervisado por el consorcio suizo que promueve el sistema descentralizado (DP-3T). 
+ En este caso, si Google y Apple cumplen sus promesas, por increíble que parezca, demuestran que son capaces de ponerse al servicio de este círculo virtuoso y son merecedoras de este reconocimiento.
+
+El activismo y la sociedad civil nos hemos de felicitar: incluso en estos tiempos difíciles, no hemos permitido que los mitos tecnoseguritarios nos nublaran la mente y nos hemos plantado. Los datos son una herramienta extremadamente útil si es usada con respeto hacia los derechos fundamentales, y extremadamente opresiva si es usada al servicio de políticas de control.
+
+ Sigamos la pista de lo que está haciendo Suiza. Está marcando el camino y experimentando intensamente.
+
+Muchos siguen: Portugal, Estonia…
+
+Por el contrario, Francia es la paladina de la hipercentralización y del código cerrado.
+
+ ¿De qué lado se decantará España?
+
+ Sí, porque por la información de primera mano que tenemos (Google/Apple han aceptado reunirse con activistas digitales para responder a preguntas), se deduce que el principal peligro para la privacidad en este momento son los Estados y su voluntad de control.
+
+ Para Google/Apple es fundamental en este momento que sus usuarixs se puedan fiar de sus dispositivos.
+
+Ellos no crean la aplicación completa, ni se usan sus servidores (a menos que los Estados usen los suyos, pero esta es otra historia que tenemos abierta en otro melón -> https://xnet-x.net/no-autorizar-google-suite-escuelas/ . Son los Estados que la hacen sobre el código que facilitan.
+
+ Por ejemplos muchos Estados o eligen la opción centralizada o la descentralizada (lo dicho, el match ocurre en el teléfono con fichas numéricas creadas aleatoriamente cada 10-20 minutos e encriptadas) asociando la geolocalización, burda trampa tóxica para la privacidad como hemos explicado, y en absoluto necesaria para la aplicación de traceo de contacto (que ahora llaman de “Notificación de exposición al contagio”).
+
+SI LA APLICACIÓN DE TRACEO TE PIDE GEOLOCALIZACION, TÍRALA.
+
+Recordemos además la descentralización hace más seguro todo el sistema, más resiliente a cualquier ataque – postulado básico de la seguridad informática. 
+
+ Por otra parte son las autoridades sanitarias que deciden que tipo de aviso se envía a la persona expuesta y que protocolos se ponen en prácticas. Si estos protocolos son puro paripé como con aplicaciones anteriores, la app es puro show off o si no un sistema para aterrorizar y controlar la población. 
+
+ Otro punto crítico es el dispositivo que utilizarán las autoridades para trasladar los datos de contactos anónimos cedidos por la persona contagiada al ordenador central sin comprometer la seguridad del teléfono.
+
+ Dos puntos que quedan por aclarar sobre la propuesta Google/Apple son: prometen que se eliminan relaciones con otras app de los dispositivos y la eliminación de la app cuando esto haya pasado. El problema es que el código fuente del sistema operativo Apple no se puede ver.
+
+ Más información sobre la propuesta de Google/Apple y la parte de la que se ocupan con su API (en continua actualización):
+
+ https://www.apple.com/covid19/contacttracing 
+
+ https://www.google.com/covid19/exposurenotifications/ 
+
+ Nota para servidores públicos que nos han preguntado:
+
+LOS CAMINOS ÉTICOS PARA SEGUIR
+
+En general, como guía para saber si vamos por el camino correcto (ético y/o legal) en cuanto a los datos, se deben observar los siguientes criterios:
+
+a. En todo tratamiento de datos, por lo tanto también aplicaciones, se debe aplicar el criterio de MINIMIZACIÓN, es decir, no pedir más datos personales de los que se necesitan.
+
+b. La tecnología debe realizarse con criterios de privacidad por defecto y en el diseño.
+
+c. La y el ciudadano es y debe ser siempre propietaria de sus datos personales. Tenerlo claro nos mantiene en el camino de la democracia y evita una perspectiva «extractiva» de los datos personales. 
+ Estos preceptos están reflejados en la RGPD.
+
+ Otras herramientas en este debate sobre las aplicaciones:
+
+ – Las ya mencionadas Recomendaciones de la Comisión Europea 2020/518
+
+ https://twitter.com/X_net_/status/1250089021671452674 
+
+Dicen:
+
+a) Aplicación sólo de forma voluntaria.
+
+b) Vista sólo por los médicos y epidemiólogos con el paciente para la reconstrucción de posibles infectados.
+
+c) Cifrada.
+
+d) Desmantelada al final de la emergencia.
+
+ – Apple and Google’s COVID-19 Exposure Notification API: Questions and Answers
+
+ https://www.eff.org/deeplinks/2020/04/apple-and-googles-covid-19-exposure-notification-api-questions-and-answers 
+
+ – On 28 April, the Council of Europe (CoE) issued a joint statement on Digital Contact Tracing between the Chair of the Committee of Convention 108 and the Data Protection Commission of the CoE in order to emphasize that taking public health measures does not require that fundamental rights, in particular to privacy and data protection, are undermined ( https://rm.coe.int/covid19-joint-statement-28-april/16809e3fd7 ).
+
+ Important points for mobile tracing apps: 
+
+ – Not everyone has access to a compatible mobile phone;
+
+– Apps must meet thresholds of demonstrable necessity and proportionality;
+
+– The complexity of assessing if apps are even effective;
+
+– The need for people have trust in apps and for them to be voluntary (although this does not necessarily mean that consent can be the legal basis for processing);
+
+– That human rights impact assessments are undertaken prior to deployment;
+
+– That privacy is included by design;
+
+– That data cannot be further processed for any other purposes other than coronavirus measures; and that measures are ended as soon as possible;
+
+– That data is safeguarded, minimised, and that its quality is know;
+
+– That people are not subject to automated decision-making;
+
+– hat only pseudonymised identities are used, with the risk of re-identification acknowledged and pre-empted as much as possible;
+
+– That apps have state-of-the-art security;
+
+– That systems are inter-operable across borders;
+
+– That there is full transparency of code and that information is made available in plain language; and
+
+– There must always be oversight and appropriate audits. 
+
+ – Documento creado por el think tank del Parlamento Europeo (útil aunque con alguna imprecisión sobre la situación de los países y el estado de las tecnologías):
+
+Tracking mobile devices to fight coronavirus
+
+ https://www.europarl.europa.eu/thinktank/it/document.html?reference=EPRS_BRI(2020)649384 
+
+ PRIMER TEXTO 13/4/2020
+
+ Publicamos estos apuntes de trabajo para informar aunque seguimos investigando, hablando con nuestra red experta internacional, cotejando experiencias y tenemos muchas dudas. Los iremos actualizando. Queremos igualmente publicar algunas pistas, porqué en algunos casos las aplicaciones de las que se oye hablar para “combatir el Covid19” son inútiles, inseguras o extraen datos personales de las y los usuarios de forma abusiva, excesiva e innecesaria.
+
+ Como ya hemos explicado en nuestro artículo “ Datos, ciudadanía e instituciones: un círculo virtuoso para atacar al Covid-19 ” nosotros sí creemos que los datos personales (en este caso de desplazamientos y de salud) – siempre en manos de la persona a los que pertenecen, sin renunciar a nuestros derechos fundamentales – se deben usar para actuar durante la pandemia. Pero consideramos que las propuestas de aplicaciones a menudo o exponen nuestra privacidad (desplazamientos, modos de vida, secretos personales…) o no son realmente eficaces. Siendo que se trata de datos sensibles de cada una de nosotros, debemos saber distinguir y defender la que es útil de aquellas que, aún con buenas intenciones, requieren más sacrificios de los resultados que obtienen o son el resultado de las políticas – tristemente recurrentes – que usan el digital como gesticulación y simulación de modernidad para ocultar lagunas en otros ámbitos.
+
+ Como dice Noyb, la cuestión no es si usar los datos, sino cómo . Sin embargo, dicho sea de paso, creemos que el foco en este momento debería estar en la fabricación masiva de tests.
+
+Volvamos a los datos personales:
+
+ Con el concepto de minimización que siempre defendemos como referencia ( https://xnet-x.net/identificacion-minimizacion-datos-datosporliebre/# ), creemos que es posible la cooperación ciudadanía-autoridades con la preservación de los derechos humanos en el centro. En democracia, salud+seguridad no deben estar en contradicción con privacidad y derecho a la intimidad.
+
+ Por esto, nos decantamos, frente a la gran mayoría de las apps propuestas que extraen datos de nuevo, por primar el uso de los datos que ya existen y son almacenados en las compañías telefónicas de cada usuario por la Ley de Retención de Datos (recordemos que no se trata sólo de la triangulación de las antenas, sino también de datos de wifi, IPs, e incluso en muchos casos, GPS):
+
+ Para más información argumental remitimos otra vez a nuestro artículo “ Datos, ciudadanía e instituciones: un círculo virtuoso para atacar al Covid-19 ”
+
+ Somos conscientes de que estos datos son más precisos en zonas de alta densidad poblacional que en áreas de menos densidad. Igualmente nos parece que la granularidad es similar a la de muchas de las apps propuestas, la efectividad superior por su alcance poblacional y el coste para la privacidad y libertad de las personas, inferior – o en todo caso en la línea «de perdidos al río»: estos datos ya los tienen. Remitimos, para más informaciones técnicas, al análisis de nuestro compañero Fabio Pietrosanti del Hermes Center: Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile .
+
+ Por otra parte, también las grandes corporaciones digitales tienen todos nuestros datos; es igualmente el momento de poner en práctica las políticas de retorno democrático de esta extracción que revindicamos desde hace tiempo. No como grandes muestras de poderío y dominio que hemos visto estos días, sino como servicios para el usuario y su uso de sus propios datos.
+
+ Se trata de dar la vuelta a la ley de Retención de Datos como con el copyleft le hemos dado la vuelta al copyright . Descentralizar lo centralizado utilizando la ley que indica que somos los dueños de este material. 
+
+ Un diseño respetuoso de los derecho democráticos [1], implica que no sean las autoridades sino el propio usuario el que accede a estos datos que son suyos. Por ejemplo, en caso de ser positivo en Covid19, para facilitar el traceo de afectados de forma voluntaria (incluso con consentimiento previo en caso de enfermos graves).
+
+Tal y como muy bien explica aquí Fabio Pietrosanti, por razones de lógica empírica y fiabilidad práctica para combinar intensidad, duración y proximidad del contacto o secreciones, no es deseable fiar solo al análisis de los datos el mapeo de afectados. En la práctica, su eficacia reside en acompañar la reconstrucción mnemónica de las y los pacientes o personas en las que deleguen.
+
+ La inteligencia artificial (IA) entonces puede usarse para que las compañías de teléfono faciliten estos datos al usuario de forma usable (mapas…) para la reconstrucción de su recorrido y para la alerta de afectados.
+
+Una muestra imprecisa solo a modo de ejemplo, la podéis encontrar en este vídeo que el activista Malte Spitz hizo en 2011 con sus datos pedidos a su compañía telefónica. Han pasado 10 años. Podéis imaginar lo que se puede hacer ahora:
+
+ https://www.youtube.com/watch?v=J1EKvWot-3c 
+
+ https://public.tableau.com/views/MalteSpitzCallData/MalteSpitzcalldatadashboard 
+
+ SOBRE LAS APPs
+
+[Nota: todas son respetuosas del Reglamento de Protección de Datos, faltaría más. El problema no es si lo respetan o no, sino si las políticas de uso son autoritarias o democráticas y útiles].
+
+Las apps se basan en los datos que recogen nuestro teléfono. Esto significa que funcionan en un caso como el de la pandemia solo si 1) muchas personas tienen la app; 2) si ya tienen todos nuestros datos como es el caso de Google y Apple que recién han anunciado una aplicación en este sentido.
+
+ Pero he aquí un primer enigma. Google y Apple ya tiene todos nuestros movimientos (de GPS y no sólo) por lo que, cuando anunciaron la app, nos pareció lógico – ojo, aquí no hablamos de ética -: son los que saben todo sobre con quién nos encontramos, así que mañana mismo pueden sacarnos a cada uno un mapeo de donde hemos estado en los últimos 7 días, pensamos.
+
+Pero no es lo que proponen.
+
+Proponen lo mismo que están proponiendo los que están en el caso 1), o sea los que no tienen los datos.
+
+Claro, se ha de quedar bien con las legislaciones de privacidad, pero nos cuesta comprender por qué, ya que nos han expoliado, no añaden un simple consentimiento del usuario en lugar de instalar una nueva app basada en Bluetooth.
+
+Al respecto, un buen análisis de Moxie Marlinspike, creador de Signal, aquí:
+
+ https://twitter.com/moxie/status/1248707315626201088?s=19 
+
+Volveremos sobre esto más abajo.
+
+ A – Sobre app de autodiagnóstico (las que existen en territorio español de momento hacen esto):
+
+El autodiagnóstico es útil para no colapsar los teléfonos de emergencia.
+
+Pero solo para el autodiagnóstico no es necesaria una app. Un formulario web es suficiente, y más si no te conecta directamente con urgencia en casos positivos y sólo te indica el teléfono a llamar.
+
+Si este autodiagnóstico se quiere combinar con geolocalización para uso estadístico y de mapeado de las zonas de mayor contagio para permitir una circulación selectiva por áreas de desplazamiento, la app tampoco es LA solución: los datos de los propios usuarios no pueden ser los únicos datos relevantes al no ser fiables sin supervisión médica y además fácilmente distorsionables por personas con otras intenciones o simplemente que quieren probar. Nuevamente, los datos almacenados por Retención de Datos en las compañías de teléfono, nos parecen más abundantes y ciertos.
+
+ (Como paréntesis, sobre los usos estadísticos y de estudio, apoyamos la pionera iniciativa Salus Coop, que recientemente ha publicado un manifiesto .
+
+ B – Sobre app de traceo de contactos:
+
+El objetivo es que una persona que resulta positiva pueda contactar con las personas que puede haber contagiado. Se trata de reconstruir sus contactos de los días anteriores, mientras estaba en incubación o siendo asintomática, lo cual permite prevenir el contagio en cadena.
+
+Nota importante: esto ya se hace desde siempre de forma “manual” en los protocolos de epidemiología; el paciente reconstruye sus contactos previos y estos son advertidos e aislados.
+
+ Aquí un listado bastante exhaustivo de las que se están creando:
+
+ https://gdprhub.eu/index.php?title=Projects_using_personal_data_to_combat_SARS-CoV-2 
+
+ Hay muchas propuestas de app de traceo, la mayoría se basan en Bluetooth: grosso modo mientras deambulas envías un match identificativo a todos los que también tienen la app y te encuentras. Si tú o alguien con el que has conectado resulta positivo – vía la opción de autodiagnóstico o de forma proactiva dando la señal -, todos los contactos son advertidos. En el diseño es importante que se haya modulado correctamente la distancia (el Bluetooth puede alcanzar entre los 10 y los 250 metros) y el tiempo de exposición para que no sean demasiado amplios. Además no está claro como se sortearán obstáculos como que el Bluetooth no reconoce paredes y niveles. También se ha de verificar si se ha tenido en cuenta que el Bluetooth suele ser la entrada de muchos virus del sistema y debilita la seguridad de los terminales. Estas verificaciones naturalmente no se pueden hacer si el código no es público por lo que en general las aplicaciones cuyo código no es accesible y auditable, se deben descartar.
+
+ Como comentado al inicio de este texto, nosotros pensamos que avisar retroactivamente a los contactos es muy útil, pero que en buena parte se puede hacer con los datos ya existentes.
+
+La app vía BT puede ayudar a resolver las lagunas de la entrevista de traceo, avisar las personas de las que no se tiene el contacto, pero no puede y no debe sustituir la entrevista de localización de contactos.
+
+ En todo caso debemos asegurarnos de que no se use dinero público para reinventar la rueda. Muchos son los ejemplos ya desarrollados de aplicaciones de trazado de contacto mediante Bluetooth que se pueden simplemente adaptar:
+
+– El 9 de abril Singapur hizo público y ofreció el código de TraceTogether, su aplicación de trazado de contactos, bajo licencia GPLv3:
+
+ https://github.com/opentrace-community 
+
+ – DP-3T (acaban de anunciar que harán partenariado con Google y Apple:
+
+ https://twitter.com/carmelatroncoso/status/1248681290322325504 
+
+ – También algunas dudas aquí:
+
+ https://eprint.iacr.org/2020/399 
+
+ https://github.com/DP-3T/documents/blob/master/DP3T%20-%20Simplified%20Three%20Page%20Brief.pdf 
+
+ – https://www.pepp-pt.org/ 
+
+También problemáticos:
+
+ https://nadim.computer/posts/2020-04-17-pepppt.html 
+
+ – https://pact.mit.edu/ 
+
+ – https://www.privatetracer.org/ 
+ Se usa el Bluetooth y no los datos de GPS para permitir la descentralización. Los datos del GPS sin más necesitarían una triangulación centralizadas. Se quiere evitar este abuso autoritario de los datos, de ahí lo curioso de la propuesta de Apple y Google que ya ha publicado el estudio global de si estamos respetando la cuarentena o no (así de granulares tienen nuestros datos), pero se apuntan a la modalidad Bluetooth. En todo caso, en la propuesta de Apple y Google también se vuelca todo a un servidor central, como no. 
+
+ También es importante no contribuir a la narrativa que gira el foco de la responsabilidad hacia las personas y no hacia las instituciones. Lo cierto es que, en un gran número de casos, no hace falta geolocalizar nuestro dirigentes para saber que algunos de ellos no consideran que las reglas que valen para todos, también valen para ellos.
+
+ Sobre los requisitos mínimos de privacidad que debe cumplir una «Corona App» para ser social y tecnológicamente tolerable, véase el extracto de las recomendaciones de Chaos Computer Club en la nota [1].
+
+ C – Sobre apps para la salida del confinamiento:
+
+Estas nos resultan muy poco claras. No entendemos la necesidad de seguir los movimientos de las personas.
+
+Sin tener toda la información al respecto, nos parece que la clave de desconfinamiento son los tests, tests y más tests (una conversión económica urgente para poner a fabricar tests con todos los recursos posibles, teniendo en cuenta también la escasez de reactivos etc).
+
+Se trata de detectar:
+
+– Las personas que ya tiene anticuerpos (si se confirma que los anticuerpos son permanentes). ¿Qué motivo habría para seguir sus movimientos?
+
+ https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/ 
+
+ – Las personas asintomáticas contagiosas, las cuales deberían ser detectadas en prioridad y no deberían moverse. En este caso ¿el control sería un control equivalente al control policial?
+
+[Corea del Sur lanza pulseras electrónicas para los que rompen la cuarentena porque la gente dejaba sus teléfonos en casa para engañar a las aplicaciones de rastreo del gobierno:
+
+ https://www.businessinsider.com/south-korea-wristbands-coronavirus-catch-people-dodging-tracking-app-2020-4?IR=T ] 
+ Seguimos investigando.
+
+ Nota [1] – Extractos de un texto de CCC sobre los requisitos mínimos de privacidad que debe cumplir una «Corona App» para ser social y tecnológicamente tolerable
+
+ Durante más de 30 años, la CCC ha participado en trabajos voluntarios en la intersección entre la tecnología y la sociedad. Nuestros principios éticos están a favor de la privacidad, la descentralización y la economía de datos – y en contra de cualquier forma de vigilancia y coerción.
+
+ Sin pretender ser exhaustivos, en este texto nombramos los requisitos mínimos de privacidad que debe cumplir una «Corona App» para ser social y tecnológicamente tolerable.
+
+(…)
+
+Es responsabilidad de los desarrolladores el cumplimiento de estos requisitos o hacer que sean probados por terceros independientes. No es responsabilidad de las y los usuarios.
+
+(…)
+
+La motivación general es permitir una mayor libertad de movimiento para un amplio espectro de la sociedad permitiendo un rápido rastreo e interrupción de las cadenas de infección. Los contactos de las personas infectadas deben ser alertados rápidamente y así poder ponerse en cuarentena rápidamente. Esto, a su vez, debería prevenir nuevas infecciones. Por lo tanto, una «corona app» no podría protegernos ni a nosotros ni a nuestros contactos: estaría diseñada para romper las cadenas de infección protegiendo los contactos de nuestros contactos.
+
+(…)
+
+existe la posibilidad de utilizar los conceptos y tecnologías de «privacidad por diseño» que han sido desarrollados por la comunidad del cripto y la privacidad en los últimos decenios. Con la ayuda de esas tecnologías es posible desplegar el potencial anti-epidémico del rastreo de contactos sin crear un desastre en el ámbito de privacidad. Existiendo esta posibilidad, todos los conceptos que violan o incluso ponen en peligro la privacidad deben ser estrictamente rechazados (…) y desaconsejamos el uso de aplicaciones que no cumplan estos requisitos.
+
+ I. Requisitos sociales
+
+ 1. Sentido y propósito epidemiológico
+
+El requisito previo básico es que la «localización de contactos» puede ayudar de manera realista a reducir de manera significativa y demostrable el número de infecciones. La validación de esta evaluación es responsabilidad de la epidemiología. Si resulta que la «localización de contactos» mediante aplicación no es útil o no cumple el propósito, el experimento debe terminarse.
+
+La aplicación y todos los datos que se reúnan deberán utilizarse exclusivamente para combatir las cadenas de infección por el SARS-CoV-2. Cualquier otro uso debe impedirse técnicamente en la medida de lo posible y prohibirse legalmente.
+
+ 2. Voluntariedad y ausencia de discriminación
+
+Para una eficacia epidemiológicamente significativa, una aplicación de «rastreo de contactos» requiere un alto grado de difusión en la sociedad. Esta amplia distribución no debe lograrse por la fuerza, sino únicamente mediante la aplicación de un sistema fiable que respete la privacidad. En este contexto, no se deben cobrar derechos por su uso ni se deben ofrecer incentivos financieros por su utilización.
+
+Las personas que se nieguen a utilizarlo no deben experimentar ninguna consecuencia negativa.
+
+La aplicación debe informar regularmente a la gente sobre su funcionamiento. Debe permitir la simple desactivación temporal y la eliminación permanente. No se deben implementar medidas restrictivas, por ejemplo, una función de «grilletes electrónicos» para controlar las restricciones de contacto.
+
+ 3. Privacidad fundamental
+
+(..) La criptografía y las tecnologías de anonimización deben garantizar la privacidad del usuario. No basta con confiar en las medidas organizativas, la «confianza» y las promesas. Los obstáculos organizativos o jurídicos contra el acceso a los datos no pueden considerarse suficientes.
+
+(…)
+
+Rechazamos la participación de las empresas que desarrollan tecnologías de vigilancia como «lavado de cara». Como principio básico, los usuarios no deberían tener que «confiar» sus datos a ninguna persona o institución, sino que deberían disfrutar de una seguridad técnica documentada y comprobada.
+
+ 4. Transparencia y verificabilidad
+
+El código fuente completo de la aplicación y la infraestructura debe estar disponible libremente y sin restricciones de acceso para permitir las auditorías de todas las partes interesadas. Deben utilizarse técnicas de construcción reproducibles para garantizar que los usuarios puedan verificar que la aplicación que descargan ha sido construida a partir del código fuente auditado.
+
+ II. Requisitos técnicos
+
+ 5. No hay una entidad central en la que confiar
+
+(…) Los conceptos basados en esta «confianza» deben ser rechazados.
+
+La seguridad y fiabilidad prometidas de los sistemas centralizados – por ejemplo, contra la conexión de direcciones IP con identificaciones de usuario anónimas – no pueden ser verificadas eficazmente por los usuarios. Por lo tanto, los sistemas deben diseñarse de manera que se garantice la seguridad y la confidencialidad de los datos de los usuarios exclusivamente mediante su concepto de cifrado y anonimización y la verificabilidad del código fuente.
+
+ 6. Economía de datos
+
+Sólo se podrán almacenar los datos y metadatos mínimos necesarios para el propósito de la aplicación.
+
+(…)
+
+Si se registran localmente en los teléfonos datos adicionales, como la información sobre la ubicación, los usuarios no deben ser forzados o tentados a transmitir estos datos a terceros o incluso publicarlos. Los datos que ya no sean necesarios deben ser eliminados. Los datos sensibles también deben ser codificados de forma segura localmente en el teléfono.
+
+ Para la recopilación voluntaria de datos con fines de investigación epidemiológica que vaya más allá del propósito real de la localización de contactos, se debe obtener explícitamente un consentimiento claro y separado en la interfaz de la aplicación y debe ser posible revocarlo en cualquier momento. Este consentimiento no debe ser un requisito previo para su uso.
+
+ 7. Anonimato
+
+Los datos que cada dispositivo recoge sobre otros dispositivos no deben permitir la desanonimización de sus usuarios, ni los datos que cada persona puede transmitir sobre sí misma. Por lo tanto, debe ser posible utilizar el sistema sin recopilar o poder derivar datos personales de ningún tipo. Este requisito prohíbe las identificaciones únicas de los usuarios.
+
+ Las identificaciones para la «localización de contactos» mediante tecnología inalámbrica (por ejemplo, Bluetooth o ultrasonido) no deben permitir el rastreo hasta las personas y deben cambiar con frecuencia. Por esta razón, tampoco deben aflorar otros datos identificativos como números de teléfono, direcciones IP utilizadas, identificaciones de dispositivos, etc.
+
+ 8. No se crean perfiles de movimiento o de contacto centrales
+
+El sistema debe diseñarse de manera que no se puedan establecer, intencionadamente o no, perfiles.
+
+(…)
+
+ 9. Imposibilidad de vincularse
+
+El diseño de la generación de ID temporal debe ser tal que las ID no puedan interpretarse y vincularse sin la posesión de una clave privada controlada por el usuario. Por consiguiente, no deben derivarse de otra información de identificación del usuario directa o indirectamente. 
+
+ 10. Inobservancia de la comunicación
+
+Incluso si se observa la transmisión de un mensaje en el sistema (por ejemplo, a través de los metadatos de comunicación), no debe ser posible concluir que una persona está infectada o ha tenido contacto con personas infectadas. Esto debe garantizarse tanto respecto a otros usuarios como a los operadores de infraestructura y de red o a posibles atacantes.
+
+ Nuestro resumen de las recomendación 2020/518 de la @EU_Commission:
+
+ https://twitter.com/X_net_/status/1250089021671452674 
+
+ [2] FYI -> Recomendaciones de las varias Autoridades de Protección de Datos europeas:
+
+ https://gdprhub.eu/index.php?title=Data_Protection_under_SARS-CoV-2#Spain 
+
+ De interés:
+
+ https://www.technologyreview.es/s/12179/cinco-claves-para-usar-el-rastreo-contactos-de-forma-correcta-y-eficaz 
+
+ https://www.theguardian.com/world/2020/apr/12/uk-government-using-confidential-patient-data-in-coronavirus-response 
+
+ Últimos posts sobre: 
+
+ Derechos Digitales, Datos, IA y Neutralidad de la Red
+
+ Propuesta para la excelencia en la privacidad de datos y la digitalización democrática de los centros educativos 
+
+ Comunicado sobre la #TasaGoogle que se discute en el Congreso 
+
+ Más claridad sobre la utilidad de la inteligencia artificial (IA) y los datos contra la propagación del #COVID19 desde la perspectiva de las libertades civiles 
+
+ Sobre los procedimientos abiertos por Xnet ante la Comisión Europea para la mejora de la protección de datos en España 
+
+ Xnet abre procedimientos ante la Comisión Europea para la mejora de la protección de datos en la legislación española 
+
+ Luchas por las libertades civiles. Redes nacionales e internacionales
+
+ Más claridad sobre la utilidad de la inteligencia artificial (IA) y los datos contra la propagación del #COVID19 desde la perspectiva de las libertades civiles 
+
+ Junto con más de 40 organizaciones enviamos una carta a la Comisión de Reconstrucción @Congreso_es pidiendo mejoras en los canales establecidos para las aportaciones ciudadanas 
+
+ Ley #FakeYou – Medidas contra la desinformación y la manipulación informativa OFFLINE Y ONLINE 
+
+ Xnet da apoyo a la declaración internacional para la protección de la gobernanza abierta, incluyente, democrática y a los derechos personales durante el Covid19 
+
+ Nota informativa sobre el caso de extradición de Julian Paul Assange 
+
+ Categorías: Blog - Nuestras últimas acciones 
+-->
+
+ Tags -->
+
+ Ejes: Derechos Digitales, Datos, IA y Neutralidad de la Red // Luchas por las libertades civiles. Redes nacionales e internacionales 
+ | Contáctanos para: Recomanacions de Polítiques 
+
+ ← Junto con más de 40 organizaciones enviamos una carta a la Comisión de Reconstrucción @Congreso_es pidiendo mejoras en los canales establecidos para las aportaciones ciudadanas 
+
+ Comunicado sobre la #TasaGoogle que se discute en el Congreso → 
+
+  
+
+  
+
+ Victor Sampedro ( @dieteticadigita ) explica el problema aquí:
+👉 t.co/WhvnKISgWf 
+
+Necesitamos tecnologías libr… t.co/VRC6zvPkTG 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ RT @PostgrauCDD : La importància de la privacitat i seguretat digital. @educaciocat i @X_net_ aposten per “aprofitar tot el potencial… t.co/TuigWr2hf1 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ RT @jordibernabeu : Què bé...
+
+ @marett t.co/dSkY8ya7fn 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ @dgircd @educaciocat @gsuite @CCNCERT @GSuiteCAT @MaadiXnet No, ho expliquem al post. No participarà del concurs públic. 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ RT @hitensdret : Acord entre @educaciocat i @X_net_ per avançar cap a una digitalització de les escoles que garanteixi la privacita… t.co/SJbwBZRQrg 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ Este artículo de @jmartinarroyo explica muy bien el problema de ceder datos de estudiantes a las grandes tecnológic… t.co/wIj3owsWbq 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ RT @elpaiseducacion : La entidad Xnet firma un acuerdo con Educación para proponer un paquete de ‘software’ que “garantice la privacidad”… t.co/MeFAVtK9VB 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ Crisis #Covid19 demuestra la urgencia del plan que propusimos a principio de curso para #EduDigitalDDHH 
+
+Tras negoc… t.co/vgBrTLtbL5 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ Crisi #Covid19 mostra la urgència del pla que vam proposar a principi de curs per #EduDigitalDDHH 
+
+Després d'un any… t.co/AqyQQhA89J 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ @annabet67 @ernestmaragall No et preocupis @annabet67 , justament volem acabar amb la política d'haver d'apendre con… t.co/I6ohEActai 
+
+ Responder - 
+ Retweet - 
+ Favorito 
+
+ Footer – Licencia – Info Adminstrativa 
+
+ Contacta: contact(at)xnet-x.net 
+
+ Nota sobre financiación: Xnet es un proyecto activista, no es una organización formal con cargos, sueldos y demás. Sus miembros son activistas que se involucran como y cuando quieren y pueden. En ocasiones Xnet promueve proyectos concretos para los que se busca financiación que, cuando se encuentra, se utiliza, entre otras cosas, para desarrollar tareas que sí se remuneran y se detallan en los gastos propios de cada actividad.
+ El mantenimiento de esta web, y algunas de las actividades que encontraréis en ella, han sido posibles gracias al apoyo económico de los fondos para el fomento de las actividades culturales y sociales de:
+
+ Xnet. This site and its contents are licensed under a Creative Commons By-SA 3.0 Unported . 
+
+ Theme based on Blankslate . Uses the free font Fira Sans . Website developed by WWB S.Coop.And .
+
+ Aviso legal
