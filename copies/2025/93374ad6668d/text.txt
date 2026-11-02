@@ -1,0 +1,187 @@
+Criminal charges filed against Clearview AI after regulatory fines fail 
+
+ AI 
+
+ Audio 
+
+ Data 
+
+ Display 
+
+ Mixed Reality 
+
+ Retail Media 
+
+ Search 
+
+ Social 
+
+ Video 
+
+ Sign in 
+ Subscribe 
+
+ AI 
+
+ Criminal charges filed against Clearview AI after regulatory fines fail
+
+ Privacy group noyb files criminal complaint against Clearview AI executives on October 28, 2025, after company ignores over 100 million euros in European fines.
+
+ Luis Rijo 
+
+ Oct 28, 2025 
+ • 11 min read 
+
+ Clearview AI 
+
+ Privacy advocacy organization noyb filed a criminal complaint against facial recognition company Clearview AI and its management team on October 28, 2025, escalating enforcement efforts after the US-based company systematically ignored multiple European regulatory fines totaling approximately 100 million euros. The complaint was submitted to Austrian prosecutors and targets both the company and individual executives for violations under Section 63 of Austria's Data Protection Act, which criminalizes certain breaches of the General Data Protection Regulation.
+ The move represents a significant shift in enforcement strategy. While European data protection authorities have issued decisions and substantial financial penalties against Clearview AI since 2021, the company has continued operating without addressing the violations. Clearview AI operates a facial recognition system containing more than 60 billion images scraped from websites and social media platforms globally, according to noyb's complaint documentation. The database includes biometric data from millions of Europeans despite multiple regulatory orders to cease processing and delete this information.
+ "Facial recognition technology is extremely invasive," stated Max Schrems, noyb's honorary chairman, in the October 28 announcement. "It allows for mass surveillance and immediate identification of millions of people. Clearview AI amassed a global database of photos and biometric data, which makes it possible to identify people within seconds."
+
+ PPC Land Newsletter 
+
+ Subscribe PPC Land newsletter  ✉️ for similar stories like this one. Receive the news every day in your inbox. Free of ads. 10 USD per year. 
+
+ Subscribe
+
+ Regulatory penalties ignored
+ French data protection authority Commission Nationale de l'Informatique et des Libertés imposed a 20 million euro fine on Clearview AI in October 2022. The restricted committee decided to order Clearview AI to stop collecting and processing data of individuals residing in France without a legal basis and to delete existing data within two months, with a penalty of 100,000 euros per day of delay beyond that timeframe. The authority received complaints from individuals about Clearview AI's facial recognition software as of May 2020 and opened an investigation, according to the decision published by the European Data Protection Board.
+ Greek authorities issued their own 20 million euro fine in July 2022. The decision was clear in establishing that the GDPR applies because Clearview AI uses its software to monitor the behavior of people in Greece, even though the company is based in the United States and does not offer services in Greece or the European Union. Not only would Clearview now have to delete all collected images of Greek citizens, but also the biometric information needed to search for specific faces, according to noyb's documentation of that enforcement action.
+ Italy's data protection authority followed with a 20 million euro penalty in March 2022. The Italian regulator determined that collecting images for a biometric search engine is illegal and ordered Clearview to delete all collected images of Italian citizens as well as biometric information used for facial matching. Clearview's CEO described himself as "heartbroken" by the decision in a statement at the time, saying the company only collects public data from the open internet and complies with all standards of privacy and law.
+ The Netherlands imposed a 30.5 million euro fine and ordered subject to a penalty for non-compliance up to more than 5 million euros on September 3, 2024. Dutch Data Protection Authority chairman Aleid Wolfsen stated that "facial recognition is a highly intrusive technology, that you cannot simply unleash on anyone in the world." The Dutch authority warned that using Clearview's services is prohibited and that Dutch organizations using Clearview may expect hefty fines from the regulator.
+ The United Kingdom's Information Commissioner's Office fined Clearview AI more than 7.5 million pounds on May 23, 2022, and issued an enforcement notice ordering the company to stop obtaining and using personal data of UK residents publicly available on the internet and to delete data of UK residents from its systems. The joint investigation with the Office of the Australian Information Commissioner focused on Clearview AI Inc's use of people's images, data scraping from the internet, and use of biometric data for facial recognition.
+ Austria's data protection authority deemed Clearview's data use illegal in a decision published May 10, 2023. The Austrian authority concluded that collecting images of the complainant for a biometric search engine is illegal, as the GDPR applies to such scraping and selling of personal data from Europeans. Clearview had to delete all personal data of the complainant. However, contrary to other data protection authorities, the Austrian authority did not issue a fine or general ban.
+
+ Follow PPC Land 
+
+ Follow on Google , Google News , X , LinkedIn , Mastodon , Bluesky , or via RSS 
+
+ Technical operations
+ Clearview AI created a searchable database by deploying automated image scrapers across the internet. The tools search websites and collect any images detected as containing human faces. Along with facial images, the scraper collects metadata associated with these images, including image or webpage titles, geolocation data, and source links. Both facial images and accompanying metadata are stored on Clearview's servers indefinitely, according to documentation from the May 26, 2021 complaints filed by the coalition of digital rights organizations.
+ The company uses what its founder Hoan Ton-That described as a "state-of-the-art neural net" to convert all images into mathematical formulas, or vectors, based on facial geometry such as distance between eyes. Clearview created a vast directory that clustered all photos with similar vectors into "neighborhoods." When users upload a photo of a face into Clearview's system, it converts the face into a vector and then shows all scraped photos stored in that vector's neighborhood along with links to sites from which those images came, as detailed in a New York Times investigation published January 18, 2020.
+ The company claims more than 600 law enforcement agencies started using Clearview in the year following the Times investigation. The computer code underlying its application includes programming language to pair it with augmented-reality glasses, enabling users to potentially identify every person they see. Mr. Ton-That acknowledged designing a prototype for use with augmented-reality glasses but said the company had no plans to release it.
+ Criminal enforcement path
+ Criminal complaints represent a different enforcement mechanism than administrative fines under GDPR. Article 84 GDPR allows European Union member states to implement criminal sanctions for certain data protection breaches. Austria implemented such criminal provisions in Section 63 of its national Data Protection Act. Criminal violations enable actions against individual managers and allow use of the full range of criminal procedures, including EU-wide enforcement actions.
+ "Such company cannot continue to violate the rights of Europeans and get away with it," stated Wolfsen of the Dutch authority. "Certainly not in this serious manner and on this massive scale. We are now going to investigate if we can hold the management of the company personally liable and fine them for directing those violations."
+ Criminal liability already exists if directors know GDPR violations are occurring, have authority to stop them, but fail to do so and consciously accept those violations. If successful, Clearview AI executives could face jail time and be held personally liable, particularly if traveling to Europe, according to noyb's complaint documentation.
+ "We even run cross-border criminal procedures for stolen bikes, so we hope that the public prosecutor also takes action when the personal data of billions of people was stolen – as has been confirmed by multiple authorities," Schrems stated.
+
+ Advertise on ppc land 
+
+ Buy ads on PPC Land. PPC Land has standard and native ad formats via major DSPs and ad platforms like Google Ads. Via an auction CPM, you can reach industry professionals. 
+
+ Learn more
+
+ Law enforcement adoption
+ Federal and state law enforcement officers said they had used Clearview's application to help solve shoplifting, identity theft, credit card fraud, murder and child sexual exploitation cases, according to the January 2020 Times investigation. The Indiana State Police became Clearview's first paying customer after solving a case within 20 minutes of using the application in February 2020. Two men had gotten into a fight in a park, ending when one shot the other in the stomach. A bystander recorded the crime on a phone, providing police with a still of the gunman's face to run through Clearview's application.
+ They immediately got a match: the man appeared in a video someone posted on social media, with his name included in a caption. "He did not have a driver's license and hadn't been arrested as an adult, so he wasn't in government databases," stated Chuck Cohen, an Indiana State Police captain at the time. The man was arrested and charged; Cohen said he probably wouldn't have been identified without the ability to search social media for his face.
+ Detective Sergeant Nick Ferrara in Gainesville, Florida, heard about Clearview when it advertised on CrimeDex, a list-serv for investigators specializing in financial crimes. He found Clearview's application superior to a state-provided facial recognition tool, FACES, which draws from more than 30 million Florida mug shots and Department of Motor Vehicle photos. "With Clearview, you can use photos that aren't perfect," Ferrara stated. "A person can be wearing a hat or glasses, or it can be a profile shot or partial view of their face." In September, the Gainesville Police Department paid $10,000 for an annual Clearview license.
+ Federal law enforcement, including the FBI and Department of Homeland Security, are trying it, as are Canadian law enforcement authorities, according to company statements and government officials cited in the Times investigation.
+ Coalition complaints
+ An alliance of organizations including noyb, Privacy International, Hermes Center, and Homo Digitalis filed a series of submissions against Clearview AI on May 26, 2021. The complaints were submitted to data protection regulators in France, Austria, Italy, Greece and the United Kingdom. The company became widely known in January 2020 when the Times investigation revealed its practices to the world. Prior to this, Clearview had operated with intentional secrecy while offering its product to law enforcement agencies in various countries and to private companies.
+ "European data protection laws are very clear when it comes to the purposes companies can use our data for," stated Ioannis Kouvakas, legal officer at Privacy International, in the May 2021 announcement. "Extracting our unique facial features or even sharing them with the police and other companies goes far beyond what we could ever expect as online users."
+ The regulators now had three months to provide a first response to the complaints filed in May 2021. Privacy International emphasized that facial recognition technologies threaten online and offline lives. "By surreptitiously collecting our biometric data, these technologies introduce a constant surveillance of our bodies," stated Fabio Pietrosanti, president of the Hermes Center.
+ "Just because something is online, does not mean it is fair game to be appropriated by others in any way they want to – neither morally nor legally," stated Alan Dahi, data protection lawyer at noyb, in the May 2021 filing. "Data protection authorities need to take action and stop Clearview and similar organizations from hoovering up the personal data of EU residents."
+ Industry context
+ The European Data Protection Board previously highlighted that facial recognition is considered "particularly sensitive" data, and its processing can lead to significant privacy risks for individuals. These risks include potential errors in identification, bias and discrimination, and misuse of biometric data for identity theft or impersonation. The EDPB emphasized the importance of individuals having maximum control over their own biometric data in its opinion on airport facial recognition systems.
+ Multiple European privacy enforcement actions  demonstrate growing regulatory scrutiny of biometric data processing. The European Data Protection Board's Guidelines 01/2022 on data subject rights specify that access responses must be "updated and tailored for the processing operations actually carried out with regard to the data subject." Generic privacy policy references do not satisfy these requirements.
+ Privacy advocacy organizations play crucial roles  in challenging unlawful data practices through strategic litigation across European jurisdictions. These organizations provide legal expertise and resources that individual users lack, creating systematic pressure for compliance through coordinated complaint campaigns and court proceedings.
+ However,  GDPR enforcement data shows significant gaps . Analysis of European Data Protection Board statistics reveals only 1.3 percent of GDPR cases resulted in fines between 2018 and 2023. This enforcement gap has prompted privacy advocates to pursue alternative legal mechanisms, including criminal complaints and civil litigation.
+ Recent cases demonstrate the challenges of enforcing European privacy laws  against technology companies with international operations. The Spotify case demonstrated broader patterns in GDPR enforcement across European data protection authorities, with cases often taking more than four years to reach resolution despite straightforward violations.
+ Marketing industry implications
+ The Clearview AI enforcement actions have significant implications for marketing technology providers and advertising platforms increasingly deploying biometric and surveillance technologies.  Data protection authorities are establishing comprehensive guidelines  for artificial intelligence systems that process personal data, including facial recognition applications.
+ GDPR compliance for AI systems requires careful consideration of data processing purposes, legal bases, and technical measures to protect individual privacy throughout the machine learning lifecycle. Organizations must establish comprehensive governance frameworks addressing data lifecycle management, algorithmic accountability, and cross-border data transfer requirements.
+ Marketing professionals face increasing scrutiny  over data collection practices, with authorities examining automated decision-making frameworks and targeted advertising compliance. The shift toward criminal enforcement mechanisms signals that privacy violations may carry personal liability for executives, not just corporate fines.
+ The criminal complaint against Clearview AI represents the first attempt to use criminal sanctions against a major technology company for GDPR violations in Austria. The outcome will likely influence how European authorities approach enforcement against companies that systematically ignore regulatory orders.
+
+ PPC Land Newsletter 
+
+ Subscribe PPC Land newsletter  ✉️ for similar stories like this one. Receive the news every day in your inbox. Free of ads. 10 USD per year. 
+
+ Subscribe
+
+ Timeline
+ January 18, 2020:   New York Times reveals Clearview AI practices  to public, exposing secretive facial recognition database
+ May 26, 2021:  Coalition of digital rights organizations files complaints across five European countries
+ March 10, 2022:   Italian data protection authority  fines Clearview AI 20 million euros
+ May 23, 2022:  UK Information Commissioner's Office fines Clearview AI more than 7.5 million pounds
+ July 13, 2022:  Greek data protection authority fines Clearview AI 20 million euros
+ October 19, 2022:  French data protection authority fines Clearview AI 20 million euros
+ May 10, 2023:   Austrian data protection authority  deems Clearview data use illegal but issues no fine
+ September 3, 2024:  Dutch Data Protection Authority imposes 30.5 million euro fine plus penalty payments
+ October 28, 2025:  Noyb files criminal complaint against Clearview AI and executives with Austrian prosecutors
+
+ PPC Land Newsletter 
+
+ Subscribe PPC Land newsletter  ✉️ for similar stories like this one. Receive the news every day in your inbox. Free of ads. 10 USD per year. 
+
+ Subscribe
+
+ Summary
+ Who:  Privacy advocacy organization noyb filed a criminal complaint against Clearview AI Inc., a United States-based facial recognition company, and its management team including founder Hoan Ton-That. The complaint was submitted to Austrian public prosecutors.
+ What:  The criminal complaint alleges violations under Section 63 of Austria's Data Protection Act for breaching GDPR requirements. Clearview AI created a database of more than 60 billion facial images scraped from internet sources without consent, converting them to biometric data for law enforcement searches. The company ignored multiple European regulatory fines totaling approximately 100 million euros and continued operations despite orders to cease processing and delete European residents' data.
+ When:  Noyb filed the criminal complaint on October 28, 2025, nearly four years after initial regulatory fines were imposed. The enforcement action follows a series of decisions: French authorities fined Clearview 20 million euros in October 2022, Greek authorities imposed 20 million euros in July 2022, Italian regulators assessed 20 million euros in March 2022, UK authorities fined more than 7.5 million pounds in May 2022, and Dutch authorities imposed 30.5 million euros in September 2024.
+ Where:  The criminal complaint was filed in Austria, where Article 84 GDPR allows member states to implement criminal sanctions for data protection breaches. The case has broader European implications as Clearview AI's database includes biometric data from millions of people across the European Union. Multiple data protection authorities in France, Greece, Italy, the Netherlands, the United Kingdom, and Austria have already ruled against Clearview's operations.
+ Why:  Criminal enforcement became necessary because administrative fines proved ineffective. Clearview AI systematically ignored regulatory orders to cease operations and delete European residents' data despite facing approximately 100 million euros in penalties. Criminal sanctions enable actions against individual executives and allow full use of criminal procedures, including EU-wide enforcement. If successful, company managers could face jail time and personal liability, particularly when traveling to Europe. The case matters for the marketing community because it demonstrates that privacy violations may result in criminal charges for executives, not just corporate fines, establishing precedent for personal accountability in data protection enforcement.
+
+ TikTok enables real-time iOS conversion tracking through Kochava partnership
+
+ TikTok launched iOS real-time conversion reporting with Kochava on October 21, enabling app marketers to access granular conversion insights without SKAN delays for campaigns.
+
+ Oct 28, 2025 
+ 9 min read 
+
+ Google Search Console introduces query grouping feature
+
+ Search Console Insights now uses AI to group similar search queries, helping site owners analyze user intent patterns and traffic trends more effectively.
+
+ Oct 28, 2025 
+ 5 min read 
+
+ SiriusXM secures MrBallen podcast in exclusive deal starting November
+
+ SiriusXM announces multi-year exclusive agreement with MrBallen podcast on October 27, 2025. Deal includes YouTube channel distribution and ad sales rights.
+
+ Oct 28, 2025 
+ 8 min read 
+
+ RTL AdAlliance adds Austrian broadcaster ORF to international sales portfolio
+
+ RTL AdAlliance announced on October 27, 2025, a strategic agreement with ORF-Enterprise to sell ORF's complete video inventory internationally through its platform.
+
+ Oct 28, 2025 
+ 9 min read 
+
+ Cloudflare launches comprehensive TLD tracking on Radar platform
+
+ Cloudflare announced new top-level domain insights on Radar on October 27, 2025, with DNS magnitude metrics and certificate transparency data for 1,400+ domains.
+
+ Oct 28, 2025 
+ 10 min read 
+
+ xAI launches Grokipedia with 885,279 articles as Wikipedia alternative
+
+ xAI's Grokipedia debuts with 885,279 articles in version 0.1, positioning itself as an AI-powered alternative to Wikipedia with enhanced features.
+
+ Oct 28, 2025 
+ 13 min read 
+
+ PPC Land © 2025 
+
+ Subscribe 
+
+ Manage Subscription 
+
+ RSS 
+
+ Advertise 
+
+ UTM Builder 
+
+ About 
+
+ Privacy 
+
+ Contact 
+
+ info@ppc.land
