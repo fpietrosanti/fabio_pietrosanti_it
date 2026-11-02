@@ -784,28 +784,38 @@
   },
   {
    "domain": "golem.de",
-   "status": "pending",
-   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+   "status": "done",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio",
+   "date": "2026-11-02 12:00",
+   "found": 0
   },
   {
    "domain": "estadao.com.br",
-   "status": "pending",
-   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+   "status": "done",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio",
+   "date": "2026-11-02 12:00",
+   "found": 0
   },
   {
    "domain": "rts.ch",
-   "status": "pending",
-   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+   "status": "done",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio",
+   "date": "2026-11-02 12:00",
+   "found": 0
   },
   {
    "domain": "futurezone.at",
-   "status": "pending",
-   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+   "status": "done",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio",
+   "date": "2026-11-02 12:00",
+   "found": 0
   },
   {
    "domain": "orf.at",
-   "status": "pending",
-   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+   "status": "done",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio",
+   "date": "2026-11-02 12:00",
+   "found": 0
   }
  ],
  "queries": [
@@ -5349,21 +5359,27 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Hermes Center \"data retention\" OR \"conservazione dei dati\" 2017 OR 2018",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19"
+   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19",
+   "date": "2026-11-02 12:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Garante privacy\" OR \"Garante per la protezione dei dati\" reclamo OR segnalazione 2021 OR 2022",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19"
+   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19",
+   "date": "2026-11-02 12:00",
+   "found": 15
   },
   {
    "query": "\"Fabio Pietrosanti\" GlobaLeaks \"Transparency International\" OR \"Xnet\" OR \"ALAC\" 2014 OR 2015",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19"
+   "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19",
+   "date": "2026-11-02 12:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" naif \"Metro Olografix\" OR \"HackIt\" OR \"hackmeeting\" 2002 OR 2003 OR 2004",
@@ -6599,6 +6615,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (olandese/polacco, OnData/open data, sovranità digitale/cloud PA, messaggistica cifrata 2016-18, software libero PA 2019-21, naif 2000-01, Hermes whistleblowing comuni/ANAC 2022-23, convegni privacy 2012-13), chiave localStorage gq20261102a_N: nessun robot check, 54 risultati, 47 URL unici (id del video YouTube recuperato). Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty, lists.linux.it flug), forum.italia.it, pagine indice/home/tag (monitora-pa home, ilsole24ore tag, pr-foundation, dicorinto, poul topic, sfscon home), post LinkedIn di terzi. 29 verificati: 4 OK, di cui 1 già in exclude (it.wikipedia GlobaLeaks), 2 alias nuovi in exclude (ondata.it senza /trasparenza/ = articolo già in archivio; calendify = sessione FOSDEM 2021 AGPL già in archivio) e 1 NUOVO: ParteciPa consultazione 'Italia 2025', proposta 408 su software open source, commento di Fabio del 16/01/2020 (override come la 404). 4 nome assente (GeImpresa 2018, Artribune Magazine 23, newsletter Whistleblowers Australia 2022/07, video.poul.org shell JS), 1 non raggiungibile (ebin.pub), il resto già in archivio. Merged 1301. Copie offline: 1221 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-11-02 12:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguiti i 5 domini esteri in coda (golem.de, estadao.com.br, rts.ch, futurezone.at, orf.at: 0 risultati ciascuno, 'nessun documento' confermato da Google) e 3 query (data retention 2017-18, Garante privacy 2021-22, GlobaLeaks con TI/Xnet/ALAC 2014-15), chiave localStorage gq20261102b_N: nessun robot check, 34 risultati, 33 URL unici. Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty), pagine indice/home (monitora-pa home, pr-foundation). 28 verificati: 2 OK, di cui 1 già in exclude (it.wikipedia GlobaLeaks) e 1 nuovo in exclude (cild.eu/en 12/11/2017 = versione inglese del post CILD data retention già in archivio in italiano). 4 nome assente (3 richieste FOIA Monitora PA alle scuole, one33.robyone), 3 non raggiungibili (gazzettaamministrativa PDF, researchgate, academia: paper sul caso Transparency International Italia, da riprovare a mano), il resto già in archivio. Raw lasciato vuoto. Merged 1302. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Restano 6 query pending."
   }
  ]
 }

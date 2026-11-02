@@ -1247,6 +1247,10 @@
   {
    "url": "https://calendify.com/session/EQVO23WBMkZ",
    "reason": "2026-11-02: copia calendify della sessione FOSDEM 2021 'The first AGPL compliance case settled in an Italian Court', già in archivio (archive.fosdem.org, TIB AV-Portal) → alias"
+  },
+  {
+   "url": "https://cild.eu/en/2017/11/12/phone-web-data-will-stored-6-years-rights/",
+   "reason": "2026-11-02: versione inglese del post CILD 09/11/2017 sulla data retention a 6 anni, già in archivio in italiano (cild.eu/blog/2017/11/09/...; stessa regola delle versioni linguistiche)"
   }
  ],
  "override": [
