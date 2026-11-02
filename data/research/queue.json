@@ -5623,51 +5623,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 2003 OR 2004 OR 2005 \"sicurezza informatica\" intervista OR \"ha dichiarato\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2006 OR 2007 intercettazioni \"caso Telecom\" OR \"Telecom Italia\" OR Sismi",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 1
   },
   {
    "query": "\"Pietrosanti\" naif 1999 OR 2000 \"s0ftpj\" OR \"BFi\" OR \"Butchered from Inside\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" Tor2web OR \"Tor relay\" OR \"nodi Tor\" 2011 OR 2012",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2024 \"Reclaim Your Face\" OR \"riconoscimento facciale\" OR biometria",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 \"sovranità digitale\" OR \"cloud nazionale\" OR \"digital sovereignty\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Hermes Center\" 2025 whistleblowers OR whistleblowing interview",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 4
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 OR 2024 OR 2025 relatore OR speaker convegno OR panel OR conference",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25",
+   "date": "2026-11-03 09:00",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hacking Team\" 2015 commento OR intervista OR \"secondo\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2013 Snowden OR NSA OR Datagate intervista OR \"spiega\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2011 Wikileaks OR \"Openleaks\" OR \"LeakDirectory\" OR \"IrpiLeaks\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2008 \"voto elettronico\" OR \"e-voting\" OR \"voto digitale\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2010 intercettazioni \"legge bavaglio\" OR \"ddl intercettazioni\" OR \"trojan\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Pietrosanti\" naif 2001 OR 2002 s0ftpj OR \"Security Focus\" OR advisory",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2020 Immuni OR \"contact tracing\" OR \"app di tracciamento\" intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 MxMap OR \"sovranità digitale\" OR \"posta elettronica\" comuni",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
   }
  ],
  "history": [
@@ -6907,6 +6971,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (AgID 2023-24, caller ID spoofing 2008-09, naif sikurezza/Linux Day 2000-01, Hermes d.lgs. 24/2023 2024, GlobaLeaks interviste 2025, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25), chiave localStorage gq20261102f_N: nessun robot check, 55 risultati, 48 URL unici (naif 2000-01: 2, Hermes 2024: 1, telefonate cifrate: 1). Scartati senza verifica LinkedIn, home/indici (sfscon, monitora-pa, pr-foundation/content, dicorinto page, radioradicale soggetti, partecipa elenco proposte, tipiloschi taxonomy, 3 pagine amministrazione-trasparente di scuole). 35 verificati: 3 OK ma nessuno nuovo (zh.wikipedia GlobaLeaks e MOCA 2016 /it/ già in exclude; civitasdigitale.it 'Richiesta da parte di Monitora PA' = ripubblicazione della richiesta FOIA, atto amministrativo → nuovo in exclude come Luciano Manara); 'nome assente' PDF FOIA scuole, riviste giuridiche (Diritto e Politica dei Trasporti, dirittobancario, Studium, Diritto e Società, Roma Tre Press, UniTN, giustizia militare, Contratti pubblici e innovazioni), radioradicale 500742, one33.robyone; gazzettaamministrativa PDF non raggiungibile (già in exclude). Raw lasciato vuoto. Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
+  },
+  {
+   "date": "2026-11-03 09:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi 1999-2000, Tor2web 2011-12, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25), chiave localStorage gq20261103a_N: nessun robot check, 64 risultati, 58 URL unici (caso Telecom: 1, Hermes 2025: 4). Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty, tor-talk, or-talk seul, fulldisclosure), Facebook, home/indici (dicorinto, pr-foundation, formiche page, sfscon home, sole24ore tag, raiplaysound programmi, alessandrorodolfi, homodigitalis author, personaldemocracy speakers, festivaldelgiornalismo Fabio Chiusi), zh.wikipedia/wikiwand GlobaLeaks (già in exclude). 24 URL già in archivio o già decisi. 3 verificati: catalogo Festa del Cinema di Roma 2017 e parkinsonlimpedismov 'nome assente'; openhub.net/p/Tor2web OK ma scheda statistiche di repository software → nuovo in exclude. Raw lasciato vuoto. Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
   }
  ]
 }
