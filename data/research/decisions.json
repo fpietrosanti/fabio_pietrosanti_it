@@ -1251,6 +1251,10 @@
   {
    "url": "https://cild.eu/en/2017/11/12/phone-web-data-will-stored-6-years-rights/",
    "reason": "2026-11-02: versione inglese del post CILD 09/11/2017 sulla data retention a 6 anni, già in archivio in italiano (cild.eu/blog/2017/11/09/...; stessa regola delle versioni linguistiche)"
+  },
+  {
+   "url": "https://webtv.camera.it/evento/10532",
+   "reason": "2026-11-02: Fabio non era alla conferenza stampa di Quintarelli alla Camera del 31/01/2017 (pdl captatori) → esclusa"
   }
  ],
  "override": [
@@ -1622,6 +1626,12 @@
     "role": "author",
     "outlet": "ParteciPa (consultazione Italia 2025)"
    }
+  },
+  {
+   "url": "https://www.thenationalherald.com/ti-greece-blueprint-kick-off-secure-digital-dropbox-in-greece/",
+   "set": {
+    "note": "Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com. — 2026-11-02, Fabio: non era ad Atene; la dichiarazione viene dal comunicato stampa del progetto EAT (voce mantenuta)."
+   }
   }
  ],
  "open_questions": [
@@ -1684,5 +1694,10 @@
    "date": "2026-10-29",
    "reason": "Esclusione del 18/09 revocata: la capture Wayback 20110929134828 di archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml contiene «Fabio Pietrosanti, esperto di sicurezza di I.Net» con una sua citazione; la premessa ('esperto senza nome') era errata. Voce ora verificata con l'URL dell'articolo; da confermare a Fabio."
   }
- ]
+ ],
+ "answers_2026_11_02": {
+  "Camera WebTV 31/01/2017 (conferenza stampa Quintarelli)": "non c'era → voce esclusa",
+  "The National Herald 05/03/2020 (lancio EAT ad Atene)": "dichiarazione da comunicato stampa, non era ad Atene → voce mantenuta con nota",
+  "Chiusura voci di ricerca esaurite": "«buono»: ok a chiudere Stampa estera, le tre Lacuna e Google Books/Semantic Scholar e aprire un tema nuovo"
+ }
 }

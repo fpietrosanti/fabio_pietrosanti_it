@@ -185,6 +185,8 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 ## B. Problemi nelle COPIE OFFLINE
 
 ### B0-sexvicies. 2026-11-02
+- **Risposte di Fabio (02/11, applicate):** (a) alla Camera il 31/01/2017 **non c'era** → voce esclusa (copia ⏹️); (b) Herald
+  2020: **dichiarazione da comunicato**, non era ad Atene → voce mantenuta con nota; (c) **ok** a chiudere le voci esaurite.
 - Copia della voce nuova (The National Herald 05/03/2020): **ottenuta** dal Web Archive, nome verificato.
 - **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life 2010,
   PrivateWave press release EN/ES 2010, deck Google Slides Foggia 2019) e gli 8 🟡.

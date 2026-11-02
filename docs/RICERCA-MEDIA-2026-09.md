@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1782**; dopo deduplica: **1302**
+- Risultati grezzi dalle ricerche: **1782**; dopo deduplica: **1301**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1247**
-- Verificati aprendo la pagina: **1230**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1246**
+- Verificati aprendo la pagina: **1230**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -35,7 +35,7 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post
 | 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 51 | 51 |
 | 2016 | 0 | 35 | 35 |
-| 2017 | 0 | 93 | 93 |
+| 2017 | 0 | 92 | 92 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
 | 2020 | 0 | 192 | 192 |
@@ -925,7 +925,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020-03-13** · tweet · Twitter — [Il voto elettronico fa acqua da tutte le parti (Voatz)](https://twitter.com/fpietrosanti/status/1238507753313832963)  
   Testo: «[ITA] Il voto elettronico fa acqua da tutte le parti https://t.co/oVVeGUj6Qm» Link: https://www.vice.com/en_us/article/n7jk9x/mobile-voting-app-voatz-severe-security-vulnerabilities. Wayback capture 20200313170525 (id_) di twitter.com/fpietrosanti/status/1238507753313832963.
 - 🆕 **2020-03-05** · article · The National Herald (thenationalherald.com, edizione inglese del greco-americano Εθνικός Κήρυξ) — [TI-Greece, Blueprint Kick Off Secure Digital Dropbox in Greece](https://www.thenationalherald.com/ti-greece-blueprint-kick-off-secure-digital-dropbox-in-greece/)  
-  Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com.
+  Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com. — 2026-11-02, Fabio: non era ad Atene; la dichiarazione viene dal comunicato stampa del progetto EAT (voce mantenuta).
 - 🆕 **2020-03-04** · Menzionato · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informatici lo stroncano - La Stampa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/)  
   verified via wayback; context: …one. È un vero e proprio atto di sciacallaggio, di cui a emergenza (sanitaria prima e democratica poi) finita a questo signore bisognerà chiedere conto”. Anche Fabio Pietrosanti , notissimo consulente in cybersecurity it…
 - 🆕 **2020-03-03** · tweet · Twitter — [Articolo di Casaleggio sul Sole 24 Ore (voto online): violazione deontologica?](https://twitter.com/fpietrosanti/status/1235147877220880385)  
@@ -1373,7 +1373,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 93 voci, 93 nuove
+## 2017 — 92 voci, 92 nuove
 
 - 🆕 **2017-12-27** · evento · Twitter/X @fpietrosanti (Wayback) - 34C3 Chaos Communication Congress, Leipzig — [Tweet: «After Christmas finally departing for the CCC Congress #34c3 like every year since many years. A lot of conversation, workshop, talks at #rightsandfreedom assembly!»](https://twitter.com/fpietrosanti/status/945929936661024768)  
   Read the Wayback capture 20190623144021 from the server (tweet dated 2017-12-27). Shows he attended 34C3; it does not show a talk of his own. 34C3 Fahrplan speakers, self-organized sessions and assemblies lists (events.ccc.de/congress/2017/wiki) have neither his name nor an Italian assembly.
@@ -1519,8 +1519,6 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …pre più frequente man mano che internet verrà cifrata di default, determinando una perdita delle capacità investigative tradizionali", ha spiegato a Repubblica Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…
 - 🆕 **2017-01-31** · Progetto · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/)  
   Project site of the Italian trojan-regulation bill; lists press, talks and reviews
-- 🆕 **2017-01-31** · Video · Camera dei deputati - WebTV — [Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli (31/01/2017 ore 11:30)](https://webtv.camera.it/evento/10532) _(non verificato)_  
-  Evento WebTV identificato (id 10532, trovato scorrendo gli id via webtv.camera.it/ws/get_event_playlist/<id>.json). È la conferenza stampa di presentazione della pdl sui captatori (C.4260, depositata lo stesso giorno; materiali «Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf» nel suo repo trojanregulations). La pagina NON elenca gli intervenuti (sezione Interventi 0/0, «conferenze stampa disponibili per un periodo massimo di 15 giorni») e il flusso video (akamaized, playlist.m3u8) risponde 504: la sua presenza come relatore NON è verificata. Nemmeno la slide-deck della conferenza contiene nomi.
 - 🆕 **2017-01-31** · Progetto · GitHub / Camera dei Deputati (Civici e Innovatori) — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di legge Captatori Informatici)](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law)  
   Bill (first signatory Stefano Quintarelli) co-drafted with Aterno and Ghirardini; repo collects bill, technical regulation, press kit, reviews
 - 🆕 **2017-01-23** · documento · CILD - Coalizione Italiana Libertà e Diritti civili — [Lettera CILD-Hermes al MISE sull'export di tecnologie di sorveglianza (23/01/2017)](https://cild.eu/wp-content/uploads/2017/01/ITA-LetteraMISE-2017.01.23PI_CILD_HERMES.odt-1.pdf)  

@@ -77,6 +77,9 @@ Per ogni fonte (articolo, paper, intervista, video, audio) il sito mostrerà **l
 
 ## Coda lavori per le sessioni programmate (non chiudere finché non è tutto fatto)
 Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro, si riprova nella sessione successiva.
+- [ ] **Tema nuovo (deciso 02/11, prima voce per la run «ricerca profonda»): podcast e radio estere 2011–2020** (interviste su GlobaLeaks, Tor2web, whistleblowing, sorveglianza in
+  programmi non italiani: RFI, Deutsche Welle, BBC World Service, CBC, ABC Australia, NPR, Radio France, podcast di settore);
+  in subordine **documenti ufficiali UE/ONU/Consiglio d'Europa in PDF** che lo citano per nome.
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
   PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,
@@ -101,7 +104,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
-- [ ] Google Books API e Semantic Scholar con quota fresca. **Passata 2026-09-18 (pass4_books/scholarly/archive_texts):**
+- [x] **Chiusa il 2026-11-02 (ok di Fabio)** — Google Books API e Semantic Scholar con quota fresca. **Passata 2026-09-18 (pass4_books/scholarly/archive_texts):**
   trovati e verificati via full-text Internet Archive *Coding Democracy* (Webb 2020), *Shooting the Messenger*
   (Fowler 2020), *Once a Bitcoin Miner* (Lou 2021), Bloomberg Businessweek 2020-05-04, Gazzettino FVG 2020,
   Tor monthly report 11/2011, Privacy International 2021, Access Now CPDP 2018, ParteciPa 2020, decreto USR Toscana 2022.
@@ -164,7 +167,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   IEEE 2017, *The Dark Net Rises*, recensione Di Salvo ZORA 2021); video WebTV Senato del 14/05/2020; verbali commissioni
   LIBE/JURI del PE (nessuna ricerca full-text pubblica). **Proposta: chiudere questa voce** — quel che resta dipende da
   chiavi API, copie fisiche o dal browser di Fabio, non da altre ricerche automatiche.
-- [ ] **Stampa estera non anglofona — passata 2026-11-01** (in archivio solo ~25 voci in es/de/fr/pt/altre; 3 agenti:
+- [x] **Chiusa il 2026-11-02 (ok di Fabio)** — **Stampa estera non anglofona — passata 2026-11-01** (in archivio solo ~25 voci in es/de/fr/pt/altre; 3 agenti:
   `pass4_estero_{de_nl_nordic,es_pt_latam,fr_altre}`, negativi in `data/research/leads_negatives_estero_*_2026-11-01.json`,
   ~135 ricerche) → **+7 voci verificate**, tutte con copia: **RFE/RL servizio balcanico 02/09/2012** (traduzione serbo-croata del
   pezzo Allnutt, «…kaže Pietrosanti»); **Átlátszó 05/07/2013** (Ungheria, rassegna dei «cloni di WikiLeaks», «Fabio „naif"
@@ -459,7 +462,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Hermes/GlobaLeaks; programma finale RightsCon 2016 e Circumvention Tech Festival 2015; PDF dei programmi SIF, CPDP,
   re:publica, CoE, UNESCO; podcast 2020-24 da verificare (Valigia Blu, Ciao Internet, DataKnightmare); pista 2010
   tuttovolume.net 09/02/2010 (intervista, Khamsa) da controllare.
-- [ ] **Lacuna 2007–2010 — passata 2026-10-23** (2007 e 2008 con 13 voci ciascuno; 3 agenti: `pass4_lacuna2007_{talks,
+- [x] **Chiusa il 2026-11-02 (ok di Fabio)** — **Lacuna 2007–2010 — passata 2026-10-23** (2007 e 2008 con 13 voci ciascuno; 3 agenti: `pass4_lacuna2007_{talks,
   press,tech}`, negativi in `data/research/leads_negatives_lacuna2007_*_2026-10-23.json`, ~85 ricerche) → **+17 voci**
   (11 verificate + TVtech verificato con la trascrizione = 12).
   - **Talk**: **WhyMCA Spring 2010** (Politecnico di Milano, 21/05/2010, «Mobile security and privacy», scheda + agenda) e
@@ -490,7 +493,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   MOCA 2008 (programma non archiviato); seminario Trento 2010; URL di 22 testate italiane nel Web Archive (504);
   Google Books (429); brevetto US20130252585 (Google Patents anti-bot, solo pista).
 
-- [ ] **Lacuna 2017–2019 — passata 2026-10-24** (3 agenti: `pass4_lacuna2017_{press,talks,media_research}`, negativi in
+- [x] **Chiusa il 2026-11-02 (ok di Fabio)** — **Lacuna 2017–2019 — passata 2026-10-24** (3 agenti: `pass4_lacuna2017_{press,talks,media_research}`, negativi in
   `data/research/leads_negatives_lacuna2017_*_2026-10-24.json`, ~90 ricerche) → **+22 voci** (20 verificate).
   - **Stampa**: Repubblica.it (Rijtano) «Dimmi come digiti e ti dirò chi sei» 11/05/2017 e app spia per iPhone (Exodus)
     08/04/2019; **Repubblica 2018 «Quando la spia si nasconde nell'app» (29/05) e «Il sito del Viminale bloccato
@@ -513,7 +516,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Festival, Security Summit/ITASEC PDF, Codemotion; Semantic Scholar e Google Books (429); tesi NOVA Lisbona 2018 e SSRN
   3459366 (anti-bot, citano Hermes); WebTV Camera conferenza stampa trojan 31/01/2017; sottotitoli YouTube POuL/HOPE 2018.
 
-- [ ] **Lacuna 2023–2025 (ripasso) — passata 2026-10-25** (3 agenti: `pass4_lacuna2023r_{press,talks,biolatina}`, negativi in
+- [x] **Chiusa il 2026-11-02 (ok di Fabio)** — **Lacuna 2023–2025 (ripasso) — passata 2026-10-25** (3 agenti: `pass4_lacuna2023r_{press,talks,biolatina}`, negativi in
   `data/research/leads_negatives_lacuna2023r_*_2026-10-25.json`, ~100 ricerche + ricerche interne su ~135 siti) → **+4 voci**
   (3 verificate), di cui solo 1 nel periodo: il ripasso conferma che il 2023–2025 è davvero povero di menzioni.
   - **Nuove**: Mondoreale 19/04/2023 (quarta ripresa della visita Celentano alla GLS, «accompagnata da Fabio
@@ -543,7 +546,10 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   online al massimo 15 giorni: video rimosso; salvate playlist e miniatura (4 relatori). Resta la domanda a Fabio.
 - **Ciao Internet**: 2.091/2.096 video fatti (job sul server ancora bloccato da 429/«Sign in» di YouTube, riprova da solo);
   nessuna menzione nuova (86 righe in `hits.jsonl`, già giudicate).
-- **Prossima voce lavorabile:** tutte le voci aperte in coda dipendono ormai da chiavi API, login, copie cartacee o risposte di
+- **Risposte di Fabio (02/11, applicate):** Camera 31/01/2017 non c'era → esclusa; Herald 2020 = dichiarazione da comunicato
+  (voce mantenuta con nota); «buono» → chiuse Stampa estera, le tre Lacuna e Google Books/Semantic Scholar (i 5 domini esteri e
+  securitylab restano comunque nella coda Google).
+- **Prossima voce lavorabile (prima della risposta):** tutte le voci aperte in coda dipendono ormai da chiavi API, login, copie cartacee o risposte di
   Fabio. Proposta: dopo che la coda Google avrà fatto i 5 domini esteri aggiunti oggi, chiudere «Stampa estera», le tre
   «Lacuna» e «Google Books/Semantic Scholar»; la prossima run può aprire un tema nuovo (es. podcast e radio estere 2011-2020,
   o citazioni in documenti ufficiali UE/ONU in PDF) se Fabio non indica altro.

@@ -10450,23 +10450,6 @@
  {
   "date": "2017-01-31",
   "year": 2017,
-  "type": "video",
-  "outlet": "Camera dei deputati - WebTV",
-  "title": "Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli (31/01/2017 ore 11:30)",
-  "url": "https://webtv.camera.it/evento/10532",
-  "language": "it",
-  "role": "speaker",
-  "note": "Evento WebTV identificato (id 10532, trovato scorrendo gli id via webtv.camera.it/ws/get_event_playlist/<id>.json). È la conferenza stampa di presentazione della pdl sui captatori (C.4260, depositata lo stesso giorno; materiali «Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf» nel suo repo trojanregulations). La pagina NON elenca gli intervenuti (sezione Interventi 0/0, «conferenze stampa disponibili per un periodo massimo di 15 giorni») e il flusso video (akamaized, playlist.m3u8) risponde 504: la sua presenza come relatore NON è verificata. Nemmeno la slide-deck della conferenza contiene nomi.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_residui2017r_2026-10-31"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-01-31",
-  "year": 2017,
   "type": "project",
   "outlet": "GitHub / Camera dei Deputati (Civici e Innovatori)",
   "title": "Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di legge Captatori Informatici)",
@@ -15770,7 +15753,7 @@
   "url": "https://www.thenationalherald.com/ti-greece-blueprint-kick-off-secure-digital-dropbox-in-greece/",
   "language": "en",
   "role": "quoted",
-  "note": "Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com.",
+  "note": "Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com. — 2026-11-02, Fabio: non era ad Atene; la dichiarazione viene dal comunicato stampa del progetto EAT (voce mantenuta).",
   "verified": true,
   "known": false,
   "_slices": [

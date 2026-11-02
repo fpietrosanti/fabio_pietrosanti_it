@@ -5,14 +5,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1302**; già processate: **1482**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1115** di terzi (**solo archivio privato**, mai linkate dal sito)
+- Voci in `data/media.json`: **1301**; già processate: **1482**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1114** di terzi (**solo archivio privato**, mai linkate dal sito)
 - ✅ Copia locale, nome verificato nella copia: **1222**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ♻️ Ripresa identica di un articolo già copiato: la pagina della ripresa non è raggiungibile, il testo è nella copia dell'originale: **3**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **103**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **135**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -43,7 +43,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 43 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
+| 2017 | 89 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
@@ -137,6 +137,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2017** · 34C3 Chaos Communication Congress, Leipz — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', '](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2017** · Camera dei deputati - WebTV — [Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli](https://webtv.camera.it/evento/10532) · licenza: terzi  
+  2026-11-02: Fabio non c'era (conferenza stampa Quintarelli 31/01/2017) → voce esclusa. Video rimosso dalla Camera (conferenze online max 15 giorni); restano pagina, playlist e miniatura.
 - ⏹️ **2017** · CINI - Laboratorio Nazionale di Cybersec — [Il Laboratorio Nazionale di Cybersecurity ... con il CIS Sapienza premia i giovani hacker ](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1191-il-laboratorio-nazionale-di-cybersecurity-presenta-a-roma-la-relazione-annuale-delle-attivita-svolte-e-con-il-cis-sapienza-premia-i-giovani-hacker-della-cyberchallenge) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2017** · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) · licenza: propria  
@@ -291,8 +293,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · Internet Freedom Festival 2017 (Valencia — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione](https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/) · licenza: terzi  
   programma ufficiale IFF 2017: elenca solo titolo, orario e link alla wiki della sessione; il nome è nella pagina wiki (mirror_of) già verificata — senza nome per natura
-- 🟡 **2017** · Camera dei deputati - WebTV — [Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli](https://webtv.camera.it/evento/10532) · licenza: terzi  
-  Pagina evento WebTV senza elenco degli intervenuti. 2026-11-02: la playlist ufficiale (ws/get_event_playlist/10532.json, salvata) punta a rmc1.camera.it/.../20170131_ch10_10532_backup.mp4 che risponde 404: la pagina stessa avverte che le conferenze stampa restano disponibili al massimo 15 giorni, quindi il video è stato rimosso (Web Archive offline per il CDX). Salvata la miniatura ufficiale (4 relatori al tavolo, non identificabili dal testo). Se Fabio era tra i relatori lo può dire solo lui.
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Internet Freedom Festival 2019 (Valencia — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) · licenza: terzi  
