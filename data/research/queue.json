@@ -5559,51 +5559,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" AgID OR \"Agenzia per l'Italia digitale\" OR \"piano triennale\" 2023 OR 2024",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"caller ID\" OR spoofing telefonate 2008 OR 2009",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" naif 2000 OR 2001 \"sikurezza.org\" OR \"Linux Day\" Roma",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 2
   },
   {
    "query": "\"Fabio Pietrosanti\" Hermes 2024 whistleblowing \"d.lgs. 24/2023\" OR \"direttiva europea\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 1
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 GlobaLeaks intervista OR podcast OR \"ha spiegato\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 11
   },
   {
    "query": "\"Fabio Pietrosanti\" 2008 OR 2009 \"telefonate cifrate\" OR \"cifrare le telefonate\" OR \"chiamate cifrate\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 1
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 \"intelligenza artificiale\" OR ChatGPT privacy",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"software libero\" OR \"open source\" \"pubblica amministrazione\" 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25",
+   "date": "2026-11-02 23:30",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2003 OR 2004 OR 2005 \"sicurezza informatica\" intervista OR \"ha dichiarato\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 21:00: coda esaurita; anni più deboli (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): AgID 2023-24, caller ID spoofing 2008-09, naif 2000-01 sikurezza/Linux Day, Hermes 2024 d.lgs. 24/2023, GlobaLeaks 2025 interviste, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25"
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 OR 2007 intercettazioni \"caso Telecom\" OR \"Telecom Italia\" OR Sismi",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Pietrosanti\" naif 1999 OR 2000 \"s0ftpj\" OR \"BFi\" OR \"Butchered from Inside\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Tor2web OR \"Tor relay\" OR \"nodi Tor\" 2011 OR 2012",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2024 \"Reclaim Your Face\" OR \"riconoscimento facciale\" OR biometria",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2025 \"sovranità digitale\" OR \"cloud nazionale\" OR \"digital sovereignty\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hermes Center\" 2025 whistleblowers OR whistleblowing interview",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 OR 2024 OR 2025 relatore OR speaker convegno OR panel OR conference",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 23:30: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi, Tor2web/relay, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25"
   }
  ],
  "history": [
@@ -6835,6 +6899,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (decreto Pisanu 2005-06, GlobaLeaks audit/OpenSSF 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007), chiave localStorage gq20261102e_N: nessun robot check, 61 risultati, 57 URL unici (Pisanu 1 risultato, audit GlobaLeaks 2). Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty), home/indici (sfscon, monitora-pa, pr-foundation, dicorinto page, sole24ore tag, raiplaysound programmi, dalchecco tag, alessandrorodolfi, slideshare/fpietrosanti, pagine amministrazione-trasparente di scuole). 38 verificati: 6 OK ma nessuno nuovo (easyteam Monitora PA, MOCA 2016 /it/, SlideServe PGP luci e ombre, SlideShare crittografia di terzi, arXiv Cryptocat ringraziamenti: già in exclude; artslife.com 13/05/2021 = 'art naif' stile artistico, nuovo in exclude); 'nome assente' tra cui PDF s0ftpj Ep2005 (già in archivio), monitora-pa Segnalazione al Garante PDF, Visura whistleblowingsolutions, attivissimo 2022/06; dokumen.pub (libro Digital Whistleblowing Platforms in Journalism) non raggiungibile. Raw lasciato vuoto (un raw con la voce MOCA /it/ esclusa faceva sparire la voce MOCA 2016 canonica dal merge: 1301→1300). Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
+  },
+  {
+   "date": "2026-11-02 23:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (AgID 2023-24, caller ID spoofing 2008-09, naif sikurezza/Linux Day 2000-01, Hermes d.lgs. 24/2023 2024, GlobaLeaks interviste 2025, telefonate cifrate 2008-09, IA/ChatGPT 2023, open source PA 2024-25), chiave localStorage gq20261102f_N: nessun robot check, 55 risultati, 48 URL unici (naif 2000-01: 2, Hermes 2024: 1, telefonate cifrate: 1). Scartati senza verifica LinkedIn, home/indici (sfscon, monitora-pa, pr-foundation/content, dicorinto page, radioradicale soggetti, partecipa elenco proposte, tipiloschi taxonomy, 3 pagine amministrazione-trasparente di scuole). 35 verificati: 3 OK ma nessuno nuovo (zh.wikipedia GlobaLeaks e MOCA 2016 /it/ già in exclude; civitasdigitale.it 'Richiesta da parte di Monitora PA' = ripubblicazione della richiesta FOIA, atto amministrativo → nuovo in exclude come Luciano Manara); 'nome assente' PDF FOIA scuole, riviste giuridiche (Diritto e Politica dei Trasporti, dirittobancario, Studium, Diritto e Società, Roma Tre Press, UniTN, giustizia militare, Contratti pubblici e innovazioni), radioradicale 500742, one33.robyone; gazzettaamministrativa PDF non raggiungibile (già in exclude). Raw lasciato vuoto. Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
   }
  ]
 }
