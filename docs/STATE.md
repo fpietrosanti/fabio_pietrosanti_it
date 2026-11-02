@@ -52,8 +52,13 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-01: **98 file, 11,7 GiB** (`data/drive_links.json`);
-  mancano **119 file** (~43 GiB). Spazio libero su Drive: 54,0 GiB.
+- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-02: **108 file** (`data/drive_links.json`);
+  mancano **109 file** (~42,5 GiB). Spazio libero su Drive: 53,7 GiB (usati 12,7 GiB).
+- Notte 2026-11-02 (01:07–06:30): caricati **10 file, ~0,31 GiB** (uso Drive 12,40 → 12,72 GiB), tutti entro
+  le 03:15; dopo, solo file grandi in corso, nessuno chiuso entro le 06:30 (parziali persi all'arresto).
+  Velocità ~90–115 KiB/s, nessun errore di quota. rclone fermato con taskkill alle 06:30, link registrati
+  dallo script (98 → 108, exit 2). Copie leggere: 1211 voci, 463 MB in `copies/`. Controlli lingue e LinkedIn OK.
+  Resta valida la raccomandazione: i file rimasti sono grandi, servono upload dal server o connessione più veloce.
 - Notte 2026-11-01 (01:08–06:31): caricati **20 file, 0,38 GiB** (i più piccoli, 10–40 MB). Cambiato
   `tools/drive_sync.py`: `--transfers 2` + `--order-by size,ascending --check-first` (senza `--check-first`
   l'ordine non viene rispettato: alle 01:38 nessun file chiuso dopo 337 MB, poi chiusi ~3 file in 5 minuti).
