@@ -1,0 +1,33 @@
+{
+ "pass": "pass4_estero_chrome_sitesearch",
+ "date": "2026-11-02",
+ "method": "Ricerche interne ai siti nel Chrome di Fabio (Claude in Chrome, una scheda dedicata, lettura DOM via get_page_text/find/read_page, nessuno screenshot; cookie opzionali rifiutati dove possibile). ~40 caricamenti pagina.",
+ "negatives": [
+  {"site": "folha.uol.com.br", "query": "Pietrosanti", "results": "0 risultati (search.folha.uol.com.br)"},
+  {"site": "folha.uol.com.br", "query": "GlobaLeaks", "results": "0 risultati (il motore propone 'globales', non pertinente)"},
+  {"site": "lanacion.com.ar", "query": "Pietrosanti", "results": "solo corrispondenze fuzzy su 'Petrosian' (scacchi): nessuna menzione"},
+  {"site": "lanacion.com.ar", "query": "GlobaLeaks", "results": "solo corrispondenze fuzzy su 'globales': nessuna menzione"},
+  {"site": "proceso.com.mx", "query": "Pietrosanti", "results": "0 ('No encontramos noticias')"},
+  {"site": "proceso.com.mx", "query": "GlobaLeaks", "results": "0"},
+  {"site": "lesoir.be (archivi)", "query": "Pietrosanti", "results": "1 risultato: 16/09/1996 mostra 'Arte italiana' a Flémalle, artista Pietrosanti: omonimo, non Fabio"},
+  {"site": "lesoir.be (archivi)", "query": "GlobaLeaks", "results": "1 risultato: 30/11/2011 Quentin Noirfalisse 'quatre modes d'action' (/art/d-20111130-W0G5D8) parla di GlobaLeaks ma la ricerca 'Pietrosanti' non lo restituisce e l'estratto dice che GlobaLeaks 'non ha volto mediatico': nessun nome; articolo integrale dietro paywall (redirect alla ricerca)"},
+  {"site": "rtbf.be", "query": "Pietrosanti", "results": "0 ('Nous ne trouvons pas d'articles')"},
+  {"site": "rtbf.be", "query": "GlobaLeaks", "results": "1 risultato: 12/02/2015 'Sourcesure.eu: un site pour protéger les informateurs de presse' (https://www.rtbf.be/article/sourcesure-eu-un-site-pour-proteger-les-informateurs-de-presse-8897921): aperto, cita GlobaLeaks e Tor2Web ma né Pietrosanti né naif né Hermes"},
+  {"site": "srf.ch", "query": "Pietrosanti", "results": "6 articoli + 1 video, tutti fuzzy (Petrosani, Piersanti Mattarella, Pietrasanta): nessuna menzione"},
+  {"site": "srf.ch", "query": "GlobaLeaks", "results": "solo fuzzy su 'globales': nessuna menzione"},
+  {"site": "deutschlandfunk.de", "query": "Pietrosanti", "results": "0 ('Die Suche ergab keinen Treffer'), tutte e tre le emittenti; motore verificato funzionante con 'WikiLeaks'"},
+  {"site": "deutschlandfunk.de", "query": "GlobaLeaks", "results": "0"}
+ ],
+ "blocked": [
+  {"site": "elpais.com", "reason": "consent wall 'accetta o abbonati' (pay-or-consent): nessuna opzione di rifiuto gratuita; risultati non renderizzati senza accettare il tracciamento. Pagina tag /noticias/globaleaks/ = 404"},
+  {"site": "estadao.com.br", "reason": "pagina /busca/?token= caricata ma i risultati non vengono renderizzati nel DOM (JS); non conclusivo"},
+  {"site": "publico.pt", "reason": "ricerca restituisce 0 anche per 'WikiLeaks' con 'Todas as datas': motore non funzionante/JS, non conclusivo (Pietrosanti e GlobaLeaks = 0)"},
+  {"site": "liberation.fr", "reason": "banner Sourcepoint in iframe (pay-or-consent), risultati non renderizzati; non conclusivo"},
+  {"site": "rts.ch", "reason": "pagina /recherche/ non rende risultati né messaggio di assenza (JS); non conclusivo"},
+  {"site": "golem.de", "reason": "pay-or-consent ('Cookies zustimmen' o Golem pur a pagamento): bloccato"},
+  {"site": "derstandard.at", "reason": "pay-or-consent + rilevamento blocco contenuti (consent/tcf): bloccato"},
+  {"site": "futurezone.at", "reason": "cookie rifiutati (Alle ablehnen) ok, ma /search?q= restituisce '0 Ergebnisse' anche per 'WikiLeaks': parametro/motore non funzionante, non conclusivo"},
+  {"site": "nzz.ch", "reason": "/suche?q= mostra la home/raccomandazioni senza risultati né messaggio di assenza anche dopo invio del modulo; non conclusivo"},
+  {"site": "orf.at", "reason": "nessuna ricerca interna esposta su orf.at; suche.orf.at = pagina di errore"}
+ ]
+}

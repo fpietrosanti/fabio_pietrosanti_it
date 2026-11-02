@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1301**; già processate: **1481**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1114** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1221**
+- Voci in `data/media.json`: **1302**; già processate: **1482**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1115** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1222**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -46,7 +46,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 89 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 1 |
-| 2020 | 180 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -292,7 +292,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2017** · Internet Freedom Festival 2017 (Valencia — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione](https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/) · licenza: terzi  
   programma ufficiale IFF 2017: elenca solo titolo, orario e link alla wiki della sessione; il nome è nella pagina wiki (mirror_of) già verificata — senza nome per natura
 - 🟡 **2017** · Camera dei deputati - WebTV — [Proposte di legge contro terrorismo informatico - Conferenza stampa di Stefano Quintarelli](https://webtv.camera.it/evento/10532) · licenza: terzi  
-  Pagina evento WebTV senza elenco degli intervenuti; il video (m3u8 akamaized) risponde 504 il 31/10/2026: non si sa se Fabio abbia parlato alla conferenza stampa Quintarelli sui captatori. Da chiedere a Fabio o riprovare il video da altra rete.
+  Pagina evento WebTV senza elenco degli intervenuti. 2026-11-02: la playlist ufficiale (ws/get_event_playlist/10532.json, salvata) punta a rmc1.camera.it/.../20170131_ch10_10532_backup.mp4 che risponde 404: la pagina stessa avverte che le conferenze stampa restano disponibili al massimo 15 giorni, quindi il video è stato rimosso (Web Archive offline per il CDX). Salvata la miniatura ufficiale (4 relatori al tavolo, non identificabili dal testo). Se Fabio era tra i relatori lo può dire solo lui.
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Internet Freedom Festival 2019 (Valencia — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) · licenza: terzi  
@@ -1401,6 +1401,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · copia: `2020/beb50880eccd` (live · video locale `media.mp3` (36 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet con Matteo Flora (Spreaker — [OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584) · copia: `2020/cb2777aafd8e` (live · video locale `media.mp3` (91 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/) · copia: `2020/8e681af68171` (live) · licenza: terzi
+- **2020** · The National Herald (thenationalherald.c — [TI-Greece, Blueprint Kick Off Secure Digital Dropbox in Greece](https://www.thenationalherald.com/ti-greece-blueprint-kick-off-secure-digital-dropbox-in-greece/) · copia: `2020/c6c428897cd6` (Web Archive 20220118) · licenza: terzi
 - **2020** · think.it — [Globaleaks, l'impresa di battere la corruzione. Pronti a partecipare?](https://www.think.it/globaleaks-limpresa-di-battere-la-corruzione-pronti-a-partecipare/) · copia: `2020/99cdd1a3a4c2` (Web Archive 20240806) · licenza: terzi
 - **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/) · copia: `2020/3623df8bfee3` (Web Archive 20200327) · licenza: terzi
 - **2020** · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/) · copia: `2020/047d81756b8a` (Web Archive 20200819) · licenza: terzi

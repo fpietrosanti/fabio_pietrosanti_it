@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1781**; dopo deduplica: **1301**
+- Risultati grezzi dalle ricerche: **1782**; dopo deduplica: **1302**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1246**
-- Verificati aprendo la pagina: **1229**; solo da risultato di ricerca: **72**
+- **Nuovi rispetto al vecchio sito: 1247**
+- Verificati aprendo la pagina: **1230**; solo da risultato di ricerca: **72**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 53, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 97, Citato 81, Post
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
 | 2019 | 0 | 91 | 91 |
-| 2020 | 0 | 191 | 191 |
+| 2020 | 0 | 192 | 192 |
 | 2021 | 0 | 97 | 97 |
 | 2022 | 0 | 77 | 77 |
 | 2023 | 0 | 20 | 20 |
@@ -614,7 +614,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 191 voci, 191 nuove
+## 2020 — 192 voci, 192 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -924,6 +924,8 @@ Anni senza nessun risultato: nessuno
   Rimanda a un post Facebook di Fabio (facebook.com/krdhgkjdfhgdfjhgkjdfgkj/posts/10219650834874322; senza login non è leggibile e non risulta archiviato) con il suo parere sulla geolocalizzazione dei cellulari: il primo nucleo dell'idea sui dati di cella. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-03-13** · tweet · Twitter — [Il voto elettronico fa acqua da tutte le parti (Voatz)](https://twitter.com/fpietrosanti/status/1238507753313832963)  
   Testo: «[ITA] Il voto elettronico fa acqua da tutte le parti https://t.co/oVVeGUj6Qm» Link: https://www.vice.com/en_us/article/n7jk9x/mobile-voting-app-voatz-severe-security-vulnerabilities. Wayback capture 20200313170525 (id_) di twitter.com/fpietrosanti/status/1238507753313832963.
+- 🆕 **2020-03-05** · article · The National Herald (thenationalherald.com, edizione inglese del greco-americano Εθνικός Κήρυξ) — [TI-Greece, Blueprint Kick Off Secure Digital Dropbox in Greece](https://www.thenationalherald.com/ti-greece-blueprint-kick-off-secure-digital-dropbox-in-greece/)  
+  Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com.
 - 🆕 **2020-03-04** · Menzionato · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informatici lo stroncano - La Stampa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/)  
   verified via wayback; context: …one. È un vero e proprio atto di sciacallaggio, di cui a emergenza (sanitaria prima e democratica poi) finita a questo signore bisognerà chiedere conto”. Anche Fabio Pietrosanti , notissimo consulente in cybersecurity it…
 - 🆕 **2020-03-03** · tweet · Twitter — [Articolo di Casaleggio sul Sole 24 Ore (voto online): violazione deontologica?](https://twitter.com/fpietrosanti/status/1235147877220880385)  

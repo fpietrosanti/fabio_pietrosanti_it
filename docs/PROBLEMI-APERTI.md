@@ -184,6 +184,25 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-sexvicies. 2026-11-02
+- Copia della voce nuova (The National Herald 05/03/2020): **ottenuta** dal Web Archive, nome verificato.
+- **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life 2010,
+  PrivateWave press release EN/ES 2010, deck Google Slides Foggia 2019) e gli 8 🟡.
+- **Camera WebTV 31/01/2017** (conferenza stampa Quintarelli sui captatori, 🟡): la playlist ufficiale
+  (`ws/get_event_playlist/10532.json`) esiste ancora ma il file mp4 dà **404**, e la pagina avverte che le conferenze stampa
+  restano disponibili **al massimo 15 giorni** → il video non esiste più dalla Camera (Web Archive offline per il CDX).
+  Salvate nella copia la playlist e la miniatura ufficiale (4 relatori al tavolo). Resta 🟡 col motivo aggiornato.
+- **Nuovi problemi (non aggirati)**: ricerche interne di El País, Golem, derStandard, Libération richiedono di accettare il
+  tracciamento o un abbonamento; Estadão, RTS, NZZ, Público.pt, futurezone, ORF non danno risultati affidabili → passati
+  alla coda Google con `site:`. securitylab.ru (russo, GlobaLeaks/ANAC) 401 → in coda Google.
+- **Domande per te:**
+  (a) Alla conferenza stampa Camera del 31/01/2017 c'erano 4 relatori al tavolo (miniatura salvata): eri tra loro?
+  (b) **The National Herald 05/03/2020** ti cita al lancio della casella anonima EAT ad Atene: eri presente ad Atene o la
+  dichiarazione veniva da un comunicato?
+  (c) Proposta: chiudere le voci «Stampa estera», «Lacuna» 2007–2010/2017–2019/2023–2025 e «Google Books/Semantic Scholar»
+  (restano solo chiavi, login o carta) e aprire un tema nuovo. Ok? Hai un tema che ti preme?
+  (d) Restano valide le domande dal 27/10 al 01/11.
+
 ### B0-quinvicies. 2026-11-01
 - Copie delle 7 voci nuove (stampa estera): **tutte ottenute** con il nome verificato (RFE/RL e Átlátszó dal Web Archive,
   24h Cipro dal PDF della rassegna CUT, Abraji ×2, cyberwar.nl dal vivo, Xnet dal Web Archive).

@@ -1,0 +1,84 @@
+{
+ "pass": "estero residuo non-EN, parte B (Web Archive + traduzioni)",
+ "date": "2026-11-02",
+ "method": "~45 richieste: Wayback CDX (domain+regex: tutte 504/503; poi prefix sugli slug), ricerche interne RFE/RL (motore Pangea /s?k=, validato: su slobodnaevropa.org restituisce la traduzione nota), site search testate cipriote/greche via curl, WebSearch (Google-like) in ru/el/pl/cs/hu/es/pt, pdf CUT estratto con pypdf",
+ "negatives": [
+  {
+   "what": "RFE/RL: altre traduzioni del pezzo Allnutt 2012 (rferl.org/a/24686710)",
+   "sites": [
+    "svoboda.org",
+    "radiosvoboda.org",
+    "europalibera.org",
+    "svaboda.org",
+    "azattyq.org",
+    "azattyk.org",
+    "ozodi.org",
+    "ozodlik.org",
+    "azatutyun.am",
+    "radiotavisupleba.ge",
+    "azadliq.org",
+    "azatliq.org",
+    "radiofarda.com",
+    "azadiradio.com",
+    "mashaalradio.com",
+    "evropaelire.org",
+    "svobodnaevropa.bg",
+    "szabadeuropa.hu",
+    "krymr.com",
+    "idelreal.org",
+    "currenttime.tv"
+   ],
+   "note": "Ricerche interne per 'Pietrosanti', 'GlobaLeaks', 'Allnutt', in cirillico 'Пьетросанти'/'Пієтросанті'/'Пиетросанти'/'Аллнатт', in persiano 'پیتروسانتی', e per i termini unici del pezzo 'MagyarLeaks' e 'BalkanLeaks': zero risultati pertinenti ovunque tranne slobodnaevropa.org, dove esce solo la traduzione balcanica già nota (24693271). Su radiosvoboda/europalibera/evropaelire/azadliq esistono traduzioni di ALTRI pezzi di Allnutt 2012 (BBC, Chernobyl, ecc.), non di questo. Conclusione: l'unica traduzione esistente è quella balcanica."
+  },
+  {
+   "what": "Cipro, dibattito Blueprint Nicosia 10-11/02/2020",
+   "items": [
+    "Rassegna CUT 234870_100PRESS_PDF_20200215 (6 pp.): contiene solo 24h (già noto) + 2 ritagli Χαραυγή 15/02 non pertinenti",
+    "ktisis.cut.ac.cy 'Pages from Untitled.pdf' = Accountancy Cyprus (Krambia-Kapardis), nessuna occorrenza (già negativo ieri)",
+    "philenews.com/?s=Pietrosanti e ?s=Dreyfus: '0 αποτελέσματα' (motore forse JS, poco concludente)",
+    "in-cyprus.philenews.com ?s=Dreyfus: nessun risultato pertinente",
+    "reporter.com.cy search: nessun risultato",
+    "transparency.gr ?s=Pietrosanti: 'Δεν Βρέθηκαν Αποτελέσματα'; ?s=GlobaLeaks: solo Business Integrity Forum 22/12/2020",
+    "ekirikas.com (edizione greca National Herald) ?s=Pietrosanti/GlobaLeaks/Galizzi/Blueprint: nessun articolo pertinente",
+    "WebSearch 'Πιετροσάντι' (solo Pietrasanta città), 'Pietrosanti Cyprus Integrity Forum', Greek queries su EAT/ΕΑΑΔΗΣΥ: nulla di nuovo",
+    "cnn.gr 2018-12-09 'Προς αναβάθμιση το πλαίσιο προστασίας των whistleblowers': nessuna occorrenza"
+   ]
+  },
+  {
+   "what": "Ripubblicazioni gr/pt/es/hu/pl/cs/ru/bg",
+   "note": "WebSearch '\"Pietrosanti\" GlobaLeaks' + sygnaliści/oznamovatel/bejelentő, denunciantes/alertadores, πληροφοριοδότες, 'Пиетросанти'/'Пьетросанти', partner EAT (Oživení, Átlátszó, CJI): solo pagine EN/IT già note o mailing list (escluse)."
+  },
+  {
+   "what": "Wayback CDX prefix sugli slug (2011-2015)",
+   "results": [
+    "taz.de/Globaleaks*, Publeaks*, Tor2web*, Leak-Plattform*: 0; taz.de/Whistleblow*: 96 URL tutte su Snowden/Ellsberg/Manning; taz.de/Hermes*: Hermes-Bürgschaft ecc., non pertinenti",
+    "spiegel.de/netzwelt/netzpolitik/globaleaks*, publeaks*: 0",
+    "futurezone.at/netzpolitik/globaleaks*: 1 -> 'GlobaLeaks geht an den Start' (08/09/2011, Christiane Schulzki-Haddouti) aperto live: GlobaLeaks x11, nessuna occorrenza di Pietrosanti/naif/Hermes",
+    "futurezone.at/netzpolitik/whistleblow*: 3 URL non pertinenti (2019-2025); futurezone.at/digital-life/globaleaks*: 0",
+    "nzz.ch/aktuell/digital/globaleaks*, nzz.ch/globaleaks*: 0",
+    "rtbf.be/info/medias/detail_globaleaks*: 0",
+    "ecrans.liberation.fr/ecrans/article/globaleaks*: 0"
+   ]
+  },
+  {
+   "what": "Ricerche interne live",
+   "note": "svd.se ?q=Pietrosanti: 'Inga träffar'; dn.se: 'Inga träffar'; derstandard.at/suche: nessun risultato nel HTML (probabile rendering JS, poco concludente)"
+  }
+ ],
+ "blocked": [
+  "Web Archive: 'Temporarily Offline' (503) a inizio sessione; dopo il ritorno le query CDX domain-wide con filtro regex (spiegel, taz, volkskrant, svd, dn, derstandard, futurezone, nzz, golem, liberation, lesoir, rtbf) sono andate tutte in 504/503 -> NON eseguite. Le query prefix hanno funzionato a fatica (~1-2 min l'una); 503 su spiegel.de/netzwelt/web/globaleaks*, spiegel.de/netzwelt/netzpolitik/tor2web*, svd.se/globaleaks*, rtbf publeaks*, volkskrant.nl/nieuws-achtergrond/{publeaks,globaleaks}*. Da rifare: volkskrant (URL 2013 senza slug: serve filtro regex), golem.de (URL numeriche), dn.se, derstandard.at, lesoir.be, spiegel 2011 (URL 0,1518,NNN senza slug).",
+  "cyprus-mail.com e offsite.com.cy: 410 sulle ricerche; kathimerini.com.cy e in-cyprus: captcha nella pagina; alphanews.live: Cloudflare; sigmalive search 404 — non aggirati",
+  "liberation.fr/recherche: 403 + captcha; lesoir.be: 403; nzz.ch: Cloudflare (non conclusivo)",
+  "securitylab.ru/news/491610.php (pezzo russo su GlobaLeaks/ANAC 2018): 401, non aperto -> lead non verificato"
+ ],
+ "open_leads": [
+  {
+   "url": "https://www.securitylab.ru/news/491610.php",
+   "note": "'Итальянцы создали платформу для информаторов в Tor' (2018 circa, ANAC/GlobaLeaks): 401 via curl, da aprire col browser per cercare 'Пьетросанти'."
+  },
+  {
+   "url": "Lancio EAT ad Atene (fine febbraio/inizio marzo 2020, TI-Greece + Blueprint + autorità appalti)",
+   "note": "Il National Herald riporta una citazione di Fabio, probabilmente da comunicato stampa: possibili riprese greche (Kathimerini, Naftemporiki, ecc.) non trovate in questa passata."
+  }
+ ]
+}

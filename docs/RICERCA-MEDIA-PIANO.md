@@ -183,6 +183,23 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Soir, RTBF, RTS, Golem, derStandard, futurezone, NZZ, SRF, ORF, Deutschlandfunk (→ Chrome di Fabio); CDX per pattern su
   Spiegel/taz/Volkskrant/SvD (Web Archive «Temporarily Offline»); altre traduzioni RFE/RL del pezzo Allnutt; altri giornali
   ciprioti sul dibattito del 2020.
+  **Passata 2026-11-02 (residui; 3 agenti: `pass4_estero_{books_academic,wayback_traduzioni,chrome_sitesearch}`, negativi in
+  `data/research/leads_negatives_estero_*_2026-11-02.json`) → +1 voce verificata**: **The National Herald 05/03/2020** (edizione
+  inglese del greco-americano Εθνικός Κήρυξ, lancio ad Atene della prima casella anonima EAT/GlobaLeaks con TI-Greece e
+  Blueprint: «Fabio Pietrosanti, President of the Hermes Center… said…»; copia dal Web Archive).
+  **Negativi solidi**: Google Books (feed GData senza chiave: solo 4 libri inglesi già noti; nessuna traduzione di Greenberg),
+  7 PDF accademici es/pt su GlobaLeaks (mai il nome), Crossref/Dialnet/Persée (omonimi), IA full-text non-EN/IT (19 query);
+  **tutte le traduzioni RFE/RL** (21 servizi linguistici: esiste solo quella balcanica); stampa cipriota (CUT, Philenews,
+  In-Cyprus, Reporter: solo il 24h noto); futurezone.at «GlobaLeaks geht an den Start» 08/09/2011 (aperto: senza nome);
+  ricerche interne nel Chrome di Fabio: Folha, Proceso, RTBF (anche Sourcesure 2015: senza nome), Deutschlandfunk, La Nación,
+  SRF, Le Soir (solo omonimo 1996), SvD/DN.
+  **Resta (non aggirato)**: El País, Golem, derStandard, Libération (cookie con tracciamento/paywall), Estadão, RTS, NZZ,
+  Público.pt, futurezone, ORF (ricerca inaffidabile) → elpais/derstandard/liberation/nzz/publico già cercati con `site:` su
+  Google il 7-9/10 (0 nuove), **golem.de, estadao.com.br, rts.ch, futurezone.at, orf.at aggiunti alla coda Google**; lead
+  **securitylab.ru/news/491610.php** (russo, GlobaLeaks/ANAC ~2018: 401 dal vivo, 429 dal Web Archive → in coda Google);
+  CDX per pattern numerici (Volkskrant 2013, Spiegel 2011, Golem, Der Standard, Le Soir: Web Archive 503/504); SciELO, Cairn,
+  RCAAP, DiVA, HAL, OpenEdition (anti-bot); Kathimerini Cyprus, In-Cyprus (CAPTCHA). **Proposta: chiudere la voce** quando la
+  coda Google avrà fatto i 5 domini e securitylab.
 
 - [x] ~~Corriere della Sera 2001-01-26 p.25~~: **chiuso** — «esperto» senza nome, escluso per decisione di Fabio (18/09).
 - [x] RAI Teche, Mediaset, arretrati ICT Security / Wireless / WeekIT — passata 2026-09-22 (`pass4_it_magazines`,
@@ -516,6 +533,20 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   laprovincialatina.it (non rispondono); post LinkedIn di terzi (login); PDF ComeInClasse fuss.bz.it (9,8 MB, MonitoraPA);
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
+
+## Note sessione 2026-11-02 (run programmata «ricerca profonda»)
+- **1302 voci** in `data/media.json` (+1 verificata, copiata): The National Herald 05/03/2020 (lancio EAT ad Atene, ti cita).
+  Voce lavorata: **residui della stampa estera non anglofona** (libri/accademico es/pt/de/fr, Web Archive e traduzioni RFE/RL,
+  ricerche interne nel Chrome di Fabio su 17 testate) — quasi tutto negativo, vedi la voce in coda.
+- **Copie**: nuova voce ottenuta (Web Archive, nome verificato); `--retry-failed` invariato (7 ❌, 8 🟡). **Camera WebTV
+  31/01/2017** (🟡): trovata la playlist ufficiale → il file mp4 è 404 e la pagina dice che le conferenze stampa restano
+  online al massimo 15 giorni: video rimosso; salvate playlist e miniatura (4 relatori). Resta la domanda a Fabio.
+- **Ciao Internet**: 2.091/2.096 video fatti (job sul server ancora bloccato da 429/«Sign in» di YouTube, riprova da solo);
+  nessuna menzione nuova (86 righe in `hits.jsonl`, già giudicate).
+- **Prossima voce lavorabile:** tutte le voci aperte in coda dipendono ormai da chiavi API, login, copie cartacee o risposte di
+  Fabio. Proposta: dopo che la coda Google avrà fatto i 5 domini esteri aggiunti oggi, chiudere «Stampa estera», le tre
+  «Lacuna» e «Google Books/Semantic Scholar»; la prossima run può aprire un tema nuovo (es. podcast e radio estere 2011-2020,
+  o citazioni in documenti ufficiali UE/ONU in PDF) se Fabio non indica altro.
 
 ## Note sessione 2026-11-01 (run programmata «ricerca profonda»)
 - **1298 voci** in `data/media.json` (+7 verificate, tutte copiate). Prime voci della coda ancora bloccate (chiavi, login,

@@ -781,6 +781,31 @@
    "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)",
    "date": "2026-10-12",
    "found": 0
+  },
+  {
+   "domain": "golem.de",
+   "status": "pending",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+  },
+  {
+   "domain": "estadao.com.br",
+   "status": "pending",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+  },
+  {
+   "domain": "rts.ch",
+   "status": "pending",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+  },
+  {
+   "domain": "futurezone.at",
+   "status": "pending",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
+  },
+  {
+   "domain": "orf.at",
+   "status": "pending",
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda (stampa estera): ricerca interna bloccata (paywall/cookie con tracciamento) o inaffidabile nel Chrome di Fabio"
   }
  ],
  "queries": [
@@ -5369,6 +5394,12 @@
    "status": "pending",
    "pages": 1,
    "note": "aggiunta 2026-11-02 00:00: coda esaurita; nuovi angoli: data retention 2017-18, Garante privacy, GlobaLeaks con TI/Xnet 2014-15, naif 2002-04, email PA 2025-26, Copernicani 2019-20, ACN/cybersicurezza 2022-24, Rousseau 2017-19"
+  },
+  {
+   "query": "site:securitylab.ru GlobaLeaks OR Pietrosanti OR Пьетросанти",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 dalla ricerca profonda: lead securitylab.ru/news/491610.php (GlobaLeaks/ANAC ~2018), 401 dal vivo e 429 dal Web Archive; aprirlo nel Chrome e cercare il nome"
   }
  ],
  "history": [
