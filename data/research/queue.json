@@ -5431,51 +5431,115 @@
   },
   {
    "query": "\"Pietrosanti\" naif 1998 OR 1999 hacker OR \"sicurezza informatica\" OR linux",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Infosecurity Italy\" OR \"Smau\" OR \"Sicurezza\" convegno 2005 OR 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" VoIP OR \"telefonia\" OR \"Skype\" intercettazioni 2007 OR 2008",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 8
   },
   {
    "query": "\"Fabio Pietrosanti\" \"firma digitale\" OR \"PKI\" OR \"smart card\" 2003 OR 2004 OR 2005",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" whistleblowing OR \"Hermes\" 2023 intervista OR convegno OR podcast",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 11
   },
   {
    "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" OR \"AI Act\" OR \"riconoscimento facciale\" 2024",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" naif \"Kosovo\" OR \"Netstrike\" OR \"ECN\" OR \"Isole nella Rete\" 1999",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" GlobaLeaks 2024 OR 2025 whistleblowing piattaforma comune OR ASL OR università",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25",
+   "date": "2026-11-02 18:00",
+   "found": 9
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"decreto Pisanu\" OR \"Pisanu\" 2005 OR 2006 internet OR wifi OR \"internet point\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-02 15:30: coda esaurita; anni più deboli in media.json (1998-99, 2003-08, 2023-24): naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25"
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks \"Linux Foundation\" OR \"OpenSSF\" OR \"security audit\" OR \"penetration test\" 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2024 \"voto fuorisede\" OR \"europee\" OR \"voto elettronico\" OR \"voto online\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 \"pubblica amministrazione\" OR \"PA\" sicurezza OR \"data breach\" OR ransomware",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Pietrosanti\" naif 1998 OR 1999 Roma OR \"Metro Olografix\" OR \"Linux\" intervista OR articolo",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 OR 2007 crittografia OR PGP OR \"posta elettronica\" privacy",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Hermes 2025 \"Garante privacy\" OR sorveglianza OR \"diritti digitali\" dichiara",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2007 cellulari OR smartphone OR \"telefonino\" sicurezza OR intercettazione",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-02 18:00: coda esaurita; anni più deboli in media.json (1998-99: 2+2, 2003-08: 8-15/anno, 2023-25: 20/12/17): decreto Pisanu 2005-06, Linux Foundation/OpenSSF/audit GlobaLeaks 2023-24, voto fuorisede/europee 2024, sicurezza PA 2023, naif 1998-99 Roma, crittografia/PGP 2006-07, Hermes 2025 Garante/sorveglianza, sicurezza mobile 2007"
   }
  ],
  "history": [
@@ -6691,6 +6755,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 6 query pending (naif Metro Olografix/HackIt 2002-04, email PA 2025-26, Copernicani 2019-20, cybersicurezza/ACN 2022-24, Rousseau/M5S 2017-19, site:securitylab.ru), chiave localStorage gq20261102c_N: nessun robot check, 48 URL unici. Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty, freelists linuxtrent, inventati/autistici), forum.italia.it, home/indici (sfscon, monitora-pa, pr-foundation, dicorinto tag, x.com). Lead securitylab.ru/news/491610.php aperto nel Chrome: 19/02/2018, ANAC lancia la piattaforma su Tor, nome di Fabio assente (chiuso). 31 verificati: 3 OK ma tutti già in exclude (cybersecurity360 'Ciao Carola', SlideShare crittografia di terzi, CINI Cyberchallenge 1349 variante), 3 nome assente (rassegna stampa Provincia di Alessandria 04/03/2020, PDF gianfrancobattiston voto online, securitylab.ru), il resto già in archivio. Raw lasciato vuoto. Merged 1302. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
+  },
+  {
+   "date": "2026-11-02 18:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (naif 1998-99, Infosecurity/Smau 2005-06, VoIP 2007-08, firma digitale 2003-05, Hermes 2023, AI/riconoscimento facciale 2024, Netstrike/ECN 1999, GlobaLeaks enti 2024-25), chiave localStorage gq20261102d_N: nessun robot check, 67 URL unici. Scartati senza verifica LinkedIn, mailing list (bugtraq, nexa hyperkitty, lists.linux.it, inventati), forum (scintillarossa), Facebook, pagine indice/tag (dalchecco tag, sivola cerca.asp, sole24ore tag, dicorinto, sfscon home, raiplaysound programmi, poul, puntosicuro). 38 verificati: 6 OK ma nessuno nuovo (MOCA 2016 /it/ già escluso; SlideShare trust e tesi X509 = slide di terzi con Fabio solo nei correlati; SlideServe 'PGP luci e ombre' = ricaricamento di terzi del talk e-privacy 2005 già in archivio; FSFE FOSDEM 2021 versione .it di quella inglese già presente; CRS pagina categoria, evento contact tracing già presente) → in exclude; 8 'nome assente' (PDF s0ftpj Ep2005/webbit04 già in archivio, podnews, OSCE, tesi unilim, L'Ancora, artapartofculture). Raw lasciato vuoto. Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
   }
  ]
 }
