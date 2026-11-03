@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1306**; già processate: **1486**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1118** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1226**
+- Voci in `data/media.json`: **1307**; già processate: **1487**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1119** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1227**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -40,7 +40,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 38 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 32 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2014 | 28 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 43 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 90 | 5 | 3 | 0 | 0 | 0 | 0 |
@@ -808,6 +808,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · 31C3 Chaos Communication Congress, Hambu — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks) · copia: `2014/de14f3fdb441` (Web Archive 20150105) · licenza: terzi
 - **2014** · European Journalism Observatory (it.ejo. — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza) · copia: `2014/aaae2cfd6c8e` (Web Archive 20160307) · licenza: terzi
 - **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://lwn.net/Articles/612209/) · copia: `2014/d9bdc4326860` (Web Archive 20150919) · licenza: terzi
+- **2014** · personaldemocracy.com — [PdF Italia 2014 (Roma, European Maker Faire) – workshop Track C «Transparency: what's beyo](https://personaldemocracy.com/conference/pdf-italia-2014/) · copia: `2014/dfa3569313e6` (Web Archive 20240810) · licenza: terzi
 - **2014** · The Tor Project, Tor proposals (torspec) — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html) · copia: `2014/109cc7c1d44b` (Web Archive 20240615) · licenza: terzi
 - **2014** · End Summer Camp 2014 (ESC14) wiki — [ESC14-BBS planning page (BBS / vintage telephone exchange area)](https://www.endsummercamp.org/index.php?title=ESC14-BBS) · copia: `2014/26cb2441bc82` (live) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/5d059e56be1a` (Web Archive 20140429) · licenza: terzi

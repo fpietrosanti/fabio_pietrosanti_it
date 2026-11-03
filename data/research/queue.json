@@ -5687,51 +5687,107 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Hacking Team\" 2015 commento OR intervista OR \"secondo\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2013 Snowden OR NSA OR Datagate intervista OR \"spiega\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2011 Wikileaks OR \"Openleaks\" OR \"LeakDirectory\" OR \"IrpiLeaks\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2008 \"voto elettronico\" OR \"e-voting\" OR \"voto digitale\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2010 intercettazioni \"legge bavaglio\" OR \"ddl intercettazioni\" OR \"trojan\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Pietrosanti\" naif 2001 OR 2002 s0ftpj OR \"Security Focus\" OR advisory",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2020 Immuni OR \"contact tracing\" OR \"app di tracciamento\" intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2026 MxMap OR \"sovranità digitale\" OR \"posta elettronica\" comuni",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026",
+   "done": "2026-11-03 14:30"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 \"Linux Day\" OR \"Infosecurity Italia\" OR \"Smau\" relatore",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 09:00: coda esaurita; anni/temi deboli (2003-08, 1999-2000, 2011-12, 2023-25): Hacking Team 2015 commenti, NSA/Snowden 2013, LeakDirectory/Wikileaks 2011, voto elettronico 2008, wiretapping 2010, s0ftpj 2001-02, privacy app 2020 Immuni, MxMap 2026"
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2003 \"Smau\" OR \"Infosecurity\" OR \"Moca\" OR \"e-privacy\" sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"naif\" Pietrosanti 1998 OR 1999 \"Linux\" OR \"hacker\" OR \"Metro Olografix\" OR \"Hackit\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2024 whistleblowing \"ANAC\" OR \"segnalazioni\" OR \"piattaforma\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 \"Cybersecurity\" OR \"ACN\" OR \"Agenzia per la cybersicurezza\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2025 \"Hermes\" OR \"GlobaLeaks\" giornalisti OR \"investigative\" OR IRPI",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2007 \"VoIP\" OR \"Skype\" OR \"telefonia mobile\" sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2012 \"Tor\" OR \"anonimato\" OR \"deep web\" intervista OR \"spiega\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 14:30: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25): convegni 2003/2006, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012"
   }
  ],
  "history": [
@@ -6979,6 +7035,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (sicurezza informatica 2003-05, caso Telecom 2006-07, naif s0ftpj/BFi 1999-2000, Tor2web 2011-12, biometria 2024, sovranità digitale 2025, Hermes 2025 EN, convegni 2023-25), chiave localStorage gq20261103a_N: nessun robot check, 64 risultati, 58 URL unici (caso Telecom: 1, Hermes 2025: 4). Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty, tor-talk, or-talk seul, fulldisclosure), Facebook, home/indici (dicorinto, pr-foundation, formiche page, sfscon home, sole24ore tag, raiplaysound programmi, alessandrorodolfi, homodigitalis author, personaldemocracy speakers, festivaldelgiornalismo Fabio Chiusi), zh.wikipedia/wikiwand GlobaLeaks (già in exclude). 24 URL già in archivio o già decisi. 3 verificati: catalogo Festa del Cinema di Roma 2017 e parkinsonlimpedismov 'nome assente'; openhub.net/p/Tor2web OK ma scheda statistiche di repository software → nuovo in exclude. Raw lasciato vuoto. Merged 1301. Copie offline: 1222 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
+  },
+  {
+   "date": "2026-11-03 14:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 7 query pending distinte (Hacking Team 2015, Snowden/NSA 2013, Wikileaks/LeakDirectory 2011, voto elettronico 2008, intercettazioni 2010, naif s0ftpj 2001-02, Immuni 2020, MxMap 2026; l'ultima era duplicata in coda, chiuse entrambe), chiave localStorage gq20261103b_N: nessun robot check, 74 risultati, 67 URL unici. Scartati senza verifica LinkedIn, mailing list (nexa hyperkitty, hackmeeting inventati, seclists fulldisclosure/vuln-dev), home/indici (pr-foundation, sfscon home, dicorinto, centroriformastato, dalchecco tag, agendadigitale tag, personaldemocracy speakers page, sportvari, radioradicale stampa-e-regime). 30 URL già in archivio. 11 verificati: 1 NUOVO confermato = personaldemocracy.com PdF Italia 2014 (29/09/2014, European Maker Faire Roma, workshop Track C 'Transparency: what's beyond?' con Darbishire, Belisario, Romeo, Taggart, Epifani), aggiunto come talk 2014. 'Nome assente': pr-foundation advisory board, rassegna stampa Prov. Alessandria 2020, scac_web.pdf, giac.org GCIA, sfscon programma 2026, Elgar OA (china.elgaronline non raggiungibile), s0ftpj cnr20031104_log_analysis (solo Yvette Agostini: non lui); s0ftpj webbit04_wifi.pdf = slide del talk Webbit 04 'Wireless (in)security' (naif+vodka) già noto, estrazione testo fallita al verificatore, non aggiunto come voce doppia; Ep2005 PGP s0ftpj = mirror della voce urna.winstonsmith già nota. Merged 1307. Copie offline: 1227 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
   }
  ]
 }

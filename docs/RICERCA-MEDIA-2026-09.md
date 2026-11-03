@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1788**; dopo deduplica: **1306**
+- Risultati grezzi dalle ricerche: **1789**; dopo deduplica: **1307**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1251**
-- Verificati aprendo la pagina: **1235**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1252**
+- Verificati aprendo la pagina: **1236**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -32,7 +32,7 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post
 | 2011 | 4 | 30 | 27 |
 | 2012 | 0 | 38 | 38 |
 | 2013 | 0 | 37 | 37 |
-| 2014 | 0 | 32 | 32 |
+| 2014 | 0 | 33 | 33 |
 | 2015 | 0 | 51 | 51 |
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
@@ -1746,7 +1746,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015** · Report · Nexa Center for Internet & Society — Annual Report 2015 — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf)  
   '73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).
 
-## 2014 — 32 voci, 32 nuove
+## 2014 — 33 voci, 33 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1766,6 +1766,8 @@ Anni senza nessun risultato: nessuno
   Antonella Napolitano on Transparency International Italia's ALAC; quoted repeatedly as Hermes Center president and GlobaLeaks creator; verified via Wayback
 - 🆕 **2014-10-17** · Menzionato · lemonde.fr — [Hermès, les messagers de l’Internet libre](https://www.lemonde.fr/pixels/article/2014/10/17/hermes-les-messagers-de-l-internet-libre_4508097_4408996.html)  
   verified via wayback; context: …tradi ». Mais en fait cette fondation regroupe une bande de geeks et de militants de l’Internet libre assez radicaux, et très innovants. Le président d’Hermès, Fabio Pietrosanti, explique que sa création fut très facile …
+- 🆕 **2014-09-29** · Talk · personaldemocracy.com — [PdF Italia 2014 (Roma, European Maker Faire) – workshop Track C «Transparency: what's beyond?»](https://personaldemocracy.com/conference/pdf-italia-2014/)  
+  Programma ufficiale del Personal Democracy Forum Italia 2014 (29/09/2014, European Maker Faire, Roma), verificato via Wayback: workshop 14.30-15.30 Track C «Transparency: what's beyond?» con Helen Darbishire, Fabio Pietrosanti, Ernesto Belisario, Guido Romeo, Chris Taggart, Stefano Epifani (moderatore). Distinto dal profilo speaker personaldemocracy.com/speaker/fabio-pietrosanti/ già noto.
 - 🆕 **2014-09-17** · Menzionato · LWN.net (ripubblicazione Tor Weekly News) — [Tor Weekly News — September 17th, 2014](https://lwn.net/Articles/612209/)  
   Mirror di https://blog.torproject.org/tor-weekly-news-september-17th-2014/ (noto): «Fabio Pietrosanti informed the tor-talk mailing list [8] of an experiment designed to detect this enumeration of hidden services...». Verificato live.
 - 🆕 **2014-08-27** · Citato · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/)  
