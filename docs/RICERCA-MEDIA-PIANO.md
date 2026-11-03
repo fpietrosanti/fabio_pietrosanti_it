@@ -80,6 +80,29 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Tema nuovo (deciso 02/11, prima voce per la run «ricerca profonda»): podcast e radio estere 2011–2020** (interviste su GlobaLeaks, Tor2web, whistleblowing, sorveglianza in
   programmi non italiani: RFI, Deutsche Welle, BBC World Service, CBC, ABC Australia, NPR, Radio France, podcast di settore);
   in subordine **documenti ufficiali UE/ONU/Consiglio d'Europa in PDF** che lo citano per nome.
+  **Passata 2026-11-03 (3 agenti: `pass4_radio_estere`, `pass4_podcast_esteri`, `pass4_docs_ue_onu`) → +5 voci.**
+  - **Nuove verificate**: Commissione UE, progetto H2020 CANVAS, *White Paper 2 – Cybersecurity and Law* (09/10/2017, nota
+    378 p.69 e bibliografia p.73: cita il suo pezzo Boing Boing con Aterno sul government hacking); Parlamento europeo,
+    commissione PEGA, bozza dello studio Pegasus (05/12/2022, riferimenti p.91; la versione finale 740151 era già nota);
+    Springer *The Ethics of Cybersecurity* (2020, cap. 10 Schlehahn, stesso progetto CANVAS); seconda pagina ANAC della
+    lettera a «Ing. Fabio Pietrosanti» (probabile doppione della risposta all'appello Hermes); seconda pagina 2600 Off The
+    Hook 04/12/2019.
+  - **Escluso**: swissinfo 28/09/2018 (solo snippet Google, la pagina nomina solo Carlo Pisani → `decisions.json`).
+  - **Negativi solidi**: radio pubbliche estere via `site:` su Google (RFI/Radio France, DW/DLF/BR/WDR/FM4/Ö1, BBC, CBC,
+    ABC, NPR/PRI/WNYC/VOA, RSI/SRF/RTS/swissinfo, RTVE/SER, Radio-Canada, SR, RNW, Al Jazeera, CBN) e archivi interni
+    RSI/SRF/RTS/RTR, RFE/RL (solo il 2012 noto); feed completi di Off The Hook 2011–2025, Logbuch:Netzpolitik, Chaosradio,
+    netzpolitik.org, Darknet Diaries, Hacker Public Radio, Whistleblowing Now and Then, BBC Cyber Hack; Apple Podcasts (15
+    termini); siti di EDRi, Access Now, Blueprint, WNN, WIN, Courage, Xnet, LQDN, OKFN, OCCRP, Berkman, IJNet; Consiglio
+    d'Europa (World Forum for Democracy 2015 Lab 15: presenta Claudio Agosti), gruppo esperti Commissione whistleblowing
+    2022 (Pellerano e Fraschini), Consiglio UE WK 2648/2019, CORDIS, IRM OGP Italia 2014–15/2019–21, ONU/UNESCO/OCSE/BM,
+    EUR-Lex, EDPS, ENISA, CESE, JRC. Talk non suoi: OHM2013 (Arturo e Claudio), HOPE 2018, Radio Blackout (Vecna).
+  - **Resta (non chiudere ancora)**: feed podcast 2011–2013 nel Web Archive (ABC RN Future Tense, BBC Digital Planet, CBC
+    Spark, On the Media, BNR/NOS al lancio Publeaks 2013) — indice Wayback instabile; ospiti della puntata France Culture
+    2015 «Des citoyens révoltés (4/4) – La désobéissance numérique» (cita GlobaLeaks, pagina solo JS → Chrome); radio
+    latinoamericane 2014–15 (W Radio, MVS, Radio Educación) e spagnole al lancio Filtrala 2014; podcast brasiliani dopo
+    Abraji 2015; trascrizioni IGF 2011–2020 sessione per sessione via Wayback (intgovforum.org dà 403 anti-bot); Registro
+    trasparenza UE (voce Hermes), verbali audizioni APCE, risposte individuali alla consultazione UE 2017 sui
+    whistleblower; query Tor2web su NPR/PRI/BBC/CBC/ABC/DW/RFI (Google ha mostrato il CAPTCHA, non aggirato).
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
   PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,

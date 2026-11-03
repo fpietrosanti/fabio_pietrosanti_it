@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1301**; già processate: **1482**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1114** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1222**
+- Voci in `data/media.json`: **1306**; già processate: **1486**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1118** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1226**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- ♻️ Ripresa identica di un articolo già copiato: la pagina della ripresa non è raggiungibile, il testo è nella copia dell'originale: **3**
+- ♻️ Ripresa identica di un articolo già copiato: la pagina della ripresa non è raggiungibile, il testo è nella copia dell'originale: **4**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **103**
-- 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
+- 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **135**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **7**
@@ -22,7 +22,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 75 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 76 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -32,7 +32,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
-| 2006 | 13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2006 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
@@ -43,12 +43,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 43 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 89 | 5 | 3 | 0 | 0 | 0 | 0 |
+| 2017 | 90 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 100 | 10 | 2 | 0 | 0 | 0 | 1 |
+| 2019 | 101 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 61 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 62 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -299,6 +299,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   programma IFF 2019 dal Web Archive: solo titolo, orario e sala, nessun relatore; pagina della sessione (id 1462) mai archiviata, piattaforma IFF giù — chi ha tenuto la sessione lo può dire solo Fabio
 - 🟡 **2019** · Il Fatto Quotidiano (print, 'In edicola' — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- ♻️ **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
+  2026-11-03: la pagina Packet Storm è una shell JavaScript (ristampa dell'advisory Secunia). Testo identico copiato dall'originale Secunia SA22634 (Web Archive 20070429132253): «Fabio Pietrosanti has reported a security issue… Provided and/or discovered by: Fabio Pietrosanti»; copia anche in questa cartella (secunia_SA22634_20070429.*).
 - ♻️ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   2026-11-01: coinage.it è un aggregatore che ripubblicava CoinDesk; host irraggiungibile e nessuna capture Wayback dell'articolo (CDX coinage.it/news/*: solo un altro pezzo del 2021). Testo identico già copiato dall'originale CoinDesk (Wayback 20210918, nome verificato) e dalla versione CoinDesk Italiano.
 - ♻️ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
@@ -307,8 +309,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-11-01: seconda ripubblicazione notizieoggi.com dello stesso pezzo di Il Post del 14/09/2022; sito irraggiungibile e mai archiviato. Testo nella copia dell'originale Il Post (nome verificato).
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
-- 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
-  page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -368,6 +368,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/) · copia: `undated/6a12566e8bb7` (live) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8) · copia: `undated/8699471b5043` (live) · licenza: terzi
+- **None** · ANAC - Autorita Nazionale Anticorruzione — [Risposta all'appello del Centro Hermes all'ANAC per la tecnologia di whistleblowing open-s](https://www.anticorruzione.it/documents/91439/6eb586ad-e55e-18d1-9cfb-ce5e7959c4cb) · copia: `undated/a58f6edcbae4` (Web Archive 20241111) · licenza: terzi
 - **None** · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing) · copia: `undated/116b72e61bd7` (Web Archive 20150425) · licenza: terzi
 - **None** · centroriformastato.it — [Scopi e iniziative della Scuola critica del digitale - CRS - Centro per la Riforma dello S](https://www.centroriformastato.it/scopi-e-iniziative-della-scuola-critica-del-digitale-2/) · copia: `undated/dc739e70f6f2` (Web Archive 20210413) · licenza: terzi
 - **None** · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm) · copia: `undated/83431bfba693` (Web Archive 20230129) · licenza: terzi
@@ -941,6 +942,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [e-privacy XXI - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXI-relatori.html) · copia: `2017/bcd53a7178a3` (Web Archive 20170702) · licenza: terzi
 - **2017** · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html) · copia: `2017/3b30e1c2c0e8` (Web Archive 20170704) · licenza: terzi
 - **2017** · e-privacy XXII (2017 autumn), Venezia, T — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) · copia: `2017/fde565d575a5` (Web Archive 20171008) · licenza: terzi
+- **2017** · European Commission (H2020 Participant P — [White Paper 2 – Cybersecurity and Law (CANVAS)](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b5a593b6&appId=PPGMS) · copia: `2017/934bdc5f0327` (live) · licenza: terzi
 - **2017** · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/) · copia: `2017/dcc7ee25c642` (Web Archive 20200922) · licenza: propria
 - **2017** · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/) · copia: `2017/a89b8b021b54` (Web Archive 20200927) · licenza: propria
 - **2017** · futura.news — [La tutela dei whistleblowers è legge: un torinese tra chi denuncia la corruzione](https://futura.news/segnalazioni-anonime-whistleblowing-torino/) · copia: `2017/6e63674ac518` (Web Archive 20221201) · licenza: terzi
@@ -1116,6 +1118,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · 코인리더스 (CoinReaders, Korea) — [무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야](http://coinreaders.com/6123) · copia: `2019/741d26cb9092` (live) · licenza: terzi
 - **2019** · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf) · copia: `2019/311cb5a52f3d` (Web Archive 20250226) · licenza: terzi
 - **2019** · P&R Foundation / Digital Italy Summit 20 — [Tavolo di lavoro sulla protezione dei dati personali al Digital Italy Summit 2019 («La pro](http://www.pr-foundation.org/tavolo-lavoro-sulla-protezione-dei-dati-personali-al-digital-italy-summit-2019/) · copia: `2019/d2a4f911b749` (Web Archive 20210618) · licenza: terzi
+- **2019** · 2600 / Off The Hook (WBAI) - post di ann — [NEW 'Off The Hook' ONLINE (edizione 04/12/2019)](https://2600.com/node/35584) · copia: `2019/db0357c3c9b5` (live) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
 - **2019** · Mediapart (blog Les invités de Mediapart — [La protection des lanceurs d'alerte est cruciale pour lutter contre la corruption](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/200519/la-protection-des-lanceurs-dalerte-est-cruciale-pour-lutter-contre-la-corruption) · copia: `2019/17099ed1d8e0` (Web Archive 20190824) · licenza: terzi
 - **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
@@ -1552,6 +1555,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · cybersecitalia.it — [Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento](https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/) · copia: `2022/5ce5546971d4` (Web Archive 20220313) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
 - **2022** · Easyteam.org (blog di un fornitore di so — [MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali](https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/) · copia: `2022/9cd758b7033f` (Web Archive 20251119) · licenza: terzi
+- **2022** · European Parliament, PEGA Committee meet — [The use of Pegasus and equivalent surveillance spyware – The existing legal framework in E](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf) · copia: `2022/f7980f36fc41` (Web Archive 20230804) · licenza: terzi
 - **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
 - **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi
 - **2022** · Il Fatto Quotidiano — [“Referendum e democrazia”, Marco Cappato presenta i candidati: “12mila firme, una corsa co](https://www.ilfattoquotidiano.it/2022/08/20/referendum-e-democrazia-marco-cappato-presenta-i-candidati-12mila-firme-una-corsa-contro-il-tempo-per-arrivare-a-60mila/6768347/) · copia: `2022/fc8bb2282954` (Web Archive 20220820) · licenza: terzi

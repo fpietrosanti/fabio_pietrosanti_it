@@ -184,6 +184,28 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-septvicies. 2026-11-03
+- Copie delle 5 voci nuove: **tutte ottenute** con il nome verificato. Il PDF CANVAS della Commissione UE passa da una
+  pagina d'attesa con meta-refresh e cookie (lo script la prendeva per una shell JS): scaricato seguendo il redirect. La
+  pagina 2600 `node/35584`: la capture Wayback era di un altro URL senza testo → copiata la pagina live.
+- **Risolto un 🟡**: Packet Storm 2006 (ristampa dell'advisory Secunia SA22634, pagina solo JS) → ♻️ `obtained-via-original`
+  sull'advisory Secunia originale (Web Archive 20070429, «Provided and/or discovered by: Fabio Pietrosanti»).
+- **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life 2010,
+  PrivateWave press release EN/ES 2010, deck Google Slides Foggia 2019). CDX nuovi: nessun PDF di `privatewave.com/media/*`
+  mai archiviato, nessuna capture RMC/Neapolis/Class Life; CDX `privatewave.it` «Temporarily Offline». 🟡 restanti: 7.
+- **Nuovi problemi (non aggirati)**: Google ha mostrato un CAPTCHA nel Chrome dopo ~12 query per agente (due agenti in
+  parallelo sullo stesso Chrome: in futuro un solo agente per volta su Google); rfi.fr 403, Sveriges Radio 403,
+  intgovforum.org 403 anti-bot; Listen Notes, player.fm, Metacast, DuckDuckGo con controllo anti-bot; Radio France, DW,
+  DLF, NPR, ABC, CBC e Podchaser cercano solo via JavaScript.
+- **Domande per te:**
+  (a) Hai mai dato interviste a **radio o podcast esteri** tra il 2011 e il 2020 (BBC, DW, RFI, CBC, NPR, radio spagnole
+  o latinoamericane al lancio di Filtrala/MexicoLeaks, radio olandesi al lancio di Publeaks)? Anche solo il nome della
+  trasmissione basta per cercarla.
+  (b) Sei stato ospite di **France Culture nel 2015** (serie «Des citoyens révoltés», puntata sulla disobbedienza digitale)?
+  (c) Hai partecipato a sessioni dell'**Internet Governance Forum** (2011–2020) o ad audizioni al **Consiglio d'Europa / APCE**
+  o del **Parlamento europeo**? Gli anni ci evitano di scorrere a mano centinaia di trascrizioni.
+  (d) Restano valide le domande dal 27/10 al 02/11.
+
 ### B0-sexvicies. 2026-11-02
 - **Risposte di Fabio (02/11, applicate):** (a) alla Camera il 31/01/2017 **non c'era** → voce esclusa (copia ⏹️); (b) Herald
   2020: **dichiarazione da comunicato**, non era ad Atene → voce mantenuta con nota; (c) **ok** a chiudere le voci esaurite.

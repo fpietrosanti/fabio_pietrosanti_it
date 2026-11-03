@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1782**; dopo deduplica: **1301**
+- Risultati grezzi dalle ricerche: **1788**; dopo deduplica: **1306**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1246**
-- Verificati aprendo la pagina: **1230**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1251**
+- Verificati aprendo la pagina: **1235**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -35,12 +35,12 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 107, Video 96, Citato 81, Post
 | 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 51 | 51 |
 | 2016 | 0 | 35 | 35 |
-| 2017 | 0 | 92 | 92 |
+| 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
-| 2019 | 0 | 91 | 91 |
-| 2020 | 0 | 192 | 192 |
+| 2019 | 0 | 92 | 92 |
+| 2020 | 0 | 193 | 193 |
 | 2021 | 0 | 97 | 97 |
-| 2022 | 0 | 77 | 77 |
+| 2022 | 0 | 78 | 78 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 17 | 17 |
@@ -260,8 +260,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 77 voci, 77 nuove
+## 2022 — 78 voci, 78 nuove
 
+- 🆕 **2022-12-05** · document · European Parliament, PEGA Committee meeting documents (DV), Policy Department for Citizens' Rights and Constitutional Affairs - DRAFT study — [The use of Pegasus and equivalent surveillance spyware – The existing legal framework in EU Member States (STUDY DRAFT, 5 December 2022)](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf)  
+  Opened the PDF (95 pages). p.91 references: 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (boingboing). This is the draft distributed to the PEGA committee. The final version, IPOL_STU(2022)740151, is already known. Keep it as an alias or a separate document version as you prefer.
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
 - 🆕 **2022-11-24** · article · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrime](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime)  
@@ -614,7 +616,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 192 voci, 192 nuove
+## 2020 — 193 voci, 193 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -960,6 +962,8 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …rency and Digital Human Rights , con il quale collabora alla diffusione di strumenti per la protezione del lavoro giornalistico e delle fonti. Social: @faffa42 Fabio Pietrosanti: Presidente e co-fondatore del Centro Herm… Sessione del 4/02/2020 (traccia 'Giornalismo e cybersecurity'); Fabio tra i relatori con bio (Hermes Center).
 - 🆕 **2020-02** · programme · ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona) — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/)  
   Bio: 'Fabio Pietrosanti: Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali ... gestore di nodi Tor e Tor2web'. Pagina letta.
+- 🆕 **2020-02** · Capitolo di libro · Springer, The International Library of Ethics, Law and Technology vol. 21: 'The Ethics of Cybersecurity' (eds. M. Christen, B. Gordijn, M. Loi), open access — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf)  
+  Eva Schlehahn (ULD Schleswig-Holstein), Chapter 10. Cites '(e.g. Pietrosanti and Aterno 2017)' on states allowing surveillance-oriented security technologies; reference: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'.
 - 🆕 **2020-01-22** · tweet · Twitter — [Estonia, voto online e M5S: ironia sulla presunta crescita della partecipazione](https://twitter.com/fpietrosanti/status/1220109706640924682)  
   Testo: «[ITA] In Estonia usano il voto online. Il Voto Online aumenta la partecipazione. Il M5S ispira le sue proposte di introduzione del voto all’Estonia. HAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHA» Wayback capture 20200122223115 (id_) di twitter.com/fpietrosanti/status/1220109706640924682.
 - 🆕 **2020-01-19** · Citato · la Repubblica (Repubblica.it, rubrica #bravimabasta di Luca Bottura; anche edizione cartacea p. 46, sez. TV) — [Senza rete](https://www.repubblica.it/dossier/bravimabasta/2020/01/19/news/senza_rete-246107973/)  
@@ -994,14 +998,14 @@ Anni senza nessun risultato: nessuno
   Author: Philip Di Salvo. Chapter notes, n.1 cites Pietrosanti's Nexa talk slides 'https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf'; n.3 says platform data were cross-checked with a member of the Hermes Center. Name appears only in the cited filename. Ch.3 'Whistleblowing Platforms' (..._3) discusses GlobaLeaks/Hermes Center but the public page shows no name.
 - 🆕 **2020** · Libro · Antonio Giangrande (self-published) — [ANNO 2020 I PARTITI PRIMA PARTE](https://books.google.com/books?id=bFzJDwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Antonio Giangrande (self-published press-clipping compilation, 339 pp.; year from title). Reprints a press piece on Open Rousseau: '... hacker molto conosciuti in Italia ... Pietrosanti spiega così le specifiche tecniche di OpenRousseau: «Esiste una piattaforma, DECIDIM, che è stata già usata a Barcellona ...»'.
-- 🆕 **2020** · Capitolo di libro · Springer, The International Library of Ethics, Law and Technology (The Ethics of Cybersecurity) — [Cybersecurity and the State](https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10)  
-  Eva Schlehahn. Text: 'Many states ... allow ... the deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; reference 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. Same work as known PDF URL.
+- 🆕 **2020** · document · Springer, The Ethics of Cybersecurity (open-access book of the EU H2020 CANVAS project), ch. 10 by Eva Schlehahn (ULD Kiel) — [Cybersecurity and the State](https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10)  
+  Opened the HTML chapter. In the text: 'e.g. Pietrosanti and Aterno 2017' on state deployment of surveillance technologies. Reference list: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. EU-funded project output, not an institutional document; it may overlap with the academic pass.
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 91 voci, 91 nuove
+## 2019 — 92 voci, 92 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1031,6 +1035,8 @@ Anni senza nessun risultato: nessuno
   Deleted tweet, read from Wayback capture 20191205121549 (page shows 'Fabio Pietrosanti'). Full text: «Slide Foggia» + link https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0 (data-time 1575547133 = 05/12/2019 12:58 CET). The Google Slides deck now returns HTTP 410 (deleted) and has no Wayback capture. Event not confirmed; best hypothesis: guest lecture in Stefano Aterno's 'Sicurezza informatica' course (LM Scienze Giuridiche della Sicurezza, Università di Foggia, I semestre 2019). Aterno co-wrote with Fabio the Agenda Digitale trojan article (Apr 2019).
 - 🆕 **2019-12-05** · Talk · Università di Foggia (lezione nel corso di Stefano Aterno) — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck cancellato)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0)  
   URL taken verbatim from the deleted tweet's Wayback capture. Now HTTP 410 (deleted), no Wayback/CDX capture, not found in the Drive accessible to this session. Content unknown; only Fabio's own Drive trash/Takeout (fabio@infosecurity.ch or hermescenter.org account) could recover it.
+- 🆕 **2019-12-05** · Radio · 2600 / Off The Hook (WBAI) - post di annuncio dell'archivio — [NEW 'Off The Hook' ONLINE (edizione 04/12/2019)](https://2600.com/node/35584)  
+  URL alternativo dell'episodio già noto (https://www.2600.com/offthehook/2019/1219.html, mp3 off_the_hook__20191204.mp3). Pagina aperta: 'Fabio Pietrosanti - who attended the blockchain conference in North Korea with Virgil - explains what was actually discussed at the conference.' Controllate tutte le 179 pagine mensili di Off The Hook 2011-2025: è l'unica puntata in cui compare.
 - 🆕 **2019-12-05** · article · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want from him?](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/)  
   '(Meanwhile, another attendee, Fabio Pietrosanti, recently told CoinDesk that sanctions were not discussed at the conference.)' Alias URL https://www.technologyreview.com/s/614862/virgil-griffith-north-korea-ethereum/. Verified live 2026-10-02.
 - 🆕 **2019-12-04** · article · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html)  
@@ -1373,7 +1379,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 92 voci, 92 nuove
+## 2017 — 93 voci, 93 nuove
 
 - 🆕 **2017-12-27** · evento · Twitter/X @fpietrosanti (Wayback) - 34C3 Chaos Communication Congress, Leipzig — [Tweet: «After Christmas finally departing for the CCC Congress #34c3 like every year since many years. A lot of conversation, workshop, talks at #rightsandfreedom assembly!»](https://twitter.com/fpietrosanti/status/945929936661024768)  
   Read the Wayback capture 20190623144021 from the server (tweet dated 2017-12-27). Shows he attended 34C3; it does not show a talk of his own. 34C3 Fahrplan speakers, self-organized sessions and assemblies lists (events.ccc.de/congress/2017/wiki) have neither his name nor an Italian assembly.
@@ -1423,6 +1429,8 @@ Anni senza nessun risultato: nessuno
   Found via ricerca.repubblica.it exact-phrase query "Fabio Pietrosanti" (full-text field 'nel testo'). The teaser reads '...è un paradigma degli anni Ottanta totalmente superato — spiega Fabio...' and is cut off; the article itself is paywalled (Contenuto a pagamento) and was not opened. This is the print Milano companion of the known milano.repubblica.it piece of the same day (different title). The URL is the searchdetail link taken from the result, with the session query parameters removed.
 - 🆕 **2017-10-13** · Menzionato · e-privacy XXII (2017 autumn), Venezia, Tribunale di Rialto - Progetto Winston Smith — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) _(non verificato)_  
   Speakers page contains the 'Fabio Pietrosanti (HERMES)' bio, but the XXII programme (live page and Wayback 2017-10-07) has no slot for him and Radio Radicale has no XXII entry for him; most likely a bio carried over from the XXI page. Treat as not present.
+- 🆕 **2017-10-09** · document · European Commission (H2020 Participant Portal) - CANVAS project, grant 700540 (Constructing an Alliance for Value-driven Cybersecurity), deliverable 'White Paper 2 - Cybersecurity and Law', Ref. Ares(2017)4928488 — [White Paper 2 – Cybersecurity and Law (CANVAS)](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b5a593b6&appId=PPGMS)  
+  Opened the PDF (83 pages). p.69 footnote 378: 'See for example, Pietrosanti, F. and Aterno, S., Italy unveils a legal proposal to regulate government hacking, published February 15th 2017' (Boing Boing). Also listed in the bibliography on p.73. Found through the CORDIS project results page https://cordis.europa.eu/project/id/700540/results. The download URL returns an HTML page that refreshes to the file (cookie needed).
 - 🆕 **2017-10-07** · workshop · Freedom Not Fear 2017, Brussels (Mundo B) — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule)  
   Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18
 - 🆕 **2017-10** · Menzionato · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo internazionale - Linkiesta.it](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)  
@@ -2668,6 +2676,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
 - 🆕 Menzionato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/)
+- 🆕 document · ANAC - Autorita Nazionale Anticorruzione (letter to the President of Centro Hermes) — [Risposta all'appello del Centro Hermes all'ANAC per la tecnologia di whistleblowing open-source](https://www.anticorruzione.it/documents/91439/6eb586ad-e55e-18d1-9cfb-ce5e7959c4cb)
 
 ---
 

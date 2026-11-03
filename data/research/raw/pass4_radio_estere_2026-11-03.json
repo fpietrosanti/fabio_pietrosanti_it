@@ -1,0 +1,15 @@
+[
+ {
+  "date": "2018-09-28",
+  "year": 2018,
+  "type": "video",
+  "outlet": "SWI swissinfo.ch (SRG SSR, servizio italiano)",
+  "title": "Il messaggio di... Carlo Pisani",
+  "url": "https://www.swissinfo.ch/ita/new-content-item/44404948",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Lead NON verificato, probabile falso positivo. Lo snippet Google (ricerca nel Chrome di Fabio, 2026-11-03) riportava «Il messaggio di… Fabio Pietrosanti Carlo Pisani»; la pagina live letta via curl il 2026-11-03 mostra solo «Il messaggio di… Carlo Pisani» (serie video per svizzeri all estero), nessuna occorrenza di Pietrosanti/naif. Il nome era probabilmente il titolo di un altro clip della stessa serie («Il messaggio di… Fabio Pietrosanti»), contesto svizzeri-all-estero: molto probabilmente un omonimo. CDX Wayback per l ID 44404948 vuoto. Proposta: scartare, salvo che Fabio riconosca un videomessaggio a swissinfo nel 2018.",
+  "verified": false,
+  "known": false
+ }
+]

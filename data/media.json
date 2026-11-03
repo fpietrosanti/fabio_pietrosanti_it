@@ -1231,6 +1231,23 @@
   "on_old_site": false
  },
  {
+  "date": "",
+  "year": null,
+  "type": "document",
+  "outlet": "ANAC - Autorita Nazionale Anticorruzione (letter to the President of Centro Hermes)",
+  "title": "Risposta all'appello del Centro Hermes all'ANAC per la tecnologia di whistleblowing open-source",
+  "url": "https://www.anticorruzione.it/documents/91439/6eb586ad-e55e-18d1-9cfb-ce5e7959c4cb",
+  "language": "it",
+  "role": "mentioned",
+  "note": "p.1: addressed to 'Al Presidente del Centro Hermes Ing. Fabio Pietrosanti' / 'Gentile Ing. Pietrosanti'. Probably the same document as the already-known URL .../documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-... (alias). Italian authority, outside EU/UN scope; recorded only for deduplication.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_docs_ue_onu_2026-11-03"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "1998",
   "year": 1998,
   "type": "project",
@@ -11289,6 +11306,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017-10-09",
+  "year": 2017,
+  "type": "document",
+  "outlet": "European Commission (H2020 Participant Portal) - CANVAS project, grant 700540 (Constructing an Alliance for Value-driven Cybersecurity), deliverable 'White Paper 2 - Cybersecurity and Law', Ref. Ares(2017)4928488",
+  "title": "White Paper 2 – Cybersecurity and Law (CANVAS)",
+  "url": "https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b5a593b6&appId=PPGMS",
+  "language": "en",
+  "role": "cited",
+  "note": "Opened the PDF (83 pages). p.69 footnote 378: 'See for example, Pietrosanti, F. and Aterno, S., Italy unveils a legal proposal to regulate government hacking, published February 15th 2017' (Boing Boing). Also listed in the bibliography on p.73. Found through the CORDIS project results page https://cordis.europa.eu/project/id/700540/results. The download URL returns an HTML page that refreshes to the file (cookie needed).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_docs_ue_onu_2026-11-03"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-10-13",
   "year": 2017,
   "type": "mentioned",
@@ -14843,6 +14877,23 @@
  {
   "date": "2019-12-05",
   "year": 2019,
+  "type": "radio",
+  "outlet": "2600 / Off The Hook (WBAI) - post di annuncio dell'archivio",
+  "title": "NEW 'Off The Hook' ONLINE (edizione 04/12/2019)",
+  "url": "https://2600.com/node/35584",
+  "language": "en",
+  "role": "ospite (in collegamento dall'Italia)",
+  "note": "URL alternativo dell'episodio già noto (https://www.2600.com/offthehook/2019/1219.html, mp3 off_the_hook__20191204.mp3). Pagina aperta: 'Fabio Pietrosanti - who attended the blockchain conference in North Korea with Virgil - explains what was actually discussed at the conference.' Controllate tutte le 179 pagine mensili di Off The Hook 2011-2025: è l'unica puntata in cui compare.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_podcast_esteri_2026-11-03"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-05",
+  "year": 2019,
   "type": "article",
   "outlet": "MIT Technology Review",
   "title": "A blockchain expert is accused of helping North Korea's leaders. But what would they want from him?",
@@ -15177,20 +15228,18 @@
  {
   "date": "2020",
   "year": 2020,
-  "type": "book_chapter",
-  "outlet": "Springer, The International Library of Ethics, Law and Technology (The Ethics of Cybersecurity)",
+  "type": "document",
+  "outlet": "Springer, The Ethics of Cybersecurity (open-access book of the EU H2020 CANVAS project), ch. 10 by Eva Schlehahn (ULD Kiel)",
   "title": "Cybersecurity and the State",
   "url": "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
   "language": "en",
   "role": "cited",
-  "note": "Eva Schlehahn. Text: 'Many states ... allow ... the deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; reference 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. Same work as known PDF URL.",
+  "note": "Opened the HTML chapter. In the text: 'e.g. Pietrosanti and Aterno 2017' on state deployment of surveillance technologies. Reference list: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. EU-funded project output, not an institutional document; it may overlap with the academic pass.",
   "verified": true,
-  "known": true,
+  "known": false,
   "_slices": [
+   "pass4_docs_ue_onu_2026-11-03",
    "pass4_scholarly_2026-09-18"
-  ],
-  "mirrors": [
-   "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf"
   ],
   "tags": [
    "books"
@@ -15444,6 +15493,23 @@
   "known": false,
   "_slices": [
    "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Springer, The International Library of Ethics, Law and Technology vol. 21: 'The Ethics of Cybersecurity' (eds. M. Christen, B. Gordijn, M. Loi), open access",
+  "title": "Cybersecurity and the State",
+  "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Eva Schlehahn (ULD Schleswig-Holstein), Chapter 10. Cites '(e.g. Pietrosanti and Aterno 2017)' on states allowing surveillance-oriented security technologies; reference: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -21512,6 +21578,23 @@
   ],
   "tags": [
    "own-investigations"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-12-05",
+  "year": 2022,
+  "type": "document",
+  "outlet": "European Parliament, PEGA Committee meeting documents (DV), Policy Department for Citizens' Rights and Constitutional Affairs - DRAFT study",
+  "title": "The use of Pegasus and equivalent surveillance spyware – The existing legal framework in EU Member States (STUDY DRAFT, 5 December 2022)",
+  "url": "https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Opened the PDF (95 pages). p.91 references: 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (boingboing). This is the draft distributed to the PEGA committee. The final version, IPOL_STU(2022)740151, is already known. Keep it as an alias or a separate document version as you prefer.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_docs_ue_onu_2026-11-03"
   ],
   "on_old_site": false
  },

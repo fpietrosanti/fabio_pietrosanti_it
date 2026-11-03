@@ -1271,6 +1271,10 @@
   {
    "url": "https://openhub.net/p/Tor2web",
    "reason": "2026-11-03: pagina statistiche del progetto software Tor2web su Open Hub (elenco contributor con nick); scheda di repository, non una pubblicazione; non copiato"
+  },
+  {
+   "url": "https://www.swissinfo.ch/ita/new-content-item/44404948",
+   "reason": "2026-11-03: solo lo snippet Google accostava «Fabio Pietrosanti» a «Carlo Pisani»; la pagina live (serie video per svizzeri all'estero, 28/09/2018) nomina solo Carlo Pisani, nessuna capture Wayback: né nome né «naif» → regola di Fabio, non è lui (probabile omonimo)"
   }
  ],
  "override": [
