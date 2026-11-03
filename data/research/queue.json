@@ -5935,51 +5935,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 2000 OR 2001 \"naif\" \"sicurezza informatica\" seminario OR convegno",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 3,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2002 \"hacker\" OR \"s0ftpj\" intervista OR articolo",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 9,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2006 OR 2007 \"Infosecurity\" OR \"Smau\" relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 10,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2010 \"PrivateWave\" OR \"intercettazioni\" cifratura telefono",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 7,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2015 \"Hermes\" \"trasparenza\" OR \"diritti digitali\" convegno",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 9,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2017 OR 2018 \"GlobaLeaks\" \"comuni\" OR \"università\" OR \"aziende\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 10,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 OR 2024 \"whistleblowing\" \"decreto 24\" OR \"direttiva europea\" webinar",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 1,
+   "date": "2026-11-03 20:30"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 \"Latina\" OR \"hackingbiology\" OR \"biohack.it\"",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "found": 9,
+   "date": "2026-11-03 20:30"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2003 OR 2004 \"Linux Day\" OR \"Webb.it\" OR \"Hackmeeting\" talk",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 01:00: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2005 \"e-privacy\" OR \"Winston Smith\" PGP",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2008 \"Khamsa\" OR \"VoIP\" sicurezza intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2011 \"PrivateWave\" OR \"telefonate cifrate\" giornale",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2014 \"Tor2web\" OR \"Leaks\" giornalisti OR redazione",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2019 \"Rousseau\" OR \"Casaleggio\" vulnerabilità esperto",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2022 \"whistleblowing\" \"pubblica amministrazione\" OR \"ANAC\" intervento",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 \"MxMap\" OR \"sovranità digitale\" OR \"Osservatorio\" email PA",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
   }
  ],
  "history": [
@@ -7259,6 +7323,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (1998-99 LUG, 2004-05 Bluetooth/VoIP, 2008-09 cifratura mobile, 2013-14 Tor, 2016 ANAC/TI, 2019-20 Rousseau, 2021-22 Copernicani/SPID, 2026 biohacking/MxMap), chiave localStorage gq20261104a_N: nessun robot check, 67 risultati, 59 URL unici. Scartati senza verifica LinkedIn, X, mailing list (nexa hyperkitty x5), forum.italia.it (forum), home/indici (sfscon home, pr-foundation x2, dalchecco tag, dicorinto tag, agendadigitale pagina autore, biohack.it home), wikipedia/wikiwand GlobaLeaks (versioni linguistiche). 35 URL gia' in archivio o gia' decisi. 1 verificato: principigrimaldi.edu.it amministrazione-trasparente = 'nome assente'. Merged 1307. Copie offline: 1227 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (2000-01 seminari, 2002 s0ftpj, 2006-07 Infosecurity/Smau, 2010 PrivateWave, 2015 Hermes, 2017-18 GlobaLeaks adozioni, 2023-24 decreto 24, 2025 Latina/biohack.it)."
+  },
+  {
+   "date": "2026-11-03 20:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (2000-01 seminari, 2002 s0ftpj, 2006-07 Infosecurity/Smau, 2010 PrivateWave, 2015 Hermes, 2017-18 GlobaLeaks adozioni, 2023-24 decreto 24, 2025 Latina/biohack.it), chiave localStorage gq20261103e_N: nessun robot check, 58 risultati, 53 URL unici. Scartati senza verifica LinkedIn x4, X, Instagram, mailing list (nexa hyperkitty x3, sikurezza mail-archive), forum.italia.it x2 (forum), home/indici (dicorinto x2, pr-foundation x2, personaldemocracy speakers, dalchecco categoria, nexa eventi, hackingbiology home). 31 URL gia' in archivio o gia' decisi. 2 verificati e 'confermati' dal verificatore (latinaquotidiano e opeslatina, Giro dell'Agro Pontino 2025): Asd Center Bike, omonimo ciclista di Velletri gia' in not_me -> aggiunti a exclude. Raw svuotato. Merged 1307. Copie offline: 1227 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (2003-04 Linux Day/Hackmeeting, 2005 e-privacy PGP, 2008 VoIP, 2011 telefonate cifrate, 2014 Tor2web, 2019 Rousseau, 2022 whistleblowing PA, 2026 MxMap/sovranità)."
   }
  ]
 }
