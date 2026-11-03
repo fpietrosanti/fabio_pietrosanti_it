@@ -52,8 +52,23 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-02: **108 file** (`data/drive_links.json`);
-  mancano **109 file** (~42,5 GiB). Spazio libero su Drive: 53,7 GiB (usati 12,7 GiB).
+- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-03: **119 file** (`data/drive_links.json`);
+  mancano **98 file** (~41,6 GiB). Spazio libero su Drive: 53,2 GiB (usati 13,2 GiB).
+- **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
+  vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
+  limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
+  nel 2026). rclone riprova all'infinito: rimane "0 B/s" ma il processo continua a inviare ~250 KB/s, e il file
+  non si chiude mai. Questo spiega anche gli "stalli" delle notti precedenti, non dovuti solo all'uplink lento.
+  **Soluzione**: creare un client_id OAuth proprio (Google Cloud Console → API Drive → credenziali "Desktop app",
+  https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
+  `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
+  Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-03 (01:07–05:50): caricati **10 file, ~0,41 GiB** (uso Drive 12,72 → 13,17 GiB). Il primo run è
+  rimasto bloccato 1,5 h senza chiudere file; aggiunto un watchdog (kill e rilancio dopo 30 min senza file chiusi),
+  scattato 2 volte; con `--transfers 1` stesso blocco; con chunk da 8M la diagnosi `-vv` ha mostrato il 403
+  descritto sopra. Mi sono fermato alle 05:50 per la regola "limiti di quota → stop". L'uplink misurato era buono:
+  ~2 MB/s di sistema, ~250 KiB/s per rclone. Link registrati con `--links-only` (108 → 119). Copie leggere: 1217
+  voci, 467 MB in `copies/`. Controlli lingue e LinkedIn OK, push fatto.
 - Notte 2026-11-02 (01:07–06:30): caricati **10 file, ~0,31 GiB** (uso Drive 12,40 → 12,72 GiB), tutti entro
   le 03:15; dopo, solo file grandi in corso, nessuno chiuso entro le 06:30 (parziali persi all'arresto).
   Velocità ~90–115 KiB/s, nessun errore di quota. rclone fermato con taskkill alle 06:30, link registrati
