@@ -5807,51 +5807,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 1999 OR 2000 \"sicurezza informatica\" \"Roma\" seminario OR convegno",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2003 \"wireless\" OR \"Wi-Fi\" OR \"802.11\" sicurezza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 14
   },
   {
    "query": "\"Fabio Pietrosanti\" 2006 \"intercettazioni\" OR \"Sismi\" OR \"Tavaroli\" esperto",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 6
   },
   {
    "query": "\"Fabio Pietrosanti\" 2007 \"Infosecurity\" OR \"Clusit\" OR \"Security Summit\" relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 5
   },
   {
    "query": "\"Fabio Pietrosanti\" 2012 \"GlobaLeaks\" \"Wired\" OR \"Espresso\" OR \"Repubblica\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 \"whistleblowing\" \"decreto\" OR \"direttiva\" webinar OR convegno",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 6
   },
   {
    "query": "\"Fabio Pietrosanti\" 2024 \"Hermes Center\" OR \"Centro Hermes\" sorveglianza OR spyware",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 \"open source\" OR \"software libero\" intervista OR podcast",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate",
+   "date": "2026-11-03 23:30",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 1998 OR 1999 \"naif\" \"Linux\" OR \"LUG\" OR \"Linux Day\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-03 21:00: coda esaurita; anni/temi deboli (1998-99, 2003, 2006-07, 2012, 2023-25) con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2004 OR 2005 \"Bluetooth\" OR \"VoIP\" vulnerabilità",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2008 OR 2009 \"cellulari\" OR \"telefonate cifrate\" OR \"crittografia mobile\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2013 OR 2014 \"Tor\" OR \"deep web\" intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2016 \"whistleblowing\" \"ANAC\" OR \"Transparency International\" piattaforma",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2019 OR 2020 \"Rousseau\" OR \"voto online\" sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2021 OR 2022 \"Copernicani\" OR \"Green Pass\" OR \"SPID\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 \"biohacking\" OR \"longevità\" OR \"MxMap\" OR \"sovranità digitale\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-03 23:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
   }
  ],
  "history": [
@@ -7115,6 +7179,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (convegni 2006 e 2003, naif 1998-99, ANAC 2024, ACN 2023, Hermes/GlobaLeaks giornalismo 2025, VoIP 2007, Tor/anonimato 2012), chiave localStorage gq20261103c_N: nessun robot check, 68 risultati, 53 URL unici (convegni 2006: 2). 41 URL già in archivio o già decisi. Scartati senza verifica LinkedIn (raoulchiesa, secret), mailing list (pluto-security 2003, flug 2008, nexa hyperkitty x3, autistici 2012), indice dalchecco tag/camera-penale. 2 verificati, entrambi 'nome assente': SlideShare 'videosorveglianza' 52748557 e indice romatoday pag/7551. Raw vuoto. Merged 1307. Copie offline: 1227 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove sugli anni più deboli."
+  },
+  {
+   "date": "2026-11-03 23:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (seminari 1999-2000, wireless 2003, intercettazioni/Sismi 2006, Infosecurity/Clusit 2007, GlobaLeaks stampa 2012, whistleblowing decreto 2023, Hermes spyware 2024, open source 2025), chiave localStorage gq20261103d_N: nessun robot check, 70 risultati, 51 URL unici. Scartati senza verifica LinkedIn, Facebook, mailing list (nexa hyperkitty), home/indici (dicorinto x3, pr-foundation x2, alessandrorodolfi, dalchecco tag x2, puntosicuro sommari/pagine, personaldemocracy speakers, poul topic, monitora-pa home, raiplaysound programmi, podcastaddict, reddit), slide SlideShare di terzi su LoRa/Hera, zh.wikipedia GlobaLeaks. 30 verificati: 22 già in archivio; 3 'confermati' dal verificatore ma già in exclude (slideshare protocolli wireless e Del Corso: nome solo nei correlati; it.wikipedia GlobaLeaks: versione linguistica); 5 già respinti in passato e di nuovo respinti (videosorveglianza, researchgate TI Italia FAIL, romhack CFP shell JS). Raw svuotato. Merged 1307. Copie offline: 1227 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (1998-99 LUG, 2004-05 Bluetooth/VoIP, 2008-09 cifratura mobile, 2013-14 Tor, 2016 ANAC/TI, 2019-20 Rousseau, 2021-22 Copernicani/SPID, 2026 biohacking/MxMap)."
   }
  ]
 }
