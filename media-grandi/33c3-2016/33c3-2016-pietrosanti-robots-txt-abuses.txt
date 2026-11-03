@@ -1,0 +1,86 @@
+33C3 Lightning Talks Day 3 (29.12.2016) - Fabio Pietrosanti (naif)
+"Robots.txt abuses by government agencies against transparency"
+Estratto dalla sessione completa: 1:56:10 - 2:01:40. Trascrizione automatica (faster-whisper base), non rivista.
+
+[00:04] the robots. This is in 629, 16, not 60. Hello, Fabio Dorsanti. This presentation I wanted just to
+[00:21] present a prototype and a concept on exploring the world of hidden information by government agencies.
+[00:30] on their website.
+[00:32] Basically, in most Western countries,
+[00:35] to fight corruption and increase transparency,
+[00:37] public agencies are mandated to public specific information
+[00:40] on their own website, like manager compensation,
+[00:43] curriculum veto to check out that they are skilled enough
+[00:47] to do their job, contact and tenders, and so on.
+[00:50] And those methods are done so that transparency
+[00:54] and civil activists can Google for, I don't know,
+[00:58] name and surname of a certain lawyer and spot that specific lawyer have a consultancy
+[01:03] contract with those 12 agencies.
+[01:05] That is a correlation.
+[01:07] And so crowdsourced the social control.
+[01:10] And there are, but it's a, let's say, a Sunday project that I would like to go through
+[01:15] with some of you if interested to spot information that are hidden and strike back by indexing
+[01:22] it.
+[01:23] So, I made a very quick test on Italy as a country, because I'm Italian, and got the list
+[01:30] of all the Italian public agencies, made a bunch of scripts to extract all the robot
+[01:36] sticks to file from 23,000 websites, and it came out that there are more than 1,000
+[01:43] hidden parts.
+[01:44] And among those hidden parts, there are very interesting findings, some may be of interest
+[01:50] also to make some national news.
+[01:53] And what's it then?
+[01:54] Transparency section of the public agencies
+[01:58] curriculum video of manager.
+[02:00] And also in some case, very specific tender contracts.
+[02:03] Just to give an overview, the Italian Parliament
+[02:07] hide all the curriculum video in compensation of the manager
+[02:12] of the Italian Parliament, not the politician itself.
+[02:15] or the Sicily region that we know is so transparent,
+[02:21] hide completely their transparency section.
+[02:23] That's just to say a couple of results
+[02:26] that came out out of the Italy-based checking.
+[02:30] So I went out looking also for a European Union website.
+[02:35] And a European Union feature a very interesting
+[02:38] transparency initiative that the transparency registry
+[02:42] for lobby so that all the companies that want
+[02:44] to have meeting with officials in the European Union
+[02:48] master register, and all their meeting end up
+[02:51] appointment must be scheduled and then transparency
+[02:53] published.
+[02:54] That's a quite good transparency measure
+[02:57] to measure the influence of corporation
+[03:00] of the European Union.
+[03:00] But it's hidden from the search engine.
+[03:05] So it came out that if you look for the name and surname
+[03:08] of a certain manager of a certain corporation
+[03:11] and want to check out on Google all the meetings
+[03:15] that they have, European Union, and other member states.
+[03:18] You cannot do it because it's the indexed.
+[03:22] So I tried to say, but what can we do as Agares community
+[03:26] about this?
+[03:27] And I tried just to work on that Sunday, Reverse proxy.
+[03:31] I just registered a domain name, SensorFilter.org,
+[03:34] that means without filter.
+[03:35] And I hacked the byte on air proxy
+[03:39] So that with original site.sensafiltry.org,
+[03:44] it's accessible, the very same website,
+[03:46] as a reverse proxy, and then submit it to Google.
+[03:49] And since that it works.
+[03:59] So now all that website are basically
+[04:03] re-indexed on the search engine.
+[04:07] And including the police, European Union,
+[04:09] Italian parliament, and whatsoever.
+[04:11] So that's just a prototype.
+[04:13] But it says about the potential
+[04:15] of that sort of government hidden web because effectively
+[04:20] those are hidden websites, or hidden part of the web
+[04:24] that are hidden of the government web site
+[04:26] that should be available on the search engine.
+[04:30] So what's next, this sliding talk
+[04:32] was to engage, I mean, with all you guys,
+[04:35] if someone is interested just to have a conversation outside,
+[04:39] to make this initiative a software.
+[04:42] now it's a bunch of chess crypt and Python hack that are made on Sunday, and make a stable
+[04:48] derobots service. And at an interesting point is, when the search engine crawls our reverse
+[05:00] proxy derobots, we can know exactly all the information that are hidden, so we can create
+[05:06] a basic portal, detonable, activists, and investigative
+[05:11] journalists to look only for that information and explore the
+[05:15] then website. That's it. Thank you. Very nice. So that concludes our session today.
