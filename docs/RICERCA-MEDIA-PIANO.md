@@ -101,8 +101,9 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
     2015 «Des citoyens révoltés (4/4) – La désobéissance numérique» (cita GlobaLeaks, pagina solo JS → Chrome); radio
     latinoamericane 2014–15 (W Radio, MVS, Radio Educación) e spagnole al lancio Filtrala 2014; podcast brasiliani dopo
     Abraji 2015; trascrizioni IGF 2011–2020 sessione per sessione via Wayback (intgovforum.org dà 403 anti-bot); Registro
-    trasparenza UE (voce Hermes), verbali audizioni APCE, risposte individuali alla consultazione UE 2017 sui
-    whistleblower; query Tor2web su NPR/PRI/BBC/CBC/ABC/DW/RFI (Google ha mostrato il CAPTCHA, non aggirato).
+    trasparenza UE (voce Hermes), verbali audizioni APCE (consultazione UE 2017–18 sulla direttiva whistleblower già
+    controllata in passate precedenti: Hermes assente dai 34+74 contributi; IGF/APCE: meglio la risposta di Fabio alla
+    domanda aperta che lo spoglio a mano); query Tor2web su NPR/PRI/BBC/CBC/ABC/DW/RFI (Google ha mostrato il CAPTCHA, non aggirato).
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
   PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,
