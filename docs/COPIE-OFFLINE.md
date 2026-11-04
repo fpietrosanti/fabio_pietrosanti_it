@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1311**; già processate: **1489**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1121** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1229**
+- Voci in `data/media.json`: **1312**; già processate: **1490**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1122** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1230**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -22,7 +22,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 76 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 77 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -359,6 +359,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · netdem.framerframed.nl — [International Whistleblowers Conference 2014 – Netwerk Democratie](https://netdem.framerframed.nl/en/events/event/international-whistleblowers-conference-2014/) · copia: `undated/d50cb8f8430e` (live) · licenza: terzi
 - **None** · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/) · copia: `undated/3f185f9962b3` (Web Archive 20240722) · licenza: terzi
 - **None** · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscime](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale) · copia: `undated/619ed9896d8f` (Web Archive 20210601) · licenza: terzi
+- **None** · pasqualepillitteri.it — [Attacco hacker ai frigoriferi delle Coop di Palermo e Catania](https://pasqualepillitteri.it/news/29674/attacco-hacker-frigoriferi-coop-sicilia) · copia: `undated/08e3e3d8c90a` (live) · licenza: terzi
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
 - **None** · pressgazette.co.uk — [Chance for Europe to protect whistleblowers and fight corruption after Football Leaks sour](https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/) · copia: `undated/68d13b8b62c6` (Web Archive 20221127) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi

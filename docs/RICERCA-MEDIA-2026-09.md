@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1794**; dopo deduplica: **1311**
+- Risultati grezzi dalle ricerche: **1795**; dopo deduplica: **1312**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1256**
-- Verificati aprendo la pagina: **1240**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1257**
+- Verificati aprendo la pagina: **1241**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 285, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -2682,6 +2682,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · fabionatalucci.it — [Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione](https://www.fabionatalucci.it/progetto-senzafiltri-org-smaschera-la-pubblica-amministrazione/)
 - 🆕 Menzionato · ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://www.ilsole24ore.com/art/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-AE5s8mLD)
 - 🆕 Menzionato · cosapubblica.it — [Ispettori volontari per ridurre i furti dei politici. Il nostro primo seminario a Sesto San Giovanni](https://www.cosapubblica.it/ispettori-volontari-per-ridurre-i-furti-dei-politici-seminario-sesto-san-giovanni/)
+- 🆕 Menzionato · pasqualepillitteri.it — [Attacco hacker ai frigoriferi delle Coop di Palermo e Catania](https://pasqualepillitteri.it/news/29674/attacco-hacker-frigoriferi-coop-sicilia)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
