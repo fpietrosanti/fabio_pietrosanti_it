@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-11-04 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-11-05 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1315**; già processate: **1493**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1125** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1233**
+- Voci in `data/media.json`: **1317**; già processate: **1495**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1127** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1235**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,14 +45,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 90 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 103 | 10 | 2 | 0 | 0 | 0 | 1 |
+| 2019 | 104 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 62 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 56 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 57 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1210,6 +1210,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · glistatigenerali.com — [Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane](https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/) · copia: `2019/8e5900e7a50e` (Web Archive 20250324) · licenza: terzi
 - **2019** · Il Post — [Come funziona la piattaforma Rousseau](https://www.ilpost.it/2019/08/29/piattaforma-rousseau-come-funziona/) · copia: `2019/a91cf2a256f1` (Web Archive 20190829) · licenza: terzi
 - **2019** · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html) · copia: `2019/6df5e77422f0` (Web Archive 20211209) · licenza: terzi
+- **2019** · italynews.it — [Sicurezza Apple: scoperta app spia | Italynews.it](https://www.italynews.it/blog/leditoriale-di-stefano-scibilia/2019/04/17/sicurezza-apple-scoperta-app-spia-73625.html) · copia: `2019/c8bca7cf1561` (Web Archive 20240712) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035) · copia: `2019/9423417abeec` (live) · licenza: terzi
 - **2019** · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/) · copia: `2019/06a1a3aed351` (Web Archive 20210619) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/) · copia: `2019/a21c934cc156` (live) · licenza: terzi
@@ -1706,5 +1707,6 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · YouTube — Fund Longevity (Global Live St — [Fund Longevity — Global Live Stream (collegamento da Roma, 43:35–45:30)](https://www.youtube.com/watch?v=4CHvbryuUb4) · copia: `2026/c3f03177cb2a` (Web Archive 20260412 · video locale `media.mp4` (342 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Cyber Saiyan (YouTube) - RomHack Camp 20 — [MXMap Italia: National Observatory for Digital Sovereignty | RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew) · copia: `2026/fa59f95258a1` (live · video locale `media.mp4` (150 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Centro Riforma Stato (YouTube) — [Manualetto di sicurezza digitale per giornalisti e attivisti](https://www.youtube.com/watch?v=sPwqQbdIO3w) · copia: `2026/a21060a36e4f` (live · video locale `media.mp4` (307 MB, da caricare su Drive)) · licenza: terzi
+- **2026** · zazoom.it — [Attacchi hacker ai frigoriferi anche in Italia | scatta l](https://www.zazoom.it/2026-11-02/attacchi-hacker-ai-frigoriferi-anche-in-italia-scatta-lalert-dellagenzia-nazionale-cybersicurezza/19877802/) · copia: `2026/8cf4a279e54a` (live) · licenza: terzi
 - **2026** · zazoom.it — [Cyber attacco ai freezer dei supermercati gli hacker italiani | Alcuni sistemi non hanno n](https://www.zazoom.it/2026-11-02/cyber-attacco-ai-freezer-dei-supermercati-gli-hacker-italiani-alcuni-sistemi-non-hanno-nemmeno-la-password-ecco-quali-sono-i-rischi/19878329/) · copia: `2026/d5b6ad527b72` (live) · licenza: terzi
 - **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

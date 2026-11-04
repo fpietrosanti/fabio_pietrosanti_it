@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1805**; dopo deduplica: **1315**
+- Risultati grezzi dalle ricerche: **1807**; dopo deduplica: **1317**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1260**
-- Verificati aprendo la pagina: **1244**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1262**
+- Verificati aprendo la pagina: **1246**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 287, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,18 +37,18 @@ Per tipo (nuovi): Menzionato 287, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
-| 2019 | 0 | 96 | 96 |
+| 2019 | 0 | 97 | 97 |
 | 2020 | 0 | 193 | 193 |
 | 2021 | 0 | 97 | 97 |
 | 2022 | 0 | 78 | 78 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 17 | 17 |
-| 2026 | 0 | 54 | 54 |
+| 2026 | 0 | 55 | 55 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 54 voci, 54 nuove
+## 2026 — 55 voci, 55 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -58,6 +58,8 @@ Anni senza nessun risultato: nessuno
   Il Messaggero 02/11/2026 (datePublished della pagina): sull'attacco ai frigoriferi dei supermercati Coop in Sicilia «Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza». È l'originale ripreso da pasqualepillitteri.it e nicolaporro.it (trovato da Google 2026-11-04 14:30).
 - 🆕 **2026-11-02** · Menzionato · zazoom.it — [Cyber attacco ai freezer dei supermercati gli hacker italiani / Alcuni sistemi non hanno nemmeno la password ecco quali sono i rischi](https://www.zazoom.it/2026-11-02/cyber-attacco-ai-freezer-dei-supermercati-gli-hacker-italiani-alcuni-sistemi-non-hanno-nemmeno-la-password-ecco-quali-sono-i-rischi/19878329/)  
   verified via live; context: …to nemico come la Russia, con l'interesse a destabilizzare l'Unione Europea? Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza Membr…
+- 🆕 **2026-11-02** · Menzionato · zazoom.it — [Attacchi hacker ai frigoriferi anche in Italia / scatta l](https://www.zazoom.it/2026-11-02/attacchi-hacker-ai-frigoriferi-anche-in-italia-scatta-lalert-dellagenzia-nazionale-cybersicurezza/19877802/)  
+  zazoom.it 02/11/2026, seconda ripresa aggregata (alert ACN sugli attacchi ai frigoriferi) dell'intervista del Messaggero: «Ne abbiamo parlato con gli esperti in cybersicurezza Alssandro Orlowski e Fabio Pietrosanti» (Google 2026-11-05 08:30).
 - 🆕 **2026-10-27** · Comunicato · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/)  
   Comunicato ufficiale: l'Assemblea dei Membri del 16 ottobre 2026 nomina l'Advisory Board di undici persone, fra cui «Fabio Pietrosanti — free software advocate, strategist and social entrepreneur». Annuncia anche la strategia 2026-2027 e l'ingresso della Polonia.
 - 🆕 **2026-10-23** · Menzionato · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON 2026 / Fedimedia Italia APS - Web](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/)  
@@ -1011,7 +1013,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 96 voci, 96 nuove
+## 2019 — 97 voci, 97 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1149,6 +1151,8 @@ Anni senza nessun risultato: nessuno
   Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …tigação do jornal alemão Suddeutsche Zeitung Fatih Polat, diretor do jornal turco Evrensel Begoña Pérez Ramírez, jornalista do jornal online espanhol infoLibre Fabio Pietrosanti, Centro Hermes de Transparência e Direitos…
 - 🆕 **2019-05-20** · Menzionato · Mediapart (blog Les invités de Mediapart) — [La protection des lanceurs d'alerte est cruciale pour lutter contre la corruption](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/200519/la-protection-des-lanceurs-dalerte-est-cruciale-pour-lutter-contre-la-corruption)  
   Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …aliste, Die Suddeutsche Zeitung Fatih Polat , Rédacteur en chef, Evrensel Begoña Pérez Ramírez , journaliste, infoLibre Yann Philippin , journaliste, Mediapart Fabio Pietrosanti , Fondateur, Hermes Center for Transparenc…
+- 🆕 **2019-04-17** · Menzionato · italynews.it — [Sicurezza Apple: scoperta app spia / Italynews.it](https://www.italynews.it/blog/leditoriale-di-stefano-scibilia/2019/04/17/sicurezza-apple-scoperta-app-spia-73625.html)  
+  Italynews.it 17/04/2019, editoriale di Stefano Scibilia sull'app spia per iPhone degli autori di Exodus: «Il cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali, Fabio Pietrosanti, ha spiegato…» (Google 2026-11-05 08:30, verificato via Wayback).
 - 🆕 **2019-04-10** · Video · Ciao Internet - Matteo Flora (YouTube, diretta) — [L4. [LIVE] La Diretta di Ciao Internet - 10.04.2019](https://www.youtube.com/watch?v=x-MUItiFObc)  
   Sottotitoli 00:36:53: Flora rimanda al video sul voto elettronico «parlando con Fabio Pietro Santi Naif, mezzo video mezza call» (= puntata 511 del 13/03/2019). Menzione, non ospite.
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  

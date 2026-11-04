@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2019-04-17",
+    "year": 2019,
+    "type": "mentioned",
+    "outlet": "italynews.it",
+    "title": "Sicurezza Apple: scoperta app spia | Italynews.it",
+    "url": "https://www.italynews.it/blog/leditoriale-di-stefano-scibilia/2019/04/17/sicurezza-apple-scoperta-app-spia-73625.html",
+    "language": "it",
+    "role": "subject",
+    "note": "Italynews.it 17/04/2019, editoriale di Stefano Scibilia sull'app spia per iPhone degli autori di Exodus: «Il cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali, Fabio Pietrosanti, ha spiegato…» (Google 2026-11-05 08:30, verificato via Wayback).",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2026-11-02",
+    "year": 2026,
+    "type": "mentioned",
+    "outlet": "zazoom.it",
+    "title": "Attacchi hacker ai frigoriferi anche in Italia | scatta l",
+    "url": "https://www.zazoom.it/2026-11-02/attacchi-hacker-ai-frigoriferi-anche-in-italia-scatta-lalert-dellagenzia-nazionale-cybersicurezza/19877802/",
+    "language": "it",
+    "role": "subject",
+    "note": "zazoom.it 02/11/2026, seconda ripresa aggregata (alert ACN sugli attacchi ai frigoriferi) dell'intervista del Messaggero: «Ne abbiamo parlato con gli esperti in cybersicurezza Alssandro Orlowski e Fabio Pietrosanti» (Google 2026-11-05 08:30).",
+    "verified": true,
+    "known": false
+  }
+]
