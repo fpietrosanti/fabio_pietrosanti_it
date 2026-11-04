@@ -23458,6 +23458,40 @@
   "on_old_site": false
  },
  {
+  "date": "2026-11-02",
+  "year": 2026,
+  "type": "interview",
+  "outlet": "ilmessaggero.it",
+  "title": "Cyber attacco ai freezer dei supermercati, gli hacker italiani: «Alcuni sistemi non hanno nemmeno la password, ecco quali sono i rischi»",
+  "url": "https://www.ilmessaggero.it/mondo/hacker_frigoriferi_chi_c_e_dietro_cosa_sappiamo_hacker_italiano-9864409.html",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Il Messaggero 02/11/2026 (datePublished della pagina): sull'attacco ai frigoriferi dei supermercati Coop in Sicilia «Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza». È l'originale ripreso da pasqualepillitteri.it e nicolaporro.it (trovato da Google 2026-11-04 14:30).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-11-04-1430"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-11-03",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "nicolaporro.it",
+  "title": "Frigoriferi hackerati, è guerra sul cibo: dobbiamo davvero avere paura? - Massimo Balsamo",
+  "url": "https://www.nicolaporro.it/frigoriferi-hackerati-e-guerra-sul-cibo-dobbiamo-davvero-avere-paura/amp/",
+  "language": "it",
+  "role": "subject",
+  "note": "nicolaporro.it 03/11/2026, Massimo Balsamo: riprende l'articolo del Messaggero «che ha interpellato gli esperti di cybersicurezza Alessandro Orlowski e Fabio Pietrosanti».",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-11-04-1430"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026-11-14",
   "year": 2026,
   "type": "talk",

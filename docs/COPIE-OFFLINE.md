@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1312**; già processate: **1490**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1122** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1230**
+- Voci in `data/media.json`: **1314**; già processate: **1492**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1124** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1232**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -52,7 +52,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 53 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 55 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1694,6 +1694,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · copia: `2026/654a0b84fdd6` (live) · licenza: terzi
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · Autorita Garante per la Protezione dei D — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html) · copia: `2026/2a9036b3ef9e` (Web Archive 20260121) · licenza: terzi
+- **2026** · ilmessaggero.it — [Cyber attacco ai freezer dei supermercati, gli hacker italiani: «Alcuni sistemi non hanno ](https://www.ilmessaggero.it/mondo/hacker_frigoriferi_chi_c_e_dietro_cosa_sappiamo_hacker_italiano-9864409.html) · copia: `2026/7d27e6f567a3` (live) · licenza: terzi
+- **2026** · nicolaporro.it — [Frigoriferi hackerati, è guerra sul cibo: dobbiamo davvero avere paura? - Massimo Balsamo](https://www.nicolaporro.it/frigoriferi-hackerati-e-guerra-sul-cibo-dobbiamo-davvero-avere-paura/amp/) · copia: `2026/bdbd02efcf60` (live) · licenza: terzi
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi
 - **2026** · secnews.gr — [WhatsApp: Ιταλική εταιρεία Spyware δημιούργησε ψεύτικη IOS έκδοση](https://www.secnews.gr/700557/whatsapp-italiki-spyware-pseutiko-app/) · copia: `2026/d9250be8c6d3` (live) · licenza: terzi
 - **2026** · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/) · copia: `2026/477049d95612` (live) · licenza: terzi

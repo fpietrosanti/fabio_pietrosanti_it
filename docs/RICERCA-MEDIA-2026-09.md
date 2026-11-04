@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1795**; dopo deduplica: **1312**
+- Risultati grezzi dalle ricerche: **1804**; dopo deduplica: **1314**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1257**
-- Verificati aprendo la pagina: **1241**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1259**
+- Verificati aprendo la pagina: **1243**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 285, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 286, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,14 +44,18 @@ Per tipo (nuovi): Menzionato 285, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 17 | 17 |
-| 2026 | 0 | 51 | 51 |
+| 2026 | 0 | 53 | 53 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 51 voci, 51 nuove
+## 2026 — 53 voci, 53 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
+- 🆕 **2026-11-03** · Menzionato · nicolaporro.it — [Frigoriferi hackerati, è guerra sul cibo: dobbiamo davvero avere paura? - Massimo Balsamo](https://www.nicolaporro.it/frigoriferi-hackerati-e-guerra-sul-cibo-dobbiamo-davvero-avere-paura/amp/)  
+  nicolaporro.it 03/11/2026, Massimo Balsamo: riprende l'articolo del Messaggero «che ha interpellato gli esperti di cybersicurezza Alessandro Orlowski e Fabio Pietrosanti».
+- 🆕 **2026-11-02** · Intervista · ilmessaggero.it — [Cyber attacco ai freezer dei supermercati, gli hacker italiani: «Alcuni sistemi non hanno nemmeno la password, ecco quali sono i rischi»](https://www.ilmessaggero.it/mondo/hacker_frigoriferi_chi_c_e_dietro_cosa_sappiamo_hacker_italiano-9864409.html)  
+  Il Messaggero 02/11/2026 (datePublished della pagina): sull'attacco ai frigoriferi dei supermercati Coop in Sicilia «Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza». È l'originale ripreso da pasqualepillitteri.it e nicolaporro.it (trovato da Google 2026-11-04 14:30).
 - 🆕 **2026-10-27** · Comunicato · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/)  
   Comunicato ufficiale: l'Assemblea dei Membri del 16 ottobre 2026 nomina l'Advisory Board di undici persone, fra cui «Fabio Pietrosanti — free software advocate, strategist and social entrepreneur». Annuncia anche la strategia 2026-2027 e l'ingresso della Polonia.
 - 🆕 **2026-10-23** · Menzionato · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON 2026 / Fedimedia Italia APS - Web](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/)  

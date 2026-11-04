@@ -1672,6 +1672,24 @@
    "set": {
     "note": "Articolo (pubblicato 05/03/2020) sul lancio ad Atene, con Transparency International Greece e Blueprint for Free Speech, della prima 'secure digital dropbox' del progetto UE EAT (Expanding Anonymous Tipping) basata su GlobaLeaks (prima istanza presso l'autorità greca degli appalti pubblici). Pagina aperta live: «Fabio Pietrosanti, President of the Hermes Center for Transparency and Digital Human Rights in Milan, Italy, said EAT and the anonymous drop boxes are essential because “Government agencies and companies are increasingly interested in how they can find practical and economical solutions to address corruption and this is one.”». Trovato cercando la copertura del dibattito di Nicosia (il corrispondente Andy Dabilis era presente). Pezzo in inglese ma da testata della diaspora greca; nessuna versione greca trovata su ekirikas.com. — 2026-11-02, Fabio: non era ad Atene; la dichiarazione viene dal comunicato stampa del progetto EAT (voce mantenuta)."
    }
+  },
+  {
+   "url": "https://www.ilmessaggero.it/mondo/hacker_frigoriferi_chi_c_e_dietro_cosa_sappiamo_hacker_italiano-9864409.html",
+   "set": {
+    "date": "2026-11-02",
+    "year": 2026,
+    "type": "interview",
+    "role": "interviewee",
+    "note": "Il Messaggero 02/11/2026 (datePublished della pagina): sull'attacco ai frigoriferi dei supermercati Coop in Sicilia «Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza». È l'originale ripreso da pasqualepillitteri.it e nicolaporro.it (trovato da Google 2026-11-04 14:30)."
+   }
+  },
+  {
+   "url": "https://www.nicolaporro.it/frigoriferi-hackerati-e-guerra-sul-cibo-dobbiamo-davvero-avere-paura/amp/",
+   "set": {
+    "date": "2026-11-03",
+    "year": 2026,
+    "note": "nicolaporro.it 03/11/2026, Massimo Balsamo: riprende l'articolo del Messaggero «che ha interpellato gli esperti di cybersicurezza Alessandro Orlowski e Fabio Pietrosanti»."
+   }
   }
  ],
  "open_questions": [
