@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-11-01** (1298 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-11-04** (1311 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -183,6 +183,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-octovicies. 2026-11-04
+- Voci nuove: 4 traduzioni CoinDesk (ES ×2, PT-BR ×2) del dicembre 2019. Le ES erano già in archivio come doppioni
+  della voce italiana. **Copie PT-BR ottenute** col nome verificato: lo script riceveva 429 (Vercel Security Checkpoint),
+  ma un `curl` con header da browser ha avuto risposta normale. Nessun controllo aggirato.
+- **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life
+  2010, PrivateWave EN/ES 2010, deck Foggia 2019) e i 7 🟡. Repubblica 2017/2018 e Il Fatto 13/03/2019: nessuna
+  ripubblicazione integrale trovata (ricerca per titolo).
+- **Escluso**: France Culture 29/01/2015: la puntata cita solo GlobaLeaks e tu non sei tra gli ospiti.
+- **Problemi tecnici incontrati (non aggirati)**: pace.coe.int (Cloudflare), europarl doceo (202 vuoto), rcaap.pt e
+  core.ac.uk (anti-bot), DuckDuckGo (anti-bot), 2ser.com (Vercel 429). Lo strumento di ricerca rifiuta RTVE, SER,
+  W Radio, Caracol, El País, Estadão e UOL. Il Web Archive è stato instabile a tratti (503 e connessioni rifiutate).
+- **Domande per te:** (a) restano valide le domande del 03/11 (radio/podcast esteri, IGF/APCE/PE);
+  (b) hai mai parlato a un'**audizione APCE o del Parlamento europeo** (LIBE 2013–14 sul caso NSA, JURI 2017 sui
+  whistleblower)? Dirlo ci evita di passare a mano i documenti protetti da anti-bot.
 
 ### B0-septvicies. 2026-11-03
 - Copie delle 5 voci nuove: **tutte ottenute** con il nome verificato. Il PDF CANVAS della Commissione UE passa da una

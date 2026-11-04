@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1307**; già processate: **1487**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1119** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1227**
+- Voci in `data/media.json`: **1311**; già processate: **1489**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1121** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1229**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,7 +45,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 90 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 101 | 10 | 2 | 0 | 0 | 0 | 1 |
+| 2019 | 103 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 62 | 19 | 0 | 0 | 0 | 0 | 0 |
@@ -1198,6 +1198,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/it/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/d70edfeb78f0` (live) · licenza: terzi
 - **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/58fcdc1a6a26` (Web Archive 20210916) · licenza: terzi
 - **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/) · copia: `2019/a44cf63f7ba2` (Web Archive 20210918) · licenza: terzi
+- **2019** · CoinDesk Brasil (pt-br, tradução IA) — [Lutador pela Liberdade ou Tolo? O Júri Está Decidido Sobre o Desenvolvedor Ethereum Preso ](https://www.coindesk.com/pt-br/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/6022088db8cd` (live) · licenza: terzi
+- **2019** · CoinDesk Brasil (pt-br, tradução IA) — [Sanções não foram discutidas na conferência de Cripto da Coreia do Norte, diz participante](https://www.coindesk.com/pt-br/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/40093d80b9db` (live) · licenza: terzi
 - **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/ru/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/775d080ea3b4` (live) · licenza: terzi
 - **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/ru/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/d2158730c74d` (live) · licenza: terzi
 - **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/uk/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/ceb6849cd709` (live) · licenza: terzi

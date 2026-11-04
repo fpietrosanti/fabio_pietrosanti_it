@@ -96,7 +96,19 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
     d'Europa (World Forum for Democracy 2015 Lab 15: presenta Claudio Agosti), gruppo esperti Commissione whistleblowing
     2022 (Pellerano e Fraschini), Consiglio UE WK 2648/2019, CORDIS, IRM OGP Italia 2014–15/2019–21, ONU/UNESCO/OCSE/BM,
     EUR-Lex, EDPS, ENISA, CESE, JRC. Talk non suoi: OHM2013 (Arturo e Claudio), HOPE 2018, Radio Blackout (Vecna).
-  - **Resta (non chiudere ancora)**: feed podcast 2011–2013 nel Web Archive (ABC RN Future Tense, BBC Digital Planet, CBC
+  **Passata 2026-11-04 (3 agenti: `pass4_podcast_wayback`, `pass4_radio_latam_es`, `pass4_igf_coe`) → +4 voci (solo
+  traduzioni ES/PT-BR dei due pezzi CoinDesk 2019 su Griffith; le ES erano già copiate come doppioni dell'IT).**
+  - **Chiusi negativi**: France Culture 2015 (ospiti Bardeau, Yahyaoui, Arsène, Okhin; cita solo GlobaLeaks → escluso in
+    `decisions.json`); feed BBC Digital Planet 2011–15 (86 puntate su ~230), CBC Spark, ABC Future Tense, On the Media
+    (≈50 puntate su leak, 3 aperte); stampa spagnola su Filtrala 2014–15 (cita Agosti/Pellerano/«Instituto Hermes»), RNE
+    (puntata con Xnet), MexicoLeaks, Abraji 2015 (ricerca interna vuota; resta solo GIJC Rio 2013); 123 trascrizioni IGF
+    2011–2018 via Wayback (nessun nome, né GlobaLeaks/Tor2web/Hermes); Registro trasparenza UE (export XML 2018/2022/2024:
+    Hermes non registrato, citato solo come membro EDRi/partner); STOA «Mass Surveillance» parte 1 e bozza JURI 2016/2224.
+  - **Resta (non chiudere ancora)**: APCE (pace.coe.int dietro Cloudflare: Doc. 13791, 13734, rapporto whistleblower 2019
+    via Wayback); PE (doceo dà 202 vuoto: rapporto Moraes A7-0139/2014 con allegato audizioni, A8-0295/2017); liste
+    partecipanti IGF 2012–15; bnr.nl/NPO/VPRO intorno al 09/09/2013 (Publeaks) e RNW «Media Network» 2011–12; ricerca
+    interna nei siti RTVE, SER, W Radio, Caracol, MVS, Radio UNAM (lo strumento di ricerca li rifiuta, serve il browser).
+  - **Resta dalla passata del 03/11**: feed podcast 2011–2013 nel Web Archive (ABC RN Future Tense, BBC Digital Planet, CBC
     Spark, On the Media, BNR/NOS al lancio Publeaks 2013) — indice Wayback instabile; ospiti della puntata France Culture
     2015 «Des citoyens révoltés (4/4) – La désobéissance numérique» (cita GlobaLeaks, pagina solo JS → Chrome); radio
     latinoamericane 2014–15 (W Radio, MVS, Radio Educación) e spagnole al lancio Filtrala 2014; podcast brasiliani dopo
