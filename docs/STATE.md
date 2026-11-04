@@ -52,8 +52,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **216 file** (~58 GB). Su Drive al 2026-11-03: **119 file** (`data/drive_links.json`);
-  mancano **98 file** (~41,6 GiB). Spazio libero su Drive: 53,2 GiB (usati 13,2 GiB).
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-04: **124 file** (`data/drive_links.json`);
+  mancano **94 file** (~41,4 GiB). Spazio libero su Drive: 53,0 GiB (usati 13,4 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
   limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
@@ -63,6 +63,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-04 (01:07–03:05): caricati **4 file, ~0,19 GiB** (uso Drive 13,19 → 13,38 GiB; link 120 → 124).
+  Stesso schema delle notti precedenti: 3 file chiusi entro le 01:27, poi 0 B/s; riavvio alle 01:58 → 1 file
+  (02:05) e nuovo stallo; riavvio alle 02:34 → nessun file in 30 min. Fermato alle 03:05 per la regola "limiti di
+  quota → stop": il remote usa **ancora il client_id condiviso** (`client_id` vuoto in rclone.conf), quindi il
+  problema aperto qui sopra resta bloccante e richiede Fabio. Copie leggere: 1219 voci, 469 MB in `copies/`.
+  Controlli lingue e LinkedIn OK.
 - Notte 2026-11-03 (01:07–05:50): caricati **10 file, ~0,41 GiB** (uso Drive 12,72 → 13,17 GiB). Il primo run è
   rimasto bloccato 1,5 h senza chiudere file; aggiunto un watchdog (kill e rilancio dopo 30 min senza file chiusi),
   scattato 2 volte; con `--transfers 1` stesso blocco; con chunk da 8M la diagnosi `-vv` ha mostrato il 403

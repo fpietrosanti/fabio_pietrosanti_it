@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1789**; dopo deduplica: **1307**
+- Risultati grezzi dalle ricerche: **1794**; dopo deduplica: **1311**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1252**
-- Verificati aprendo la pagina: **1236**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1256**
+- Verificati aprendo la pagina: **1240**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 284, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 54, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 284, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,7 +37,7 @@ Per tipo (nuovi): Menzionato 284, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
 | 2018 | 0 | 92 | 92 |
-| 2019 | 0 | 92 | 92 |
+| 2019 | 0 | 96 | 96 |
 | 2020 | 0 | 193 | 193 |
 | 2021 | 0 | 97 | 97 |
 | 2022 | 0 | 78 | 78 |
@@ -1005,7 +1005,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 92 voci, 92 nuove
+## 2019 — 96 voci, 96 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1059,6 +1059,14 @@ Anni senza nessun risultato: nessuno
   Versione italiana (traduzione automatica di CoinDesk, canonical propria, datePublished 2019-12-03, dateModified 2022-12-10) dell'intervista già in archivio. Pagina aperta il 05/10/2026: «Ma Fabio Pietrosanti sostiene che le forze dell'ordine hanno una concezione esagerata...», «"Le sanzioni non sono state affatto un argomento di discussione", ha affermato Pietrosanti». È l'unica copertura in lingua italiana trovata sul tema. Il titolo nella pagina contiene un refuso della traduzione automatica («Le sanzioni T sono state discusse»). Versioni nelle altre lingue verificate (nome presente): es, fr, ru («Фабио Пьетросанти», 14 occorrenze), uk («П'єтросанті», 9); de/id/ko/nl/tr/zh/ja rimandano alla versione inglese.
 - 🆕 **2019-12-03** · article · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arrestato Virgil Griffith](https://www.coindesk.com/it/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith)  
   Versione italiana (traduzione automatica CoinDesk, datePublished 2019-12-03T20:15:11Z) di «Freedom Fighter or Fool?», già in archivio in inglese. Pagina aperta il 05/10/2026: «un altro partecipante, Fabio Pietrosanti, ha affermato questa settimana che la conferenza non ha toccato il tema dell'evasione delle sanzioni». Nome presente anche nelle versioni es, fr (2 occorrenze), ru (2) e uk (1).
+- 🆕 **2019-12-03** · article · CoinDesk en Español (traducción IA) — [Un asistente afirma que no se discutieron las sanciones en la Conferencia de Cripto de Corea del Norte](https://www.coindesk.com/es/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says)  
+  Versione spagnola (tradotta da IA, aggiornata 10/12/2022) dell'articolo CoinDesk già noto in EN/IT. Cita: "Las sanciones no fueron un tema en absoluto", dijo Pietrosanti. Aperta via WebFetch 2026-11-04 (curl diretto = Vercel Security Checkpoint 429, non aggirato).
+- 🆕 **2019-12-03** · article · CoinDesk Brasil (pt-br, tradução IA) — [Sanções não foram discutidas na conferência de Cripto da Coreia do Norte, diz participante](https://www.coindesk.com/pt-br/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says)  
+  Versione pt-BR (tradotta da IA; nel titolo renderizzato 'T' al posto di 'não'). Cita: "As sanções não foram um tópico sequer", disse Pietrosanti. Aperta via WebFetch 2026-11-04.
+- 🆕 **2019-12-03** · article · CoinDesk en Español (traducción IA) — [¿Luchador por la libertad o tonto? El jurado aún no decide sobre el desarrollador de Ethereum arrestado Virgil Griffith](https://www.coindesk.com/es/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith)  
+  Versione spagnola (IA, aggiornata 13/09/2021) del pezzo CoinDesk già noto in EN/IT; menziona 'Fabio Pietrosanti, otro asistente': la conferenza "no tocó el tema de la evasión de sanciones". Titolo ES ricostruito dalla traduzione, da ricontrollare. Aperta via WebFetch.
+- 🆕 **2019-12-03** · article · CoinDesk Brasil (pt-br, tradução IA) — [Lutador pela Liberdade ou Tolo? O Júri Está Decidido Sobre o Desenvolvedor Ethereum Preso Virgil Griffith](https://www.coindesk.com/pt-br/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith)  
+  Versione pt-BR (IA) del pezzo CoinDesk già noto; menziona Fabio Pietrosanti: la conferenza "não tocou no assunto da evasão de sanções". Aperta via WebFetch.
 - 🆕 **2019-12-02** · article · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/)  
   'Fabio Pietrosanti, un empresario, reveló que había acompañado a Griffith a la conferencia' + Spanish translation of his tweet. Verified live 2026-10-02.
 - 🆕 **2019-12-02** · tweet · Twitter (@fpietrosanti) — [So why Virgil Griffith is jail? "Because discussing “smart contracts” “proof of Work” versus “proof of stake” …](https://twitter.com/fpietrosanti/status/1201302625813254144)  

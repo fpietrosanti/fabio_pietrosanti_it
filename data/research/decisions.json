@@ -1287,6 +1287,10 @@
   {
    "url": "https://www.slideshare.net/slideshow/mobile-application-security/1372899",
    "reason": "2026-11-04: slide di terzi (cclark_isec); il nome compare solo nei correlati (Mobile security - Intense overview 2010 già in archivio)"
+  },
+  {
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/culturesmonde/des-citoyens-revoltes-4-4-la-desobeissance-numerique-2876598",
+   "reason": "2026-11-04: France Culture «Cultures Monde» 29/01/2015 cita solo GlobaLeaks come esempio; ospiti (Wayback 20150307161638): Bardeau, Yahyaoui, Arsène, Okhin. Né nome né «naif» → regola di Fabio, non è lui"
   }
  ],
  "override": [

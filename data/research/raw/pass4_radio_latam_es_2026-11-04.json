@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk en Español (traducción IA)",
+  "title": "Un asistente afirma que no se discutieron las sanciones en la Conferencia de Cripto de Corea del Norte",
+  "url": "https://www.coindesk.com/es/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+  "language": "es",
+  "role": "interviewed/quoted",
+  "note": "Versione spagnola (tradotta da IA, aggiornata 10/12/2022) dell'articolo CoinDesk già noto in EN/IT. Cita: \"Las sanciones no fueron un tema en absoluto\", dijo Pietrosanti. Aperta via WebFetch 2026-11-04 (curl diretto = Vercel Security Checkpoint 429, non aggirato).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk Brasil (pt-br, tradução IA)",
+  "title": "Sanções não foram discutidas na conferência de Cripto da Coreia do Norte, diz participante",
+  "url": "https://www.coindesk.com/pt-br/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+  "language": "pt",
+  "role": "interviewed/quoted",
+  "note": "Versione pt-BR (tradotta da IA; nel titolo renderizzato 'T' al posto di 'não'). Cita: \"As sanções não foram um tópico sequer\", disse Pietrosanti. Aperta via WebFetch 2026-11-04.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk en Español (traducción IA)",
+  "title": "¿Luchador por la libertad o tonto? El jurado aún no decide sobre el desarrollador de Ethereum arrestado Virgil Griffith",
+  "url": "https://www.coindesk.com/es/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+  "language": "es",
+  "role": "quoted",
+  "note": "Versione spagnola (IA, aggiornata 13/09/2021) del pezzo CoinDesk già noto in EN/IT; menziona 'Fabio Pietrosanti, otro asistente': la conferenza \"no tocó el tema de la evasión de sanciones\". Titolo ES ricostruito dalla traduzione, da ricontrollare. Aperta via WebFetch.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk Brasil (pt-br, tradução IA)",
+  "title": "Lutador pela Liberdade ou Tolo? O Júri Está Decidido Sobre o Desenvolvedor Ethereum Preso Virgil Griffith",
+  "url": "https://www.coindesk.com/pt-br/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+  "language": "pt",
+  "role": "quoted",
+  "note": "Versione pt-BR (IA) del pezzo CoinDesk già noto; menziona Fabio Pietrosanti: la conferenza \"não tocou no assunto da evasão de sanções\". Aperta via WebFetch.",
+  "verified": true,
+  "known": false
+ }
+]
