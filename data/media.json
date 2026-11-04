@@ -23475,6 +23475,23 @@
   "on_old_site": false
  },
  {
+  "date": "2026-11-02",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "zazoom.it",
+  "title": "Cyber attacco ai freezer dei supermercati gli hacker italiani | Alcuni sistemi non hanno nemmeno la password ecco quali sono i rischi",
+  "url": "https://www.zazoom.it/2026-11-02/cyber-attacco-ai-freezer-dei-supermercati-gli-hacker-italiani-alcuni-sistemi-non-hanno-nemmeno-la-password-ecco-quali-sono-i-rischi/19878329/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …to nemico come la Russia, con l'interesse a destabilizzare l'Unione Europea? Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza Membr…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-11-04-2030"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026-11-03",
   "year": 2026,
   "type": "mentioned",

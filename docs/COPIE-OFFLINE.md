@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1314**; già processate: **1492**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1124** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1232**
+- Voci in `data/media.json`: **1315**; già processate: **1493**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1125** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1233**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -52,7 +52,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 55 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 56 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1706,4 +1706,5 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · YouTube — Fund Longevity (Global Live St — [Fund Longevity — Global Live Stream (collegamento da Roma, 43:35–45:30)](https://www.youtube.com/watch?v=4CHvbryuUb4) · copia: `2026/c3f03177cb2a` (Web Archive 20260412 · video locale `media.mp4` (342 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Cyber Saiyan (YouTube) - RomHack Camp 20 — [MXMap Italia: National Observatory for Digital Sovereignty | RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew) · copia: `2026/fa59f95258a1` (live · video locale `media.mp4` (150 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Centro Riforma Stato (YouTube) — [Manualetto di sicurezza digitale per giornalisti e attivisti](https://www.youtube.com/watch?v=sPwqQbdIO3w) · copia: `2026/a21060a36e4f` (live · video locale `media.mp4` (307 MB, da caricare su Drive)) · licenza: terzi
+- **2026** · zazoom.it — [Cyber attacco ai freezer dei supermercati gli hacker italiani | Alcuni sistemi non hanno n](https://www.zazoom.it/2026-11-02/cyber-attacco-ai-freezer-dei-supermercati-gli-hacker-italiani-alcuni-sistemi-non-hanno-nemmeno-la-password-ecco-quali-sono-i-rischi/19878329/) · copia: `2026/d5b6ad527b72` (live) · licenza: terzi
 - **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

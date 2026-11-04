@@ -6255,51 +6255,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 1999 OR 2000 OR 2001 \"Linux\" OR \"open source\" OR \"s0ftpj\" rivista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2004 OR 2005 \"spam\" OR \"phishing\" OR \"firewall\" esperto",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2007 OR 2008 \"Infosecurity\" OR \"Clusit\" OR \"convegno\" relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2010 OR 2011 \"iPhone\" OR \"BlackBerry\" OR \"Android\" intercettazione",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2014 OR 2015 \"Hacking Team\" OR \"trojan\" OR \"captatore\" Hermes",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2016 OR 2017 OR 2018 \"FOIA\" OR \"trasparenza\" OR \"open data\" Hermes",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2021 OR 2022 OR 2023 \"ransomware\" OR \"attacco hacker\" OR \"data breach\" commento",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2026 \"Orlowski\" OR \"frigoriferi\" OR \"supermercati\" OR \"hacker italiani\"",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-04",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 1998 OR 1999 \"hackers\" OR \"hacking\" quotidiano intervista",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-04 14:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2003 OR 2004 \"virus\" OR \"worm\" OR \"Sasser\" OR \"Blaster\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 OR 2007 \"VoIP\" OR \"Asterisk\" OR \"crittografia\" telefonia",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2009 OR 2010 \"Wikileaks\" OR \"anonimato\" OR \"privacy\" radio",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2012 OR 2013 \"Agenda digitale\" OR \"open government\" OR \"Wister\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2019 OR 2020 \"Exodus\" OR \"eSurv\" OR \"spyware\" Hermes",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2024 OR 2025 \"NIS2\" OR \"ACN\" OR \"whistleblowing\" webinar",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 \"zazoom\" OR \"freezer\" OR \"Coop\" OR \"cyberwar\" ripresa",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-04 20:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
   }
  ],
  "history": [
@@ -7619,6 +7683,14 @@
    "captcha": false,
    "confirmed_new": 2,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (1996-98 BBS, 2002-03 wireless, 2005-06 Bluetooth, 2008-09 Skype/VoIP, 2012-13 Tor/deep web, 2019-20 Transparency, 2024-25 Messaggero/attacchi, 2026 Coop/guerra ibrida), chiave localStorage gq20261104e_N: nessun robot check, 82 risultati, 67 URL unici. Scartati senza verifica LinkedIn x2, post Facebook, mailing list nexa hyperkitty, forum.italia.it x2 (forum), home/indici (dicorinto tipologia/tag x5, formiche page, puntosicuro sommario, nicolaporro feed, dalchecco tag x2, pr-foundation x2). 43 verificati: 33 respinti/già in archivio; 8 'confermati' ma già esclusi in decisions.json (3 SlideShare con nome solo nei correlati, DIG /it/ doppione, zh.wikipedia, SlideServe PGP, Ciao Carola, CRS iniziativa = mirror già presente: tolto dal raw perché rimescolava la voce CRS). NUOVI: Il Messaggero 02/11/2026 'Cyber attacco ai freezer dei supermercati' (intervista a Fabio e Orlowski, è l'originale cercato nel run 08:30) e nicolaporro.it 03/11/2026 (ripresa); date da datePublished via override. Data della ripresa pasqualepillitteri.it non ricavabile, lasciata null. Merged 1314. Copie offline: 1232 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (1999-2001 Linux/s0ftpj, 2004-05 spam/phishing, 2007-08 Clusit/convegni, 2010-11 smartphone, 2014-15 Hacking Team, 2016-18 FOIA, 2021-23 ransomware, 2026 riprese Messaggero/Orlowski)."
+  },
+  {
+   "date": "2026-11-04 20:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (1999-2001 Linux/s0ftpj, 2004-05 spam/phishing, 2007-08 Clusit/convegni, 2010-11 smartphone, 2014-15 Hacking Team, 2016-18 FOIA, 2021-23 ransomware, 2026 riprese Messaggero/Orlowski), chiave localStorage gq20261104f_N: nessun robot check, 79 risultati, 68 URL unici (senza query string). Scartati senza verifica LinkedIn x3, post Facebook x4, mailing list (sikurezza mail-archive, inventati, autistici), home/indici (pr-foundation x2, dicorinto x2, dalchecco tag, nexa eventi, nazioneindiana page/315, poul topic, attivissimo.me/2022/06, ilsole24ore tag d'Orsogna), AMP Messaggero e nicolaporro /amp (doppioni). 45 URL già in archivio o già decisi. 1 verificato: NUOVO zazoom.it 02/11/2026, ripresa aggregata dell'intervista del Messaggero (Fabio + Orlowski). Merged 1315. Copie offline: 1233 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (1998-99 hacking/quotidiani, 2003-04 worm, 2006-07 VoIP/crittografia, 2009-10 Wikileaks/radio, 2012-13 Agenda digitale/Wister, 2019-20 Exodus, 2024-25 NIS2/webinar, 2026 riprese freezer/Coop)."
   }
  ]
 }
