@@ -6447,51 +6447,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 1996 OR 1997 \"hacker\" OR \"pirati informatici\" quotidiano",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2001 OR 2002 \"virus\" OR \"firewall\" OR \"Linux\" esperto intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2004 \"privacy\" OR \"Garante\" OR \"dati personali\" sicurezza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2007 \"PrivateWave\" OR \"cifratura\" OR \"telefonate\" articolo",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2010 \"Wikileaks\" OR \"Assange\" OR \"fughe di notizie\" esperto",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2014 \"Hermes\" OR \"GlobaLeaks\" OR \"giornalismo investigativo\" intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2019 OR 2020 \"Rousseau\" OR \"voto online\" OR \"Movimento 5 Stelle\" esperto",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 OR 2026 \"cybersicurezza\" OR \"hacker\" tv OR podcast OR radio",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate",
+   "date": "2026-11-05 10:30",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 1999 \"naif\" \"s0ftpj\" OR \"BFi\" OR \"Butchered From Inside\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-11-05 04:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2003 \"spyware\" OR \"dialer\" OR \"truffa\" esperto",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 \"e-privacy\" OR \"Winston Smith\" relatore",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2009 \"Tor\" OR \"anonimato\" OR \"censura\" intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2012 \"Tor2web\" OR \"leak\" OR \"fonti anonime\" giornale",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2017 \"legge 179\" OR \"ANAC\" OR \"segnalazioni\" whistleblowing",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 \"decreto 24\" OR \"piattaforma\" whistleblowing comuni",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 \"Hacking Biology\" OR \"biohacking\" OR \"longevità\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-11-05 10:30: coda esaurita; anni/temi deboli con angolazioni non ancora usate"
   }
  ],
  "history": [
@@ -7835,6 +7899,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (1997-98 Internet/Fidonet, 2002 Hackmeeting/Smau, 2005 GSM/SMS, 2008 intercettazioni/Telecom, 2011 Tor2web/deep web, 2015-16 ANAC/Transparency, 2021-22 sovranità digitale/cloud, 2026 Orlowski tv/radio), chiave localStorage gq20261105b_N: nessun robot check, 77 risultati, ~66 URL unici (senza query string). Scartati senza verifica LinkedIn x5, mailing list (nexa hyperkitty x3, inventati, seclists fulldisclosure), profilo X nifreddo, post Facebook Messaggero, home/indici (pr-foundation x2, dicorinto x2, dalchecco tag x2, nexa category, ilsole24ore tag x2, slideshare profilo). 48 URL già in archivio o già decisi. 1 verificato: NUOVO zazoom.it 02/11/2026 'Cybersicurezza, attacchi hacker anche ai supermercati italiani: il governo convoca anche gli 007' (terza ripresa aggregata, cita Fabio e Orlowski). Merged 1319. Copie offline: 1237 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (1996-97 hacker/quotidiani, 2001-02 virus/firewall, 2004 privacy/Garante, 2007 PrivateWave/cifratura, 2010 Wikileaks/Assange, 2014 Hermes/giornalismo investigativo, 2019-20 Rousseau/voto online, 2025-26 cybersicurezza tv/podcast)."
+  },
+  {
+   "date": "2026-11-05 10:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (1996-97 hacker/quotidiani, 2001-02 virus/firewall, 2004 privacy/Garante, 2007 PrivateWave/cifratura, 2010 Wikileaks/Assange, 2014 Hermes/giornalismo investigativo, 2019-20 Rousseau/voto online, 2025-26 cybersicurezza tv/podcast), chiave localStorage gq20261105c_N: nessun robot check, 75 risultati, 57 URL unici (senza query string). Scartati senza verifica LinkedIn x3, mailing list nexa hyperkitty x3, home/indici (pr-foundation x2, dicorinto tag/tipologia, dalchecco tag, slideshare profilo, sfscon home, alessandrorodolfi home), AMP Messaggero (doppione). 42 verificati: 34 respinti (nome assente o già in archivio: Messaggero freezer, e-privacy, ITASEC, cybersecurity360 Kaspersky, Riformista, Wired/Corriere Rousseau, RomHack, hackingbiology...), 2 FAIL (dokumen.pub, wikiwand zh-sg); 8 'confermati' ma tutti già in archivio o già esclusi in decisions.json (SlideShare tesi X509, Schneier 2010, zh/cs.wikipedia GlobaLeaks, Radio Radicale 'Presi per il Web' e Calamari Quirinarie, nicolaporro.it non-AMP): raw del passaggio non conservato. Nessuna voce nuova. Merged 1319. Copie offline: 1237 ottenute + 135 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (1999 s0ftpj/BFi, 2003 spyware/dialer, 2006 e-privacy, 2009 Tor/censura, 2012 Tor2web/leak, 2017 legge 179/ANAC, 2023 d.lgs. 24 comuni, 2026 Hacking Biology). Nota: un primo git pull è fallito per timeout di rete verso GitHub, il secondo è riuscito."
   }
  ]
 }

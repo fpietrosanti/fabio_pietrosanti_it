@@ -1,0 +1,145 @@
+[
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://2020.itasec.it/itasec-2020/conference/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://cris.unibo.it/retrieve/4641103d-c0ba-48dc-a07a-2063d5e640d6/Digital%20Media%20and%20Grassroots%20Anti-Corruption.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://dokumen.pub/digital-whistleblowing-platforms-in-journalism-encrypting-leaks-1st-edition-3030385043-9783030385040-3030385051-9783030385057.html",
+  "reason": "not fetched: URLError"
+ },
+ {
+  "url": "http://www.pluto.it/files/ildp/LDR/packages/ldr_3.0.pdf.gz",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.ilriformista.it/la-giravolta-dei-5s-gridavano-non-un-euro-ai-partiti-e-poi-hanno-preso-soldi-dalle-lobby-parla-ugo-sposetti-183608/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "http://int.provincia.alessandria.it/protezionecivile/attachments/article/880/04_marzo_2020NAZIONALE___rassegna_stampa.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.whistleblowingsolutions.it/data/Visura.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XX.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.slideshare.net/slideshow/voice-communication-security/5059251",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/342096/globaleaks-la-public-disclosure-oltre-wikileaks-intervista-a-marco-calamari-e-a-fabio",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wikiwand.com/zh-sg/GlobaLeaks",
+  "reason": "not fetched: http 403"
+ },
+ {
+  "url": "https://edri.org/our-work/italy-extends-data-retention-to-six-years/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://gianfrancobattiston.it/files/G_VOTO_ON_LINE_80_PER_100_DICE_SI_A_GOVERNO_PD_M5S_.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.rai.it/dl/doc/1654599223692_Stelle%20cadenti%20-%20di%20Danilo%20Procaccianti.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.ilmessaggero.it/mondo/hacker_frigoriferi_chi_c_e_dietro_cosa_sappiamo_hacker_italiano-9864409.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://cfp.romhack.io/romhack-camp-2026/speaker/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://hackingbiology.com/about/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://therecord.media/how-italy-became-an-unexpected-spyware-hub",
+  "reason": "already in media.json"
+ }
+]
