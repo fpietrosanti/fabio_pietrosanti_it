@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1808**; dopo deduplica: **1318**
+- Risultati grezzi dalle ricerche: **1809**; dopo deduplica: **1319**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1263**
-- Verificati aprendo la pagina: **1247**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1264**
+- Verificati aprendo la pagina: **1248**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 59, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 290, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 59, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 17 | 17 |
-| 2026 | 0 | 55 | 55 |
+| 2026 | 0 | 56 | 56 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 55 voci, 55 nuove
+## 2026 — 56 voci, 56 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -58,6 +58,8 @@ Anni senza nessun risultato: nessuno
   Il Messaggero 02/11/2026 (datePublished della pagina): sull'attacco ai frigoriferi dei supermercati Coop in Sicilia «Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza». È l'originale ripreso da pasqualepillitteri.it e nicolaporro.it (trovato da Google 2026-11-04 14:30).
 - 🆕 **2026-11-02** · Menzionato · zazoom.it — [Cyber attacco ai freezer dei supermercati gli hacker italiani / Alcuni sistemi non hanno nemmeno la password ecco quali sono i rischi](https://www.zazoom.it/2026-11-02/cyber-attacco-ai-freezer-dei-supermercati-gli-hacker-italiani-alcuni-sistemi-non-hanno-nemmeno-la-password-ecco-quali-sono-i-rischi/19878329/)  
   verified via live; context: …to nemico come la Russia, con l'interesse a destabilizzare l'Unione Europea? Ne abbiamo parlato con Alessandro Orlowski, esperto di cybersicurezza e cyberwar e Fabio Pietrosanti, hacker ed esperto in cybersicurezza Membr…
+- 🆕 **2026-11-02** · Menzionato · zazoom.it — [Cybersicurezza attacchi hacker anche ai supermercati italiani / il governo convoca anche gli 007](https://www.zazoom.it/2026-11-02/cybersicurezza-attacchi-hacker-anche-ai-supermercati-italiani-il-governo-convoca-anche-gli-007/19877941/)  
+  verified via live; context: …a di euro di danni. Chi sono gli hacker che spengono i frigoriferi e perché lo fanno? Ne abbiamo parlato con gli esperti in cybersicurezza Alssandro Orlowski e Fabio Pietrosanti - Facebook facebook Attacchi hacker ai sup…
 - 🆕 **2026-11-02** · Menzionato · zazoom.it — [Attacchi hacker ai frigoriferi anche in Italia / scatta l](https://www.zazoom.it/2026-11-02/attacchi-hacker-ai-frigoriferi-anche-in-italia-scatta-lalert-dellagenzia-nazionale-cybersicurezza/19877802/)  
   zazoom.it 02/11/2026, seconda ripresa aggregata (alert ACN sugli attacchi ai frigoriferi) dell'intervista del Messaggero: «Ne abbiamo parlato con gli esperti in cybersicurezza Alssandro Orlowski e Fabio Pietrosanti» (Google 2026-11-05 08:30).
 - 🆕 **2026-10-27** · Comunicato · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/)  
