@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1807**; dopo deduplica: **1317**
+- Risultati grezzi dalle ricerche: **1808**; dopo deduplica: **1318**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1262**
-- Verificati aprendo la pagina: **1246**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1263**
+- Verificati aprendo la pagina: **1247**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 58, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 59, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -40,7 +40,7 @@ Per tipo (nuovi): Menzionato 289, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2019 | 0 | 97 | 97 |
 | 2020 | 0 | 193 | 193 |
 | 2021 | 0 | 97 | 97 |
-| 2022 | 0 | 78 | 78 |
+| 2022 | 0 | 79 | 79 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 17 | 17 |
@@ -268,7 +268,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 78 voci, 78 nuove
+## 2022 — 79 voci, 79 nuove
 
 - 🆕 **2022-12-05** · document · European Parliament, PEGA Committee meeting documents (DV), Policy Department for Citizens' Rights and Constitutional Affairs - DRAFT study — [The use of Pegasus and equivalent surveillance spyware – The existing legal framework in EU Member States (STUDY DRAFT, 5 December 2022)](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf)  
   Opened the PDF (95 pages). p.91 references: 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (boingboing). This is the draft distributed to the PEGA committee. The final version, IPOL_STU(2022)740151, is already known. Keep it as an alias or a separate document version as you prefer.
@@ -318,6 +318,8 @@ Anni senza nessun risultato: nessuno
   Complaint to the Garante on party websites; quotes PA replies addressed to Fabio Pietrosanti
 - 🆕 **2022-09-01** · Menzionato · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/)  
   Open letter addressed to him in reply to MonitoraPA GDPR notices
+- 🆕 **2022-08-30** · article · InnovaciónDigital360 (Network Digital360, edizione LatAm) — [¿Es peligroso el antivirus ruso Kaspersky? La opinión de los expertos](https://www.innovaciondigital360.com/cyber-security/es-peligroso-el-antivirus-ruso-kaspersky-la-opinion-de-los-expertos/)  
+  Fuori dalla finestra 2013-2016 ma nuovo (non in media.json). Pagina aperta via curl 2026-11-05 (datePublished 2022-08-30): cita 'Fabio Pietrosanti, presidente del Centro Hermes para la Transparencia y los Derechos Humanos Digitales' che aveva sollevato la questione Kaspersky (anni prima, senza seguito). Probabile traduzione spagnola di un pezzo Network Digital360 italiano (cybersecurity360/agendadigitale) del 2022: verificare se l'originale IT e' gia' in archivio. Trovato con Google lr=lang_es. Originale IT probabile: Cyber Security 360 18/03/2022 «Italia in pericolo con Kaspersky? Il parere degli esperti» (già in media.json).
 - 🆕 **2022-08-28** · Comunicato · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Partito Pirata](https://monitora-pa.it/2022/08/28/replies/PartitoPirata.html)  
   Exchange with Partito Pirata on Google services in party sites; letters addressed to Fabio Pietrosanti (complements the known Partito Pirata reply)
 - 🆕 **2022-08-27** · Video · Ciao Internet - Matteo Flora (YouTube, diretta) — [L60. [LIVE] La Diretta di Ciao Internet - 27.08.2022](https://www.youtube.com/watch?v=hspTjLjG30A)  

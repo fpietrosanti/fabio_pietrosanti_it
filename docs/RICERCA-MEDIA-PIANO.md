@@ -116,6 +116,23 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
     trasparenza UE (voce Hermes), verbali audizioni APCE (consultazione UE 2017–18 sulla direttiva whistleblower già
     controllata in passate precedenti: Hermes assente dai 34+74 contributi; IGF/APCE: meglio la risposta di Fabio alla
     domanda aperta che lo spoglio a mano); query Tor2web su NPR/PRI/BBC/CBC/ABC/DW/RFI (Google ha mostrato il CAPTCHA, non aggirato).
+  **Passata 2026-11-05 (3 agenti: `pass4_apce_pe_igf`, `pass4_podcast_wayback2`, `pass4_radio_ispano_br_fr`) → +1 voce.**
+  - **Nuova verificata**: InnovaciónDigital360 30/08/2022 (ES, «¿Es peligroso el antivirus ruso Kaspersky?»: «Fabio
+    Pietrosanti, presidente del Centro Hermes…»), probabile traduzione di Cyber Security 360 18/03/2022 (già noto). Copia ottenuta.
+  - **Escluso**: BNR Mediazaken 25/09/2013 (Publeaks; ospiti WNL ed Elsevier, nessun nome → `decisions.json`).
+  - **Chiusi negativi (testo integrale aperto)**: APCE Doc. 13791, 13734, 14958 (+ Ris. 2300, Doc. 14483, audizioni 2019:
+    Myers/Speckbacher, Rozière/Meyer/Foegle); PE A7-0139/2014 Moraes con allegati II–III (tutte le audizioni LIBE ed
+    esperti), A8-0295/2017 Rozière con elenchi dei contributi, audizione JURI/PANA 21/06/2017; IGF lista partecipanti
+    2012, pagina 2013, pagine 2014, rapporti IGF Italia 2012 e 2014; FTS Internet Archive (23 risultati, tutti noti/omonimi);
+    feed/URL episodi 2011–14 di ABC Future Tense, CBC Spark, On the Media, BNR; Publeaks (comunicato, colofon: solo
+    Hermes/GlobaLeaks), VPRO Argos 2013, blog RNW Media Network 2011–12, guide BBC Digital Planet 2011–gen 2013;
+    Google `site:` «Pietrosanti» su RTVE, SER, W Radio MX/CO, Caracol, MVS, Radio UNAM, Radio Educación, EBC, CBN, Globo,
+    UOL, Estadão, Nexo, Agência Pública, B9, Segurança Legal, Abraji; testate francesi (solo i 2 Le Monde 2014 noti);
+    ricerca interna Radio France; SER 03/12/2017 «Buzones anónimos» (solo GlobaLeaks, Simona Levi).
+  - **Resta (bassa resa, proposta di chiusura a Fabio)**: pista IGF `intgovforum.org/ar/filedepot_download/139/6685` (403
+    anti-bot, nessuna capture: da aprire a mano); liste IGF 2013 Bali/2015 João Pessoa vuote nelle capture, rapporto IGF
+    Italia 2015 (Web Archive offline); ~140 puntate BBC Digital Planet/Click pagina per pagina; NPO Radio 1/vpro.nl/ABC RN
+    (Wayback 503/504); BNR ricerca interna (403); ricerca interna RTVE (solo JavaScript → Chrome); podcast Braincast/Tecnocracia.
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
   PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,

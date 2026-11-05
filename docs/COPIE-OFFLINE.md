@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1317**; già processate: **1495**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1127** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1235**
+- Voci in `data/media.json`: **1318**; già processate: **1496**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1128** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1236**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -48,7 +48,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 104 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 62 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 63 | 19 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 10 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -1574,6 +1574,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/) · copia: `2022/485ab05e07e9` (Web Archive 20220522) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/) · copia: `2022/ee8ad4ccb589` (Web Archive 20220628) · licenza: terzi
 - **2022** · infodata.ilsole24ore.com — [Blog | Google Analytics, la stretta dell Garante della Privacy e la replica di Google. Cos](https://www.infodata.ilsole24ore.com/2022/07/02/google-analytics-la-stretta-dell-garante-della-privacy-la-replica-google-cosa-successo/) · copia: `2022/440a81c5739d` (Web Archive 20220702) · licenza: terzi
+- **2022** · InnovaciónDigital360 (Network Digital360 — [¿Es peligroso el antivirus ruso Kaspersky? La opinión de los expertos](https://www.innovaciondigital360.com/cyber-security/es-peligroso-el-antivirus-ruso-kaspersky-la-opinion-de-los-expertos/) · copia: `2022/f8d0fd52a17b` (Web Archive 20221004) · licenza: terzi
 - **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · copia: `2022/4b8b878bad90` (live) · licenza: terzi
 - **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/) · copia: `2022/8486ab3178f2` (Web Archive 20220525) · licenza: terzi
 - **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi

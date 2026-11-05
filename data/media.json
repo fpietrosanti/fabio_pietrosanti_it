@@ -21300,6 +21300,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-08-30",
+  "year": 2022,
+  "type": "article",
+  "outlet": "InnovaciónDigital360 (Network Digital360, edizione LatAm)",
+  "title": "¿Es peligroso el antivirus ruso Kaspersky? La opinión de los expertos",
+  "url": "https://www.innovaciondigital360.com/cyber-security/es-peligroso-el-antivirus-ruso-kaspersky-la-opinion-de-los-expertos/",
+  "language": "es",
+  "role": "mentioned",
+  "note": "Fuori dalla finestra 2013-2016 ma nuovo (non in media.json). Pagina aperta via curl 2026-11-05 (datePublished 2022-08-30): cita 'Fabio Pietrosanti, presidente del Centro Hermes para la Transparencia y los Derechos Humanos Digitales' che aveva sollevato la questione Kaspersky (anni prima, senza seguito). Probabile traduzione spagnola di un pezzo Network Digital360 italiano (cybersecurity360/agendadigitale) del 2022: verificare se l'originale IT e' gia' in archivio. Trovato con Google lr=lang_es. Originale IT probabile: Cyber Security 360 18/03/2022 «Italia in pericolo con Kaspersky? Il parere degli esperti» (già in media.json).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_radio_ispano_br_fr_2026-11-05"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-09-01",
   "year": 2022,
   "type": "mentioned",

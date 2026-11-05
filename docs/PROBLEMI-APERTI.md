@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-11-04** (1311 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-11-05** (1318 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -183,6 +183,22 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-novevicies. 2026-11-05
+- Voce nuova: InnovaciónDigital360 30/08/2022 (Kaspersky, ES) → **copia ottenuta** dal Web Archive, nome verificato.
+- **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life 2010,
+  PrivateWave EN/ES 2010, deck Foggia 2019) e i 7 🟡. Cercata una ripresa integrale di Repubblica 30/05/2018 («La spia che
+  venne dall'app») e Il Fatto 13/03/2019: nessuna (la lista Nexa che compariva tra i risultati parla d'altro).
+- **Escluso**: BNR Mediazaken 25/09/2013 (Publeaks, nessun nome).
+- **Problemi tecnici (non aggirati)**: intgovforum.org 403 anti-bot anche sul file della pista IGF; BNR ricerca 403; Web
+  Archive 503/504 a tratti; pagine di ricerca SER/W Radio/Caracol/EBC/Nexo 404, RFI 403, RTVE solo JavaScript.
+- **Domande per te:**
+  (a) Il tema «podcast e radio estere + documenti UE/ONU/CoE» ha dato in 3 passate solo 10 voci minori e i documenti
+  ufficiali (APCE, PE, IGF) sono ora letti per intero senza il tuo nome. **Proposta: chiuderlo** e aprire un tema nuovo.
+  Ok? Hai un tema che ti preme?
+  (b) Ricordi di aver mandato **un documento/contributo all'IGF** (c'è un file `filedepot_download/139/6685` associato al tuo
+  nome, bloccato da anti-bot)? Se vuoi, aprilo dal tuo browser.
+  (c) Restano valide le domande del 03/11 e 04/11 (radio/podcast esteri, audizioni APCE/PE).
 
 ### B0-octovicies. 2026-11-04
 - Voci nuove: 4 traduzioni CoinDesk (ES ×2, PT-BR ×2) del dicembre 2019. Le ES erano già in archivio come doppioni
