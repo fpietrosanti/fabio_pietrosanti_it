@@ -1,0 +1,145 @@
+Frigoriferi hackerati, è guerra sul cibo: dobbiamo davvero avere paura? 
+
+ Cronaca 
+
+ Frigoriferi hackerati, è guerra sul cibo: dobbiamo davvero avere paura?
+
+ Supermercati sotto attacco. Dalla Francia al Belgio, congelatori fuori uso e danni ingenti. Chi c'è dietro? E perché lo fanno?
+
+ di
+ Massimo Balsamo 
+
+ 3 Novembre 2026, 8:15 
+
+ 2.3k  Visualizzazioni 20  commenti 
+
+ 20 
+
+ Migliaia di frigoriferi e congelatori fuori uso, alimenti da buttare e danni economici per le attività commerciali. Gli attacchi informatici si moltiplicano in Europa e prendono di mira anche gli elettrodomestici connessi alla rete. Dietro potrebbe esserci una semplice bravata, ma il rischio è ben più serio: per questo è necessario chiedersi quanto siano vulnerabili le nostre infrastrutture.
+
+ Bastano pochi clic per mettere in ginocchio un supermercato. Nessun assalto, nessuna effrazione, nessun criminale incappucciato davanti alle telecamere di sorveglianza. È sufficiente un computer , una connessione internet e qualche falla nei sistemi di sicurezza. L’ultima frontiera degli attacchi informatici in Europa passa dai frigoriferi industriali, trasformati in bersagli dagli hacker con conseguenze tutt’altro che trascurabili.
+
+ La domanda, a questo punto, sorge spontanea: dobbiamo preoccuparci? I numeri raccontano un fenomeno che merita attenzione. A metà ottobre erano stati colpiti oltre 150 negozi tra Francia, Belgio e Olanda, con migliaia di frigoriferi industriali messi fuori uso e ingenti quantità di alimenti diventate inutilizzabili. Poi una nuova ondata, questa volta tra Belgio, Svezia, Estonia, Lussemburgo e Irlanda. La tecnica? Alterare da remoto i parametri dei congelatori, arrivando a impostare la temperatura a 50 gradi o addirittura a 70 gradi. Il risultato sono prodotti deteriorati, perdite economiche e attività costrette a fare i conti con un nemico che non si vede.
+
+ Ma chi si nasconde dietro queste operazioni? E soprattutto, siamo di fronte a semplici criminali informatici oppure a qualcosa di più organizzato, magari riconducibile a potenze straniere interessate a destabilizzare il Vecchio Continente? Come ricostruisce Il Messaggero , che ha interpellato gli esperti di cybersicurezza Alessandro Orlowski e Fabio Pietrosanti, al momento non esistono elementi sufficienti per identificare i responsabili. “Al momento non è stato possibile risalire all’autore degli attacchi in Francia né di quelli odierni. È difficile quindi capire se si tratta di casi isolati o se siamo di fronte a un’azione seriale”, spiega Pietrosanti. Il quadro, insomma, resta aperto. E sarebbe prematuro gridare alla guerra informatica.
+
+ La pista russa , inevitabilmente, è una delle ipotesi che affiorano quando si parla di sabotaggi digitali contro Paesi europei. Ma Pietrosanti invita alla prudenza : “Personalmente la considero poco probabile, gli attacchi provenienti da enti statali hanno una portata massiccia e investono infrastrutture critiche. In questo caso hanno avuto portata limitata, è anche possibile che visto l’eco mediatica avuta dal primo caso qualcuno abbia voluto ‘divertirsi’ a emulare il gesto”.
+
+ Diversa la riflessione di Orlowski, che richiama un problema più generale : “La Russia protegge i cybercriminali che compiono attacchi contro i sistemi europei, che Putin in un discorso, ha definito ‘Patrioti’. Molti attacchi a infrastrutture europee provengono da lì anche se non sono direttamente collegati con l’azione dello stato russo”. Una circostanza che, secondo l’esperto, contribuisce a rendere particolarmente complesso distinguere le iniziative autonome dei criminali informatici da quelle direttamente riconducibili agli apparati statali. Ma attenzione: questo non significa che dietro i frigoriferi sabotati ci sia Mosca.
+
+ Il vero nodo, tuttavia, potrebbe essere un altro. Ed è forse quello più inquietante. Per entrare nei sistemi di controllo di un frigorifero industriale non servono necessariamente competenze straordinarie. Molti dispositivi sono collegati permanentemente a internet per consentire interventi di manutenzione e monitoraggio a distanza. Una comodità che, in assenza di adeguate protezioni, può trasformarsi in una porta d’ingresso per gli hacker . “Quando un sistema, un elettrodomestico è connesso a internet è visibile a tutti attraverso appositi siti che mappano internet”, chiarisce Orlowski, aggiungendo che “nel caso dei frigoriferi spesso questa protezione è davvero bassa, a volte c’è ancora la password di base ‘admin’ oppure i dispositivi usano cip vecchi e non aggiornati”.
+
+ Password predefinite mai cambiate, software obsoleti, dispositivi non aggiornati. Talvolta basta davvero poco . È il rovescio della medaglia dell’Internet delle cose, quella rivoluzione tecnologica che ha portato in rete praticamente qualsiasi oggetto, dalle telecamere agli elettrodomestici, fino ai sistemi di gestione degli edifici. “Questi attacchi hanno trovato una ‘finestra di vulnerabilità’ ovvero sistemi poco evoluti e facilmente accessibili e hanno mostrato che basta pochissimo a causare grandi danni”, osserva ancora Orlowski.
+
+ E allora il punto non è soltanto capire chi abbia spento i frigoriferi, ma interrogarsi su quanti altri dispositivi possano essere compromessi con la stessa facilità. Perché se oggi il bersaglio è un congelatore, domani potrebbe essere un sistema di videosorveglianza, un contatore intelligente o un altro apparato connesso. Pietrosanti mette in guardia: “Tutti i dispositivi connessi a internet sono potenzialmente hackerabili. Anche oggetti di uso comune come webcam, telecamere di sorveglianza, lavatrici o contatori della corrente o del gas”. E ricorda che migliaia di telecamere sono già state violate non soltanto per sottrarre immagini, ma anche per utilizzarle come strumenti per ulteriori attacchi contro aziende e istituzioni .
+
+ Gli esperti, peraltro, non ritengono particolarmente probabile un attacco generalizzato ai frigoriferi europei. Non tutti sono collegati alla rete e l’attenzione suscitata dagli episodi potrebbe spingere le aziende ad aggiornare rapidamente le proprie difese. Anche l’ipotesi di una prova generale in vista di un sabotaggio su vasta scala viene considerata poco convincente. “Se si trattasse di un ente nemico con obiettivi di destabilizzazione dell’Europa, sarebbe una strategia controproducente a mio avviso farsi notare e dare la possibilità di applicare contromisure quindi lo escludo”, sottolinea Pietrosanti
+
+ Questo, però, non autorizza a sottovalutare il problema. Anche perché la vulnerabilità più pericolosa potrebbe nascondersi dove meno ce lo aspettiamo. Nelle piccole aziende che lavorano per grandi gruppi industriali, nei fornitori di servizi informatici, negli appaltatori che dispongono di accessi ai sistemi di organizzazioni più importanti. “Ad essere colpiti spesso sono gli ‘anelli deboli’ “, spiega Pietrosanti. “Abbiamo visto molti casi in cui attraverso l’infiltrazione nei sistemi informatici del piccolo appaltatore poi si accede al sistema dell’ente più importante”.
+
+ Leggi anche: 
+
+ Abbiamo un problema (enorme): hacker scatenati nei supermercati, tonnellate di cibo da buttare. Casi in Italia 
+
+ Senza dimenticare il fattore umano . Le tecnologie di intelligenza artificiale rendono sempre più credibili le truffe attraverso la clonazione delle voci e altre tecniche di impersonificazione. Lo stesso Pietrosanti avverte: “Oggi tutti sappiamo riconoscere una mail di phishing, ma distinguere una voce creata con l’IA (magari clonando quella di un nostro conoscente) è molto più complesso”. Una telefonata apparentemente innocua, magari proveniente da qualcuno che sembra essere un collega o un superiore, può diventare uno strumento per sottrarre informazioni riservate o ottenere accessi non autorizzati.
+
+ Dobbiamo preoccuparci, dunque? Sì, ma senza cedere all’allarmismo . Non sappiamo chi abbia colpito i frigoriferi europei e non abbiamo elementi per annunciare un’imminente offensiva informatica su larga scala. Sappiamo però che la crescente interconnessione dei dispositivi moltiplica le possibilità di attacco e che anche sistemi apparentemente secondari possono provocare danni considerevoli. Il frigorifero di un supermercato può sembrare un bersaglio insignificante rispetto a una centrale elettrica o a un’infrastruttura strategica. Ma gli ultimi episodi dimostrano che non occorre necessariamente compromettere un’intera rete nazionale per creare disagi, interrompere attività e provocare perdite economiche. È sufficiente individuare una debolezza e sfruttarla. Quindi il messaggio è chiaro: guardia alta.
+
+ Massimo Balsamo, 3 novembre 2026
+
+ 20 
+
+ Leggi i commenti 
+
+ Nicolaporro.it è anche su Whatsapp. È sufficiente  cliccare qui  per iscriversi al canale ed essere sempre aggiornati (gratis). 
+
+ Seguici sui nostri canali 
+
+ Telegram
+
+ Whatsapp
+
+ Exit mobile version 
+
+ Zuppa di Porro 
+ Politico Quotidiano 
+ Milano Quotidiano 
+ Autori 
+ Cronaca 
+ Esteri 
+ Economia 
+ Giustizia 
+ Politiche green 
+ Salute 
+ Zanzara tigre 
+ Società 
+ Sport 
+ La posta dei lettori 
+ Cultura, tv e spettacoli 
+ Pillole Ricossiane 
+ Liberilibri 
+ Sedute Satiriche 
+ La Ripartenza 
+ Sette Vite, il podcast di Hoara Borselli 
+ Controverso, il podcast di Lodovica Bulian 
+ Biblioteca liberale 
+
+ Liberilibri 
+ Libri in Libertà 
+ Lodi Liberale 
+
+ Economia e Logistica 
+
+ Economia 
+ Energia 
+ Finanza 
+ Geo-Logistica 
+ Infrastrutture 
+ Logistica 
+ Mare e porti 
+ Supply Chain 
+ Treni e camion 
+
+ Atlantico Quotidiano 
+
+ Quotidiano 
+ Economia 
+ Esteri 
+ Cultura 
+ Media 
+ Politica 
+ Recensioni 
+ Atlas – Visioni e Parole 
+ Film 
+ Speciali 
+ Twitter Files: la censura social 
+ L’altra faccia del lunedì 
+ China Virus 
+ #Muro30 
+ Atlantico Sportivo 
+ Day by Day 
+ Giuditta’s Files 
+ Il martedì di Capaneo, a Dio spiacente e a li nimici sui 
+ In Cold Blood 
+ L’altra faccia del lunedì 
+ Minima Politica 
+ O, America! 
+ Politics App 
+ Speciale Russiagate / Spygate 
+ Thatcher Sovranista 
+
+ Contatti e donazioni
+
+ Chi siamo 
+ Sostienici 
+ Advertising 
+ Contatti 
+ Come Disattivare le notifiche push 
+
+ PRIVACY
+
+ LUNIFIN S.r.l. a socio unico. Sede legale Milano, Via Vivaio n. 6, 20122 (MI), C.F./P.Iva en. 07174900154, REA cap. soc. euro 10.000,00 i.v.
+
+ nicolaporro.it è una testata registrata il 20 aprile 2021 al n. 94 del registro della Stampa del Tribunale di Milano.
+
+ Preferenze privacy

@@ -1,0 +1,693 @@
+Attacco hacker ai frigoriferi delle Coop di Palermo e Catania 
+
+ Vai al contenuto 
+ Vai al menu 
+ Vai al footer 
+
+ Accessibilità
+
+ × 
+
+ Tema 
+
+ Tema chiaro 
+ Tema scuro 
+ Contrasto elevato 
+
+ Dimensione testo 
+
+ A− 
+ 100% 
+ A+ 
+
+ Interlinea 
+
+ Normale 
+ Ampia 
+
+ Spaziatura paragrafi 
+
+ Normale 
+ Ampia 
+
+ Velocità lettura vocale 
+
+ Lenta 
+ Normale 
+ Veloce 
+
+ Sottolinea tutti i link 
+
+ Riduci animazioni 
+
+ Font leggibile 
+
+ Cursore grande 
+
+ Ripristina 
+ OK 
+
+ news
+
+ Pasquale Pillitteri
+
+ Opzioni accessibilità 
+
+ IT 
+
+ IT 
+
+ EN 
+
+ FR 
+
+ ES 
+
+ DE 
+
+ TR 
+
+ RU 
+
+ ZH 
+
+ PT 
+
+ JA 
+
+ ID 
+
+ PL 
+
+ NL 
+
+ HI 
+
+ Home 
+
+ Chi sono 
+
+ ▾ 
+
+ Curriculum 
+
+ Portfolio 
+
+ Blog 
+
+ Guide Nuovo 
+
+ Tech Gear 
+
+ Tools 
+
+ Newsletter 
+
+ Contatti 
+
+ UNI 11814:2021 
+
+ Sponsor 
+
+ Privacy 
+
+ Cookies 
+
+ Accessibilità 
+
+ Termini 
+
+ Standard 
+
+ Correzioni 
+
+ Etica 
+
+ © 2026 
+
+ P. Pillitteri 
+
+ Tech Gear Gli strumenti per la sicurezza · Flipper Zero, Proxmark3, chiavi FIDO2, rilevatori di microspie e libri. Sfoglia la bacheca → × 
+
+ Attacco hacker ai frigoriferi delle Coop di Palermo e Catania
+
+ Frigoriferi hackerati anche in Italia. Banchi frigo manomessi da remoto in almeno quattro supermercati Coop in Sicilia, già due casi segnalati in Toscana ed Emilia.
+
+ Più letti 
+
+ Cybersecurity 
+
+ Nvidia 
+
+ Agent Infrastructure 
+
+ App Mobile 
+
+ Robotica 
+
+ Economia & Business 
+
+ Finanza 
+
+ Amazon 
+
+ ChatGPT 
+
+ Apple 
+
+ Medicina 
+
+ AI News & Tendenze 
+
+ Gemini 
+
+ Videogiochi 
+
+ Claude 
+
+ Sviluppo Software 
+
+ Anthropic 
+
+ Benchmark e Comparativi 
+
+ AI per Professionisti 
+
+ Diritto & Normative 
+
+ Grok 
+
+ Microsoft 
+
+ Tool AI & Recensioni 
+
+ AI in Locale 
+
+ Bandi e Finanziamenti 
+
+ Intelligenza Artificiale 
+
+ Biotech e Longevità 
+
+ Big Tech 
+
+ OpenAI 
+
+ Google 
+
+ Report e Analisi 
+
+ Telemedicina 
+
+ Startup e Business 
+
+ Elettronica 
+
+ AI Cinese 
+
+ Eventi 
+
+ Meta 
+
+ Domotica 
+
+ Guide 
+
+ Mistral 
+
+ Tesla 
+
+ =1920px (Fix #5) -->
+
+ Home 
+ News 
+ Cybersecurity 
+
+ Ascolta 17 min Stop 
+
+ Pasquale Pillitteri 
+
+ 02/11/2026 
+ 16 min di lettura 
+
+ Cybersecurity 
+ cybersecurity 
+ sicurezza informatica 
+ frigoriferi hackerati 
+ attacco hacker supermercati 
+ coop sicilia 
+ gruppo radenza 
+ acn 
+ palermo catania ragusa 
+
+ Indice dei Contenuti 
+
+ 1. Quanti supermercati sono stati colpiti in Sicilia? 
+
+ 2. Toscana ed Emilia-Romagna, i casi segnalati all'ACN 
+
+ 3. Come si manomette un banco frigo da remoto 
+
+ 4. Quali centraline sono finite nel mirino 
+
+ Hai una di queste centraline? Cosa fare subito 
+
+ 5. Dietro gli attacchi: l'ombra russo-iraniana 
+
+ 6. Governo, Copasir e Polizia postale 
+
+ 7. Cosa deve controllare chi gestisce un impianto frigo 
+
+ 8. Domande frequenti (FAQ) 
+
+ 9. Venti giorni dopo il bollettino 
+
+ 10. Valuta questo articolo 
+
+ 11. Articoli Correlati 
+
+ 12. Cerchi un Ingegnere Informatico? 
+
+ Pubblicità 
+
+ Alle 4 del mattino del 2 novembre 2026 qualcuno ha cambiato da remoto le temperature dei banchi frigo e dei surgelati in almeno quattro supermercati Coop della Sicilia, tre a Catania e uno a Palermo. Con questi casi anche l'Italia entra nell'ondata dei frigoriferi hackerati che nella stessa notte ha colpito i supermercati di sette Paesi europei , dal Belgio alla Svezia.
+
+ I negozi colpiti fanno capo al Gruppo Radenza, società siciliana con sede a Modica, in provincia di Ragusa, che gestisce in franchising i supermercati a insegna Coop sull'isola. Coop è una delle principali catene della grande distribuzione italiana, un sistema di cooperative di consumatori che in alcune regioni concede il marchio a imprenditori locali; l'insegna resta la stessa, la conduzione dei negozi passa al franchisee. Il bersaglio, ha spiegato l'amministratore delegato Danilo Radenza, è il sistema di telecontrollo dei banchi surgelati, cioè le centraline che regolano a distanza temperatura e cicli di sbrinamento e che i tecnici della manutenzione raggiungono via internet senza entrare in negozio.
+ Sugli attacchi ai frigoriferi è intervenuta anche la commissaria europea Lahbib, che parla di una zona grigia tra guerra e pace in cui il grigio può diventare rosso in un attimo.
+ Nella notte tra il 1° e il 2 novembre gli hacker hanno portato a 110 °C il valore impostato sui congelatori del plasma dell'ente francese del sangue , anche se per il ministero della Salute francese non ci sono state conseguenze operative.
+ Sul piano politico, dopo il vertice di Palazzo Chigi del 3 novembre, il governo ha escluso nuovi aiuti alle imprese per rafforzare le difese informatiche e lascia l'adeguamento dei sistemi ai singoli gestori.
+ Sul fronte delle difese pubbliche il nodo resta il personale, tanto che il ministro Zangrillo ha indicato nel tetto da 311mila euro il limite che tiene gli esperti di sicurezza fuori dalla pubblica amministrazione .
+
+ Sul caso indaga la Polizia postale, il reparto della Polizia di Stato specializzato nei reati informatici. L'azienda ha avvisato anche l'Agenzia per la cybersicurezza nazionale (ACN), l'autorità che in Italia raccoglie le segnalazioni di incidente e ospita il CSIRT Italia, la squadra di pronto intervento informatico.
+
+ L'ondata di attacchi ai sistemi di refrigerazione arriva in Sicilia il 2 novembre 2026 
+
+ Quanti supermercati sono stati colpiti in Sicilia?
+
+ Il numero cambia a seconda di chi parla. Nessuna autorità, finora, lo ha confermato. Il direttore generale del gruppo, Giuseppe Spadaro, ha indicato all' ANSA «almeno tre a Catania e uno a Palermo», con banchi surriscaldati e alimenti da buttare. «Stiamo calcolando i danni. In alcuni casi abbiamo risolto», ha aggiunto Spadaro, che ha già contattato l'ACN e attivato i protocolli per un'indagine interna.
+
+ Più netto l'amministratore delegato. «Abbiamo verificato che si tratta di un attacco al nostro sistema di telecontrollo dei banchi surgelati», ha detto Danilo Radenza a MeridioNews , precisando che «sembra che non ci siano ulteriori danni, ma l'attacco c'è stato». Nella sua versione i supermercati toccati sono almeno due, fra Palermo e Catania.
+
+ La cifra più alta arriva da Open , che cita persone della grande distribuzione rimaste anonime. Tra Palermo, Catania e Ragusa sarebbero almeno 12 i punti vendita interessati. La provincia di Ragusa, dove il gruppo ha la sede, compare solo in questa ricostruzione; il primo a segnalare i guasti era stato proprio un sito d'informazione ibleo.
+
+ Due smentite restringono il campo. Coop ha fatto sapere che nei negozi gestiti direttamente non si sono registrati problemi, come riporta BlogSicilia . Il Gruppo Arena, che con le insegne Decò e SuperConveniente conta oltre 190 punti vendita, ha dichiarato invece che i suoi supermercati «non sono coinvolti in questa vicenda».
+
+ Chi ha parlato 
+ Negozi indicati 
+ Cosa ha detto 
+
+ Giuseppe Spadaro, direttore generale del Gruppo Radenza Almeno 4 (3 a Catania, 1 a Palermo) Attacco alle 4 del mattino, danni ancora da calcolare, ACN avvisata 
+
+ Danilo Radenza, amministratore delegato Almeno 2 (Palermo e Catania) Colpito il telecontrollo dei banchi surgelati 
+
+ Persone della grande distribuzione non nominate Almeno 12 (Palermo, Catania, Ragusa) Nessuna conferma ufficiale 
+
+ Coop Nessuno tra quelli a gestione diretta Nessun problema di refrigerazione 
+
+ Gruppo Arena (Decò, SuperConveniente) Nessuno Non coinvolto 
+
+ Limiti da conoscere 
+
+ L'attacco in Sicilia lo dichiara l'azienda colpita. Né l'ACN né la Polizia postale hanno confermato in pubblico il caso siciliano, quindi la causa dei guasti resta da accertare.
+
+ Le tre cifre (2, 4 e 12 negozi) arrivano da persone diverse e non si sommano. Per sapere quanti clienti hanno trovato i banchi vuoti serve il bilancio ufficiale, che il 2 novembre sera non c'era.
+
+ Il costruttore degli impianti siciliani non è stato reso noto. Il legame con le centraline Danfoss colpite in Francia e in Svezia resta un'ipotesi, perché nessuno lo ha indicato per la Sicilia.
+
+ Toscana ed Emilia-Romagna, i casi segnalati all'ACN
+
+ La Sicilia non è l'unico fronte italiano. Nel pomeriggio del 2 novembre l'ACN ha reso noto di aver ricevuto «una notifica Nis di incidente da parte di un'azienda toscana operante nel settore della ristorazione collettiva», scrive CyberSecItalia . L'Agenzia ha poi rilevato un secondo attacco, non ancora notificato, ai danni di un'impresa emiliana che produce surgelati. I nomi delle due aziende non sono stati diffusi.
+
+ La notifica Nis è la segnalazione obbligatoria prevista dalla direttiva europea NIS2, recepita in Italia con il decreto legislativo 138/2024, per le organizzazioni dei settori che la legge considera essenziali o importanti. Chi rientra nel perimetro deve avvisare l'autorità entro 24 ore da un incidente significativo, come spiegato nella nostra guida completa alla NIS2 .
+
+ Nella stessa comunicazione l'ACN ha richiamato la grande distribuzione, la logistica alimentare, la refrigerazione industriale e le ditte di manutenzione alle misure già indicate il 13 ottobre, all'indomani dell' attacco ai supermercati francesi , nel bollettino BL01/261013/CSIRT-ITA . Per il 3 novembre l'Agenzia ha convocato federazioni di categoria e catene della distribuzione, ha riferito l' ANSA .
+
+ Come si manomette un banco frigo da remoto
+
+ Il bollettino del CSIRT Italia descrive il meccanismo visto in Francia. Lì «installazioni obsolete, interfacce di amministrazione esposte direttamente su Internet e carenze nei meccanismi di autenticazione» hanno permesso «l'attivazione remota dei cicli di sbrinamento e la modifica dei parametri operativi degli impianti». Nessun virus da installare, quindi; bastava entrare nel pannello di controllo con le credenziali giuste, o con quelle di fabbrica mai cambiate.
+
+ Lo sbrinamento è la fase in cui l'impianto accende resistenze elettriche per sciogliere il ghiaccio che si forma sull'evaporatore, il componente che raffredda l'aria del banco. In condizioni normali è un ciclo breve, programmato più volte al giorno. Tenuto acceso per ore dentro un mobile isolato, costruito apposta per non disperdere il freddo e quindi nemmeno il calore, porta i surgelati sopra lo zero; in Estonia un congelatore ha toccato i 50 gradi . Chi entra nel sistema, avverte l'ACN, può anche cambiare le soglie di allarme e i destinatari delle notifiche, così il personale se ne accorge solo all'apertura del negozio.
+
+ In Francia il bersaglio erano le centraline della danese Danfoss, soprattutto modelli vecchi che non ricevono più aggiornamenti di sicurezza, tanto che l'agenzia nazionale francese ha chiesto con un' allerta del CERT-FR di scollegarle da internet o di filtrarne l'accesso. In Svezia la Coop locale ha ricondotto la manomissione allo stesso fornitore, come riporta Sky TG24 . Per i negozi siciliani il nome del costruttore non è stato comunicato.
+
+ Colpisce piuttosto l'orario. In Belgio, stando a RTL Info, i responsabili dei punti vendita Delhaize hanno ricevuto il primo allarme intorno alle 4 del mattino, la stessa ora indicata da Spadaro per la Sicilia. Quella notte nel Paese erano finiti fuori uso anche i congelatori di Delhaize e Carrefour in decine di negozi. La Polizia postale sta verificando proprio questo, cioè se gli episodi siciliani siano legati a quelli del resto d'Europa.
+
+ Quali centraline sono finite nel mirino
+
+ Dalle verifiche in corso sui casi europei emerge il modo in cui i criminali hanno portato gli impianti fuori temperatura: non uno spegnimento diretto, ma il passaggio in modalità sbrinamento continuo delle centraline di telecontrollo. I modelli finora associati agli attacchi sono i Danfoss AK-SM 800 e AK-SC 355 , oltre ad altre centraline a marchio Copeland e Dixell , oggi parte del gruppo Copeland (ex Emerson Climate Technologies).
+
+ La Danfoss , l'azienda danese che produce i due supervisori citati, ha fatto sapere che la quasi totalità degli impianti colpiti era costituita da generazioni ormai uscite di produzione:
+
+ l' AK-SM 800 è a fine vita dal maggio 2021;
+
+ l' AK-SC 355 è stato dismesso nel 2016.
+
+ Un Danfoss ADAP-KOOL AK-SM 720 System Manager su guida DIN: appartiene alla stessa famiglia dei supervisori AK-SM 800 e AK-SC 355 colpiti negli attacchi. 
+
+ Un pannello operatore Danfoss ADAP-KOOL della serie AK-SC/AK-SM, la console da cui gli impianti dei supermercati vengono gestiti in loco. 
+
+ Nessuna delle due riceve ancora firmware o patch di sicurezza. Non esiste quindi un aggiornamento che chiuda la finestra di vulnerabilità sfruttata; l'unica strada praticabile è sostituire la centralina o isolarla completamente da internet, nascondendola come minimo dietro una VPN con autenticazione a più fattori. I modelli di generazione corrente (AK-SM 850A per Danfoss, i successori di XWEB e dei Copeland E-Series) restano in catalogo e continuano a ricevere aggiornamenti dal costruttore.
+
+ Hai una di queste centraline? Cosa fare subito
+
+ Se gestisci un supermercato, un magazzino del freddo, una mensa o un laboratorio con uno di questi supervisori, le azioni urgenti sono cinque, in ordine di priorità:
+
+ Staccare l'interfaccia web dall'IP pubblico. Bastano pochi minuti di configurazione sul firewall per chiudere la porta esposta a internet.
+
+ Rimettere l'accesso dietro una VPN con autenticazione a più fattori, limitando ogni tecnico ai soli impianti che segue davvero.
+
+ Sostituire le credenziali di fabbrica ancora attive (molte installazioni usano a tutt'oggi admin/admin ) e disattivare gli account dei manutentori che non lavorano più sull'impianto.
+
+ Programmare la sostituzione dei supervisori fuori supporto con una generazione ancora aggiornata, chiedendo al fornitore un preventivo scritto e tempi certi.
+
+ Scaricare e conservare i registri di temperature, cicli di sbrinamento e accessi degli ultimi 90 giorni: serviranno alla Polizia postale e all'assicurazione in caso di contestazioni.
+
+ Video · YouTube Tg1 — Attacchi hacker ai frigoriferi dei supermercati, colpita anche l'Italia Guarda il video Mostra sempre i contenuti esterni Cliccando carichi il player di YouTube, che può impostare cookie. Privacy Policy · Apri su YouTube 
+
+ Il servizio del Tg1 (Rai) del 2 novembre 2026 sull'ondata di attacchi hacker ai frigoriferi dei supermercati europei e italiani. 
+
+ Dietro gli attacchi: l'ombra russo-iraniana
+
+ Nessun gruppo, alla sera del 2 novembre, aveva rivendicato gli attacchi; l'attribuzione resta formalmente aperta e i sospetti dei servizi occidentali si concentrano in via non ufficiale su Russia e Iran , i due Stati più spesso dietro le operazioni di guerra ibrida contro le infrastrutture europee.
+
+ Al Messaggero , Fabio Pietrosanti, esperto di cybersicurezza di Transparency International Italia, giudica l'ipotesi di una regia statale poco plausibile: «Gli attacchi di matrice statale colpiscono infrastrutture critiche con una portata ben più ampia; qui l'eco mediatica avrebbe aiutato gli obiettivi a difendersi, una scelta controproducente per uno Stato nemico». Più probabile, nella sua lettura, un attacco opportunistico su una classe di dispositivi fragile, con cellule di emulatori che si sono messe in scia al primo caso francese. Alessandro Orlowski, esperto di cyberwar sentito dallo stesso quotidiano, osserva però che il Cremlino protegge da anni i cybercriminali che agiscono contro bersagli europei, definiti da Vladimir Putin «patrioti», e che una parte consistente degli attacchi contro le infrastrutture dell'Unione parte da server russi senza essere formalmente ricondotta allo Stato.
+
+ Mostra il post da X Mostra sempre i contenuti esterni Il post viene caricato da X, che può impostare cookie. Privacy Policy 
+
+ Governo, Copasir e Polizia postale
+
+ Il 3 novembre alle 11.30 il sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, autorità delegata per la sicurezza della Repubblica, riunisce a Palazzo Chigi il direttore dell'ACN e i direttori delle agenzie di intelligence. Lo hanno riferito fonti di Palazzo Chigi all' ANSA ; tema dell'incontro, l'ondata di attacchi che in Europa ha preso di mira i sistemi di refrigerazione commerciale.
+
+ Si muove anche il Copasir, il comitato parlamentare che controlla l'operato dei servizi segreti. Secondo l' ANSA il comitato chiederà informazioni al governo, ascolterà il 3 novembre il direttore dell'AISI (l'agenzia di intelligence per la sicurezza interna) Bruno Valensise e il 4 novembre il direttore dell'ACN, Andrea Quacivi. La Polizia postale, intanto, sta ricostruendo la provenienza degli attacchi e la loro entità.
+
+ Fuori dall'Italia la risposta è già in corso da ore. In Belgio la procura federale ha aperto un'indagine penale, in Svezia e in Irlanda lavorano i centri nazionali per la cybersicurezza e il commissario europeo all'Agricoltura Christophe Hansen ha parlato di «un tentativo deliberato di interrompere la nostra catena di approvvigionamento alimentare». Nessun gruppo, al 2 novembre sera, ha rivendicato gli attacchi.
+
+ Cosa deve controllare chi gestisce un impianto frigo
+
+ Le azioni immediate chieste dall'ACN valgono per supermercati, magazzini, mense e per le ditte che fanno assistenza agli impianti, in Italia come in qualunque altro Paese. Sono sei, in ordine di priorità.
+
+ Censire centraline, sistemi di supervisione e servizi di teleassistenza, compresi i router cellulari installati dai manutentori.
+
+ Togliere da internet le interfacce di amministrazione e separare la rete degli impianti da quella degli uffici e degli ospiti.
+
+ Permettere l'accesso remoto solo attraverso una VPN con autenticazione a più fattori, limitando ogni tecnico ai sistemi che gli servono.
+
+ Sostituire le password di fabbrica o deboli e disattivare gli account che nessuno usa più.
+
+ Confrontare temperature, cicli di sbrinamento e soglie di allarme con i valori autorizzati, poi leggere i registri degli ultimi 90 giorni.
+
+ Aggiornare o sostituire i dispositivi che il produttore non supporta più.
+
+ Il primo punto è quello che si salta più spesso. L'ACN cita espressamente i router cellulari e le connessioni predisposte dai manutentori, collegamenti che di solito non passano dall'ufficio informatico e restano fuori da ogni inventario. Gli incidenti si segnalano al CSIRT Italia dal portale delle segnalazioni dell'ACN .
+
+ Domande frequenti (FAQ)
+
+ 1. Il cibo dei banchi frigo colpiti è finito in vendita?
+
+ Il gruppo non lo ha chiarito e non ha detto quanta merce abbia buttato. Spadaro ha parlato di alimenti deteriorati e di danni ancora da calcolare. Le regole europee sull'igiene degli alimenti (regolamento CE 852/2004) obbligano chi vende a rispettare la catena del freddo e a togliere dagli scaffali i prodotti rimasti a temperature fuori norma. Chi ha fatto la spesa il 2 novembre in uno dei negozi coinvolti e ha dubbi può chiedere direttamente al punto vendita.
+
+ 2. Un supermercato deve segnalare un attacco ai frigoriferi all'ACN?
+
+ Dipende da quale attività svolge, perché il negozio al dettaglio in genere resta fuori dall'obbligo. Per il settore alimentare la NIS2 copre le imprese della distribuzione all'ingrosso e della produzione o trasformazione industriale, come l'azienda emiliana di surgelati. Un gruppo che possiede anche magazzini e piattaforme logistiche può rientrare nel perimetro per quella parte dell'attività. Per tutti gli altri la segnalazione al CSIRT Italia resta volontaria, ma resta il canale più rapido per avere supporto tecnico.
+
+ 3. Chi c'è dietro gli attacchi ai frigoriferi dei supermercati?
+
+ Al 2 novembre sera nessuno aveva rivendicato gli attacchi e nessuna autorità aveva indicato un responsabile. Le indagini aperte sono più d'una, dalla procura di Parigi per il caso francese alla procura federale belga, fino alla Polizia postale per la Sicilia. Il commissario Hansen parla di un'azione deliberata contro le forniture alimentari, ma senza attribuirla a un gruppo o a uno Stato. Il nome Coop era già finito in una notizia di sicurezza a ottobre, quando il gruppo ransomware Qilin aveva rivendicato un attacco a Coop Italia , mai confermato dall'azienda; nessun elemento, finora, lega i due episodi.
+
+ 4. Sono state colpite altre catene di supermercati in Italia?
+
+ Fino alla sera del 2 novembre nessun'altra catena aveva comunicato attacchi. Coop ha escluso problemi nei negozi gestiti direttamente e il Gruppo Arena ha detto di non essere coinvolto. Open ha raccontato anche un guasto ai frigoriferi in un altro supermercato di Palermo, di un'insegna diversa, che però nessuno ha collegato all'attacco. I due casi segnalati all'ACN riguardano una mensa aziendale e un produttore di surgelati, non negozi.
+
+ 5. Un frigorifero di casa connesso a internet corre lo stesso rischio?
+
+ No, gli attacchi hanno colpito centraline professionali dei negozi, non gli elettrodomestici domestici. Per un frigo smart di casa valgono le regole di base, cioè una password diversa da quella di fabbrica, gli aggiornamenti installati e se possibile una rete Wi-Fi separata per i dispositivi. Dal settembre 2026 il Cyber Resilience Act obbliga inoltre chi produce dispositivi connessi a segnalare le vulnerabilità sfruttate.
+
+ Venti giorni dopo il bollettino
+
+ Il bollettino dell'ACN porta la data del 13 ottobre, il giorno dopo l'attacco francese; i banchi frigo siciliani hanno ceduto venti giorni più tardi. Resta da capire se gli impianti di Palermo e Catania fossero tra quelli che il documento chiedeva di mettere al riparo. Lo diranno le verifiche della Polizia postale. La serie, intanto, si allunga. Prima i supermercati francesi, poi i congelatori delle basi militari americane , ora mezza Europa e la Sicilia, in un 2026 che il rapporto di metà anno del Clusit aveva già indicato come anno record per gli incidenti informatici.
+
+ Il caso siciliano è, per ora, un attacco dichiarato dall'azienda e non ancora confermato dalle autorità. Le verifiche della Polizia postale e il vertice di Palazzo Chigi del 3 novembre diranno se l'Italia è l'ottavo Paese colpito dall'ondata o un episodio a parte. 
+
+ Tappa 5 di 7 Percorso guidato nella saga di frigoriferi e congelatori hackerati 
+
+ ← Tappa precedente Attacco hacker ai congelatori dei supermercati in sette Paesi europei Tappa successiva → Attacco hacker ai supermercati, il governo esclude aiuti alle imprese 
+ Tutte le tappe del percorso Attacco hacker ai frigoriferi di centinaia di supermercati francesi 
+ Congelatori in tilt nelle basi USA, il Pentagono sospetta un attacco hacker 
+ Attacco hacker ai congelatori di Delhaize e Carrefour in Belgio 
+ Attacco hacker ai congelatori dei supermercati in sette Paesi europei 
+ Attacco hacker ai frigoriferi delle Coop di Palermo e Catania (sei qui) 
+ Attacco hacker ai supermercati, il governo esclude aiuti alle imprese 
+ Attacco hacker ai congelatori del plasma in Francia, impostati a 110 gradi 
+
+ × 
+ ▸ pasqualepillitteri.it 
+ Rettifiche e repliche
+
+ Hai notato un errore, un refuso o un'informazione da aggiornare? Segnalacelo. Anche le persone e le aziende citate negli articoli possono chiedere una rettifica o inviare una replica. Valutiamo ogni richiesta entro 48 ore lavorative e, se è fondata, pubblichiamo la correzione o la replica in calce all'articolo, come prevede la nostra policy delle correzioni .
+
+ Articolo 
+
+ Tipo di richiesta * 
+
+ Refuso Errore di fatto Richiesta di rettifica o replica 
+
+ Nome o azienda 
+
+ Email * 
+
+ Descrizione (cosa va corretto e perché) * 
+
+ Ho letto e accetto la Privacy Policy * 
+
+ Invia Richiesta 
+
+ ★ 
+
+ pasqualepillitteri.it 
+ Ti è piaciuto l’articolo?
+
+ Valuta questo articolo 
+
+ ★ 
+ ★ 
+ ★ 
+ ★ 
+ ★ 
+
+ Grazie per il tuo voto! 
+
+ Offrimi un caffè 
+
+ Condividi 
+
+ Discussione 
+
+ Rispondi 
+
+ Seguici su Google 
+
+ Preferita 
+
+ News 
+
+ Newsletter GRATIS 
+ 1 email a settimana, sabato mattina 
+
+ Iscriviti 
+
+ Tech Gear Gli strumenti per la sicurezza Bacheca → 
+
+ Consulenza 
+
+ Preventivo 
+
+ Rettifiche Errori, refusi o diritto di replica Segnala 
+
+ Apri la discussione su X 
+
+ Carica la discussione da X Mostra sempre i contenuti esterni Il post viene caricato da X, che può impostare cookie. Privacy Policy 
+
+ Articoli Correlati
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ Attacco hacker ai supermercati, il governo esclude aiuti alle imprese
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ Attacco hacker ai frigoriferi di centinaia di supermercati francesi
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ Zangrillo vuole hacker nella PA ma il tetto da 311mila euro li blocca
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ Attacco hacker alla Camera, nel mirino anche la mail di Meloni
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ Dichiarazione NIS 2027 semplificata, arriva la determina ACN 314287
+
+ Cybersecurity 
+
+ #cybersecurity 
+ #sicurezza informatica 
+
+ PHP2Shell, il CSIRT Italia lancia l'allerta sull'81,9% dei servizi PHP italiani
+
+ GRATIS 
+
+ ✉ 
+
+ pasqualepillitteri.it 
+ Resta aggiornato
+
+ 🌐 
+ 2.6k 
+ lettori da tutto il mondo, ogni sabato 
+
+ Gratis. Solo un riassunto il sabato mattina, con il caffè.
+
+ La tua email... 
+
+ Iscriviti 
+
+ Solo cose utili, zero spam
+
+ 1 email a settimana, sabato mattina
+
+ Disiscrivi quando vuoi
+
+ Iscrivendoti accetti il trattamento dati. Annulli quando vuoi. Aperture e clic delle email sono misurati solo in forma aggregata e anonima. Privacy Policy · Termini 
+
+ × 
+ ▸ pasqualepillitteri.it 
+ Richiedi un preventivo
+
+ Nome e Cognome * 
+
+ Azienda 
+
+ Posizione in azienda 
+
+ Email * 
+
+ Cellulare * 
+
+ A quale servizio sei interessato? * 
+
+ Seleziona un servizio... 
+
+ Diagnosi digitale e Innovation Manager per bandi 
+ Tecnologie abilitanti S3 e DNSH 
+ Perizia giurata e congruità della spesa 
+ Perizia informatica forense (CTU/CTP) 
+
+ Sviluppo software su misura 
+ Gestionale personalizzato 
+ Siti web, portali e web app 
+ App mobile 
+ E-commerce 
+ Soluzioni AI (automazione, agenti, chatbot) 
+
+ Migrazione e refactoring software legacy 
+ Migrazione da VMware a Proxmox 
+ Reti e infrastrutture 
+
+ Cybersecurity (VA, pentest, incident response) 
+ Compliance: NIS2, ISO 27001, ISO 42001, DORA 
+ CISO as a service 
+ DPO e GDPR 
+
+ Consulenza informatica generale 
+ Altro 
+
+ Note 
+
+ Allega un file (opzionale) 
+
+ PDF, DOC, DOCX, max 5MB
+
+ Ho letto e accetto la Privacy Policy * 
+
+ Invia Richiesta 
+
+ Cerca 
+
+ Cybersecurity 
+ Top in categoria
+
+ 1 
+ Codice di Sicurezza Cambiato su WhatsApp: Cosa Significa 
+
+ 2 
+ OnlyFans Mega Leak: 340 Milioni di Record in Vendita sul Dark Web, ma la Piattaforma Non è Stata Violata 
+
+ 3 
+ Chameleon Ultra: Cos'è, Come si Usa e Dove si Compra (Guida 2026) 
+
+ 4 
+ La Cassazione dichiara falsa la CIE senza microchip, denunce in aumento in Italia 
+
+ 5 
+ Relapse, il bug che sblocca ogni PlayStation 5 fino al firmware 13.60 
+
+ TOOLS 
+ Strumenti veloci
+
+ ⚙ Tutti gli Strumenti 
+
+ 📰 Vedi tutti gli articoli 
+
+ GRATIS 
+ × 
+ ✉ 
+ Resta aggiornato
+
+ Gratis. Solo un riassunto il sabato mattina, con il caffè.
+
+ 🌐 
+ 2.6k 
+ lettori da tutto il mondo, ogni sabato 
+
+ Solo cose utili, zero spam
+
+ 1 email a settimana, sabato mattina
+
+ Disiscrivi quando vuoi
+
+ Iscriviti 
+
+ Iscrivendoti accetti il trattamento dati. Annulli quando vuoi. Aperture e clic delle email sono misurati solo in forma aggregata e anonima. Privacy Policy · Termini 
+
+ AdSense -> house ad.
+ Gli spazi 1 e 2 sono quelli a listino su /banners: finche' sono invenduti
+ mostrano AdSense con sotto una striscia che rimanda al listino.
+ A queste si aggiungono due posizioni fuori dal ciclo in-article, una sola
+ volta per pagina (mai negli articoli iniettati dall'infinite scroll):
+ lo slot "prima schermata" (dopo la meta card, prima del primo paragrafo,
+ non lazy) e lo sticky footer (barra ancorata in fondo, chiudibile,
+ collassa se l'annuncio non riempie).
+ Configurazione condivisa con la sidebar: _inc.ads-config.php.
+ Il CSS degli slot non sta piu' qui ma prima di .section-content (vedi il
+ commento "CSS di layout PRIMA del markup" in cima al file). -->
+
+ for non-blocking render (LCP optimization 2026-04-27).
+ Defer added 2026-05-22: execute after HTML parsing, before DOMContentLoaded.
+ Order preserved (jQuery -> modernizr -> bootstrap -> bundle). -->
