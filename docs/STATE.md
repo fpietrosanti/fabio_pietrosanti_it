@@ -63,6 +63,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-06 (01:07–02:30): caricato **1 file, ~0,15 GiB** (`2022/4cdfae9d5870/media.mp3`, chiuso
+  alle 01:15; link 124 → 125 con `--links-only`). Poi 0 B/s dalle 01:22: dopo oltre un'ora di stallo ho fermato
+  il job (regola "un'ora senza avanzare → stop"). Mancano **93 file**, ~41,3 GiB (il totale >10 MB è 217 file,
+  58 GB). Spazio libero su Drive: 52,95 GiB (usati 13,43 GiB). `client_id` ancora condiviso in rclone.conf →
+  stesso blocco di quota: **serve il client_id proprio di Fabio** (problema aperto qui sopra). Copie leggere:
+  1229 voci, 471 MB in `copies/`. Controlli lingue e LinkedIn OK, push fatto.
 - Notte 2026-11-05 (01:07–01:38): caricati **0 file, 0 GiB** (link fermi a 124; mancano **94 file**, ~41,4 GiB).
   Spazio libero su Drive: 53,0 GiB (usati 13,38 GiB). rclone fermo a 102,7 MiB / 0 B/s dall'avvio dei trasferimenti;
   il watchdog lo ha terminato dopo 30 min senza file chiusi. `client_id` ancora vuoto in rclone.conf → stesso
