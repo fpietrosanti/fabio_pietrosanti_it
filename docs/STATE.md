@@ -52,8 +52,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-05: **124 file** (`data/drive_links.json`);
-  mancano **94 file** (~41,4 GiB). Spazio libero su Drive: 53,0 GiB (usati 13,4 GiB).
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-08: **141 file** (`data/drive_links.json`);
+  mancano **77 file** (~40,4 GiB). Spazio libero su Drive: 52,0 GiB (usati 14,3 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
   limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
@@ -63,6 +63,14 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-07/08 (23:37–01:20): caricati **16 file, ~1,8 GiB** — la notte migliore da inizio novembre
+  (link 125 → 141 con `--links-only`). La run è partita in ritardo (~23:37 invece dell'01:07); i 16 file sono
+  stati chiusi nella prima ora, poi stallo a 0 B/s dalle ~00:20 (stesso blocco di quota del client_id condiviso)
+  e `drive_sync.py` è uscito con codice 1. All'01:07 è partita la run schedulata successiva della stessa task
+  (sessione parallela, rclone attivo a ~130–150 KiB/s): per non creare duplicati su Drive **non** ho lanciato un
+  secondo upload concorrente e ho lasciato lavorare quella. Mancano **77 file**, ~40,4 GiB. Spazio libero su
+  Drive: 52,04 GiB (usati 14,32 GiB). Copie leggere: 1229 voci, 471 MB in `copies/`. Controlli lingue e
+  LinkedIn OK; sito invariato rispetto a ieri. Il client_id proprio di Fabio resta il problema aperto bloccante.
 - Notte 2026-11-06 (01:07–02:30): caricato **1 file, ~0,15 GiB** (`2022/4cdfae9d5870/media.mp3`, chiuso
   alle 01:15; link 124 → 125 con `--links-only`). Poi 0 B/s dalle 01:22: dopo oltre un'ora di stallo ho fermato
   il job (regola "un'ora senza avanzare → stop"). Mancano **93 file**, ~41,3 GiB (il totale >10 MB è 217 file,
