@@ -52,7 +52,7 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-08: **141 file** (`data/drive_links.json`);
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-08 02:23: **141 file** (`data/drive_links.json`);
   mancano **77 file** (~40,4 GiB). Spazio libero su Drive: 52,0 GiB (usati 14,3 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
@@ -63,6 +63,14 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-08 (01:07–02:23, run `archivio-upload-drive-2`): caricati **0 file, 0 GiB** (link fermi a 141).
+  Trovato ancora vivo il processo della run precedente (python+rclone avviati il 07/11 alle 01:07, fermi a
+  1,832 GiB / 0 B/s dalle 00:17) in concorrenza con la run nuova: terminato (con il suo `lsjson` orfano). La run
+  nuova ha inviato ~144 MiB a ~140 KiB/s poi 0 B/s dalle 01:22 senza chiudere alcun file (stesso blocco quota
+  del client_id condiviso); rete ok, nessun errore di quota Drive esplicito nel log. Fermata alle 02:23 dopo
+  un'ora senza avanzamento. Mancano **77 file**, ~40,5 GiB. Spazio libero su Drive: 52,04 GiB (usati 14,32 GiB).
+  Copie leggere: 1229 voci, 471 MB. Controlli lingue e LinkedIn OK. Nota: `drive_sync.py` può lasciare vivo
+  rclone dopo l'uscita della sessione → la run successiva deve controllare e chiudere processi rclone residui.
 - Notte 2026-11-07/08 (23:37–01:20): caricati **16 file, ~1,8 GiB** — la notte migliore da inizio novembre
   (link 125 → 141 con `--links-only`). La run è partita in ritardo (~23:37 invece dell'01:07); i 16 file sono
   stati chiusi nella prima ora, poi stallo a 0 B/s dalle ~00:20 (stesso blocco di quota del client_id condiviso)
