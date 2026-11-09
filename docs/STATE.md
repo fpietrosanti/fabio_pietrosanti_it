@@ -52,8 +52,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-08 02:23: **141 file** (`data/drive_links.json`);
-  mancano **77 file** (~40,4 GiB). Spazio libero su Drive: 52,0 GiB (usati 14,3 GiB).
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-09 02:45: **144 file** (`data/drive_links.json`);
+  mancano **74 file** (~40,2 GiB). Spazio libero su Drive: 51,81 GiB (usati 14,55 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
   limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
@@ -63,6 +63,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-09 (01:07–02:45, run `archivio-upload-drive-2`): caricati **3 file, ~0,23 GiB** (75+78+78 MB;
+  link 141 → 144 con `--links-only`). Nessun processo residuo all'avvio. File chiusi alle 01:19, 01:29, 01:39,
+  poi 0 B/s fermo a 381 MiB dalle ~01:43 (stesso blocco quota del client_id condiviso, ancora in uso: rclone
+  stampa la NOTICE di dismissione). Fermato alle 02:45 dopo un'ora senza avanzamento (python+rclone terminati).
+  Mancano **74 file**. Drive libero prima della run: 52,04 GiB. Copie leggere 1229 voci, 471 MB; controlli OK.
+  Il problema bloccante resta il client_id OAuth proprio (serve Fabio).
 - Notte 2026-11-08 (01:07–02:23, run `archivio-upload-drive-2`): caricati **0 file, 0 GiB** (link fermi a 141).
   Trovato ancora vivo il processo della run precedente (python+rclone avviati il 07/11 alle 01:07, fermi a
   1,832 GiB / 0 B/s dalle 00:17) in concorrenza con la run nuova: terminato (con il suo `lsjson` orfano). La run
