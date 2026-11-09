@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1809**; dopo deduplica: **1319**
+- Risultati grezzi dalle ricerche: **1810**; dopo deduplica: **1320**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1264**
-- Verificati aprendo la pagina: **1248**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1265**
+- Verificati aprendo la pagina: **1249**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 290, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 59, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 291, tweet 132, Talk 108, Video 96, Citato 81, Post sul blog infosecurity.ch 72, article 59, Altro 37, Progetto 34, Ricerca 31, Radio 28, Comunicato 28, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 11, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, document 4, panel 4, workshop 4, consultazione 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, article (stampa, rassegna) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -36,7 +36,7 @@ Per tipo (nuovi): Menzionato 290, tweet 132, Talk 108, Video 96, Citato 81, Post
 | 2015 | 0 | 51 | 51 |
 | 2016 | 0 | 35 | 35 |
 | 2017 | 0 | 93 | 93 |
-| 2018 | 0 | 92 | 92 |
+| 2018 | 0 | 93 | 93 |
 | 2019 | 0 | 97 | 97 |
 | 2020 | 0 | 193 | 193 |
 | 2021 | 0 | 97 | 97 |
@@ -1214,7 +1214,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 92 voci, 92 nuove
+## 2018 — 93 voci, 93 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1244,6 +1244,8 @@ Anni senza nessun risultato: nessuno
   Lancio di WhistleblowingPA, 01/10/2018. Verificato a mano 2026-10-13 sulla pagina live (il verificatore non trovava il nome per la codifica ISO-8859-1): «…a meno che il whistleblower stesso non decida di rivelarlo” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes».
 - 🆕 **2018-10-01** · Citato · iacchite.blog — [Whistleblowing: nasce la piattaforma per segnalare la corruzione negli enti pubblici - iacchite](https://www.iacchite.blog/whistleblowing-nasce-la-piattaforma-per-segnalare-la-corruzione-negli-enti-pubblici/)  
   verified via live; context: …ato tecnologico: non sarà possibile per nessuno risalire all’identità di chi segnala a meno che il whistleblower stesso non decida di rivelarlo ” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes . 3,2 milion…
+- 🆕 **2018-10-01** · Menzionato · lameziaterme.it — [WhistleblowingPA. Nasce la piattaforma per segnalare corruzione nella PA](https://www.lameziaterme.it/whistleblowingpa-piattaforma-corruzione-pa/)  
+  verified via wayback; context: …ato tecnologico: non sarà possibile per nessuno risalire all’identità di chi segnala a meno che il whistleblower stesso non decida di rivelarlo ” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes . 3,2 milion…
 - 🆕 **2018-10-01** · Citato · AgenSIR (Servizio Informazione Religiosa) — [Whistleblowing: Transparency International Italia e il Centro Hermes, al via la piattaforma per segnalare corruzione nella PA](https://www.agensir.it/quotidiano/2018/10/1/whistleblowing-transparency-international-italia-e-il-centro-hermes-al-via-la-piattaforma-per-segnalare-corruzione-nella-pa/)  
   Wire item on the WhistleblowingPA launch: «non sarà possibile per nessuno risalire all'identità di chi segnala a meno che il whistleblower stesso non decida di rivelarlo», ha dichiarato Fabio Pietrosanti, presidente del Centro Hermes. The live URL now returns 'Pagina non trovata'. Verified on Wayback capture 20181008201942 (fetched from the server).
 - 🆕 **2018-10-01** · Comunicato · Hermes Center for Transparency and Digital Human Rights — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasce WhistleblowingPA](https://hermescenter.org/whistleblowingpa/)  

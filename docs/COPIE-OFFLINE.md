@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1319**; già processate: **1497**; ancora da processare: **0**
-- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1129** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1237**
+- Voci in `data/media.json`: **1320**; già processate: **1498**; ancora da processare: **0**
+- Licenza delle copie ottenute: **252** materiale proprio (ripubblicabile), **1130** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1238**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -44,7 +44,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 43 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 30 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 90 | 5 | 3 | 0 | 0 | 0 | 0 |
-| 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
+| 2018 | 80 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 104 | 10 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 181 | 14 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 11 | 0 | 0 | 0 | 0 | 0 |
@@ -1089,6 +1089,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · International Journalism Festival (Perug — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti) · copia: `2018/ce6d25a031d3` (Web Archive 20190917) · licenza: terzi
 - **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi
 - **2018** · Key4biz (PDF ufficiale CyberChallenge.IT — [Agenda premiazione finale CyberChallenge.IT 2018 (28 giugno 2018)](https://www.key4biz.it/wp-content/uploads/2018/06/Agenda-Premiazione-finale_Cyberchallenge_28giugno18r.pdf) · copia: `2018/ad3017121a61` (Web Archive 20221225) · licenza: terzi
+- **2018** · lameziaterme.it — [WhistleblowingPA. Nasce la piattaforma per segnalare corruzione nella PA](https://www.lameziaterme.it/whistleblowingpa-piattaforma-corruzione-pa/) · copia: `2018/af9808699036` (live) · licenza: terzi
 - **2018** · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/) · copia: `2018/16e30881fc4b` (Web Archive 20190718) · licenza: terzi
 - **2018** · LinkedIn (Alessia Valentini) — [Post LinkedIn di Alessia Valentini sul report Cyberchallenge 2018 (StartupItalia)](https://www.linkedin.com/posts/alessiavalentini_cyberchallenge-2018-la-nuova-generazione-activity-6422822442670055424-Z3cz) · copia: `2018/cbb275f1a332` (live) · licenza: terzi
 - **2018** · LinkedIn (Giovanni Schiavon, ricondivisi — [Ricondivisione LinkedIn del post di Alessia Valentini su Cyberchallenge 2018](https://www.linkedin.com/posts/giovanni-schiavon-3a2876161_cyberchallenge-2018-la-nuova-generazione-activity-6423252174477750272-6MN2) · copia: `2018/703b5dc19aba` (live) · licenza: terzi
