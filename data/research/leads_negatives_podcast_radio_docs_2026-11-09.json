@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2019-12-11",
+    "year": 2019,
+    "type": "radio",
+    "outlet": "2SER 107.3 (Sydney community radio) - Think: Digital Futures, ep. 117",
+    "title": "The Digital Whistleblower",
+    "url": "https://2ser.com/?p=104113",
+    "language": "en",
+    "role": "interviewed",
+    "note": "ALT URL of an already-known episode (media.json has the Apple Podcasts URL id1101575564?i=1000459270397). This is the broadcaster's own page. The page was not opened: curl got HTTP 429 'Vercel Security Checkpoint' (a bot check, not bypassed) and Wayback was offline on 2026-11-09. The web-search snippet for this URL reads 'Fabio Pietrosanti - President of the Hermes Centre for Transparency and Digital Human Rights'. The same episode was verified in the show's RSS feed https://feeds.megaphone.fm/EFRMF5840482542 (itunes:author '2SER 107.3', pubDate Wed, 11 Dec 2019; description 'Featuring: Fabio Pietrosanti - President of the Hermes Centre ... Peter Fleming - Professor ... UTS'). Add only as an alternate link on the existing entry.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": "2026-03-31",
+    "year": 2026,
+    "type": "podcast",
+    "outlet": "What I survived (podcast) - guest Christopher Emms",
+    "title": "North Korean Crypto scam? P2",
+    "url": "https://www.audioscrape.com/podcast/what-i-survived",
+    "language": "en",
+    "role": "mentioned",
+    "note": "LEAD ONLY, does NOT meet the inclusion rule. Found via the Audioscrape transcript-search API (POST /api/internal/search). Speaker 'Christopher Ems' at about 459s says 'Virgil, myself, and another, an Italian guy called Fabio, who was on the trip with us...' about the 2019 Pyongyang blockchain conference. No 'Pietrosanti' or 'naif' anywhere, so by rule it is not counted. It is also outside 2011-2025. The episode page (slug north-korean-crypto-scam-p2-66740) is behind a Cloudflare challenge and was not opened. The URL given is the show page, which was opened (HTTP 200).",
+    "verified": false,
+    "known": false
+  }
+]

@@ -133,6 +133,31 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
     anti-bot, nessuna capture: da aprire a mano); liste IGF 2013 Bali/2015 João Pessoa vuote nelle capture, rapporto IGF
     Italia 2015 (Web Archive offline); ~140 puntate BBC Digital Planet/Click pagina per pagina; NPO Radio 1/vpro.nl/ABC RN
     (Wayback 503/504); BNR ricerca interna (403); ricerca interna RTVE (solo JavaScript → Chrome); podcast Braincast/Tecnocracia.
+  **Passata 2026-11-09 (3 agenti: `pass4_radio_wayback3`, `pass4_docs_intl3`, `pass4_podcast_directories`) → 0 voci nuove.**
+  Il dettaglio dei negativi è in `data/research/leads_negatives_podcast_radio_docs_2026-11-09.json`.
+  - **Chiusi negativi (testo aperto)**:
+    - BBC World Service Digital Planet/Click: **tutte** le 273 puntate nov 2010–dic 2015, lette live con la sinossi lunga.
+    - BBC News Click TV: 400 puntate 2010–2015 (sinossi brevi, negativo più debole).
+    - VPRO Argos 09/09/2013 su Publeaks.
+    - UNESCO, Posetti 2017 *Protecting Journalism Sources* (195 pp.).
+    - Contributi al Relatore speciale ONU Kaye 2015–2019 e rapporto A/70/361.
+    - OSCE: Belgrado 2016, Balcani 2017, Ucraina; restano solo i 2 documenti del 2016 già noti.
+    - IGF: lista Bali 2013, WS191 2018, IGF Italia 2015 (programmi e rapporti ISOC).
+    - Agenzie UE: EESC, CdR, EDPB, FRA, Mediatore, Europol.
+    - Podcast: Podchaser (33 risultati, tutti noti o italiani), trascrizioni Audioscrape, Spreaker, Audioboom, Deezer.
+    - Feed di Segurança Legal (441 puntate), Braincast (667), Tecnocracia, R3D, Karisma, Fundación Hermes, EFF, Technology Pill di PI.
+    - Security Now: sommari 2011–2025 e trascrizioni 742–745.
+  - **Pista senza nome (domanda a Fabio)**: podcast «What I survived», puntata «North Korean Crypto scam? P2» del 31/03/2026.
+    Christopher Emms parla di «an Italian guy called Fabio» presente al viaggio a Pyongyang del 2019. Il testo non dice
+    «Pietrosanti»: per regola non conta.
+  - **Link alternativo** 2SER «The Digital Whistleblower» 11/12/2019 (`2ser.com/?p=104113`): stessa puntata già nota.
+    La pagina dà 429 (Vercel), quindi non è stata aggiunta.
+  - **Resta solo per via tecnica (proposta: chiudere il tema)**:
+    - NPO Radio 1 item 85916 «Voor of tegen Publeaks» (2013): solo un redirect 301 nel Web Archive, live 404.
+    - CDX 503/504 su vpro.nl, bnr.nl, ABC RN, deutschlandfunk.de. Le query in sospeso sono in `scratchpad/wb/q2.txt` della sessione.
+    - Mai lanciati: FM4, heise c't uplink, DLF Computer und Kommunikation.
+    - Listen Notes (login), PodcastIndex (proof-of-work), Player.fm/Podbean (403).
+    - File IGF 139/6685: Cloudflare, nessuna capture; probabile documento MAG di inizio 2019.
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
   PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,

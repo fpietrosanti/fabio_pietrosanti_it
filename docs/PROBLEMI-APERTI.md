@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-11-05** (1318 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-11-09** (1319 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -183,6 +183,22 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-tricies. 2026-11-09
+- **Nessuna voce nuova.** Terza passata di fila sul tema radio/podcast esteri + documenti UE/ONU: BBC Digital Planet
+  letto per intero (273 puntate), UNESCO 2017, ONU Kaye, OSCE, IGF Italia 2015, directory podcast. Tutto negativo.
+- **Ritentati** (`--retry-failed`): invariati i 7 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo 2010, Class Life
+  2010, PrivateWave EN/ES 2010, deck Foggia 2019) e i 7 🟡. Oggi il Web Archive dava 503/504 di continuo, quindi niente
+  nuove capture.
+- **Problemi tecnici (non aggirati)**: Web Archive CDX 503/504; intgovforum.org e coe.int Cloudflare; 2ser.com Vercel
+  429; Listen Notes login; PodcastIndex proof-of-work; Audioscrape Cloudflare; UNESCO «Session Verification».
+- **Domande per te:**
+  (a) **Chiudo il tema «podcast e radio estere + documenti UE/ONU»?** Sono 4 passate, nelle ultime 2 zero voci. Se sì,
+  quale tema apro? Se non indichi nulla, alla prossima run lo chiudo e passo alla voce successiva della coda.
+  (b) Nel podcast «What I survived» (31/03/2026, Christopher Emms) si parla di «an Italian guy called Fabio» al viaggio a
+  Pyongyang 2019. Sei tu? Se sì, la aggiungo come menzione.
+  (c) Resta la domanda sul file IGF `filedepot_download/139/6685`, probabilmente un documento MAG di inizio 2019. Per
+  aprirlo serve il tuo browser.
 
 ### B0-novevicies. 2026-11-05
 - Voce nuova: InnovaciónDigital360 30/08/2022 (Kaspersky, ES) → **copia ottenuta** dal Web Archive, nome verificato.
