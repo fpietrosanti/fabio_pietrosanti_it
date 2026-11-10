@@ -52,8 +52,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-09 02:45: **144 file** (`data/drive_links.json`);
-  mancano **74 file** (~40,2 GiB). Spazio libero su Drive: 51,81 GiB (usati 14,55 GiB).
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-10 02:10: **145 file** (`data/drive_links.json`);
+  mancano **73 file** (~40,2 GiB). Spazio libero su Drive: 51,74 GiB (usati 14,62 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
   limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
@@ -63,6 +63,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-10 (01:07–02:10, run `archivio-upload-drive-2`): caricato **1 file, ~0,07 GiB**
+  (`2022/a1eaa622069b/media.mp4`, 73 MB, chiuso alle 01:17; link 144 → 145 con `--links-only`). Nessun processo
+  residuo all'avvio. Poi 0 B/s fermo a 233 MiB dalle 01:32 (stesso blocco quota del client_id condiviso). Il
+  `timeout 3500` ha chiuso `drive_sync.py` alle ~02:05 lasciando rclone orfano, terminato a mano alle 02:06.
+  Mancano **73 file**. Copie leggere 1230 voci, 471 MB; controlli lingue e LinkedIn OK.
+  Bloccante invariato: client_id OAuth proprio (serve Fabio).
 - Notte 2026-11-09 (01:07–02:45, run `archivio-upload-drive-2`): caricati **3 file, ~0,23 GiB** (75+78+78 MB;
   link 141 → 144 con `--links-only`). Nessun processo residuo all'avvio. File chiusi alle 01:19, 01:29, 01:39,
   poi 0 B/s fermo a 381 MiB dalle ~01:43 (stesso blocco quota del client_id condiviso, ancora in uso: rclone
