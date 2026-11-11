@@ -52,8 +52,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-10 02:10: **145 file** (`data/drive_links.json`);
-  mancano **73 file** (~40,2 GiB). Spazio libero su Drive: 51,74 GiB (usati 14,62 GiB).
+- Da caricare in tutto: **217 file** (~58 GB). Su Drive al 2026-11-11 02:06: **149 file** (`data/drive_links.json`);
+  mancano **69 file** (~39,8 GiB). Spazio libero su Drive: 51,41 GiB (usati 14,95 GiB).
 - **PROBLEMA APERTO (bloccante), scoperto il 2026-11-03: la quota del client_id condiviso di rclone.** Con `-vv` si
   vede che l'invio dell'**ultimo chunk** di ogni file riceve `403 Quota exceeded for quota metric 'Queries' and
   limit 'Requests per minute'` sul progetto `202264815644`, cioè il client_id condiviso di rclone (in dismissione
@@ -63,6 +63,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Notte 2026-11-11 (01:07–02:06, run `archivio-upload-drive-2`): caricati **4 file, ~0,33 GiB** (81+81+86+86 MB,
+  chiusi alle 01:23, 01:36, 01:49, 02:02; link 145 → 149 con `--links-only`). Stanotte **nessuno stallo**: un file
+  ogni ~13 minuti a ~115–160 KiB/s (uplink lento, ETA rclone ~4 giorni per il resto). Il `timeout 3500` ha chiuso
+  `drive_sync.py` lasciando rclone orfano ancora attivo: terminato a mano alle 02:06 per non sovrapporsi alla run
+  successiva. Mancano **69 file**. Copie leggere 1230 voci, 471 MB; controlli lingue e LinkedIn OK.
+  rclone stampa ancora la NOTICE di dismissione del client_id condiviso: il client_id OAuth proprio resta da fare (serve Fabio).
 - Notte 2026-11-10 (01:07–02:10, run `archivio-upload-drive-2`): caricato **1 file, ~0,07 GiB**
   (`2022/a1eaa622069b/media.mp4`, 73 MB, chiuso alle 01:17; link 144 → 145 con `--links-only`). Nessun processo
   residuo all'avvio. Poi 0 B/s fermo a 233 MiB dalle 01:32 (stesso blocco quota del client_id condiviso). Il
