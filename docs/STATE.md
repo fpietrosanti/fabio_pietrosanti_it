@@ -63,6 +63,13 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote con
   `rclone config update gdrive client_id <id> client_secret <secret>` + `rclone config reconnect gdrive:`.
   Serve Fabio (login Google e consenso). Fino ad allora l'upload notturno chiude pochissimi file.
+- Run 2026-11-17 (16:16–18:24, run `archivio-upload-drive-2` partita in ritardo): caricati **0 file, 0 GiB**
+  (link fermi a 149). Giro 1 (16:16–17:16): dalle ~17:06 il DNS locale (`desk.desk`, 10.200.201.1) non risolveva
+  `www.googleapis.com` ("no such host", poi "Query refused" anche a nslookup), con tutti i file in errore. Giro 2
+  (17:24–18:24): rete di nuovo raggiungibile via curl, ma rclone è rimasto fermo a 0 B/s (xfr#0/69) per un'ora
+  senza errori (compatibile con il problema di quota del client_id condiviso) → fermato per mancato avanzamento,
+  rclone orfano terminato a mano. Mancano **69 file** (~39,8 GiB). Drive libero 51,41 GiB (usati 14,95 GiB).
+  Copie leggere: 1230 voci, 471 MB. Ricostruzione en/zh e controlli lingue e LinkedIn OK, nessuna modifica al sito.
 - Notte 2026-11-11 (01:07–02:06, run `archivio-upload-drive-2`): caricati **4 file, ~0,33 GiB** (81+81+86+86 MB,
   chiusi alle 01:23, 01:36, 01:49, 02:02; link 145 → 149 con `--links-only`). Stanotte **nessuno stallo**: un file
   ogni ~13 minuti a ~115–160 KiB/s (uplink lento, ETA rclone ~4 giorni per il resto). Il `timeout 3500` ha chiuso
